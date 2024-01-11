@@ -14,17 +14,14 @@ class Gofood:
 
         self.__file = File()
         self.__faker = FakeUserAgent(browsers='chrome', os='windows')
-
         self.__sessions = requests.Session()
 
         self.DOMAIN = 'gofood.co.id'
         self.MAIN_URL = 'https://gofood.co.id'
-        self.LANGUAGE = 'id'
 
         self.API_CITY = 'https://gofood.co.id/_next/data/8.10.0/id/cities.json' # 89
         self.RESTAURANT = 'https://gofood.co.id/_next/data/8.10.0/id/jakarta/restaurants.json' # 94
-        self.NEAR_ME_API = 'https://gofood.co.id/_next/data/8.10.0/id/jakarta/bekasi-restaurants/near_me.json'
-
+        self.NEAR_ME_API = 'https://gofood.co.id/_next/data/8.10.0/id/jakarta/bekasi-restaurants/near_me.json' 
         self.FOODS_API = 'https://gofood.co.id/api/outlets'
 
         self.HEADER = {
@@ -32,7 +29,6 @@ class Gofood:
             "Content-Type": "application/json"
         }
         ...
-
 
     def __buld_payload(self, page: str, latitude: float, longitude: float) -> dict:
         return {
@@ -47,23 +43,21 @@ class Gofood:
             "pageToken": str(page),
             "timezone": "Asia/Jakarta"
         }
+    ...
 
     def __create_card(self, city: str, pieces: dict) -> str:
         return f'{self.MAIN_URL}/{city}/restaurant/{vname(pieces["core"]["displayName"].lower())}-{pieces["core"]["key"].split("/")[-1]}'
+    ...
 
     def __extract_restaurant(self, city: str, restaurant: str) -> None:
-        ic(f'https://gofood.co.id/_next/data/8.10.0/id{restaurant}/near_me.json?service_area={city}&locality={restaurant.split("/")[-1]}&category=near_me')
-
         response = self.__sessions.get(url=f'https://gofood.co.id/_next/data/8.10.0/id{restaurant}/near_me.json?service_area={city}&locality={restaurant.split("/")[-1]}&category=near_me', headers=self.HEADER)
-        ic(response)
 
-        cards = [self.MAIN_URL+card["path"] for card in response.json()["pageProps"]["outlets"]]
 
         latitude = response.json()["pageProps"]["userLocation"]["chosenLocation"]["latitude"]
         longitude = response.json()["pageProps"]["userLocation"]["chosenLocation"]["longitude"]
 
-        ic(cards)
         page_token = 1
+        cards = [self.MAIN_URL+card["path"] for card in response.json()["pageProps"]["outlets"]]
         while True:
 
             ic(self.__buld_payload(page=page_token, 
@@ -76,15 +70,12 @@ class Gofood:
                                                               latitude=latitude,
                                                               longitude=longitude
                                                               ))
-            
-            ic(response)
+
             card = [self.__create_card(city=city, pieces=card) for card in response.json()["outlets"]]
-            ic(card)
-            cards.append()
+            cards.append(card)
             try:
                 page_token = response.json()["nextPageToken"]
-                ic(cards)
-                sleep(10)
+                sleep(3)
             except Exception:
                 break
         ...
@@ -107,11 +98,6 @@ class Gofood:
 
             break
         ...
-
-
-# https://gofood.co.id/_next/data/8.10.0/id//jakarta/restaurants/near_me.json?service_area=jakarta&locality=restaurants&category=near_me
-# https://gofood.co.id/_next/data/8.10.0/id//jakarta/restaurants/near_me.json?service_area=jakarta&locality=restaurants&category=near_me
-
 
 
 'https://gofood.co.id/jakarta/restaurants/nasi-goreng-jawa-rawalumbu-070863f9-50b1-4054-b636-db164f267131'
