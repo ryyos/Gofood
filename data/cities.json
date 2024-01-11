@@ -1,0 +1,2978 @@
+{
+  "pageProps": {
+    "tenant": {
+      "uid": "gofood",
+      "countryCode": "ID",
+      "currencyCode": "IDR",
+      "features": {
+        "loginEnable": true,
+        "useMiniFooter": false,
+        "showPopularLocations": true,
+        "showLanguagesPicker": true,
+        "showMiniFooterText": false,
+        "downloadAppsEnable": true,
+        "sidenavOngoingOrdersEnable": false,
+        "helpTicketEnable": true
+      }
+    },
+    "auth": {
+      "isAuth": false,
+      "user": null,
+      "isOrderPrevented": false
+    },
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.4 Safari/605.1.15",
+    "userLocation": {
+      "ipLocation": {
+        "city": "Jakarta",
+        "geolocation": {
+          "lat": -6.194449,
+          "long": 106.82292
+        }
+      },
+      "chosenLocation": {
+        "locality": "",
+        "name": "Jakarta",
+        "serviceArea": "jakarta",
+        "serviceAreaId": "1",
+        "latitude": -6.2174945,
+        "longitude": 106.8178377,
+        "category": "",
+        "timezone": "Asia/Jakarta",
+        "found": true
+      }
+    },
+    "pathLocation": {
+      "locality": "",
+      "name": "Jakarta",
+      "serviceArea": "jakarta",
+      "serviceAreaId": "1",
+      "latitude": -6.2174945,
+      "longitude": 106.8178377,
+      "category": "",
+      "timezone": "Asia/Jakarta",
+      "found": true
+    },
+    "banner": {
+      "title": "Jakarta",
+      "description": "Discover what's good to eat and drink here, from local best sellers to culinary legends."
+    },
+    "breadcrumbs": [
+      {
+        "name": "Jakarta Restaurants",
+        "href": "/en/jakarta/restaurants"
+      }
+    ],
+    "contents": [
+      {
+        "title": "Places to check out",
+        "description": "Here are the cities and locales that have drool-worthy meals!",
+        "type": "AREA",
+        "data": [
+          {
+            "name": "Bekasi",
+            "path": "/jakarta/bekasi-restaurants"
+          },
+          {
+            "name": "Bogor",
+            "path": "/jakarta/bogor-restaurants"
+          },
+          {
+            "name": "Depok",
+            "path": "/jakarta/depok-restaurants"
+          },
+          {
+            "name": "Jakarta Barat",
+            "path": "/jakarta/jakarta-barat-restaurants"
+          },
+          {
+            "name": "Jakarta Pusat",
+            "path": "/jakarta/jakarta-pusat-restaurants"
+          },
+          {
+            "name": "Jakarta Selatan",
+            "path": "/jakarta/jakarta-selatan-restaurants"
+          },
+          {
+            "name": "Jakarta Timur",
+            "path": "/jakarta/jakarta-timur-restaurants"
+          },
+          {
+            "name": "Jakarta Utara",
+            "path": "/jakarta/jakarta-utara-restaurants"
+          },
+          {
+            "name": "Kodya Bekasi",
+            "path": "/jakarta/kodya-bekasi-restaurants"
+          },
+          {
+            "name": "Kodya Bogor",
+            "path": "/jakarta/kodya-bogor-restaurants"
+          },
+          {
+            "name": "Kodya Tangerang",
+            "path": "/jakarta/kodya-tangerang-restaurants"
+          },
+          {
+            "name": "Tangerang",
+            "path": "/jakarta/tangerang-restaurants"
+          },
+          {
+            "name": "Babelan",
+            "path": "/jakarta/babelan-restaurants"
+          },
+          {
+            "name": "Bojongmanggu",
+            "path": "/jakarta/bojongmanggu-restaurants"
+          },
+          {
+            "name": "Cabangbungin",
+            "path": "/jakarta/cabangbungin-restaurants"
+          },
+          {
+            "name": "Cibarusah",
+            "path": "/jakarta/cibarusah-restaurants"
+          },
+          {
+            "name": "Cibitung",
+            "path": "/jakarta/cibitung-restaurants"
+          },
+          {
+            "name": "Cikarang Barat",
+            "path": "/jakarta/cikarang-barat-restaurants"
+          },
+          {
+            "name": "Cikarang Pusat",
+            "path": "/jakarta/cikarang-pusat-restaurants"
+          },
+          {
+            "name": "Cikarang Selatan",
+            "path": "/jakarta/cikarang-selatan-restaurants"
+          },
+          {
+            "name": "Cikarang Timur",
+            "path": "/jakarta/cikarang-timur-restaurants"
+          },
+          {
+            "name": "Cikarang Utara",
+            "path": "/jakarta/cikarang-utara-restaurants"
+          },
+          {
+            "name": "Karangbahagia",
+            "path": "/jakarta/karangbahagia-restaurants"
+          },
+          {
+            "name": "Kedungwaringin",
+            "path": "/jakarta/kedungwaringin-restaurants"
+          },
+          {
+            "name": "Muara Gembong",
+            "path": "/jakarta/muara-gembong-restaurants"
+          },
+          {
+            "name": "Pebayuran",
+            "path": "/jakarta/pebayuran-restaurants"
+          },
+          {
+            "name": "Serang Baru",
+            "path": "/jakarta/serang-baru-restaurants"
+          },
+          {
+            "name": "Setu",
+            "path": "/jakarta/setu-restaurants"
+          },
+          {
+            "name": "Sukakarya",
+            "path": "/jakarta/sukakarya-restaurants"
+          },
+          {
+            "name": "Sukatani",
+            "path": "/jakarta/sukatani-restaurants"
+          },
+          {
+            "name": "Sukawangi",
+            "path": "/jakarta/sukawangi-restaurants"
+          },
+          {
+            "name": "Tambelang",
+            "path": "/jakarta/tambelang-restaurants"
+          },
+          {
+            "name": "Tambun Selatan",
+            "path": "/jakarta/tambun-selatan-restaurants"
+          },
+          {
+            "name": "Tambun Utara",
+            "path": "/jakarta/tambun-utara-restaurants"
+          },
+          {
+            "name": "Tarumajaya",
+            "path": "/jakarta/tarumajaya-restaurants"
+          },
+          {
+            "name": "Babakan Madang",
+            "path": "/jakarta/babakan-madang-restaurants"
+          },
+          {
+            "name": "Bojong Gede",
+            "path": "/jakarta/bojong-gede-restaurants"
+          },
+          {
+            "name": "Caringin",
+            "path": "/jakarta/caringin-restaurants"
+          },
+          {
+            "name": "Cariu",
+            "path": "/jakarta/cariu-restaurants"
+          },
+          {
+            "name": "Ciawi",
+            "path": "/jakarta/ciawi-restaurants"
+          },
+          {
+            "name": "Cibinong",
+            "path": "/jakarta/cibinong-restaurants"
+          },
+          {
+            "name": "Cibungbulang",
+            "path": "/jakarta/cibungbulang-restaurants"
+          },
+          {
+            "name": "Cigombong",
+            "path": "/jakarta/cigombong-restaurants"
+          },
+          {
+            "name": "Cigudeg",
+            "path": "/jakarta/cigudeg-restaurants"
+          },
+          {
+            "name": "Cijeruk",
+            "path": "/jakarta/cijeruk-restaurants"
+          },
+          {
+            "name": "Cileungsi",
+            "path": "/jakarta/cileungsi-restaurants"
+          },
+          {
+            "name": "Ciomas",
+            "path": "/jakarta/ciomas-restaurants"
+          },
+          {
+            "name": "Cisarua",
+            "path": "/jakarta/cisarua-restaurants"
+          },
+          {
+            "name": "Ciseeng",
+            "path": "/jakarta/ciseeng-restaurants"
+          },
+          {
+            "name": "Citeureup",
+            "path": "/jakarta/citeureup-restaurants"
+          },
+          {
+            "name": "Dramaga",
+            "path": "/jakarta/dramaga-restaurants"
+          },
+          {
+            "name": "Gunung Putri",
+            "path": "/jakarta/gunung-putri-restaurants"
+          },
+          {
+            "name": "Gunung Sindur",
+            "path": "/jakarta/gunung-sindur-restaurants"
+          },
+          {
+            "name": "Jasinga",
+            "path": "/jakarta/jasinga-restaurants"
+          },
+          {
+            "name": "Jonggol",
+            "path": "/jakarta/jonggol-restaurants"
+          },
+          {
+            "name": "Kelapa Nunggal",
+            "path": "/jakarta/kelapa-nunggal-restaurants"
+          },
+          {
+            "name": "Kemang",
+            "path": "/jakarta/kemang-restaurants"
+          },
+          {
+            "name": "Leuwiliang",
+            "path": "/jakarta/leuwiliang-restaurants"
+          },
+          {
+            "name": "Leuwisadeng",
+            "path": "/jakarta/leuwisadeng-restaurants"
+          },
+          {
+            "name": "Megamendung",
+            "path": "/jakarta/megamendung-restaurants"
+          },
+          {
+            "name": "Nanggung",
+            "path": "/jakarta/nanggung-restaurants"
+          },
+          {
+            "name": "Pamijahan",
+            "path": "/jakarta/pamijahan-restaurants"
+          },
+          {
+            "name": "Parung",
+            "path": "/jakarta/parung-restaurants"
+          },
+          {
+            "name": "Parung Panjang",
+            "path": "/jakarta/parung-panjang-restaurants"
+          },
+          {
+            "name": "Ranca Bungur",
+            "path": "/jakarta/ranca-bungur-restaurants"
+          },
+          {
+            "name": "Rumpin",
+            "path": "/jakarta/rumpin-restaurants"
+          },
+          {
+            "name": "Sukajaya",
+            "path": "/jakarta/sukajaya-restaurants"
+          },
+          {
+            "name": "Sukamakmur",
+            "path": "/jakarta/sukamakmur-restaurants"
+          },
+          {
+            "name": "Sukaraja",
+            "path": "/jakarta/sukaraja-restaurants"
+          },
+          {
+            "name": "Tajurhalang",
+            "path": "/jakarta/tajurhalang-restaurants"
+          },
+          {
+            "name": "Tamansari",
+            "path": "/jakarta/tamansari-restaurants"
+          },
+          {
+            "name": "Tanjungsari",
+            "path": "/jakarta/tanjungsari-restaurants"
+          },
+          {
+            "name": "Tenjo",
+            "path": "/jakarta/tenjo-restaurants"
+          },
+          {
+            "name": "Tenjolaya I",
+            "path": "/jakarta/tenjolaya-i-restaurants"
+          },
+          {
+            "name": "Tenjolaya II",
+            "path": "/jakarta/tenjolaya-ii-restaurants"
+          },
+          {
+            "name": "Beji",
+            "path": "/jakarta/beji-restaurants"
+          },
+          {
+            "name": "Cimanggis",
+            "path": "/jakarta/cimanggis-restaurants"
+          },
+          {
+            "name": "Limo",
+            "path": "/jakarta/limo-restaurants"
+          },
+          {
+            "name": "Pancoran Mas",
+            "path": "/jakarta/pancoran-mas-restaurants"
+          },
+          {
+            "name": "Sawangan",
+            "path": "/jakarta/sawangan-restaurants"
+          },
+          {
+            "name": "Sukma Jaya",
+            "path": "/jakarta/sukma-jaya-restaurants"
+          },
+          {
+            "name": "Cengkareng",
+            "path": "/jakarta/cengkareng-restaurants"
+          },
+          {
+            "name": "Grogol Petamburan",
+            "path": "/jakarta/grogol-petamburan-restaurants"
+          },
+          {
+            "name": "Kali Deres",
+            "path": "/jakarta/kali-deres-restaurants"
+          },
+          {
+            "name": "Kebon Jeruk",
+            "path": "/jakarta/kebon-jeruk-restaurants"
+          },
+          {
+            "name": "Kembangan",
+            "path": "/jakarta/kembangan-restaurants"
+          },
+          {
+            "name": "Palmerah",
+            "path": "/jakarta/palmerah-restaurants"
+          },
+          {
+            "name": "Taman Sari",
+            "path": "/jakarta/taman-sari-restaurants"
+          },
+          {
+            "name": "Tambora",
+            "path": "/jakarta/tambora-restaurants"
+          },
+          {
+            "name": "Cempaka Putih",
+            "path": "/jakarta/cempaka-putih-restaurants"
+          },
+          {
+            "name": "Gambir",
+            "path": "/jakarta/gambir-restaurants"
+          },
+          {
+            "name": "Johar Baru",
+            "path": "/jakarta/johar-baru-restaurants"
+          },
+          {
+            "name": "Kemayoran",
+            "path": "/jakarta/kemayoran-restaurants"
+          },
+          {
+            "name": "Menteng",
+            "path": "/jakarta/menteng-restaurants"
+          },
+          {
+            "name": "Sawah Besar",
+            "path": "/jakarta/sawah-besar-restaurants"
+          },
+          {
+            "name": "Senen",
+            "path": "/jakarta/senen-restaurants"
+          },
+          {
+            "name": "Tanah Abang",
+            "path": "/jakarta/tanah-abang-restaurants"
+          },
+          {
+            "name": "Cilandak",
+            "path": "/jakarta/cilandak-restaurants"
+          },
+          {
+            "name": "Jagakarsa",
+            "path": "/jakarta/jagakarsa-restaurants"
+          },
+          {
+            "name": "Kebayoran Baru",
+            "path": "/jakarta/kebayoran-baru-restaurants"
+          },
+          {
+            "name": "Kebayoran Lama",
+            "path": "/jakarta/kebayoran-lama-restaurants"
+          },
+          {
+            "name": "Mampang Prapatan",
+            "path": "/jakarta/mampang-prapatan-restaurants"
+          },
+          {
+            "name": "Pancoran",
+            "path": "/jakarta/pancoran-restaurants"
+          },
+          {
+            "name": "Pasar Minggu",
+            "path": "/jakarta/pasar-minggu-restaurants"
+          },
+          {
+            "name": "Pesanggrahan",
+            "path": "/jakarta/pesanggrahan-restaurants"
+          },
+          {
+            "name": "Setia Budi",
+            "path": "/jakarta/setia-budi-restaurants"
+          },
+          {
+            "name": "Tebet",
+            "path": "/jakarta/tebet-restaurants"
+          },
+          {
+            "name": "Cakung",
+            "path": "/jakarta/cakung-restaurants"
+          },
+          {
+            "name": "Cipayung",
+            "path": "/jakarta/cipayung-restaurants"
+          },
+          {
+            "name": "Ciracas",
+            "path": "/jakarta/ciracas-restaurants"
+          },
+          {
+            "name": "Duren Sawit",
+            "path": "/jakarta/duren-sawit-restaurants"
+          },
+          {
+            "name": "Jatinegara",
+            "path": "/jakarta/jatinegara-restaurants"
+          },
+          {
+            "name": "Kramat Jati",
+            "path": "/jakarta/kramat-jati-restaurants"
+          },
+          {
+            "name": "Makasar",
+            "path": "/jakarta/makasar-restaurants"
+          },
+          {
+            "name": "Matraman",
+            "path": "/jakarta/matraman-restaurants"
+          },
+          {
+            "name": "Pasar Rebo",
+            "path": "/jakarta/pasar-rebo-restaurants"
+          },
+          {
+            "name": "Pulo Gadung",
+            "path": "/jakarta/pulo-gadung-restaurants"
+          },
+          {
+            "name": "Cilincing",
+            "path": "/jakarta/cilincing-restaurants"
+          },
+          {
+            "name": "Kelapa Gading",
+            "path": "/jakarta/kelapa-gading-restaurants"
+          },
+          {
+            "name": "Koja",
+            "path": "/jakarta/koja-restaurants"
+          },
+          {
+            "name": "Pademangan",
+            "path": "/jakarta/pademangan-restaurants"
+          },
+          {
+            "name": "Penjaringan",
+            "path": "/jakarta/penjaringan-restaurants"
+          },
+          {
+            "name": "Taman Marina",
+            "path": "/jakarta/taman-marina-restaurants"
+          },
+          {
+            "name": "Tanjung Priok",
+            "path": "/jakarta/tanjung-priok-restaurants"
+          },
+          {
+            "name": "Bantar Gebang",
+            "path": "/jakarta/bantar-gebang-restaurants"
+          },
+          {
+            "name": "Bekasi Barat",
+            "path": "/jakarta/bekasi-barat-restaurants"
+          },
+          {
+            "name": "Bekasi Selatan",
+            "path": "/jakarta/bekasi-selatan-restaurants"
+          },
+          {
+            "name": "Bekasi Timur",
+            "path": "/jakarta/bekasi-timur-restaurants"
+          },
+          {
+            "name": "Bekasi Utara",
+            "path": "/jakarta/bekasi-utara-restaurants"
+          },
+          {
+            "name": "Jati Asih",
+            "path": "/jakarta/jati-asih-restaurants"
+          },
+          {
+            "name": "Jati Sampurna",
+            "path": "/jakarta/jati-sampurna-restaurants"
+          },
+          {
+            "name": "Medan Satria",
+            "path": "/jakarta/medan-satria-restaurants"
+          },
+          {
+            "name": "Mustika Jaya",
+            "path": "/jakarta/mustika-jaya-restaurants"
+          },
+          {
+            "name": "Pondok Gede",
+            "path": "/jakarta/pondok-gede-restaurants"
+          },
+          {
+            "name": "Pondok Melati",
+            "path": "/jakarta/pondok-melati-restaurants"
+          },
+          {
+            "name": "Rawa Lumbu",
+            "path": "/jakarta/rawa-lumbu-restaurants"
+          },
+          {
+            "name": "Bogor Barat",
+            "path": "/jakarta/bogor-barat-restaurants"
+          },
+          {
+            "name": "Bogor Selatan",
+            "path": "/jakarta/bogor-selatan-restaurants"
+          },
+          {
+            "name": "Bogor Tengah",
+            "path": "/jakarta/bogor-tengah-restaurants"
+          },
+          {
+            "name": "Bogor Timur",
+            "path": "/jakarta/bogor-timur-restaurants"
+          },
+          {
+            "name": "Bogor Utara",
+            "path": "/jakarta/bogor-utara-restaurants"
+          },
+          {
+            "name": "Tanah Sereal",
+            "path": "/jakarta/tanah-sereal-restaurants"
+          },
+          {
+            "name": "Batuceper",
+            "path": "/jakarta/batuceper-restaurants"
+          },
+          {
+            "name": "Benda",
+            "path": "/jakarta/benda-restaurants"
+          },
+          {
+            "name": "Cibodas",
+            "path": "/jakarta/cibodas-restaurants"
+          },
+          {
+            "name": "Ciledug",
+            "path": "/jakarta/ciledug-restaurants"
+          },
+          {
+            "name": "Cipondoh",
+            "path": "/jakarta/cipondoh-restaurants"
+          },
+          {
+            "name": "Jati Uwung",
+            "path": "/jakarta/jati-uwung-restaurants"
+          },
+          {
+            "name": "Karang Tengah",
+            "path": "/jakarta/karang-tengah-restaurants"
+          },
+          {
+            "name": "Karawaci",
+            "path": "/jakarta/karawaci-restaurants"
+          },
+          {
+            "name": "Larangan",
+            "path": "/jakarta/larangan-restaurants"
+          },
+          {
+            "name": "Neglasari",
+            "path": "/jakarta/neglasari-restaurants"
+          },
+          {
+            "name": "Periuk",
+            "path": "/jakarta/periuk-restaurants"
+          },
+          {
+            "name": "Pinang",
+            "path": "/jakarta/pinang-restaurants"
+          },
+          {
+            "name": "Balaraja",
+            "path": "/jakarta/balaraja-restaurants"
+          },
+          {
+            "name": "Cikupa",
+            "path": "/jakarta/cikupa-restaurants"
+          },
+          {
+            "name": "Ciputat",
+            "path": "/jakarta/ciputat-restaurants"
+          },
+          {
+            "name": "Cisauk",
+            "path": "/jakarta/cisauk-restaurants"
+          },
+          {
+            "name": "Cisoka",
+            "path": "/jakarta/cisoka-restaurants"
+          },
+          {
+            "name": "Curug",
+            "path": "/jakarta/curug-restaurants"
+          },
+          {
+            "name": "Jambe",
+            "path": "/jakarta/jambe-restaurants"
+          },
+          {
+            "name": "Jayanti",
+            "path": "/jakarta/jayanti-restaurants"
+          },
+          {
+            "name": "Kemiri",
+            "path": "/jakarta/kemiri-restaurants"
+          },
+          {
+            "name": "Kosambi",
+            "path": "/jakarta/kosambi-restaurants"
+          },
+          {
+            "name": "Kresek",
+            "path": "/jakarta/kresek-restaurants"
+          },
+          {
+            "name": "Kronjo",
+            "path": "/jakarta/kronjo-restaurants"
+          },
+          {
+            "name": "Legok",
+            "path": "/jakarta/legok-restaurants"
+          },
+          {
+            "name": "Mauk",
+            "path": "/jakarta/mauk-restaurants"
+          },
+          {
+            "name": "Pagedangan",
+            "path": "/jakarta/pagedangan-restaurants"
+          },
+          {
+            "name": "Pakuhaji",
+            "path": "/jakarta/pakuhaji-restaurants"
+          },
+          {
+            "name": "Pamulang",
+            "path": "/jakarta/pamulang-restaurants"
+          },
+          {
+            "name": "Panongan",
+            "path": "/jakarta/panongan-restaurants"
+          },
+          {
+            "name": "Pasarkemis",
+            "path": "/jakarta/pasarkemis-restaurants"
+          },
+          {
+            "name": "Pondok Aren",
+            "path": "/jakarta/pondok-aren-restaurants"
+          },
+          {
+            "name": "Rajeg",
+            "path": "/jakarta/rajeg-restaurants"
+          },
+          {
+            "name": "Sepatan",
+            "path": "/jakarta/sepatan-restaurants"
+          },
+          {
+            "name": "Serpong",
+            "path": "/jakarta/serpong-restaurants"
+          },
+          {
+            "name": "Sukadiri",
+            "path": "/jakarta/sukadiri-restaurants"
+          },
+          {
+            "name": "Teluknaga",
+            "path": "/jakarta/teluknaga-restaurants"
+          },
+          {
+            "name": "Tigaraksa",
+            "path": "/jakarta/tigaraksa-restaurants"
+          },
+          {
+            "name": "Kodya Tangerang-area",
+            "path": "/jakarta/kodya-tangerang-area-restaurants"
+          }
+        ],
+        "showLess": true
+      },
+      {
+        "title": "Our recommendations",
+        "description": "Here's a shortcut for goodness.",
+        "type": "COLLECTION",
+        "data": [
+          {
+            "name": "Near me",
+            "path": "/jakarta/restaurants/near_me",
+            "id": "NEAR_ME",
+            "logoUrl": "https://i.gojekapi.com/darkroom/gofood-id/v2/images/uploads/03e6f8cf-25f2-46ed-ab93-d0d64a1ea188_gofood_categories_near_me.png",
+            "bannerUrl": "https://i.gojekapi.com/darkroom/gofood-id/v2/images/uploads/5d194f5f-13e7-4112-8295-3828433f1c46_near-me.png"
+          },
+          {
+            "name": "Best sellers",
+            "path": "/jakarta/restaurants/best_seller",
+            "id": "BEST_SELLER",
+            "logoUrl": "https://i.gojekapi.com/darkroom/gofood-id/v2/images/uploads/57fafe35-8b39-4842-9e7a-18a2e2eb302b_gofood_categories_best_sellers.png",
+            "bannerUrl": "https://i.gojekapi.com/darkroom/gofood-id/v2/images/uploads/4a098a55-c2a3-40cb-b540-5b13e9626e3c_best-seller.png"
+          },
+          {
+            "name": "Budget meal",
+            "path": "/jakarta/restaurants/affordable_price",
+            "id": "AFFORDABLE_PRICE",
+            "logoUrl": "https://i.gojekapi.com/darkroom/gofood-id/v2/images/uploads/d94e8f34-300a-43d0-ab19-438b392281c7_budget-meal.png",
+            "bannerUrl": "https://i.gojekapi.com/darkroom/gofood-id/v2/images/uploads/1e7d8232-b7b6-4cfa-96ba-641c43931f74_budget-meal.png"
+          },
+          {
+            "name": "Most loved",
+            "path": "/jakarta/restaurants/most_loved",
+            "id": "MOST_LOVED",
+            "logoUrl": "https://i.gojekapi.com/darkroom/gofood-id/v2/images/uploads/9e241706-2fbe-4249-a0d7-9cb5cfd58a1e_gofood_categories_most_loved.png",
+            "bannerUrl": "https://i.gojekapi.com/darkroom/gofood-id/v2/images/uploads/7a1d6311-f371-4c57-95a5-0cb86e375362_most-loved.png"
+          },
+          {
+            "name": "24 hours",
+            "path": "/jakarta/restaurants/24_hours",
+            "id": "24_HOURS",
+            "logoUrl": "https://i.gojekapi.com/darkroom/gofood-id/v2/images/uploads/6278c6f9-d28e-4663-8c31-d0c9d722067a_gofood_categories_twenty_four_hours.png",
+            "bannerUrl": "https://i.gojekapi.com/darkroom/gofood-id/v2/images/uploads/a1188c57-b6b6-4991-9250-65681201eca7_24-hours.png"
+          },
+          {
+            "name": "Healthy food",
+            "path": "/jakarta/restaurants/healthy_food",
+            "id": "HEALTHY_FOOD",
+            "logoUrl": "https://i.gojekapi.com/darkroom/gofood-id/v2/images/uploads/9550dc29-2fbb-4734-90e0-40b91a847549_gofood_categories_lebaran_healthy_food.png",
+            "bannerUrl": "https://i.gojekapi.com/darkroom/gofood-id/v2/images/uploads/370f4f1c-f65a-4ffc-83ab-aec6affa227a_healthy-food.png"
+          },
+          {
+            "name": "Pasti Ada Promo",
+            "path": "/jakarta/restaurants/mkd_megapromo_all",
+            "id": "MKD_MEGAPROMO_ALL",
+            "logoUrl": "https://i.gojekapi.com/darkroom/gofood-id/v2/images/uploads/7bbf55f7-c896-4efb-8227-b83e828d1e43_categories_foodiskon.png",
+            "bannerUrl": "https://i.gojekapi.com/darkroom/gofood-id/v2/images/uploads/8c1d6d94-197d-43bf-8a0c-4cb6a61e72ab_pasti-ada-promo.png"
+          }
+        ],
+        "showAll": true
+      },
+      {
+        "title": "Choose from cuisines",
+        "description": "One of these might catch your tummy's attention.",
+        "type": "CUISINE",
+        "data": [
+          {
+            "name": "Martabak",
+            "path": "/jakarta/restaurants/martabak",
+            "id": "MARTABAK",
+            "logoUrl": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/936f68da-bc95-4fb4-8da0-1b351f151384_tag-image_1608203044480.jpg?fit=crop&w=200&h=200",
+            "bannerUrl": "https://i.gojekapi.com/darkroom/butler-id/v2/images/images/bf94423b-8781-440d-ad51-c37d4cd75add_cuisine-martabak-banner.png"
+          },
+          {
+            "name": "Bakso & soto",
+            "path": "/jakarta/restaurants/soto_bakso_sop",
+            "id": "SOTO_BAKSO_SOP",
+            "logoUrl": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/92004beb-7acf-46f1-9e21-6b80bd10a8ae_tag-image_1608203017089.jpg?fit=crop&w=200&h=200",
+            "bannerUrl": "https://i.gojekapi.com/darkroom/butler-id/v2/images/images/6a7bbb72-962e-4dff-ba2e-caf3cdac39f7_cuisine-soto_bakso_sop-banner.png"
+          },
+          {
+            "name": "Bakery",
+            "path": "/jakarta/restaurants/roti",
+            "id": "ROTI",
+            "logoUrl": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/dbd649d7-fcd7-404f-91f3-537af629044f_tag-image_1608203186648.jpg?fit=crop&w=200&h=200",
+            "bannerUrl": "https://i.gojekapi.com/darkroom/butler-id/v2/images/images/ea0db4c2-79b8-4a69-8b00-ea634e7ff3c9_cuisine-roti-banner.png"
+          },
+          {
+            "name": "Chinese",
+            "path": "/jakarta/restaurants/chinese",
+            "id": "CHINESE",
+            "logoUrl": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/860e68ff-2310-48cd-8968-78a1c3dc50c1_tag-image_1608203200532.jpg?fit=crop&w=200&h=200",
+            "bannerUrl": "https://i.gojekapi.com/darkroom/butler-id/v2/images/images/e152cfa1-1813-4be7-aebb-62b84cd0d38f_cuisine-chinese-banner.png"
+          },
+          {
+            "name": "Western",
+            "path": "/jakarta/restaurants/burger_sandwich_steak",
+            "id": "BURGER_SANDWICH_STEAK",
+            "logoUrl": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/f4d04db3-d207-4dfe-b9c5-11e2ac962ec4_tag-image_1608203122039.jpg?fit=crop&w=200&h=200",
+            "bannerUrl": "https://i.gojekapi.com/darkroom/butler-id/v2/images/images/00847dea-ca14-4ecc-8cdf-f97a8d221d53_cuisine-burger_sandwich_steak-banner.png"
+          },
+          {
+            "name": "Fast food",
+            "path": "/jakarta/restaurants/fastfood",
+            "id": "FASTFOOD",
+            "logoUrl": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/7761a441-928a-487a-acd5-0df24f318c91_tag-image_1608202965341.jpg?fit=crop&w=200&h=200",
+            "bannerUrl": "https://i.gojekapi.com/darkroom/butler-id/v2/images/images/292379c7-fcdd-44e9-8821-ede3a09765b1_fastfood.png"
+          },
+          {
+            "name": "Japanese",
+            "path": "/jakarta/restaurants/japanese",
+            "id": "JAPANESE",
+            "logoUrl": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/99246e0a-2a58-49e8-a6b8-f33ce52d9778_tag-image_1608202998270.jpg?fit=crop&w=200&h=200",
+            "bannerUrl": "https://i.gojekapi.com/darkroom/butler-id/v2/images/images/2629fa53-06eb-41d2-a3c4-089b926b50d9_cuisine-japanese-banner.png"
+          },
+          {
+            "name": "Snacks",
+            "path": "/jakarta/restaurants/snacks_jajanan",
+            "id": "SNACKS_JAJANAN",
+            "logoUrl": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/93cd9871-814f-4121-94d9-96430c3111a4_tag-image_1608202898934.jpg?fit=crop&w=200&h=200",
+            "bannerUrl": "https://i.gojekapi.com/darkroom/butler-id/v2/images/images/3736ae85-1d0d-45e8-aaf6-22d72172fa7f_cuisine-snacks_jajanan-banner.png"
+          },
+          {
+            "name": "Sate",
+            "path": "/jakarta/restaurants/sate",
+            "id": "SATE",
+            "logoUrl": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/f73fcf40-e003-45e3-839c-8fcd720a516c_tag-image_1650979503503.jpg?fit=crop&w=200&h=200",
+            "bannerUrl": "https://i.gojekapi.com/darkroom/butler-id/v2/images/images/391bf0f8-6439-464d-8d18-404282c095bc_cuisine-sate-banner.png"
+          },
+          {
+            "name": "Pizza & pasta",
+            "path": "/jakarta/restaurants/pizza_pasta",
+            "id": "PIZZA_PASTA",
+            "logoUrl": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/5b1a9111-fc01-4938-b9e6-1991ecc3fd18_tag-image_1608203062369.jpg?fit=crop&w=200&h=200",
+            "bannerUrl": "https://i.gojekapi.com/darkroom/butler-id/v2/images/images/75552961-9b1b-4502-a4de-8ccae44e7652_cuisine-pizza_pasta-banner.png"
+          },
+          {
+            "name": "Noodles",
+            "path": "/jakarta/restaurants/bakmie",
+            "id": "BAKMIE",
+            "logoUrl": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/e709853b-1a90-4d64-90b4-1f547334685d_tag-image_1608203031931.jpg?fit=crop&w=200&h=200",
+            "bannerUrl": "https://i.gojekapi.com/darkroom/butler-id/v2/images/images/07676c1b-d55f-42ea-b510-ca7182a80cf5_cuisine-bakmie-banner.png"
+          },
+          {
+            "name": "Beverages",
+            "path": "/jakarta/restaurants/minuman",
+            "id": "MINUMAN",
+            "logoUrl": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/8e133f59-d50f-41b0-bfa7-1a61a074cc8b_tag-image_1608202870005.jpg?fit=crop&w=200&h=200",
+            "bannerUrl": "https://i.gojekapi.com/darkroom/butler-id/v2/images/images/b976d6df-d347-439c-9c2d-a58da79ce99d_cuisine-minuman-banner.png"
+          },
+          {
+            "name": "Korean",
+            "path": "/jakarta/restaurants/korean",
+            "id": "KOREAN",
+            "logoUrl": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/5b23658e-522c-438e-ad95-0eca5d5d0c7f_tag-image_1608203075313.jpg?fit=crop&w=200&h=200",
+            "bannerUrl": "https://i.gojekapi.com/darkroom/butler-id/v2/images/images/ffb775f4-0ed5-4d29-bac6-cbe816897a27_korean.png"
+          },
+          {
+            "name": "Seafood",
+            "path": "/jakarta/restaurants/seafood",
+            "id": "SEAFOOD",
+            "logoUrl": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/5e117b21-4c43-46e0-9b78-05f67960fb36_tag-image_1608203141910.jpg?fit=crop&w=200&h=200",
+            "bannerUrl": "https://i.gojekapi.com/darkroom/butler-id/v2/images/images/7c07d872-f386-413b-861b-6319be426f53_cuisine-seafood-banner.png"
+          },
+          {
+            "name": "Coffee",
+            "path": "/jakarta/restaurants/coffee_shop",
+            "id": "COFFEE_SHOP",
+            "logoUrl": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/6a782354-f3af-4da5-8550-48e8572b3321_tag-image_1608203089151.jpg?fit=crop&w=200&h=200",
+            "bannerUrl": "https://i.gojekapi.com/darkroom/butler-id/v2/images/images/5e269ed6-8cdf-4c5f-bdb3-f0c9cef5add2_FH210302-cuisine-merchantbanner-FA-12-min[1].png"
+          },
+          {
+            "name": "Indian",
+            "path": "/jakarta/restaurants/indian_food",
+            "id": "INDIAN_FOOD",
+            "logoUrl": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/2b86391f-5f74-439f-9440-2249e7243db0_tag-image_1608203176176.jpg?fit=crop&w=200&h=200",
+            "bannerUrl": "https://i.gojekapi.com/darkroom/butler-id/v2/images/images/492d45a2-b79b-424a-9ccf-50c65f3a3788_cuisine-indian_food-banner.png"
+          },
+          {
+            "name": "Middle Eastern",
+            "path": "/jakarta/restaurants/middle_eastern",
+            "id": "MIDDLE_EASTERN",
+            "logoUrl": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/e59878b4-a46e-4cbb-a887-23df3e8b5eda_tag-image_1608203153518.jpg?fit=crop&w=200&h=200",
+            "bannerUrl": "https://i.gojekapi.com/darkroom/butler-id/v2/images/images/5955fb46-70d3-4f34-908f-defc12884ce5_middle-east.jpg"
+          }
+        ]
+      },
+      {
+        "title": "Popular in your area",
+        "description": "These are the people’s go-tos.",
+        "type": "BRAND",
+        "showAll": true,
+        "data": [
+          {
+            "id": "226ea0d5-c763-40dc-aad3-9a233ed04f86",
+            "bannerUrl": "",
+            "logoUrl": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/c1b19e28-b7a6-4b8b-b2c1-4a5afb0b529a_brand-logo_1589280488944.jpg",
+            "name": "McDonald's",
+            "path": "/en/jakarta/restaurants/brand/226ea0d5-c763-40dc-aad3-9a233ed04f86"
+          },
+          {
+            "id": "732dbae0-642e-4785-87ad-b36ec8114b74",
+            "bannerUrl": "",
+            "logoUrl": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/524eb76b-8ad6-4fa4-99b5-b525307b93dc_brand-logo_1589280132994.jpg",
+            "name": "HokBen",
+            "path": "/en/jakarta/restaurants/brand/732dbae0-642e-4785-87ad-b36ec8114b74"
+          },
+          {
+            "id": "efa96fcb-553b-4052-a5cd-a9688032a094",
+            "bannerUrl": "",
+            "logoUrl": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/2d496671-e316-49ff-b19e-2cc2c41184c0_brand-logo_1602482305026.jpg",
+            "name": "KFC",
+            "path": "/en/jakarta/restaurants/brand/efa96fcb-553b-4052-a5cd-a9688032a094"
+          },
+          {
+            "id": "a8531ec8-adbf-4bbf-92c7-9e91dde0556a",
+            "bannerUrl": "",
+            "logoUrl": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/a04fb4c2-984d-4467-b7f5-2466b409b92f_brand-logo_1589280392426.jpg",
+            "name": "Solaria",
+            "path": "/en/jakarta/restaurants/brand/a8531ec8-adbf-4bbf-92c7-9e91dde0556a"
+          },
+          {
+            "id": "2b7a33c5-a5e2-4da4-bddc-9825cb038b84",
+            "bannerUrl": "",
+            "logoUrl": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/fbc13dde-553f-4a9e-9489-ce2b6c3332d1_brand-logo_1604309966956.jpg",
+            "name": "Kopi Kenangan",
+            "path": "/en/jakarta/restaurants/brand/2b7a33c5-a5e2-4da4-bddc-9825cb038b84"
+          },
+          {
+            "id": "62b20488-b906-4e21-98d7-031d3e49b5be",
+            "bannerUrl": "",
+            "logoUrl": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/b38ac2ff-d435-45fd-b162-c440aa5c9e17_brand-logo_1589280361375.jpg",
+            "name": "Richeese Factory",
+            "path": "/en/jakarta/restaurants/brand/62b20488-b906-4e21-98d7-031d3e49b5be"
+          },
+          {
+            "id": "f432ab65-2e82-4848-b06b-29adacbb72ba",
+            "bannerUrl": "",
+            "logoUrl": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/76c11daf-e589-4737-a888-9a679e221d5a_brand-logo_1614333861958.jpg",
+            "name": "Burger King",
+            "path": "/en/jakarta/restaurants/brand/f432ab65-2e82-4848-b06b-29adacbb72ba"
+          },
+          {
+            "id": "1138bc70-b1f0-436b-a2cb-cc2ef8264c9c",
+            "bannerUrl": "",
+            "logoUrl": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/be6d6b76-925d-4be7-9135-e1b866719675_brand-logo_1589281456368.jpg",
+            "name": "Domino's Pizza",
+            "path": "/en/jakarta/restaurants/brand/1138bc70-b1f0-436b-a2cb-cc2ef8264c9c"
+          },
+          {
+            "id": "336eb59c-621a-4704-811c-e1024f970e2e",
+            "bannerUrl": "",
+            "logoUrl": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/f9bc4b88-61d8-4643-b16e-5c74ca0b31af_brand-logo_1655178203896.jpg",
+            "name": "Pizza Hut Delivery - PHD",
+            "path": "/en/jakarta/restaurants/brand/336eb59c-621a-4704-811c-e1024f970e2e"
+          },
+          {
+            "id": "42aa6ad3-2e84-4476-8d24-7e4816162318",
+            "bannerUrl": "",
+            "logoUrl": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/411cfa75-a0b2-46a4-bdd4-95d2e648cef4_brand-logo_1599467757022.jpg",
+            "name": "Fore Coffee",
+            "path": "/en/jakarta/restaurants/brand/42aa6ad3-2e84-4476-8d24-7e4816162318"
+          },
+          {
+            "id": "d978519c-7192-4834-b209-cf173e7e5c53",
+            "bannerUrl": "",
+            "logoUrl": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/056bec30-d973-4098-9891-55df51685ef5_brand-logo_1690358439636.jpg",
+            "name": "Martabak Pecenongan 78",
+            "path": "/en/jakarta/restaurants/brand/d978519c-7192-4834-b209-cf173e7e5c53"
+          },
+          {
+            "id": "0b34748d-8cf2-4404-b224-8bf323996538",
+            "bannerUrl": "",
+            "logoUrl": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/559449f3-138e-489c-b1da-0bdeca8bfccc_brand-logo_1589279955952.jpg",
+            "name": "Chatime",
+            "path": "/en/jakarta/restaurants/brand/0b34748d-8cf2-4404-b224-8bf323996538"
+          }
+        ]
+      },
+      {
+        "title": "What’s good ‘round the block",
+        "description": "Try your area’s finest eats.",
+        "type": "OUTLET",
+        "data": [
+          {
+            "key": "tenants/gofood/outlets/272e0da8-43a2-4ab2-ae65-c79b6b57484f",
+            "tenantUid": "gofood",
+            "uid": "272e0da8-43a2-4ab2-ae65-c79b6b57484f",
+            "core": {
+              "key": "tenants/gofood/outlets/272e0da8-43a2-4ab2-ae65-c79b6b57484f",
+              "tenantUid": "gofood",
+              "uid": "272e0da8-43a2-4ab2-ae65-c79b6b57484f",
+              "displayName": "Cethut, Sampoerna Strategic Square",
+              "description": "",
+              "highlights": [],
+              "location": {
+                "latitude": -6.21684,
+                "longitude": 106.81779
+              },
+              "countryCode": "ID",
+              "timeZone": "Asia/Jakarta",
+              "serviceArea": {
+                "id": 1,
+                "name": "",
+                "zoneId": 0,
+                "zoneName": ""
+              },
+              "status": 1,
+              "openPeriods": [
+                {
+                  "day": 1,
+                  "startTime": {
+                    "hours": 10,
+                    "minutes": 0,
+                    "seconds": 0,
+                    "nanos": 0
+                  },
+                  "endTime": {
+                    "hours": 22,
+                    "minutes": 0,
+                    "seconds": 0,
+                    "nanos": 0
+                  }
+                },
+                {
+                  "day": 2,
+                  "startTime": {
+                    "hours": 10,
+                    "minutes": 0,
+                    "seconds": 0,
+                    "nanos": 0
+                  },
+                  "endTime": {
+                    "hours": 22,
+                    "minutes": 0,
+                    "seconds": 0,
+                    "nanos": 0
+                  }
+                },
+                {
+                  "day": 3,
+                  "startTime": {
+                    "hours": 10,
+                    "minutes": 0,
+                    "seconds": 0,
+                    "nanos": 0
+                  },
+                  "endTime": {
+                    "hours": 22,
+                    "minutes": 0,
+                    "seconds": 0,
+                    "nanos": 0
+                  }
+                },
+                {
+                  "day": 4,
+                  "startTime": {
+                    "hours": 10,
+                    "minutes": 0,
+                    "seconds": 0,
+                    "nanos": 0
+                  },
+                  "endTime": {
+                    "hours": 22,
+                    "minutes": 0,
+                    "seconds": 0,
+                    "nanos": 0
+                  }
+                },
+                {
+                  "day": 5,
+                  "startTime": {
+                    "hours": 10,
+                    "minutes": 0,
+                    "seconds": 0,
+                    "nanos": 0
+                  },
+                  "endTime": {
+                    "hours": 22,
+                    "minutes": 0,
+                    "seconds": 0,
+                    "nanos": 0
+                  }
+                },
+                {
+                  "day": 6,
+                  "startTime": {
+                    "hours": 10,
+                    "minutes": 0,
+                    "seconds": 0,
+                    "nanos": 0
+                  },
+                  "endTime": {
+                    "hours": 22,
+                    "minutes": 0,
+                    "seconds": 0,
+                    "nanos": 0
+                  }
+                }
+              ],
+              "createTime": "2018-08-21T06:30:06.537Z",
+              "brandUid": "c34a99b3-2a95-4a40-a360-dcf855962fef",
+              "idempotencyKey": "",
+              "badges": [],
+              "notes": "",
+              "blockedReason": "",
+              "shortLink": "https://gofood.link/u/4kOn",
+              "nextCloseTime": "2024-01-11T15:00:00.000Z",
+              "brand": {
+                "key": "tenants/gofood/brands/c34a99b3-2a95-4a40-a360-dcf855962fef",
+                "tenantUid": "gofood",
+                "uid": "c34a99b3-2a95-4a40-a360-dcf855962fef",
+                "displayName": "Cethut",
+                "description": "",
+                "idempotencyKey": ""
+              },
+              "tags": [
+                {
+                  "key": "tenants/gofood/tags/CUISINE_ANEKA_NASI",
+                  "tenantUid": "gofood",
+                  "uid": "CUISINE_ANEKA_NASI",
+                  "displayName": "Rice",
+                  "description": "",
+                  "taxonomy": 2,
+                  "parentKey": ""
+                },
+                {
+                  "key": "tenants/gofood/tags/CUISINE_COFFEE_SHOP",
+                  "tenantUid": "gofood",
+                  "uid": "CUISINE_COFFEE_SHOP",
+                  "displayName": "Coffee",
+                  "description": "",
+                  "taxonomy": 2,
+                  "parentKey": ""
+                },
+                {
+                  "key": "tenants/gofood/tags/CUISINE_SWEETS_DESSERTS",
+                  "tenantUid": "gofood",
+                  "uid": "CUISINE_SWEETS_DESSERTS",
+                  "displayName": "Sweets",
+                  "description": "",
+                  "taxonomy": 2,
+                  "parentKey": ""
+                }
+              ]
+            },
+            "delivery": {
+              "enabled": false,
+              "maxRadiusKm": 0,
+              "maxRouteKm": 0,
+              "maxItems": 0,
+              "eta": {
+                "seconds": 1560,
+                "nanos": 0
+              },
+              "distanceKm": 0.07,
+              "deliverable": true
+            },
+            "pickup": {
+              "enabled": true
+            },
+            "ratings": {
+              "average": 4.7,
+              "total": 0
+            },
+            "maf": {
+              "enabled": true,
+              "autoAcceptEnabled": false
+            },
+            "media": {
+              "logoImgUrl": "",
+              "coverImgUrl": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/ad389e97-d6c9-4fc3-89f0-2f1b5c195644.jpg"
+            },
+            "view": 0,
+            "priceLevel": 2,
+            "brandOutletsGrouped": false,
+            "offers": [],
+            "path": "/en/jakarta/restaurant/cethut-sampoerna-strategic-square-272e0da8-43a2-4ab2-ae65-c79b6b57484f"
+          },
+          {
+            "key": "tenants/gofood/outlets/ef4d9e78-a06a-4278-9035-36a34a8f1b62",
+            "tenantUid": "gofood",
+            "uid": "ef4d9e78-a06a-4278-9035-36a34a8f1b62",
+            "core": {
+              "key": "tenants/gofood/outlets/ef4d9e78-a06a-4278-9035-36a34a8f1b62",
+              "tenantUid": "gofood",
+              "uid": "ef4d9e78-a06a-4278-9035-36a34a8f1b62",
+              "displayName": "Kembang Tandjoeng",
+              "description": "",
+              "highlights": [],
+              "location": {
+                "latitude": -6.2165,
+                "longitude": 106.8176667
+              },
+              "countryCode": "ID",
+              "timeZone": "Asia/Jakarta",
+              "serviceArea": {
+                "id": 1,
+                "name": "",
+                "zoneId": 0,
+                "zoneName": ""
+              },
+              "status": 1,
+              "openPeriods": [
+                {
+                  "day": 1,
+                  "startTime": {
+                    "hours": 7,
+                    "minutes": 0,
+                    "seconds": 0,
+                    "nanos": 0
+                  },
+                  "endTime": {
+                    "hours": 20,
+                    "minutes": 0,
+                    "seconds": 0,
+                    "nanos": 0
+                  }
+                },
+                {
+                  "day": 2,
+                  "startTime": {
+                    "hours": 7,
+                    "minutes": 0,
+                    "seconds": 0,
+                    "nanos": 0
+                  },
+                  "endTime": {
+                    "hours": 20,
+                    "minutes": 0,
+                    "seconds": 0,
+                    "nanos": 0
+                  }
+                },
+                {
+                  "day": 3,
+                  "startTime": {
+                    "hours": 7,
+                    "minutes": 0,
+                    "seconds": 0,
+                    "nanos": 0
+                  },
+                  "endTime": {
+                    "hours": 20,
+                    "minutes": 0,
+                    "seconds": 0,
+                    "nanos": 0
+                  }
+                },
+                {
+                  "day": 4,
+                  "startTime": {
+                    "hours": 7,
+                    "minutes": 0,
+                    "seconds": 0,
+                    "nanos": 0
+                  },
+                  "endTime": {
+                    "hours": 20,
+                    "minutes": 0,
+                    "seconds": 0,
+                    "nanos": 0
+                  }
+                },
+                {
+                  "day": 5,
+                  "startTime": {
+                    "hours": 7,
+                    "minutes": 0,
+                    "seconds": 0,
+                    "nanos": 0
+                  },
+                  "endTime": {
+                    "hours": 20,
+                    "minutes": 0,
+                    "seconds": 0,
+                    "nanos": 0
+                  }
+                },
+                {
+                  "day": 6,
+                  "startTime": {
+                    "hours": 7,
+                    "minutes": 0,
+                    "seconds": 0,
+                    "nanos": 0
+                  },
+                  "endTime": {
+                    "hours": 20,
+                    "minutes": 0,
+                    "seconds": 0,
+                    "nanos": 0
+                  }
+                },
+                {
+                  "day": 7,
+                  "startTime": {
+                    "hours": 7,
+                    "minutes": 0,
+                    "seconds": 0,
+                    "nanos": 0
+                  },
+                  "endTime": {
+                    "hours": 20,
+                    "minutes": 0,
+                    "seconds": 0,
+                    "nanos": 0
+                  }
+                }
+              ],
+              "createTime": "2016-06-20T10:21:24.768Z",
+              "brandUid": "2af1fca8-11f3-4a2f-a680-2923012fc950",
+              "idempotencyKey": "",
+              "badges": [],
+              "notes": "",
+              "blockedReason": "",
+              "shortLink": "https://gofood.link/u/Qd8ej",
+              "nextCloseTime": "2024-01-11T13:00:00.000Z",
+              "brand": {
+                "key": "tenants/gofood/brands/2af1fca8-11f3-4a2f-a680-2923012fc950",
+                "tenantUid": "gofood",
+                "uid": "2af1fca8-11f3-4a2f-a680-2923012fc950",
+                "displayName": "Kembang Tandjoeng",
+                "description": "",
+                "idempotencyKey": ""
+              },
+              "tags": [
+                {
+                  "key": "tenants/gofood/tags/CUISINE_ANEKA_NASI",
+                  "tenantUid": "gofood",
+                  "uid": "CUISINE_ANEKA_NASI",
+                  "displayName": "Rice",
+                  "description": "",
+                  "taxonomy": 2,
+                  "parentKey": ""
+                }
+              ]
+            },
+            "delivery": {
+              "enabled": false,
+              "maxRadiusKm": 0,
+              "maxRouteKm": 0,
+              "maxItems": 0,
+              "eta": {
+                "seconds": 1380,
+                "nanos": 0
+              },
+              "distanceKm": 0.11,
+              "deliverable": true
+            },
+            "pickup": {
+              "enabled": false
+            },
+            "ratings": {
+              "average": 0,
+              "total": 0
+            },
+            "maf": {
+              "enabled": false,
+              "autoAcceptEnabled": false
+            },
+            "media": {
+              "logoImgUrl": "",
+              "coverImgUrl": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/a252cafc-8627-49ac-ac96-bb1d2c867648.jpg"
+            },
+            "view": 0,
+            "priceLevel": 3,
+            "brandOutletsGrouped": false,
+            "offers": [],
+            "path": "/en/jakarta/restaurant/kembang-tandjoeng-ef4d9e78-a06a-4278-9035-36a34a8f1b62"
+          },
+          {
+            "key": "tenants/gofood/outlets/e1cad2a9-6dd2-4f0f-9efc-d45591fee712",
+            "tenantUid": "gofood",
+            "uid": "e1cad2a9-6dd2-4f0f-9efc-d45591fee712",
+            "core": {
+              "key": "tenants/gofood/outlets/e1cad2a9-6dd2-4f0f-9efc-d45591fee712",
+              "tenantUid": "gofood",
+              "uid": "e1cad2a9-6dd2-4f0f-9efc-d45591fee712",
+              "displayName": "Cali Deli, Sampoerna Strategic Square",
+              "description": "",
+              "highlights": [],
+              "location": {
+                "latitude": -6.2166543,
+                "longitude": 106.8185
+              },
+              "countryCode": "ID",
+              "timeZone": "Asia/Jakarta",
+              "serviceArea": {
+                "id": 1,
+                "name": "",
+                "zoneId": 0,
+                "zoneName": ""
+              },
+              "status": 1,
+              "openPeriods": [
+                {
+                  "day": 1,
+                  "startTime": {
+                    "hours": 7,
+                    "minutes": 30,
+                    "seconds": 0,
+                    "nanos": 0
+                  },
+                  "endTime": {
+                    "hours": 19,
+                    "minutes": 0,
+                    "seconds": 0,
+                    "nanos": 0
+                  }
+                },
+                {
+                  "day": 2,
+                  "startTime": {
+                    "hours": 7,
+                    "minutes": 30,
+                    "seconds": 0,
+                    "nanos": 0
+                  },
+                  "endTime": {
+                    "hours": 19,
+                    "minutes": 0,
+                    "seconds": 0,
+                    "nanos": 0
+                  }
+                },
+                {
+                  "day": 3,
+                  "startTime": {
+                    "hours": 7,
+                    "minutes": 30,
+                    "seconds": 0,
+                    "nanos": 0
+                  },
+                  "endTime": {
+                    "hours": 19,
+                    "minutes": 0,
+                    "seconds": 0,
+                    "nanos": 0
+                  }
+                },
+                {
+                  "day": 4,
+                  "startTime": {
+                    "hours": 7,
+                    "minutes": 30,
+                    "seconds": 0,
+                    "nanos": 0
+                  },
+                  "endTime": {
+                    "hours": 19,
+                    "minutes": 0,
+                    "seconds": 0,
+                    "nanos": 0
+                  }
+                },
+                {
+                  "day": 5,
+                  "startTime": {
+                    "hours": 7,
+                    "minutes": 30,
+                    "seconds": 0,
+                    "nanos": 0
+                  },
+                  "endTime": {
+                    "hours": 19,
+                    "minutes": 0,
+                    "seconds": 0,
+                    "nanos": 0
+                  }
+                },
+                {
+                  "day": 6,
+                  "startTime": {
+                    "hours": 7,
+                    "minutes": 30,
+                    "seconds": 0,
+                    "nanos": 0
+                  },
+                  "endTime": {
+                    "hours": 19,
+                    "minutes": 0,
+                    "seconds": 0,
+                    "nanos": 0
+                  }
+                }
+              ],
+              "createTime": "2016-06-20T10:20:25.273Z",
+              "brandUid": "ea7e8886-e12c-4750-bb4d-1f3f1cc82b5c",
+              "idempotencyKey": "",
+              "badges": [],
+              "notes": "",
+              "blockedReason": "",
+              "shortLink": "https://gofood.link/u/Nbz9P",
+              "nextCloseTime": "2024-01-11T12:00:00.000Z",
+              "brand": {
+                "key": "tenants/gofood/brands/ea7e8886-e12c-4750-bb4d-1f3f1cc82b5c",
+                "tenantUid": "gofood",
+                "uid": "ea7e8886-e12c-4750-bb4d-1f3f1cc82b5c",
+                "displayName": "Cali Deli",
+                "description": "",
+                "idempotencyKey": ""
+              },
+              "tags": [
+                {
+                  "key": "tenants/gofood/tags/CUISINE_MINUMAN",
+                  "tenantUid": "gofood",
+                  "uid": "CUISINE_MINUMAN",
+                  "displayName": "Beverages",
+                  "description": "",
+                  "taxonomy": 2,
+                  "parentKey": ""
+                }
+              ]
+            },
+            "delivery": {
+              "enabled": false,
+              "maxRadiusKm": 0,
+              "maxRouteKm": 0,
+              "maxItems": 0,
+              "eta": {
+                "seconds": 1320,
+                "nanos": 0
+              },
+              "distanceKm": 0.12,
+              "deliverable": true
+            },
+            "pickup": {
+              "enabled": true
+            },
+            "ratings": {
+              "average": 4.9,
+              "total": 0
+            },
+            "maf": {
+              "enabled": true,
+              "autoAcceptEnabled": false
+            },
+            "media": {
+              "logoImgUrl": "",
+              "coverImgUrl": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/b2781bc8-2b85-40ad-8d8c-7621134f7697.jpg"
+            },
+            "view": 0,
+            "priceLevel": 3,
+            "brandOutletsGrouped": false,
+            "offers": [],
+            "path": "/en/jakarta/restaurant/cali-deli-sampoerna-strategic-square-e1cad2a9-6dd2-4f0f-9efc-d45591fee712"
+          },
+          {
+            "key": "tenants/gofood/outlets/08e63f1c-6697-45c6-91b0-865cf13b3bf0",
+            "tenantUid": "gofood",
+            "uid": "08e63f1c-6697-45c6-91b0-865cf13b3bf0",
+            "core": {
+              "key": "tenants/gofood/outlets/08e63f1c-6697-45c6-91b0-865cf13b3bf0",
+              "tenantUid": "gofood",
+              "uid": "08e63f1c-6697-45c6-91b0-865cf13b3bf0",
+              "displayName": "Negiya Express, Dapura Sudirman",
+              "description": "Negiya offers you The Menya Gyutan Don through its collaboration with Melbourne's Famous Menya Group. A warm bowl of  Japanese rice with super generous topping is the way we do our donburi.",
+              "highlights": [],
+              "location": {
+                "latitude": -6.216403047169836,
+                "longitude": 106.81819617748262
+              },
+              "countryCode": "ID",
+              "timeZone": "Asia/Jakarta",
+              "serviceArea": {
+                "id": 1,
+                "name": "",
+                "zoneId": 0,
+                "zoneName": ""
+              },
+              "status": 1,
+              "openPeriods": [
+                {
+                  "day": 1,
+                  "startTime": {
+                    "hours": 10,
+                    "minutes": 0,
+                    "seconds": 0,
+                    "nanos": 0
+                  },
+                  "endTime": {
+                    "hours": 19,
+                    "minutes": 30,
+                    "seconds": 0,
+                    "nanos": 0
+                  }
+                },
+                {
+                  "day": 2,
+                  "startTime": {
+                    "hours": 10,
+                    "minutes": 0,
+                    "seconds": 0,
+                    "nanos": 0
+                  },
+                  "endTime": {
+                    "hours": 19,
+                    "minutes": 30,
+                    "seconds": 0,
+                    "nanos": 0
+                  }
+                },
+                {
+                  "day": 3,
+                  "startTime": {
+                    "hours": 10,
+                    "minutes": 0,
+                    "seconds": 0,
+                    "nanos": 0
+                  },
+                  "endTime": {
+                    "hours": 19,
+                    "minutes": 30,
+                    "seconds": 0,
+                    "nanos": 0
+                  }
+                },
+                {
+                  "day": 4,
+                  "startTime": {
+                    "hours": 10,
+                    "minutes": 0,
+                    "seconds": 0,
+                    "nanos": 0
+                  },
+                  "endTime": {
+                    "hours": 19,
+                    "minutes": 30,
+                    "seconds": 0,
+                    "nanos": 0
+                  }
+                },
+                {
+                  "day": 5,
+                  "startTime": {
+                    "hours": 10,
+                    "minutes": 0,
+                    "seconds": 0,
+                    "nanos": 0
+                  },
+                  "endTime": {
+                    "hours": 19,
+                    "minutes": 30,
+                    "seconds": 0,
+                    "nanos": 0
+                  }
+                },
+                {
+                  "day": 6,
+                  "startTime": {
+                    "hours": 10,
+                    "minutes": 0,
+                    "seconds": 0,
+                    "nanos": 0
+                  },
+                  "endTime": {
+                    "hours": 19,
+                    "minutes": 30,
+                    "seconds": 0,
+                    "nanos": 0
+                  }
+                }
+              ],
+              "createTime": "2016-06-20T10:24:30.425Z",
+              "brandUid": "9916eb76-9f6c-4e5c-adeb-a7a8b5a504ec",
+              "idempotencyKey": "",
+              "badges": [],
+              "notes": "",
+              "blockedReason": "",
+              "shortLink": "https://gofood.link/a/yM9xcVN",
+              "nextCloseTime": "2024-01-11T12:30:00.000Z",
+              "brand": {
+                "key": "tenants/gofood/brands/9916eb76-9f6c-4e5c-adeb-a7a8b5a504ec",
+                "tenantUid": "gofood",
+                "uid": "9916eb76-9f6c-4e5c-adeb-a7a8b5a504ec",
+                "displayName": "Negiya Express",
+                "description": "",
+                "idempotencyKey": ""
+              },
+              "tags": [
+                {
+                  "key": "tenants/gofood/tags/CUISINE_JAPANESE",
+                  "tenantUid": "gofood",
+                  "uid": "CUISINE_JAPANESE",
+                  "displayName": "Japanese",
+                  "description": "",
+                  "taxonomy": 2,
+                  "parentKey": ""
+                },
+                {
+                  "key": "tenants/gofood/tags/CUISINE_ANEKA_NASI",
+                  "tenantUid": "gofood",
+                  "uid": "CUISINE_ANEKA_NASI",
+                  "displayName": "Rice",
+                  "description": "",
+                  "taxonomy": 2,
+                  "parentKey": ""
+                },
+                {
+                  "key": "tenants/gofood/tags/CUISINE_ANEKA_AYAM_BEBEK",
+                  "tenantUid": "gofood",
+                  "uid": "CUISINE_ANEKA_AYAM_BEBEK",
+                  "displayName": "Chicken & duck",
+                  "description": "",
+                  "taxonomy": 2,
+                  "parentKey": ""
+                }
+              ]
+            },
+            "delivery": {
+              "enabled": false,
+              "maxRadiusKm": 0,
+              "maxRouteKm": 0,
+              "maxItems": 0,
+              "eta": {
+                "seconds": 1620,
+                "nanos": 0
+              },
+              "distanceKm": 0.13,
+              "deliverable": true
+            },
+            "pickup": {
+              "enabled": true
+            },
+            "ratings": {
+              "average": 4.8,
+              "total": 0
+            },
+            "maf": {
+              "enabled": true,
+              "autoAcceptEnabled": false
+            },
+            "media": {
+              "logoImgUrl": "",
+              "coverImgUrl": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/16c9f1ab-0794-400c-a4df-85dd424d92c4_Go-Biz_20230131_170731.jpeg"
+            },
+            "view": 0,
+            "priceLevel": 4,
+            "brandOutletsGrouped": false,
+            "offers": [],
+            "path": "/en/jakarta/restaurant/negiya-express-dapura-sudirman-08e63f1c-6697-45c6-91b0-865cf13b3bf0"
+          }
+        ],
+        "seeAllUrl": "/jakarta/restaurants/near_me"
+      },
+      {
+        "title": "Check what’s trending",
+        "description": "Try the most raved eats on GoFood.",
+        "type": "OUTLET",
+        "data": [
+          {
+            "key": "tenants/gofood/outlets/35263d9b-45a4-4f7b-a61e-736dc15a161c",
+            "tenantUid": "gofood",
+            "uid": "35263d9b-45a4-4f7b-a61e-736dc15a161c",
+            "core": {
+              "key": "tenants/gofood/outlets/35263d9b-45a4-4f7b-a61e-736dc15a161c",
+              "tenantUid": "gofood",
+              "uid": "35263d9b-45a4-4f7b-a61e-736dc15a161c",
+              "displayName": "TUKUCUR Toko Kopi Tuku, Sudirman",
+              "description": "",
+              "highlights": [],
+              "location": {
+                "latitude": -6.21685,
+                "longitude": 106.81779
+              },
+              "countryCode": "ID",
+              "timeZone": "Asia/Jakarta",
+              "serviceArea": {
+                "id": 1,
+                "name": "",
+                "zoneId": 0,
+                "zoneName": ""
+              },
+              "status": 1,
+              "openPeriods": [
+                {
+                  "day": 1,
+                  "startTime": {
+                    "hours": 9,
+                    "minutes": 0,
+                    "seconds": 0,
+                    "nanos": 0
+                  },
+                  "endTime": {
+                    "hours": 21,
+                    "minutes": 0,
+                    "seconds": 0,
+                    "nanos": 0
+                  }
+                },
+                {
+                  "day": 2,
+                  "startTime": {
+                    "hours": 9,
+                    "minutes": 0,
+                    "seconds": 0,
+                    "nanos": 0
+                  },
+                  "endTime": {
+                    "hours": 21,
+                    "minutes": 0,
+                    "seconds": 0,
+                    "nanos": 0
+                  }
+                },
+                {
+                  "day": 3,
+                  "startTime": {
+                    "hours": 9,
+                    "minutes": 0,
+                    "seconds": 0,
+                    "nanos": 0
+                  },
+                  "endTime": {
+                    "hours": 21,
+                    "minutes": 0,
+                    "seconds": 0,
+                    "nanos": 0
+                  }
+                },
+                {
+                  "day": 4,
+                  "startTime": {
+                    "hours": 9,
+                    "minutes": 0,
+                    "seconds": 0,
+                    "nanos": 0
+                  },
+                  "endTime": {
+                    "hours": 21,
+                    "minutes": 0,
+                    "seconds": 0,
+                    "nanos": 0
+                  }
+                },
+                {
+                  "day": 5,
+                  "startTime": {
+                    "hours": 9,
+                    "minutes": 0,
+                    "seconds": 0,
+                    "nanos": 0
+                  },
+                  "endTime": {
+                    "hours": 21,
+                    "minutes": 0,
+                    "seconds": 0,
+                    "nanos": 0
+                  }
+                },
+                {
+                  "day": 6,
+                  "startTime": {
+                    "hours": 9,
+                    "minutes": 0,
+                    "seconds": 0,
+                    "nanos": 0
+                  },
+                  "endTime": {
+                    "hours": 21,
+                    "minutes": 0,
+                    "seconds": 0,
+                    "nanos": 0
+                  }
+                },
+                {
+                  "day": 7,
+                  "startTime": {
+                    "hours": 9,
+                    "minutes": 0,
+                    "seconds": 0,
+                    "nanos": 0
+                  },
+                  "endTime": {
+                    "hours": 21,
+                    "minutes": 0,
+                    "seconds": 0,
+                    "nanos": 0
+                  }
+                }
+              ],
+              "createTime": "2022-06-16T10:49:22.444Z",
+              "brandUid": "6543d648-f7b8-4c7b-a2b4-c188203f2206",
+              "idempotencyKey": "",
+              "badges": [],
+              "notes": "",
+              "blockedReason": "",
+              "shortLink": "https://gofood.link/a/EvDcar3",
+              "nextCloseTime": "2024-01-11T14:00:00.000Z",
+              "brand": {
+                "key": "tenants/gofood/brands/6543d648-f7b8-4c7b-a2b4-c188203f2206",
+                "tenantUid": "gofood",
+                "uid": "6543d648-f7b8-4c7b-a2b4-c188203f2206",
+                "displayName": "Tuku Coffee",
+                "description": "",
+                "idempotencyKey": ""
+              },
+              "tags": [
+                {
+                  "key": "tenants/gofood/tags/CUISINE_COFFEE_SHOP",
+                  "tenantUid": "gofood",
+                  "uid": "CUISINE_COFFEE_SHOP",
+                  "displayName": "Coffee",
+                  "description": "",
+                  "taxonomy": 2,
+                  "parentKey": ""
+                }
+              ]
+            },
+            "delivery": {
+              "enabled": false,
+              "maxRadiusKm": 0,
+              "maxRouteKm": 0,
+              "maxItems": 0,
+              "eta": {
+                "seconds": 1440,
+                "nanos": 0
+              },
+              "distanceKm": 0.07,
+              "deliverable": true
+            },
+            "pickup": {
+              "enabled": false
+            },
+            "ratings": {
+              "average": 4.8,
+              "total": 0
+            },
+            "maf": {
+              "enabled": true,
+              "autoAcceptEnabled": true
+            },
+            "media": {
+              "logoImgUrl": "",
+              "coverImgUrl": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/cebd1a72-be0e-48e3-a1a4-b8636da84aad_restaurant-image_1704040480457.jpg"
+            },
+            "view": 0,
+            "priceLevel": 2,
+            "brandOutletsGrouped": false,
+            "offers": [],
+            "path": "/en/jakarta/restaurant/tukucur-toko-kopi-tuku-sudirman-35263d9b-45a4-4f7b-a61e-736dc15a161c"
+          },
+          {
+            "key": "tenants/gofood/outlets/63f31567-d517-4803-9901-faf1b8f31c7c",
+            "tenantUid": "gofood",
+            "uid": "63f31567-d517-4803-9901-faf1b8f31c7c",
+            "core": {
+              "key": "tenants/gofood/outlets/63f31567-d517-4803-9901-faf1b8f31c7c",
+              "tenantUid": "gofood",
+              "uid": "63f31567-d517-4803-9901-faf1b8f31c7c",
+              "displayName": "McDonald's, Plaza Sentral",
+              "description": "",
+              "highlights": [],
+              "location": {
+                "latitude": -6.217448,
+                "longitude": 106.816539
+              },
+              "countryCode": "ID",
+              "timeZone": "Asia/Jakarta",
+              "serviceArea": {
+                "id": 1,
+                "name": "",
+                "zoneId": 0,
+                "zoneName": ""
+              },
+              "status": 1,
+              "openPeriods": [
+                {
+                  "day": 1,
+                  "startTime": {
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 0,
+                    "nanos": 0
+                  },
+                  "endTime": {
+                    "hours": 23,
+                    "minutes": 59,
+                    "seconds": 0,
+                    "nanos": 0
+                  }
+                },
+                {
+                  "day": 2,
+                  "startTime": {
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 0,
+                    "nanos": 0
+                  },
+                  "endTime": {
+                    "hours": 23,
+                    "minutes": 59,
+                    "seconds": 0,
+                    "nanos": 0
+                  }
+                },
+                {
+                  "day": 3,
+                  "startTime": {
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 0,
+                    "nanos": 0
+                  },
+                  "endTime": {
+                    "hours": 23,
+                    "minutes": 59,
+                    "seconds": 0,
+                    "nanos": 0
+                  }
+                },
+                {
+                  "day": 4,
+                  "startTime": {
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 0,
+                    "nanos": 0
+                  },
+                  "endTime": {
+                    "hours": 23,
+                    "minutes": 59,
+                    "seconds": 0,
+                    "nanos": 0
+                  }
+                },
+                {
+                  "day": 5,
+                  "startTime": {
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 0,
+                    "nanos": 0
+                  },
+                  "endTime": {
+                    "hours": 23,
+                    "minutes": 59,
+                    "seconds": 0,
+                    "nanos": 0
+                  }
+                },
+                {
+                  "day": 6,
+                  "startTime": {
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 0,
+                    "nanos": 0
+                  },
+                  "endTime": {
+                    "hours": 23,
+                    "minutes": 59,
+                    "seconds": 0,
+                    "nanos": 0
+                  }
+                },
+                {
+                  "day": 7,
+                  "startTime": {
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 0,
+                    "nanos": 0
+                  },
+                  "endTime": {
+                    "hours": 23,
+                    "minutes": 59,
+                    "seconds": 0,
+                    "nanos": 0
+                  }
+                }
+              ],
+              "createTime": "2016-06-20T10:19:35.549Z",
+              "brandUid": "226ea0d5-c763-40dc-aad3-9a233ed04f86",
+              "idempotencyKey": "",
+              "badges": [],
+              "notes": "",
+              "blockedReason": "",
+              "shortLink": "https://gofood.link/u/z49xn",
+              "brand": {
+                "key": "tenants/gofood/brands/226ea0d5-c763-40dc-aad3-9a233ed04f86",
+                "tenantUid": "gofood",
+                "uid": "226ea0d5-c763-40dc-aad3-9a233ed04f86",
+                "displayName": "McDonald's",
+                "description": "",
+                "idempotencyKey": ""
+              },
+              "tags": [
+                {
+                  "key": "tenants/gofood/tags/CUISINE_FASTFOOD",
+                  "tenantUid": "gofood",
+                  "uid": "CUISINE_FASTFOOD",
+                  "displayName": "Fast food",
+                  "description": "",
+                  "taxonomy": 2,
+                  "parentKey": ""
+                },
+                {
+                  "key": "tenants/gofood/tags/CUISINE_SWEETS_DESSERTS",
+                  "tenantUid": "gofood",
+                  "uid": "CUISINE_SWEETS_DESSERTS",
+                  "displayName": "Sweets",
+                  "description": "",
+                  "taxonomy": 2,
+                  "parentKey": ""
+                },
+                {
+                  "key": "tenants/gofood/tags/CUISINE_SNACKS_JAJANAN",
+                  "tenantUid": "gofood",
+                  "uid": "CUISINE_SNACKS_JAJANAN",
+                  "displayName": "Snacks",
+                  "description": "",
+                  "taxonomy": 2,
+                  "parentKey": ""
+                }
+              ]
+            },
+            "delivery": {
+              "enabled": false,
+              "maxRadiusKm": 0,
+              "maxRouteKm": 0,
+              "maxItems": 0,
+              "eta": {
+                "seconds": 1260,
+                "nanos": 0
+              },
+              "distanceKm": 0.14,
+              "deliverable": true
+            },
+            "pickup": {
+              "enabled": true
+            },
+            "ratings": {
+              "average": 4.7,
+              "total": 0
+            },
+            "maf": {
+              "enabled": true,
+              "autoAcceptEnabled": true
+            },
+            "media": {
+              "logoImgUrl": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/c1b19e28-b7a6-4b8b-b2c1-4a5afb0b529a_brand-logo_1589280488944.jpg",
+              "coverImgUrl": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/53f0767f-0207-4553-b815-c59f839a9561_brand-image_1704339678199.jpg"
+            },
+            "view": 0,
+            "priceLevel": 3,
+            "brandOutletsGrouped": false,
+            "offers": [],
+            "path": "/en/jakarta/restaurant/mcdonald-s-plaza-sentral-63f31567-d517-4803-9901-faf1b8f31c7c"
+          },
+          {
+            "key": "tenants/gofood/outlets/186ef2fe-7000-479b-a6a2-0b888a2081ff",
+            "tenantUid": "gofood",
+            "uid": "186ef2fe-7000-479b-a6a2-0b888a2081ff",
+            "core": {
+              "key": "tenants/gofood/outlets/186ef2fe-7000-479b-a6a2-0b888a2081ff",
+              "tenantUid": "gofood",
+              "uid": "186ef2fe-7000-479b-a6a2-0b888a2081ff",
+              "displayName": "Martabak Djuara, Kuningan",
+              "description": "",
+              "highlights": [],
+              "location": {
+                "latitude": -6.216914,
+                "longitude": 106.819208
+              },
+              "countryCode": "ID",
+              "timeZone": "Asia/Jakarta",
+              "serviceArea": {
+                "id": 1,
+                "name": "",
+                "zoneId": 0,
+                "zoneName": ""
+              },
+              "status": 1,
+              "openPeriods": [
+                {
+                  "day": 1,
+                  "startTime": {
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 0,
+                    "nanos": 0
+                  },
+                  "endTime": {
+                    "hours": 23,
+                    "minutes": 59,
+                    "seconds": 0,
+                    "nanos": 0
+                  }
+                },
+                {
+                  "day": 2,
+                  "startTime": {
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 0,
+                    "nanos": 0
+                  },
+                  "endTime": {
+                    "hours": 23,
+                    "minutes": 59,
+                    "seconds": 0,
+                    "nanos": 0
+                  }
+                },
+                {
+                  "day": 3,
+                  "startTime": {
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 0,
+                    "nanos": 0
+                  },
+                  "endTime": {
+                    "hours": 23,
+                    "minutes": 59,
+                    "seconds": 0,
+                    "nanos": 0
+                  }
+                },
+                {
+                  "day": 4,
+                  "startTime": {
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 0,
+                    "nanos": 0
+                  },
+                  "endTime": {
+                    "hours": 23,
+                    "minutes": 59,
+                    "seconds": 0,
+                    "nanos": 0
+                  }
+                },
+                {
+                  "day": 5,
+                  "startTime": {
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 0,
+                    "nanos": 0
+                  },
+                  "endTime": {
+                    "hours": 23,
+                    "minutes": 59,
+                    "seconds": 0,
+                    "nanos": 0
+                  }
+                },
+                {
+                  "day": 6,
+                  "startTime": {
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 0,
+                    "nanos": 0
+                  },
+                  "endTime": {
+                    "hours": 23,
+                    "minutes": 59,
+                    "seconds": 0,
+                    "nanos": 0
+                  }
+                },
+                {
+                  "day": 7,
+                  "startTime": {
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 0,
+                    "nanos": 0
+                  },
+                  "endTime": {
+                    "hours": 23,
+                    "minutes": 59,
+                    "seconds": 0,
+                    "nanos": 0
+                  }
+                }
+              ],
+              "createTime": "2020-09-29T17:04:00.204Z",
+              "brandUid": "f979a1d6-f9aa-4137-ba2a-6ce1543820a5",
+              "idempotencyKey": "",
+              "badges": [],
+              "notes": "",
+              "blockedReason": "",
+              "shortLink": "https://gofood.link/a/yQFXwdY",
+              "brand": {
+                "key": "tenants/gofood/brands/f979a1d6-f9aa-4137-ba2a-6ce1543820a5",
+                "tenantUid": "gofood",
+                "uid": "f979a1d6-f9aa-4137-ba2a-6ce1543820a5",
+                "displayName": "Martabak Djuara, Menteng",
+                "description": "",
+                "idempotencyKey": ""
+              },
+              "tags": [
+                {
+                  "key": "tenants/gofood/tags/CUISINE_MARTABAK",
+                  "tenantUid": "gofood",
+                  "uid": "CUISINE_MARTABAK",
+                  "displayName": "Martabak",
+                  "description": "",
+                  "taxonomy": 2,
+                  "parentKey": ""
+                },
+                {
+                  "key": "tenants/gofood/tags/CUISINE_SWEETS_DESSERTS",
+                  "tenantUid": "gofood",
+                  "uid": "CUISINE_SWEETS_DESSERTS",
+                  "displayName": "Sweets",
+                  "description": "",
+                  "taxonomy": 2,
+                  "parentKey": ""
+                },
+                {
+                  "key": "tenants/gofood/tags/CUISINE_ROTI",
+                  "tenantUid": "gofood",
+                  "uid": "CUISINE_ROTI",
+                  "displayName": "Bakery",
+                  "description": "",
+                  "taxonomy": 2,
+                  "parentKey": ""
+                }
+              ]
+            },
+            "delivery": {
+              "enabled": false,
+              "maxRadiusKm": 0,
+              "maxRouteKm": 0,
+              "maxItems": 0,
+              "eta": {
+                "seconds": 1740,
+                "nanos": 0
+              },
+              "distanceKm": 0.16,
+              "deliverable": true
+            },
+            "pickup": {
+              "enabled": true
+            },
+            "ratings": {
+              "average": 4.7,
+              "total": 0
+            },
+            "maf": {
+              "enabled": true,
+              "autoAcceptEnabled": false
+            },
+            "media": {
+              "logoImgUrl": "",
+              "coverImgUrl": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/55bfa411-3598-4b58-8ab0-014e897d3090_Go-Biz_20220823_194225.jpeg"
+            },
+            "view": 0,
+            "priceLevel": 3,
+            "brandOutletsGrouped": false,
+            "offers": [],
+            "path": "/en/jakarta/restaurant/martabak-djuara-kuningan-186ef2fe-7000-479b-a6a2-0b888a2081ff"
+          },
+          {
+            "key": "tenants/gofood/outlets/0ca2fb1a-8407-4375-b4a6-6b770300d48a",
+            "tenantUid": "gofood",
+            "uid": "0ca2fb1a-8407-4375-b4a6-6b770300d48a",
+            "core": {
+              "key": "tenants/gofood/outlets/0ca2fb1a-8407-4375-b4a6-6b770300d48a",
+              "tenantUid": "gofood",
+              "uid": "0ca2fb1a-8407-4375-b4a6-6b770300d48a",
+              "displayName": "Ayam Keprabon Express, Ambassador",
+              "description": "",
+              "highlights": [],
+              "location": {
+                "latitude": -6.219696401474917,
+                "longitude": 106.82020114232927
+              },
+              "countryCode": "ID",
+              "timeZone": "Asia/Jakarta",
+              "serviceArea": {
+                "id": 1,
+                "name": "",
+                "zoneId": 0,
+                "zoneName": ""
+              },
+              "status": 1,
+              "openPeriods": [
+                {
+                  "day": 1,
+                  "startTime": {
+                    "hours": 11,
+                    "minutes": 0,
+                    "seconds": 0,
+                    "nanos": 0
+                  },
+                  "endTime": {
+                    "hours": 21,
+                    "minutes": 30,
+                    "seconds": 0,
+                    "nanos": 0
+                  }
+                },
+                {
+                  "day": 2,
+                  "startTime": {
+                    "hours": 11,
+                    "minutes": 0,
+                    "seconds": 0,
+                    "nanos": 0
+                  },
+                  "endTime": {
+                    "hours": 21,
+                    "minutes": 30,
+                    "seconds": 0,
+                    "nanos": 0
+                  }
+                },
+                {
+                  "day": 3,
+                  "startTime": {
+                    "hours": 11,
+                    "minutes": 0,
+                    "seconds": 0,
+                    "nanos": 0
+                  },
+                  "endTime": {
+                    "hours": 21,
+                    "minutes": 30,
+                    "seconds": 0,
+                    "nanos": 0
+                  }
+                },
+                {
+                  "day": 4,
+                  "startTime": {
+                    "hours": 11,
+                    "minutes": 0,
+                    "seconds": 0,
+                    "nanos": 0
+                  },
+                  "endTime": {
+                    "hours": 21,
+                    "minutes": 30,
+                    "seconds": 0,
+                    "nanos": 0
+                  }
+                },
+                {
+                  "day": 5,
+                  "startTime": {
+                    "hours": 11,
+                    "minutes": 0,
+                    "seconds": 0,
+                    "nanos": 0
+                  },
+                  "endTime": {
+                    "hours": 21,
+                    "minutes": 30,
+                    "seconds": 0,
+                    "nanos": 0
+                  }
+                },
+                {
+                  "day": 6,
+                  "startTime": {
+                    "hours": 11,
+                    "minutes": 0,
+                    "seconds": 0,
+                    "nanos": 0
+                  },
+                  "endTime": {
+                    "hours": 21,
+                    "minutes": 30,
+                    "seconds": 0,
+                    "nanos": 0
+                  }
+                },
+                {
+                  "day": 7,
+                  "startTime": {
+                    "hours": 11,
+                    "minutes": 0,
+                    "seconds": 0,
+                    "nanos": 0
+                  },
+                  "endTime": {
+                    "hours": 21,
+                    "minutes": 30,
+                    "seconds": 0,
+                    "nanos": 0
+                  }
+                }
+              ],
+              "createTime": "2017-08-15T08:24:31.078Z",
+              "brandUid": "b2cccff7-6d24-46dc-a2e0-2b714f2aa7a4",
+              "idempotencyKey": "",
+              "badges": [],
+              "notes": "",
+              "blockedReason": "",
+              "shortLink": "https://gofood.link/a/yMa4XW1",
+              "nextCloseTime": "2024-01-11T14:30:00.000Z",
+              "brand": {
+                "key": "tenants/gofood/brands/b2cccff7-6d24-46dc-a2e0-2b714f2aa7a4",
+                "tenantUid": "gofood",
+                "uid": "b2cccff7-6d24-46dc-a2e0-2b714f2aa7a4",
+                "displayName": "Ayam Keprabon Express PB1",
+                "description": "",
+                "idempotencyKey": ""
+              },
+              "tags": [
+                {
+                  "key": "tenants/gofood/tags/CUISINE_ANEKA_AYAM_BEBEK",
+                  "tenantUid": "gofood",
+                  "uid": "CUISINE_ANEKA_AYAM_BEBEK",
+                  "displayName": "Chicken & duck",
+                  "description": "",
+                  "taxonomy": 2,
+                  "parentKey": ""
+                }
+              ]
+            },
+            "delivery": {
+              "enabled": false,
+              "maxRadiusKm": 0,
+              "maxRouteKm": 0,
+              "maxItems": 0,
+              "eta": {
+                "seconds": 1260,
+                "nanos": 0
+              },
+              "distanceKm": 0.36,
+              "deliverable": true
+            },
+            "pickup": {
+              "enabled": true
+            },
+            "ratings": {
+              "average": 4.6,
+              "total": 0
+            },
+            "maf": {
+              "enabled": true,
+              "autoAcceptEnabled": false
+            },
+            "media": {
+              "logoImgUrl": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/d51d264e-6f3c-46a2-95f0-bcc5d75d860a_brand-logo_1666850735883.jpg",
+              "coverImgUrl": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/94de0d0d-b890-4e7a-bcea-e710efc32a06_gobiz-dashboard-image_1695785382351.jpg"
+            },
+            "view": 0,
+            "priceLevel": 2,
+            "brandOutletsGrouped": false,
+            "offers": [],
+            "path": "/en/jakarta/restaurant/ayam-keprabon-express-ambassador-0ca2fb1a-8407-4375-b4a6-6b770300d48a"
+          }
+        ],
+        "seeAllUrl": "/jakarta/restaurants/most_loved"
+      }
+    ],
+    "__lang": "en",
+    "__namespaces": {
+      "common": {
+        "see_all": "See all",
+        "explore": "Explore",
+        "load_more": "Load more",
+        "more_outlets_cta": "More outlets",
+        "failed_load_more": "Oops, the content failed to be shown. Please reload the page.",
+        "failed_load_data": "Oops, the page failed to load. Please reload the page.",
+        "failed_general": "Uh oh, something went wrong. Try reloading this page.",
+        "failed_network_error": "Oops, we've lost connection with you. Let's try that again.",
+        "failed_cta": "Ok",
+        "restaurants": "Restaurants",
+        "privacy_policy": "Privacy policy",
+        "terms_of_service": "Terms of service",
+        "download_on_app_store": "Download on App Store",
+        "download_on_play_store": "Download on Play Store",
+        "follow_us": "Follow us",
+        "footer_trademark": "© {{ year }} Gojek | Gojek is a trademark of PT Aplikasi Karya Anak Bangsa. Registered in the Directorate General of Intellectual Property of the Republic of Indonesia.",
+        "error_general_desc": "Let's check back again later or change the location to see what else is good on GoFood.",
+        "error_server_title": "Oops, something went wrong",
+        "view_resto_cta": "Show all restos",
+        "show_recommendation_cta": "Show more cuisines",
+        "show_cuisines_cta": "Show more cuisines",
+        "show_popular_brand_cta": "Show all",
+        "home": "Home",
+        "collections": "Recommendations",
+        "cities_title": "Cities with GoFood",
+        "cities_cta": "Show more cities",
+        "cities_cta_show_all": "Show all cities",
+        "error_not_found_title": "We’re not ghosting you. We promise!",
+        "error_not_found_desc": "We’ve got nothing to show at the moment, but you can try again or search for other locations.",
+        "error_rate_limited": "Your finger's lightning fast! Wait a few seconds before trying again.",
+        "error_unserviceable_title": "Aww, we’re not there yet...",
+        "error_unserviceable_desc": "We'll keep expanding our service areas. For now, you can still search for good foods in other locations.",
+        "error_no_location": "Can’t find the location. Check the spelling?",
+        "download_banner_title": "It's like having the entire neighborhood's kitchen in your pocket",
+        "download_banner_desc": "Enjoy a large variety of meals, deals, and member-only features in GoFood app.",
+        "location_picker_bottomsheet_title": "Select your location",
+        "location_picker_bottomsheet_illustration": "Turn on location to get better recommendations in your location",
+        "location_picker_placeholder": "Enter your location",
+        "location_picker_button": "Explore",
+        "location_picker_title": "Your location",
+        "location_picker_desc1": "Explore good grubs in other cities.",
+        "location_picker_desc2": "Wanna change location? Explore ahead!",
+        "location_picker_desc3": "Curious what's in other locations? Change it up.",
+        "location_detector": "Use your current location",
+        "location_picker_suggestions_title": "Location suggestions",
+        "toaster_turn_on_location": "Turn on location to get better recommendations in your location",
+        "toaster_error_get_location": "Failed to get your location data",
+        "toaster_new_account_title": "Hooray!",
+        "toaster_new_account_subtitle": "You can now start ordering from GoFood.",
+        "see_other_collections": "See other recommendations",
+        "discount_off": "{{amount}} off",
+        "discount_up_to": " up to {{amount}}",
+        "discount_total": "Up to {{amount}} total discount",
+        "open": "Open",
+        "closed": "Closed",
+        "closing_soon": "Closing soon",
+        "unavailable": "Delivery unavailable",
+        "week_1": "Monday",
+        "week_2": "Tuesday",
+        "week_3": "Wednesday",
+        "week_4": "Thursday",
+        "week_5": "Friday",
+        "week_6": "Saturday",
+        "week_7": "Sunday",
+        "distance": "Distance",
+        "certified": "Certified",
+        "new": "New",
+        "popular_countries": "Popular Countries",
+        "all_countries": "All Countries",
+        "login_signup": "Log in/Sign up",
+        "logout": "Log out",
+        "ongoing_orders": "On-going orders",
+        "coachmark_ongoing_orders": "Never miss your orders! Track ongoing orders here on profile.",
+        "open_app_title": "Switch to the app?",
+        "open_app_cta": "Open app",
+        "promo": "Promos for you",
+        "promo_subtitle": "Pick the promo you want on checkout.",
+        "count_promo_available": "{{count}} promos are available",
+        "promo_eligible": "Ready to use",
+        "promo_applied": "Applied",
+        "promo_limited": "Limited Availability",
+        "promo_locked": "Check details to unlock this promo",
+        "promo_expires_on": "Expires on {{date}}",
+        "apply_promo_title": "Apply promo before you order",
+        "use_promo": "Use",
+        "remove": "Remove",
+        "my_profile": "My Profile",
+        "read_more": "More details",
+        "read_less": "Less",
+        "view": "View",
+        "view_all": "View all",
+        "today_at": "Today at",
+        "yesterday_at": "Yesterday at",
+        "tenant_generic_error_title": "Oops, something went wrong",
+        "tenant_generic_error_desc": "Please try closing and reopening GoFood on MoMo to resolve the issue.",
+        "tenant_generic_error_cta": "Ok, got it"
+      },
+      "outlet": {
+        "price_level_0": "Price range",
+        "price_level_1": "Below 16k",
+        "price_level_2": "16k-40k",
+        "price_level_3": "40k-100k",
+        "price_level_4": "Over 100k",
+        "no_outlet": "Uh oh, nothing to see here...",
+        "no_outlet_desc": "We haven’t curated this list. In the meantime, check out other recommendations!",
+        "ratings": "ratings",
+        "review_highlighted": "What people say",
+        "review_all": "All reviews",
+        "review_latest_ratings": "Freshest ratings",
+        "review_user_since": "Gojek user since",
+        "review_merchant_reply": "Reply from",
+        "review_ordered_on": "Ordered on",
+        "button_content_menu": "Menu",
+        "button_content_reviews": "Reviews",
+        "button_menu_open": "Menu",
+        "button_menu_close": "Close menu",
+        "open_hours": "Opening hours",
+        "recommended": "Recommended",
+        "bestseller": "Terlaris",
+        "resto_rating": "Resto rating",
+        "empty_review_title": "This resto has no reviews yet",
+        "see_reviews": "See reviews",
+        "add_to_cart": "Add to cart - {{price}}",
+        "update_cart": "Update cart - {{price}}",
+        "remove_item": "Remove item",
+        "remove_notes": "Remove notes",
+        "customize_item": "Customize the dish",
+        "customize_another": "Add another custom item",
+        "notes_label": "Notes",
+        "notes_placeholder": "Example: add more, plz...",
+        "how_many": "How many?",
+        "not_customizing": "Not customizing.",
+        "notes": "Notes",
+        "edit": "Edit",
+        "add": "Add",
+        "customizable": "Customizable",
+        "out_of_stock": "Out of stock",
+        "free": "Free",
+        "promo": "Promo",
+        "qty_items": {
+          "one": "{{count}} item",
+          "other": "{{count}} items"
+        },
+        "required": "Required",
+        "optional": "Optional",
+        "required_field_error": "Pick how you want to customize",
+        "field_hint_select_1": "Select 1",
+        "field_hint_select_multiple": "Select up to {{number}}",
+        "field_hint_select_multiple_from": "Select {{number_from}} to {{number_to}}",
+        "outlet_unavailable": "No delivery from this resto & area, yet. Let’s explore other restos.",
+        "availability_force_close": "Closed • Check again later",
+        "availability_close": "Closed",
+        "availability_open_today": "Closed • Opens at {{hour}} today",
+        "availability_open_tomorrow": "Closed • Opens at {{hour}} tomorrow",
+        "availability_open_day": "Closed • Opens at {{hour}} {{day_name}}"
+      },
+      "meta": {
+        "default_title": "Taste the top restaurants",
+        "default_description": "Browse around for good food, pick what you like, and GoFood can deliver it to you.",
+        "404_page_title": "Oops! Page not found",
+        "server_error_page_title": "Oops! Error happened in server",
+        "unserviceable_page_title": "Oops! This location could not be found",
+        "landing_page_title": "Restaurants in {{location}}",
+        "collections_page_title": "Restaurants Recommendations",
+        "detail_category_page_title": "{{category}} Restaurants in {{location}}",
+        "detail_brand_page_title": "{{brand}} in {{location}}",
+        "orders_page_title": "Your orders",
+        "order_page_title": "Order number {{order_number}}",
+        "checkout_page_title": "Checkout",
+        "ecard_page_title": "E-Card"
+      },
+      "cart": {
+        "your-order": "Your order",
+        "customization": "Customization",
+        "add-more": "Add more",
+        "total-amount": "Total price",
+        "checkout": "Continue to checkout",
+        "checkout_guest": "Log in and order",
+        "empty-cart": "Your cart is empty. Let's discover our collections of popular dishes.",
+        "items-count_one": "{{count}} item",
+        "items-count_other": "{{count}} items"
+      },
+      "error-modal": {
+        "default_primary_btn": "Ok, got it",
+        "default_secondary_btn": "Cancel",
+        "no_internet_connection_title": "You seem to be offline",
+        "no_internet_connection_desc": "Check your Wi-Fi connection or cellular data and try again.",
+        "no_internet_connection_primary_btn": "Try again",
+        "change_merchant_title": "Want to order from this resto instead?",
+        "change_merchant_desc": "Sure thing, but we’ll need to clear the items in your current cart from the previous resto first.",
+        "change_merchant_primary_btn": "Sure, go ahead",
+        "change_merchant_secondary_btn": "Cancel",
+        "total_price_above_limit_title": "Whoaa, your cart is overloaded",
+        "total_price_above_limit_desc": "Thanks for the big order, but the maximum food purchase is Rp 2.000.000",
+        "cart_too_big_primary_btn": "Ok, got it",
+        "delivery_distance_out_of_limit_title": "Whoaa, that restaurant is too far",
+        "delivery_distance_out_of_limit_desc": "We don’t want your food to get cold. Try ordering from a restaurant closer to you.",
+        "resto_too_far_primary_btn": "Explore restos",
+        "resto_too_far_secondary_btn": "Change location",
+        "outlet_closed_title": "The restaurant just closed 😖",
+        "outlet_closed_desc": "Your cart will be cleared. Worry not, we found other restos opening at this hour.",
+        "resto_closed_primary_btn": "Explore other restos",
+        "driver_cancelled_title": "Driver has cancelled your order",
+        "driver_cancelled_desc": "Let’s move on and find you another one. Shall we?",
+        "driver_cancelled_primary_btn": "Try again",
+        "drivers_busy_title": "Oh no, our drivers are all busy",
+        "drivers_busy_desc": "Let’s try again and find a new driver for your order from {{ name }}.",
+        "drivers_busy_primary_btn": "Return to your cart",
+        "order_cancelled_title": "We've canceled your order",
+        "order_cancelled_desc": "Hope we can help you get your meal next time.",
+        "order_cancelled_primary_btn": "Ok, got it",
+        "prevent_order_title": "You already have several ongoing orders",
+        "prevent_order_desc": "Please wait until one of them is completed, then order again like usual.",
+        "prevent_order_primary_btn": "Ok, got it",
+        "prevent_order_secondary_btn": "Track my order",
+        "item_out_of_stock_title": "These items are out of stock",
+        "item_out_of_stock_desc": "Remove these items on your cart to place your order:",
+        "out_of_stock_primary_btn": "Ok, got it",
+        "sku_quantity_above_limit_title": "Double check your order",
+        "sku_quantity_above_limit_desc_one": "You can only order max. {{ max_count }} {{ name }} with the discount. Please remove some items before continuing.",
+        "sku_quantity_above_limit_desc_other": "{{ name }} and {{ item_count_left }} other has exceeded the discount limit. Please check the limits and remove the excess items before continuing.",
+        "sku_quantity_above_limit_btn": "Ok, got it",
+        "total_quantity_above_limit_title": "These items are running low",
+        "total_quantity_above_limit_desc": "Reduce the quantity of the items to place your order",
+        "qty_limit_primary_btn": "Ok, got it",
+        "empty_cart_title": "Whooosh, empty cart it is",
+        "empty_cart_desc": "All items has been removed. Looking for other options? GoFood has many great restos you can try.",
+        "empty_cart_primary_btn": "Back to resto page",
+        "order_confirmation_title": "Please double check your order",
+        "order_confirmation_desc": "We can’t cancel confirmed orders at Super Partners. Resto will directly prepare it for faster delivery.",
+        "order_confirmation_primary_btn": "Order",
+        "order_confirmation_secondary_btn": "Check again",
+        "session_expired_title": "You've been logged out",
+        "session_expired_desc": "Let's log in again to order GoFood. For security, you'll be asked to log in to your account every 24 hours.",
+        "session_expired_primary_btn": "Log in",
+        "session_expired_secondary_btn": "Later",
+        "tenant_consent_denied_title": "Share your info to place the order",
+        "tenant_consent_denied_desc": "Sharing your name, phone number, and email will help drivers contact you easily about your orders.",
+        "tenant_consent_denied_cta": "Ok, got it",
+        "tenant_location_denied_title": "Enable location service",
+        "tenant_location_denied_desc": "This helps us accurately pinpoint your location so you can get better recommendations.",
+        "tenant_location_denied_cta": "Ok, got it",
+        "ticket_submission_failed_title": "Fail to submit your report",
+        "ticket_submission_failed_desc": "Let's try again while we're fixing this.",
+        "ticket_submission_failed_primary_btn": "Got it",
+        "ticket_submission_success_title": "We got your report",
+        "ticket_submission_success_desc": "We'll respond right away. Check the ticket status on your email or on Gojek app (My Profile > Help & My Tickets).",
+        "ticket_submission_success_primary_btn": "Got it"
+      },
+      "category": {
+        "MARTABAK": "Martabak",
+        "SOTO_BAKSO_SOP": "Bakso & soto",
+        "ROTI": "Bakery",
+        "CHINESE": "Chinese",
+        "BURGER_SANDWICH_STEAK": "Western",
+        "FASTFOOD": "Fast food",
+        "JAPANESE": "Japanese",
+        "SNACKS_JAJANAN": "Snacks",
+        "SATE": "Sate",
+        "PIZZA_PASTA": "Pizza & pasta",
+        "BAKMIE": "Noodles",
+        "MINUMAN": "Beverages",
+        "KOREAN": "Korean",
+        "SEAFOOD": "Seafood",
+        "COFFEE_SHOP": "Coffee",
+        "INDIAN_FOOD": "Indian",
+        "MIDDLE_EASTERN": "Middle Eastern",
+        "NEAR_ME": "Near me",
+        "BEST_SELLER": "Best sellers",
+        "NEW_MERCHANT": "New this week",
+        "AFFORDABLE_PRICE": "Budget meal",
+        "MOST_LOVED": "Most loved",
+        "24_HOURS": "24 hours",
+        "HEALTHY_FOOD": "Healthy food",
+        "MKD_MEGAPROMO_ALL": "Pasti Ada Promo",
+        "BESTSELLERS": "Best sellers",
+        "BUDGETMEAL": "Budget meal",
+        "VIETNAMESE_NEW": "Vietnamese food",
+        "MKT_MART": "Daily needs",
+        "RICE_AND_STICKY_RICE": "All Rice",
+        "BOBA_AND_TEA": "Boba World",
+        "NOODLES": "Noodle Paradise",
+        "FAST_FOOD": "Fast Food",
+        "COFFEE": "Coffee World",
+        "SNACK": "Great Snack",
+        "JUICE_AND_SMOOTHIES": "Fruity Smoothie",
+        "VEGETARIAN": "Peaceful Vegan",
+        "INTERNATIONAL_FOOD": "Global Cuisines",
+        "VIETNAMESE": "Vietnamese",
+        "UNDER_THE_SEA": "Under The Sea",
+        "WINGS_ON_WINGS": "Wings On Wings",
+        "SWEET_TOOTH": "Sweet Tooth",
+        "THAI": "Thai",
+        "BANH_MI": "Banh Mi",
+        "ITALIAN": "Pizza & Pasta"
+      },
+      "landing": {
+        "most_loved_title": "Check what’s trending",
+        "most_loved_desc": "Try the most raved eats on GoFood.",
+        "nearme_title": "What’s good ‘round the block",
+        "nearme_desc": "Try your area’s finest eats.",
+        "popular_title": "Popular in your area",
+        "popular_desc": "These are the people’s go-tos.",
+        "location_title": "Places to check out",
+        "location_desc": "Here are the cities and locales that have drool-worthy meals!",
+        "banner_collection_title": "{{ location }} Recommendations",
+        "banner_collection_desc": "Explore our curated recommendations based on your various needs",
+        "cuisine_title": "Choose from cuisines",
+        "cuisine_desc": "One of these might catch your tummy's attention.",
+        "cuisine_cta_more": "Show all cuisines",
+        "cuisine_cta_less": "Hide cuisines",
+        "collections_title": "Our recommendations",
+        "collections_desc": "Here's a shortcut for goodness.",
+        "banner_desc": "Discover what's good to eat and drink here, from local best sellers to culinary legends.",
+        "breadcrumbs_restaurants": "{{ location }} Restaurants",
+        "breadcrumbs_cities": "Cities",
+        "banner_cities_title": "Cities with GoFood",
+        "banner_cities_desc": "Enjoy GoFood services in more than 70 cities across Indonesia! Where do you want to order from?",
+        "cities_title": "Places to check out",
+        "cities_desc": "Here are the cities and locales that have drool-worthy meals!"
+      }
+    }
+  },
+  "__N_SSP": true
+}
