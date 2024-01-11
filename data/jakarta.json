@@ -1,0 +1,726 @@
+[
+  {
+    "name": "Bekasi",
+    "path": "/jakarta/bekasi-restaurants"
+  },
+  {
+    "name": "Bogor",
+    "path": "/jakarta/bogor-restaurants"
+  },
+  {
+    "name": "Depok",
+    "path": "/jakarta/depok-restaurants"
+  },
+  {
+    "name": "Jakarta Barat",
+    "path": "/jakarta/jakarta-barat-restaurants"
+  },
+  {
+    "name": "Jakarta Pusat",
+    "path": "/jakarta/jakarta-pusat-restaurants"
+  },
+  {
+    "name": "Jakarta Selatan",
+    "path": "/jakarta/jakarta-selatan-restaurants"
+  },
+  {
+    "name": "Jakarta Timur",
+    "path": "/jakarta/jakarta-timur-restaurants"
+  },
+  {
+    "name": "Jakarta Utara",
+    "path": "/jakarta/jakarta-utara-restaurants"
+  },
+  {
+    "name": "Kodya Bekasi",
+    "path": "/jakarta/kodya-bekasi-restaurants"
+  },
+  {
+    "name": "Kodya Bogor",
+    "path": "/jakarta/kodya-bogor-restaurants"
+  },
+  {
+    "name": "Kodya Tangerang",
+    "path": "/jakarta/kodya-tangerang-restaurants"
+  },
+  {
+    "name": "Tangerang",
+    "path": "/jakarta/tangerang-restaurants"
+  },
+  {
+    "name": "Babelan",
+    "path": "/jakarta/babelan-restaurants"
+  },
+  {
+    "name": "Bojongmanggu",
+    "path": "/jakarta/bojongmanggu-restaurants"
+  },
+  {
+    "name": "Cabangbungin",
+    "path": "/jakarta/cabangbungin-restaurants"
+  },
+  {
+    "name": "Cibarusah",
+    "path": "/jakarta/cibarusah-restaurants"
+  },
+  {
+    "name": "Cibitung",
+    "path": "/jakarta/cibitung-restaurants"
+  },
+  {
+    "name": "Cikarang Barat",
+    "path": "/jakarta/cikarang-barat-restaurants"
+  },
+  {
+    "name": "Cikarang Pusat",
+    "path": "/jakarta/cikarang-pusat-restaurants"
+  },
+  {
+    "name": "Cikarang Selatan",
+    "path": "/jakarta/cikarang-selatan-restaurants"
+  },
+  {
+    "name": "Cikarang Timur",
+    "path": "/jakarta/cikarang-timur-restaurants"
+  },
+  {
+    "name": "Cikarang Utara",
+    "path": "/jakarta/cikarang-utara-restaurants"
+  },
+  {
+    "name": "Karangbahagia",
+    "path": "/jakarta/karangbahagia-restaurants"
+  },
+  {
+    "name": "Kedungwaringin",
+    "path": "/jakarta/kedungwaringin-restaurants"
+  },
+  {
+    "name": "Muara Gembong",
+    "path": "/jakarta/muara-gembong-restaurants"
+  },
+  {
+    "name": "Pebayuran",
+    "path": "/jakarta/pebayuran-restaurants"
+  },
+  {
+    "name": "Serang Baru",
+    "path": "/jakarta/serang-baru-restaurants"
+  },
+  {
+    "name": "Setu",
+    "path": "/jakarta/setu-restaurants"
+  },
+  {
+    "name": "Sukakarya",
+    "path": "/jakarta/sukakarya-restaurants"
+  },
+  {
+    "name": "Sukatani",
+    "path": "/jakarta/sukatani-restaurants"
+  },
+  {
+    "name": "Sukawangi",
+    "path": "/jakarta/sukawangi-restaurants"
+  },
+  {
+    "name": "Tambelang",
+    "path": "/jakarta/tambelang-restaurants"
+  },
+  {
+    "name": "Tambun Selatan",
+    "path": "/jakarta/tambun-selatan-restaurants"
+  },
+  {
+    "name": "Tambun Utara",
+    "path": "/jakarta/tambun-utara-restaurants"
+  },
+  {
+    "name": "Tarumajaya",
+    "path": "/jakarta/tarumajaya-restaurants"
+  },
+  {
+    "name": "Babakan Madang",
+    "path": "/jakarta/babakan-madang-restaurants"
+  },
+  {
+    "name": "Bojong Gede",
+    "path": "/jakarta/bojong-gede-restaurants"
+  },
+  {
+    "name": "Caringin",
+    "path": "/jakarta/caringin-restaurants"
+  },
+  {
+    "name": "Cariu",
+    "path": "/jakarta/cariu-restaurants"
+  },
+  {
+    "name": "Ciawi",
+    "path": "/jakarta/ciawi-restaurants"
+  },
+  {
+    "name": "Cibinong",
+    "path": "/jakarta/cibinong-restaurants"
+  },
+  {
+    "name": "Cibungbulang",
+    "path": "/jakarta/cibungbulang-restaurants"
+  },
+  {
+    "name": "Cigombong",
+    "path": "/jakarta/cigombong-restaurants"
+  },
+  {
+    "name": "Cigudeg",
+    "path": "/jakarta/cigudeg-restaurants"
+  },
+  {
+    "name": "Cijeruk",
+    "path": "/jakarta/cijeruk-restaurants"
+  },
+  {
+    "name": "Cileungsi",
+    "path": "/jakarta/cileungsi-restaurants"
+  },
+  {
+    "name": "Ciomas",
+    "path": "/jakarta/ciomas-restaurants"
+  },
+  {
+    "name": "Cisarua",
+    "path": "/jakarta/cisarua-restaurants"
+  },
+  {
+    "name": "Ciseeng",
+    "path": "/jakarta/ciseeng-restaurants"
+  },
+  {
+    "name": "Citeureup",
+    "path": "/jakarta/citeureup-restaurants"
+  },
+  {
+    "name": "Dramaga",
+    "path": "/jakarta/dramaga-restaurants"
+  },
+  {
+    "name": "Gunung Putri",
+    "path": "/jakarta/gunung-putri-restaurants"
+  },
+  {
+    "name": "Gunung Sindur",
+    "path": "/jakarta/gunung-sindur-restaurants"
+  },
+  {
+    "name": "Jasinga",
+    "path": "/jakarta/jasinga-restaurants"
+  },
+  {
+    "name": "Jonggol",
+    "path": "/jakarta/jonggol-restaurants"
+  },
+  {
+    "name": "Kelapa Nunggal",
+    "path": "/jakarta/kelapa-nunggal-restaurants"
+  },
+  {
+    "name": "Kemang",
+    "path": "/jakarta/kemang-restaurants"
+  },
+  {
+    "name": "Leuwiliang",
+    "path": "/jakarta/leuwiliang-restaurants"
+  },
+  {
+    "name": "Leuwisadeng",
+    "path": "/jakarta/leuwisadeng-restaurants"
+  },
+  {
+    "name": "Megamendung",
+    "path": "/jakarta/megamendung-restaurants"
+  },
+  {
+    "name": "Nanggung",
+    "path": "/jakarta/nanggung-restaurants"
+  },
+  {
+    "name": "Pamijahan",
+    "path": "/jakarta/pamijahan-restaurants"
+  },
+  {
+    "name": "Parung",
+    "path": "/jakarta/parung-restaurants"
+  },
+  {
+    "name": "Parung Panjang",
+    "path": "/jakarta/parung-panjang-restaurants"
+  },
+  {
+    "name": "Ranca Bungur",
+    "path": "/jakarta/ranca-bungur-restaurants"
+  },
+  {
+    "name": "Rumpin",
+    "path": "/jakarta/rumpin-restaurants"
+  },
+  {
+    "name": "Sukajaya",
+    "path": "/jakarta/sukajaya-restaurants"
+  },
+  {
+    "name": "Sukamakmur",
+    "path": "/jakarta/sukamakmur-restaurants"
+  },
+  {
+    "name": "Sukaraja",
+    "path": "/jakarta/sukaraja-restaurants"
+  },
+  {
+    "name": "Tajurhalang",
+    "path": "/jakarta/tajurhalang-restaurants"
+  },
+  {
+    "name": "Tamansari",
+    "path": "/jakarta/tamansari-restaurants"
+  },
+  {
+    "name": "Tanjungsari",
+    "path": "/jakarta/tanjungsari-restaurants"
+  },
+  {
+    "name": "Tenjo",
+    "path": "/jakarta/tenjo-restaurants"
+  },
+  {
+    "name": "Tenjolaya I",
+    "path": "/jakarta/tenjolaya-i-restaurants"
+  },
+  {
+    "name": "Tenjolaya II",
+    "path": "/jakarta/tenjolaya-ii-restaurants"
+  },
+  {
+    "name": "Beji",
+    "path": "/jakarta/beji-restaurants"
+  },
+  {
+    "name": "Cimanggis",
+    "path": "/jakarta/cimanggis-restaurants"
+  },
+  {
+    "name": "Limo",
+    "path": "/jakarta/limo-restaurants"
+  },
+  {
+    "name": "Pancoran Mas",
+    "path": "/jakarta/pancoran-mas-restaurants"
+  },
+  {
+    "name": "Sawangan",
+    "path": "/jakarta/sawangan-restaurants"
+  },
+  {
+    "name": "Sukma Jaya",
+    "path": "/jakarta/sukma-jaya-restaurants"
+  },
+  {
+    "name": "Cengkareng",
+    "path": "/jakarta/cengkareng-restaurants"
+  },
+  {
+    "name": "Grogol Petamburan",
+    "path": "/jakarta/grogol-petamburan-restaurants"
+  },
+  {
+    "name": "Kali Deres",
+    "path": "/jakarta/kali-deres-restaurants"
+  },
+  {
+    "name": "Kebon Jeruk",
+    "path": "/jakarta/kebon-jeruk-restaurants"
+  },
+  {
+    "name": "Kembangan",
+    "path": "/jakarta/kembangan-restaurants"
+  },
+  {
+    "name": "Palmerah",
+    "path": "/jakarta/palmerah-restaurants"
+  },
+  {
+    "name": "Taman Sari",
+    "path": "/jakarta/taman-sari-restaurants"
+  },
+  {
+    "name": "Tambora",
+    "path": "/jakarta/tambora-restaurants"
+  },
+  {
+    "name": "Cempaka Putih",
+    "path": "/jakarta/cempaka-putih-restaurants"
+  },
+  {
+    "name": "Gambir",
+    "path": "/jakarta/gambir-restaurants"
+  },
+  {
+    "name": "Johar Baru",
+    "path": "/jakarta/johar-baru-restaurants"
+  },
+  {
+    "name": "Kemayoran",
+    "path": "/jakarta/kemayoran-restaurants"
+  },
+  {
+    "name": "Menteng",
+    "path": "/jakarta/menteng-restaurants"
+  },
+  {
+    "name": "Sawah Besar",
+    "path": "/jakarta/sawah-besar-restaurants"
+  },
+  {
+    "name": "Senen",
+    "path": "/jakarta/senen-restaurants"
+  },
+  {
+    "name": "Tanah Abang",
+    "path": "/jakarta/tanah-abang-restaurants"
+  },
+  {
+    "name": "Cilandak",
+    "path": "/jakarta/cilandak-restaurants"
+  },
+  {
+    "name": "Jagakarsa",
+    "path": "/jakarta/jagakarsa-restaurants"
+  },
+  {
+    "name": "Kebayoran Baru",
+    "path": "/jakarta/kebayoran-baru-restaurants"
+  },
+  {
+    "name": "Kebayoran Lama",
+    "path": "/jakarta/kebayoran-lama-restaurants"
+  },
+  {
+    "name": "Mampang Prapatan",
+    "path": "/jakarta/mampang-prapatan-restaurants"
+  },
+  {
+    "name": "Pancoran",
+    "path": "/jakarta/pancoran-restaurants"
+  },
+  {
+    "name": "Pasar Minggu",
+    "path": "/jakarta/pasar-minggu-restaurants"
+  },
+  {
+    "name": "Pesanggrahan",
+    "path": "/jakarta/pesanggrahan-restaurants"
+  },
+  {
+    "name": "Setia Budi",
+    "path": "/jakarta/setia-budi-restaurants"
+  },
+  {
+    "name": "Tebet",
+    "path": "/jakarta/tebet-restaurants"
+  },
+  {
+    "name": "Cakung",
+    "path": "/jakarta/cakung-restaurants"
+  },
+  {
+    "name": "Cipayung",
+    "path": "/jakarta/cipayung-restaurants"
+  },
+  {
+    "name": "Ciracas",
+    "path": "/jakarta/ciracas-restaurants"
+  },
+  {
+    "name": "Duren Sawit",
+    "path": "/jakarta/duren-sawit-restaurants"
+  },
+  {
+    "name": "Jatinegara",
+    "path": "/jakarta/jatinegara-restaurants"
+  },
+  {
+    "name": "Kramat Jati",
+    "path": "/jakarta/kramat-jati-restaurants"
+  },
+  {
+    "name": "Makasar",
+    "path": "/jakarta/makasar-restaurants"
+  },
+  {
+    "name": "Matraman",
+    "path": "/jakarta/matraman-restaurants"
+  },
+  {
+    "name": "Pasar Rebo",
+    "path": "/jakarta/pasar-rebo-restaurants"
+  },
+  {
+    "name": "Pulo Gadung",
+    "path": "/jakarta/pulo-gadung-restaurants"
+  },
+  {
+    "name": "Cilincing",
+    "path": "/jakarta/cilincing-restaurants"
+  },
+  {
+    "name": "Kelapa Gading",
+    "path": "/jakarta/kelapa-gading-restaurants"
+  },
+  {
+    "name": "Koja",
+    "path": "/jakarta/koja-restaurants"
+  },
+  {
+    "name": "Pademangan",
+    "path": "/jakarta/pademangan-restaurants"
+  },
+  {
+    "name": "Penjaringan",
+    "path": "/jakarta/penjaringan-restaurants"
+  },
+  {
+    "name": "Taman Marina",
+    "path": "/jakarta/taman-marina-restaurants"
+  },
+  {
+    "name": "Tanjung Priok",
+    "path": "/jakarta/tanjung-priok-restaurants"
+  },
+  {
+    "name": "Bantar Gebang",
+    "path": "/jakarta/bantar-gebang-restaurants"
+  },
+  {
+    "name": "Bekasi Barat",
+    "path": "/jakarta/bekasi-barat-restaurants"
+  },
+  {
+    "name": "Bekasi Selatan",
+    "path": "/jakarta/bekasi-selatan-restaurants"
+  },
+  {
+    "name": "Bekasi Timur",
+    "path": "/jakarta/bekasi-timur-restaurants"
+  },
+  {
+    "name": "Bekasi Utara",
+    "path": "/jakarta/bekasi-utara-restaurants"
+  },
+  {
+    "name": "Jati Asih",
+    "path": "/jakarta/jati-asih-restaurants"
+  },
+  {
+    "name": "Jati Sampurna",
+    "path": "/jakarta/jati-sampurna-restaurants"
+  },
+  {
+    "name": "Medan Satria",
+    "path": "/jakarta/medan-satria-restaurants"
+  },
+  {
+    "name": "Mustika Jaya",
+    "path": "/jakarta/mustika-jaya-restaurants"
+  },
+  {
+    "name": "Pondok Gede",
+    "path": "/jakarta/pondok-gede-restaurants"
+  },
+  {
+    "name": "Pondok Melati",
+    "path": "/jakarta/pondok-melati-restaurants"
+  },
+  {
+    "name": "Rawa Lumbu",
+    "path": "/jakarta/rawa-lumbu-restaurants"
+  },
+  {
+    "name": "Bogor Barat",
+    "path": "/jakarta/bogor-barat-restaurants"
+  },
+  {
+    "name": "Bogor Selatan",
+    "path": "/jakarta/bogor-selatan-restaurants"
+  },
+  {
+    "name": "Bogor Tengah",
+    "path": "/jakarta/bogor-tengah-restaurants"
+  },
+  {
+    "name": "Bogor Timur",
+    "path": "/jakarta/bogor-timur-restaurants"
+  },
+  {
+    "name": "Bogor Utara",
+    "path": "/jakarta/bogor-utara-restaurants"
+  },
+  {
+    "name": "Tanah Sereal",
+    "path": "/jakarta/tanah-sereal-restaurants"
+  },
+  {
+    "name": "Batuceper",
+    "path": "/jakarta/batuceper-restaurants"
+  },
+  {
+    "name": "Benda",
+    "path": "/jakarta/benda-restaurants"
+  },
+  {
+    "name": "Cibodas",
+    "path": "/jakarta/cibodas-restaurants"
+  },
+  {
+    "name": "Ciledug",
+    "path": "/jakarta/ciledug-restaurants"
+  },
+  {
+    "name": "Cipondoh",
+    "path": "/jakarta/cipondoh-restaurants"
+  },
+  {
+    "name": "Jati Uwung",
+    "path": "/jakarta/jati-uwung-restaurants"
+  },
+  {
+    "name": "Karang Tengah",
+    "path": "/jakarta/karang-tengah-restaurants"
+  },
+  {
+    "name": "Karawaci",
+    "path": "/jakarta/karawaci-restaurants"
+  },
+  {
+    "name": "Larangan",
+    "path": "/jakarta/larangan-restaurants"
+  },
+  {
+    "name": "Neglasari",
+    "path": "/jakarta/neglasari-restaurants"
+  },
+  {
+    "name": "Periuk",
+    "path": "/jakarta/periuk-restaurants"
+  },
+  {
+    "name": "Pinang",
+    "path": "/jakarta/pinang-restaurants"
+  },
+  {
+    "name": "Balaraja",
+    "path": "/jakarta/balaraja-restaurants"
+  },
+  {
+    "name": "Cikupa",
+    "path": "/jakarta/cikupa-restaurants"
+  },
+  {
+    "name": "Ciputat",
+    "path": "/jakarta/ciputat-restaurants"
+  },
+  {
+    "name": "Cisauk",
+    "path": "/jakarta/cisauk-restaurants"
+  },
+  {
+    "name": "Cisoka",
+    "path": "/jakarta/cisoka-restaurants"
+  },
+  {
+    "name": "Curug",
+    "path": "/jakarta/curug-restaurants"
+  },
+  {
+    "name": "Jambe",
+    "path": "/jakarta/jambe-restaurants"
+  },
+  {
+    "name": "Jayanti",
+    "path": "/jakarta/jayanti-restaurants"
+  },
+  {
+    "name": "Kemiri",
+    "path": "/jakarta/kemiri-restaurants"
+  },
+  {
+    "name": "Kosambi",
+    "path": "/jakarta/kosambi-restaurants"
+  },
+  {
+    "name": "Kresek",
+    "path": "/jakarta/kresek-restaurants"
+  },
+  {
+    "name": "Kronjo",
+    "path": "/jakarta/kronjo-restaurants"
+  },
+  {
+    "name": "Legok",
+    "path": "/jakarta/legok-restaurants"
+  },
+  {
+    "name": "Mauk",
+    "path": "/jakarta/mauk-restaurants"
+  },
+  {
+    "name": "Pagedangan",
+    "path": "/jakarta/pagedangan-restaurants"
+  },
+  {
+    "name": "Pakuhaji",
+    "path": "/jakarta/pakuhaji-restaurants"
+  },
+  {
+    "name": "Pamulang",
+    "path": "/jakarta/pamulang-restaurants"
+  },
+  {
+    "name": "Panongan",
+    "path": "/jakarta/panongan-restaurants"
+  },
+  {
+    "name": "Pasarkemis",
+    "path": "/jakarta/pasarkemis-restaurants"
+  },
+  {
+    "name": "Pondok Aren",
+    "path": "/jakarta/pondok-aren-restaurants"
+  },
+  {
+    "name": "Rajeg",
+    "path": "/jakarta/rajeg-restaurants"
+  },
+  {
+    "name": "Sepatan",
+    "path": "/jakarta/sepatan-restaurants"
+  },
+  {
+    "name": "Serpong",
+    "path": "/jakarta/serpong-restaurants"
+  },
+  {
+    "name": "Sukadiri",
+    "path": "/jakarta/sukadiri-restaurants"
+  },
+  {
+    "name": "Teluknaga",
+    "path": "/jakarta/teluknaga-restaurants"
+  },
+  {
+    "name": "Tigaraksa",
+    "path": "/jakarta/tigaraksa-restaurants"
+  },
+  {
+    "name": "Kodya Tangerang-area",
+    "path": "/jakarta/kodya-tangerang-area-restaurants"
+  }
+]
