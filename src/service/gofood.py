@@ -1,4 +1,5 @@
 import requests
+import os
 
 from time import time, sleep
 from datetime import datetime
@@ -30,6 +31,14 @@ class Gofood:
         self.HEADER = {
             "User-Agent": self.__faker.random,
             "Content-Type": "application/json"
+        }
+
+        self.PRICE = {
+            '0': 'Not Set',
+            '1': '<16k',
+            '2': '16k-40k',
+            '3': '40k-100k',
+            '4': '>100k',
         }
         ...
 
@@ -72,14 +81,19 @@ class Gofood:
                     "comment": comment["text"],
                 }
 
+
+                results["tags"].append(self.DOMAIN)
                 raw_json.update({
                     "user": comment["author"],
-                    "review": results
+                    "review": results,
                 })
 
-                self.__file.write_json('data/try1.json', raw_json)
 
-                break
+                if not os.path.exists(f'data/{raw_json["city"]}'): os.mkdir(f'data/{raw_json["city"]}')
+                if not os.path.exists(f'data/{raw_json["city"]}/{raw_json["area"]}'): os.mkdir(f'data/{raw_json["city"]}/{raw_json["area"]}')
+
+                self.__file.write_json(path=f'data/{raw_json["city"]}/{raw_json["area"]}/{results["user_id"]}.json',
+                                       content=raw_json)
 
 
             try:
@@ -149,12 +163,14 @@ class Gofood:
                     header_required = {
                         "domain": self.DOMAIN,
                         "crawling_time": str(datetime.now()),
-                        "crawling_time_epoch": int(),
+                        "crawling_time_epoch": int(time()),
+                        "city": city["name"].lower(),
+                        "area": restaurant["path"].split("/")[-1],
 
                         "url": self.MAIN_URL+food_review.json()["pageProps"]["outletUrl"],
                         "ratings": food_review.json()["pageProps"]["outlet"]["ratings"],
-                        "distance": food_review.json()["pageProps"]["outlet"]["delivery"]["distanceKm"],
-                        "range_prices": food_review.json()["pageProps"]["outlet"]["priceLevel"],
+                        "distance_km": food_review.json()["pageProps"]["outlet"]["delivery"]["distanceKm"],
+                        "range_prices": self.PRICE[str(food_review.json()["pageProps"]["outlet"]["priceLevel"])],
                         "restaurant_name": food_review.json()["pageProps"]["outlet"]["core"]["displayName"],
                         "restaurant_id": food_review.json()["pageProps"]["outlet"]["uid"],
 
@@ -173,7 +189,7 @@ class Gofood:
             break
         ...
 
-# data/jakarta/bekasi-restaurant/nama_makanan/review01.json
+# data/jakarta/bekasi-restaurant/nama_restaurant/review01.json
 
 'https://gofood.co.id/jakarta/restaurants/nasi-goreng-jawa-rawalumbu-070863f9-50b1-4054-b636-db164f267131'
 'https://gofood.co.id/jakarta/restaurant/nasi-goreng-jawa-rawalumbu-070863f9-50b1-4054-b636-db164f267131'

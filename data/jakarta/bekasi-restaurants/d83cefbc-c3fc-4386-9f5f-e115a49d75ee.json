@@ -1,0 +1,48 @@
+{
+  "domain": "gofood.co.id",
+  "crawling_time": "2024-01-12 14:52:20.236167",
+  "crawling_time_epoch": 1705045940,
+  "city": "jakarta",
+  "area": "bekasi-restaurants",
+  "url": "https://gofood.co.id/jakarta/restaurant/rawon-senyum-kemang-pratama-f2652837-7fdb-4836-ad9f-dfd20d880ef5",
+  "ratings": {
+    "average": 4.7,
+    "total": 766
+  },
+  "distance_km": 0.35,
+  "range_prices": "16k-40k",
+  "restaurant_name": "Rawon Senyum, Kemang Pratama",
+  "restaurant_id": "f2652837-7fdb-4836-ad9f-dfd20d880ef5",
+  "taste_rating": 83,
+  "portion_rating": 62,
+  "packaging_rating": 60,
+  "review": {
+    "posted": "2019-12-05T19:10:21.606+07:00",
+    "user_id": "d83cefbc-c3fc-4386-9f5f-e115a49d75ee",
+    "rating_given": 2,
+    "tags": [
+      "CANNED_RESPONSE_TASTE",
+      "gofood.co.id"
+    ],
+    "order": {
+      "orderedAt": "2019-12-05T08:27:09.265893Z",
+      "items": [
+        {
+          "id": "09c8fd15-f3f2-41c4-8825-e415131b475a",
+          "name": "Nasi Goreng"
+        },
+        {
+          "id": "49514248-88be-4ea3-a3a3-4a8715a59110",
+          "name": "Krupuk"
+        }
+      ]
+    },
+    "comment": "rasanya gak jelas, digambar ada telor ceplok, tapi saya beli gak ada."
+  },
+  "user": {
+    "fullName": "R** P****",
+    "initialName": "RP",
+    "avatarUrl": null,
+    "userSince": "2016-04-03T04:16:37.449Z"
+  }
+}

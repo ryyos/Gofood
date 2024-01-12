@@ -1,0 +1,57 @@
+{
+  "domain": "gofood.co.id",
+  "crawling_time": "2024-01-12 14:52:20.236167",
+  "crawling_time_epoch": 1705045940,
+  "city": "jakarta",
+  "area": "bekasi-restaurants",
+  "url": "https://gofood.co.id/jakarta/restaurant/rawon-senyum-kemang-pratama-f2652837-7fdb-4836-ad9f-dfd20d880ef5",
+  "ratings": {
+    "average": 4.7,
+    "total": 766
+  },
+  "distance_km": 0.35,
+  "range_prices": "16k-40k",
+  "restaurant_name": "Rawon Senyum, Kemang Pratama",
+  "restaurant_id": "f2652837-7fdb-4836-ad9f-dfd20d880ef5",
+  "taste_rating": 83,
+  "portion_rating": 62,
+  "packaging_rating": 60,
+  "review": {
+    "posted": "2022-03-15T23:05:35.745528+07:00",
+    "user_id": "c2419654-fe93-4733-8cf0-e26cfcbaa69b",
+    "rating_given": 5,
+    "tags": [
+      "CANNED_RESPONSE_FRESHNESS",
+      "CANNED_RESPONSE_TASTE",
+      "CANNED_RESPONSE_HYGIENE",
+      "CANNED_RESPONSE_PORTION",
+      "CANNED_RESPONSE_PACKAGING",
+      "CANNED_RESPONSE_VALUE",
+      "gofood.co.id"
+    ],
+    "order": {
+      "orderedAt": "2022-03-14T05:28:27.42774Z",
+      "items": [
+        {
+          "id": "e38951dc-6d04-47a0-a50e-0d9018979aba",
+          "name": "Rawon"
+        },
+        {
+          "id": "b920c6eb-a2df-4ead-b5f1-ef085760fefd",
+          "name": "Nasi Rawon Telur Asin Utuh"
+        },
+        {
+          "id": "db740340-6e32-4361-95c9-218fb8e90d67",
+          "name": "Nasi Rawon Telur Asin Setengah"
+        }
+      ]
+    },
+    "comment": "Pengiriman cepat, rasa enak"
+  },
+  "user": {
+    "fullName": "Diana M",
+    "initialName": "DM",
+    "avatarUrl": null,
+    "userSince": "2018-10-19T13:15:29Z"
+  }
+}

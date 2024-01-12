@@ -1,0 +1,49 @@
+{
+  "domain": "gofood.co.id",
+  "crawling_time": "2024-01-12 14:52:20.236167",
+  "crawling_time_epoch": 1705045940,
+  "city": "jakarta",
+  "area": "bekasi-restaurants",
+  "url": "https://gofood.co.id/jakarta/restaurant/rawon-senyum-kemang-pratama-f2652837-7fdb-4836-ad9f-dfd20d880ef5",
+  "ratings": {
+    "average": 4.7,
+    "total": 766
+  },
+  "distance_km": 0.35,
+  "range_prices": "16k-40k",
+  "restaurant_name": "Rawon Senyum, Kemang Pratama",
+  "restaurant_id": "f2652837-7fdb-4836-ad9f-dfd20d880ef5",
+  "taste_rating": 83,
+  "portion_rating": 62,
+  "packaging_rating": 60,
+  "review": {
+    "posted": "2021-12-16T12:53:46.179173+07:00",
+    "user_id": "71208b14-78a7-4838-84e9-09eed55ffc24",
+    "rating_given": 5,
+    "tags": [
+      "CANNED_RESPONSE_FRESHNESS",
+      "CANNED_RESPONSE_TASTE",
+      "CANNED_RESPONSE_PORTION",
+      "CANNED_RESPONSE_HYGIENE",
+      "CANNED_RESPONSE_PACKAGING",
+      "CANNED_RESPONSE_VALUE",
+      "gofood.co.id"
+    ],
+    "order": {
+      "orderedAt": "2021-12-16T04:44:07.159856Z",
+      "items": [
+        {
+          "id": "e38951dc-6d04-47a0-a50e-0d9018979aba",
+          "name": "Rawon"
+        }
+      ]
+    },
+    "comment": "wnaakk..............."
+  },
+  "user": {
+    "fullName": "IGede Subakti",
+    "initialName": "IS",
+    "avatarUrl": null,
+    "userSince": "2017-05-30T23:44:11Z"
+  }
+}

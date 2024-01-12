@@ -1,0 +1,51 @@
+{
+  "domain": "gofood.co.id",
+  "crawling_time": "2024-01-12 14:52:20.236167",
+  "crawling_time_epoch": 1705045940,
+  "city": "jakarta",
+  "area": "bekasi-restaurants",
+  "url": "https://gofood.co.id/jakarta/restaurant/rawon-senyum-kemang-pratama-f2652837-7fdb-4836-ad9f-dfd20d880ef5",
+  "ratings": {
+    "average": 4.7,
+    "total": 766
+  },
+  "distance_km": 0.35,
+  "range_prices": "16k-40k",
+  "restaurant_name": "Rawon Senyum, Kemang Pratama",
+  "restaurant_id": "f2652837-7fdb-4836-ad9f-dfd20d880ef5",
+  "taste_rating": 83,
+  "portion_rating": 62,
+  "packaging_rating": 60,
+  "review": {
+    "posted": "2021-03-06T19:39:40.105884+07:00",
+    "user_id": "ac2c9e0a-4b37-496a-b000-4938cdc6fa7d",
+    "rating_given": 3,
+    "tags": [
+      "gofood.co.id"
+    ],
+    "order": {
+      "orderedAt": "2021-03-06T06:02:54.6232Z",
+      "items": [
+        {
+          "id": "9d8f4a2b-a813-412e-9b0e-c4a4d23b687c",
+          "name": "Nasi Ayam Goreng"
+        },
+        {
+          "id": "b920c6eb-a2df-4ead-b5f1-ef085760fefd",
+          "name": "Nasi Rawon Telur Asin Utuh"
+        },
+        {
+          "id": "d67edb86-f231-4d4c-91a0-5fd4bcc4d4c0",
+          "name": "Nasi Ayam Bakar"
+        }
+      ]
+    },
+    "comment": "ayam bakar sm ayam gorengnya kurang Mateng...tp rawon nya enak, trus di gambar menu ayam bakar ada tempe tahu nya..tp td ga ada"
+  },
+  "user": {
+    "fullName": "D*** K***** P*******",
+    "initialName": "DP",
+    "avatarUrl": null,
+    "userSince": "2020-02-04T05:35:50Z"
+  }
+}

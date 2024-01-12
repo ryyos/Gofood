@@ -1,0 +1,44 @@
+{
+  "domain": "gofood.co.id",
+  "crawling_time": "2024-01-12 14:52:20.236167",
+  "crawling_time_epoch": 1705045940,
+  "city": "jakarta",
+  "area": "bekasi-restaurants",
+  "url": "https://gofood.co.id/jakarta/restaurant/rawon-senyum-kemang-pratama-f2652837-7fdb-4836-ad9f-dfd20d880ef5",
+  "ratings": {
+    "average": 4.7,
+    "total": 766
+  },
+  "distance_km": 0.35,
+  "range_prices": "16k-40k",
+  "restaurant_name": "Rawon Senyum, Kemang Pratama",
+  "restaurant_id": "f2652837-7fdb-4836-ad9f-dfd20d880ef5",
+  "taste_rating": 83,
+  "portion_rating": 62,
+  "packaging_rating": 60,
+  "review": {
+    "posted": "2019-11-02T14:58:51.507+07:00",
+    "user_id": "183e8364-017c-43d5-8c35-4caf705c914a",
+    "rating_given": 2,
+    "tags": [
+      "",
+      "gofood.co.id"
+    ],
+    "order": {
+      "orderedAt": "2019-11-02T06:34:46.120137Z",
+      "items": [
+        {
+          "id": "e38951dc-6d04-47a0-a50e-0d9018979aba",
+          "name": "Rawon"
+        }
+      ]
+    },
+    "comment": "dagingnya terlalu sedikit, kuah nya ga pas bumbunya kalo campur nasi ga ada rasa hambar"
+  },
+  "user": {
+    "fullName": "Y**** H*********",
+    "initialName": "YH",
+    "avatarUrl": null,
+    "userSince": "2015-09-04T11:23:23Z"
+  }
+}

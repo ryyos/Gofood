@@ -1,0 +1,58 @@
+{
+  "domain": "gofood.co.id",
+  "crawling_time": "2024-01-12 14:52:20.236167",
+  "crawling_time_epoch": 1705045940,
+  "city": "jakarta",
+  "area": "bekasi-restaurants",
+  "url": "https://gofood.co.id/jakarta/restaurant/rawon-senyum-kemang-pratama-f2652837-7fdb-4836-ad9f-dfd20d880ef5",
+  "ratings": {
+    "average": 4.7,
+    "total": 766
+  },
+  "distance_km": 0.35,
+  "range_prices": "16k-40k",
+  "restaurant_name": "Rawon Senyum, Kemang Pratama",
+  "restaurant_id": "f2652837-7fdb-4836-ad9f-dfd20d880ef5",
+  "taste_rating": 83,
+  "portion_rating": 62,
+  "packaging_rating": 60,
+  "review": {
+    "posted": "2021-06-06T12:29:16.671364+07:00",
+    "user_id": "10a36c05-5af0-4919-8a8e-474d1759c994",
+    "rating_given": 4,
+    "tags": [
+      "CANNED_RESPONSE_FRESHNESS",
+      "CANNED_RESPONSE_TASTE",
+      "CANNED_RESPONSE_PORTION",
+      "gofood.co.id"
+    ],
+    "order": {
+      "orderedAt": "2021-06-06T04:19:49.167476Z",
+      "items": [
+        {
+          "id": "e38951dc-6d04-47a0-a50e-0d9018979aba",
+          "name": "Rawon"
+        },
+        {
+          "id": "b920c6eb-a2df-4ead-b5f1-ef085760fefd",
+          "name": "Nasi Rawon Telur Asin Utuh"
+        },
+        {
+          "id": "c753dba2-3949-461c-85a7-110a365380b6",
+          "name": "Telur Asin"
+        },
+        {
+          "id": "15dd6c71-2112-4aa5-8070-09fad79807f1",
+          "name": "Nasi Garang Asem"
+        }
+      ]
+    },
+    "comment": "garang asem terlalu pedas, sebaiknya dikurangi"
+  },
+  "user": {
+    "fullName": "W******",
+    "initialName": "W",
+    "avatarUrl": null,
+    "userSince": "2017-10-15T09:33:06Z"
+  }
+}

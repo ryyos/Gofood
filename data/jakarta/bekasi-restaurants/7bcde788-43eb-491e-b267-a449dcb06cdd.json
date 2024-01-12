@@ -1,0 +1,43 @@
+{
+  "domain": "gofood.co.id",
+  "crawling_time": "2024-01-12 14:52:20.236167",
+  "crawling_time_epoch": 1705045940,
+  "city": "jakarta",
+  "area": "bekasi-restaurants",
+  "url": "https://gofood.co.id/jakarta/restaurant/rawon-senyum-kemang-pratama-f2652837-7fdb-4836-ad9f-dfd20d880ef5",
+  "ratings": {
+    "average": 4.7,
+    "total": 766
+  },
+  "distance_km": 0.35,
+  "range_prices": "16k-40k",
+  "restaurant_name": "Rawon Senyum, Kemang Pratama",
+  "restaurant_id": "f2652837-7fdb-4836-ad9f-dfd20d880ef5",
+  "taste_rating": 83,
+  "portion_rating": 62,
+  "packaging_rating": 60,
+  "review": {
+    "posted": "2022-08-07T11:21:49.669045+07:00",
+    "user_id": "7bcde788-43eb-491e-b267-a449dcb06cdd",
+    "rating_given": 5,
+    "tags": [
+      "gofood.co.id"
+    ],
+    "order": {
+      "orderedAt": "2022-08-07T03:45:00.722733Z",
+      "items": [
+        {
+          "id": "e38951dc-6d04-47a0-a50e-0d9018979aba",
+          "name": "Rawon"
+        }
+      ]
+    },
+    "comment": "tasty, and also mu\ny favorit dish⁸"
+  },
+  "user": {
+    "fullName": "Musryanto Andhika",
+    "initialName": "MA",
+    "avatarUrl": null,
+    "userSince": "2017-07-25T13:19:00Z"
+  }
+}

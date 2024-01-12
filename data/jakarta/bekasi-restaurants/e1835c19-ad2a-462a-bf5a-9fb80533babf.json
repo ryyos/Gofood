@@ -1,0 +1,51 @@
+{
+  "domain": "gofood.co.id",
+  "crawling_time": "2024-01-12 14:52:20.236167",
+  "crawling_time_epoch": 1705045940,
+  "city": "jakarta",
+  "area": "bekasi-restaurants",
+  "url": "https://gofood.co.id/jakarta/restaurant/rawon-senyum-kemang-pratama-f2652837-7fdb-4836-ad9f-dfd20d880ef5",
+  "ratings": {
+    "average": 4.7,
+    "total": 766
+  },
+  "distance_km": 0.35,
+  "range_prices": "16k-40k",
+  "restaurant_name": "Rawon Senyum, Kemang Pratama",
+  "restaurant_id": "f2652837-7fdb-4836-ad9f-dfd20d880ef5",
+  "taste_rating": 83,
+  "portion_rating": 62,
+  "packaging_rating": 60,
+  "review": {
+    "posted": "2023-05-15T14:29:56.649562+07:00",
+    "user_id": "e1835c19-ad2a-462a-bf5a-9fb80533babf",
+    "rating_given": 4,
+    "tags": [
+      "gofood.co.id"
+    ],
+    "order": {
+      "orderedAt": "2023-05-14T04:40:58.339187Z",
+      "items": [
+        {
+          "id": "e38951dc-6d04-47a0-a50e-0d9018979aba",
+          "name": "Rawon"
+        },
+        {
+          "id": "52bf3890-a033-4505-b3b7-dfbb31095c5c",
+          "name": "Nasi"
+        },
+        {
+          "id": "e8bc1f13-a17c-4b92-92df-e63c8e30bb6c",
+          "name": "Ayam Bakar"
+        }
+      ]
+    },
+    "comment": "porsi nya lumayan"
+  },
+  "user": {
+    "fullName": "Nur Asiah",
+    "initialName": "NA",
+    "avatarUrl": null,
+    "userSince": "2018-03-17T06:37:50Z"
+  }
+}
