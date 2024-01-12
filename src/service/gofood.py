@@ -4,6 +4,7 @@ from time import time, sleep
 from datetime import datetime
 from icecream import ic
 from fake_useragent import FakeUserAgent
+from typing import List
 
 from src.utils.fileIO import File
 from src.utils.logs import logger
@@ -23,6 +24,8 @@ class Gofood:
         self.RESTAURANT = 'https://gofood.co.id/_next/data/8.10.0/id/jakarta/restaurants.json' # 94
         self.NEAR_ME_API = 'https://gofood.co.id/_next/data/8.10.0/id/jakarta/bekasi-restaurants/near_me.json' 
         self.FOODS_API = 'https://gofood.co.id/api/outlets'
+        self.API_REVIEW = 'https://gofood.co.id/_next/data/8.10.0/id/jakarta/restaurant/mcdonald-s-pekayon-50150204-8f6d-4372-8458-668f1be126e8/reviews.json?id=mcdonald-s-pekayon-50150204-8f6d-4372-8458-668f1be126e8'
+        self.API_REVIEW_PAGE = 'https://gofood.co.id/api/outlets/50150204-8f6d-4372-8458-668f1be126e8/reviews?page=2&page_size=20'
 
         self.HEADER = {
             "User-Agent": self.__faker.random,
@@ -46,10 +49,13 @@ class Gofood:
     ...
 
     def __create_card(self, city: str, pieces: dict) -> str:
-        return f'{self.MAIN_URL}/{city}/restaurant/{vname(pieces["core"]["displayName"].lower())}-{pieces["core"]["key"].split("/")[-1]}'
+        return f'/{city}/restaurant/{vname(pieces["core"]["displayName"].lower())}-{pieces["core"]["key"].split("/")[-1]}'
     ...
 
-    def __extract_restaurant(self, city: str, restaurant: str) -> None:
+    def __extract_food(self, url: str):
+        ...
+
+    def __fetch_card_food(self, city: str, restaurant: str) -> List[str]:
         response = self.__sessions.get(url=f'https://gofood.co.id/_next/data/8.10.0/id{restaurant}/near_me.json?service_area={city}&locality={restaurant.split("/")[-1]}&category=near_me', headers=self.HEADER)
 
 
@@ -57,7 +63,7 @@ class Gofood:
         longitude = response.json()["pageProps"]["userLocation"]["chosenLocation"]["longitude"]
 
         page_token = 1
-        cards = [self.MAIN_URL+card["path"] for card in response.json()["pageProps"]["outlets"]]
+        cards = [card["path"] for card in response.json()["pageProps"]["outlets"]]
         while True:
 
             ic(self.__buld_payload(page=page_token, 
@@ -72,12 +78,16 @@ class Gofood:
                                                               ))
 
             card = [self.__create_card(city=city, pieces=card) for card in response.json()["outlets"]]
-            cards.append(card)
+            cards.extend(card)
             try:
                 page_token = response.json()["nextPageToken"]
                 sleep(3)
+                ic(cards)
+                break
             except Exception:
                 break
+
+        return cards
         ...
 
     def main(self) -> None:
@@ -88,17 +98,25 @@ class Gofood:
         cities = response.json()
         for city in cities["pageProps"]["contents"][0]["data"]: # Mengambil Kota
             response = self.__sessions.get(url=f'https://gofood.co.id/_next/data/8.10.0/id/{city["name"].lower()}/restaurants.json', headers=self.HEADER)
-            ic(city)
 
             for restaurant in response.json()["pageProps"]["contents"][0]["data"]: # Mengambil restaurant dari kota
                 ic(restaurant)
-                self.__extract_restaurant(city=city["name"].lower(), restaurant=restaurant["path"])
+
+                cards = self.__fetch_card_food(city=city["name"].lower(), restaurant=restaurant["path"]) # Mengambil card makanan dari restaurant
+
+                for card in cards:
+                    print(f'https://gofood.co.id/_next/data/8.10.0/id{card}/reviews.json?id={card.split("/")[-1]}')
 
                 break
 
             break
         ...
 
+# data/jakarta/bekasi-restaurant/nama_makanan/review01.json
 
 'https://gofood.co.id/jakarta/restaurants/nasi-goreng-jawa-rawalumbu-070863f9-50b1-4054-b636-db164f267131'
 'https://gofood.co.id/jakarta/restaurant/nasi-goreng-jawa-rawalumbu-070863f9-50b1-4054-b636-db164f267131'
+
+
+'https://gofood.co.id/jakarta/restaurant/mcdonald-s-pekayon-50150204-8f6d-4372-8458-668f1be126e8/reviews.json?id=mcdonald-s-pekayon-50150204-8f6d-4372-8458-668f1be126e8'
+'https://gofood.co.id/_next/data/8.10.0/id/jakarta/restaurant/mcdonald-s-pekayon-50150204-8f6d-4372-8458-668f1be126e8/reviews.json?id=mcdonald-s-pekayon-50150204-8f6d-4372-8458-668f1be126e8'
