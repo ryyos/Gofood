@@ -25,7 +25,7 @@ class Gofood:
         self.NEAR_ME_API = 'https://gofood.co.id/_next/data/8.10.0/id/jakarta/bekasi-restaurants/near_me.json' 
         self.FOODS_API = 'https://gofood.co.id/api/outlets'
         self.API_REVIEW = 'https://gofood.co.id/_next/data/8.10.0/id/jakarta/restaurant/mcdonald-s-pekayon-50150204-8f6d-4372-8458-668f1be126e8/reviews.json?id=mcdonald-s-pekayon-50150204-8f6d-4372-8458-668f1be126e8'
-        self.API_REVIEW_PAGE = 'https://gofood.co.id/api/outlets/50150204-8f6d-4372-8458-668f1be126e8/reviews?page=2&page_size=20'
+        self.API_REVIEW_PAGE = 'https://gofood.co.id/api/outlets/'
 
         self.HEADER = {
             "User-Agent": self.__faker.random,
@@ -52,7 +52,43 @@ class Gofood:
         return f'/{city}/restaurant/{vname(pieces["core"]["displayName"].lower())}-{pieces["core"]["key"].split("/")[-1]}'
     ...
 
-    def __extract_food(self, url: str):
+    def __extract_food(self, raw_json: dict):
+        uid = raw_json["restaurant_id"]
+
+        page = '?page=1&page_size=50'
+        response = self.__sessions.get(url=f'{self.API_REVIEW_PAGE}/{uid}/reviews{page}', headers=self.HEADER)
+        ic(response)
+
+        while True:
+            review = response.json()["data"]
+
+            for comment in review:
+                results = {
+                    "posted": comment["createdAt"],
+                    "user_id": comment["id"],
+                    "rating_given": comment["rating"],
+                    "tags": comment["tags"],
+                    "order": comment["order"],
+                    "comment": comment["text"],
+                }
+
+                raw_json.update({
+                    "user": comment["author"],
+                    "review": results
+                })
+
+                self.__file.write_json('data/try1.json', raw_json)
+
+                break
+
+
+            try:
+                page = response.json()["next_page"]
+                response = self.__sessions.get(url=f'{self.API_REVIEW_PAGE}/{uid}/reviews{page}', headers=self.HEADER)
+                break
+
+            except Exception:
+                break
         ...
 
     def __fetch_card_food(self, city: str, restaurant: str) -> List[str]:
@@ -106,6 +142,31 @@ class Gofood:
 
                 for card in cards:
                     print(f'https://gofood.co.id/_next/data/8.10.0/id{card}/reviews.json?id={card.split("/")[-1]}')
+
+                    food_review = self.__sessions.get(f'https://gofood.co.id/_next/data/8.10.0/id{card}/reviews.json?id={card.split("/")[-1]}', headers=self.HEADER)
+                    ic(food_review)
+
+                    header_required = {
+                        "domain": self.DOMAIN,
+                        "crawling_time": str(datetime.now()),
+                        "crawling_time_epoch": int(),
+
+                        "url": self.MAIN_URL+food_review.json()["pageProps"]["outletUrl"],
+                        "ratings": food_review.json()["pageProps"]["outlet"]["ratings"],
+                        "distance": food_review.json()["pageProps"]["outlet"]["delivery"]["distanceKm"],
+                        "range_prices": food_review.json()["pageProps"]["outlet"]["priceLevel"],
+                        "restaurant_name": food_review.json()["pageProps"]["outlet"]["core"]["displayName"],
+                        "restaurant_id": food_review.json()["pageProps"]["outlet"]["uid"],
+
+                        "taste_rating": food_review.json()["pageProps"]["cannedOutlet"][0]["count"],
+                        "portion_rating": food_review.json()["pageProps"]["cannedOutlet"][1]["count"],
+                        "packaging_rating": food_review.json()["pageProps"]["cannedOutlet"][-1]["count"],
+                        "review": ""
+                    }
+
+                    self.__extract_food(raw_json=header_required)
+
+                    break
 
                 break
 
