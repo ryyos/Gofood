@@ -7,8 +7,8 @@
     "Sweets",
     "gofood.co.id"
   ],
-  "crawling_time": "2024-01-13 22:35:38.405234",
-  "crawling_time_epoch": 1705160138,
+  "crawling_time": "2024-01-13 23:23:28.166778",
+  "crawling_time_epoch": 1705163008,
   "path_data_raw": "data/jakarta/bekasi-restaurants/Bang_Raden_Gerobak_Kopi_Grand_Galaxy_City/json/d10b0618-afc5-456e-a9da-373f3bd363c2.json",
   "path_data_clean": "data/jakarta/bekasi-restaurants/Bang_Raden_Gerobak_Kopi_Grand_Galaxy_City/json/d10b0618-afc5-456e-a9da-373f3bd363c2.json",
   "reviews_name": "Bang Raden Gerobak Kopi, Grand Galaxy City",
@@ -25,22 +25,22 @@
     "total_ratings": {
       "average": 4.8,
       "total": 3944
-    },
-    "detail_total_rating": [
-      {
-        "score_rating": 461,
-        "category_rating": "taste"
-      },
-      {
-        "score_rating": 337,
-        "category_rating": "portion"
-      },
-      {
-        "score_rating": 315,
-        "category_rating": "packaging"
-      }
-    ]
+    }
   },
+  "detail_total_rating": [
+    {
+      "category_rating": "taste",
+      "score_rating": 461
+    },
+    {
+      "category_rating": "freshness",
+      "score_rating": 337
+    },
+    {
+      "category_rating": "prices",
+      "score_rating": 315
+    }
+  ],
   "detail_reviews": {
     "username_id": "d10b0618-afc5-456e-a9da-373f3bd363c2",
     "username_reviews": "M****** C******",

@@ -5,8 +5,16 @@ class File:
         pass
 
     def write_json(self, path: str, content: any) -> None:
-        with open(path, 'w', encoding= "utf-8") as file:
-            json.dump(content, file, ensure_ascii=False, indent=2, default=str)
+        try:
+            with open(path, 'w', encoding= "utf-8") as file:
+                json.dump(content, file, ensure_ascii=False, indent=2, default=str)
+
+        except Exception as err:
+            print(err)
+            print(path)
+            with open(path, 'w') as file:
+                json.dump(content, file, indent=2, default=str)
+
 
     def write_str(self, path: str, content: any) -> None:
         with open(path, 'w', encoding="utf-8") as file:

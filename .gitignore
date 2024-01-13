@@ -126,6 +126,7 @@ env/
 venv/
 ENV/
 data
+dumps
 private
 env.bak/
 venv.bak/

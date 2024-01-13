@@ -7,8 +7,8 @@
     "Jajanan",
     "gofood.co.id"
   ],
-  "crawling_time": "2024-01-13 22:35:26.539924",
-  "crawling_time_epoch": 1705160126,
+  "crawling_time": "2024-01-13 23:23:16.939446",
+  "crawling_time_epoch": 1705162996,
   "path_data_raw": "data/jakarta/bekasi-restaurants/McDonalds_Pekayon/json/4f29e529-047c-46b7-b6c6-9635d3c5258d.json",
   "path_data_clean": "data/jakarta/bekasi-restaurants/McDonalds_Pekayon/json/4f29e529-047c-46b7-b6c6-9635d3c5258d.json",
   "reviews_name": "McDonald's, Pekayon",
@@ -25,22 +25,22 @@
     "total_ratings": {
       "average": 4.8,
       "total": 70397
-    },
-    "detail_total_rating": [
-      {
-        "score_rating": 4555,
-        "category_rating": "taste"
-      },
-      {
-        "score_rating": 3695,
-        "category_rating": "portion"
-      },
-      {
-        "score_rating": 3669,
-        "category_rating": "packaging"
-      }
-    ]
+    }
   },
+  "detail_total_rating": [
+    {
+      "category_rating": "taste",
+      "score_rating": 4555
+    },
+    {
+      "category_rating": "packaging",
+      "score_rating": 3695
+    },
+    {
+      "category_rating": "freshness",
+      "score_rating": 3669
+    }
+  ],
   "detail_reviews": {
     "username_id": "4f29e529-047c-46b7-b6c6-9635d3c5258d",
     "username_reviews": "yudhanti",

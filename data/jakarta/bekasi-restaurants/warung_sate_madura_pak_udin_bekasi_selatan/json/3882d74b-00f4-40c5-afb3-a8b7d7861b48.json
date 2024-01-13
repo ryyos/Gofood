@@ -5,8 +5,8 @@
     "Sate",
     "gofood.co.id"
   ],
-  "crawling_time": "2024-01-13 22:35:43.298384",
-  "crawling_time_epoch": 1705160143,
+  "crawling_time": "2024-01-13 23:23:31.121025",
+  "crawling_time_epoch": 1705163011,
   "path_data_raw": "data/jakarta/bekasi-restaurants/Warung_Sate_Madura_Pak_Udin_Bekasi_Selatan/json/3882d74b-00f4-40c5-afb3-a8b7d7861b48.json",
   "path_data_clean": "data/jakarta/bekasi-restaurants/Warung_Sate_Madura_Pak_Udin_Bekasi_Selatan/json/3882d74b-00f4-40c5-afb3-a8b7d7861b48.json",
   "reviews_name": "Warung Sate Madura Pak Udin, Bekasi Selatan",
@@ -23,22 +23,22 @@
     "total_ratings": {
       "average": 3.9,
       "total": 287
-    },
-    "detail_total_rating": [
-      {
-        "score_rating": 32,
-        "category_rating": "taste"
-      },
-      {
-        "score_rating": 12,
-        "category_rating": "portion"
-      },
-      {
-        "score_rating": 12,
-        "category_rating": "packaging"
-      }
-    ]
+    }
   },
+  "detail_total_rating": [
+    {
+      "category_rating": "taste",
+      "score_rating": 32
+    },
+    {
+      "category_rating": "freshness",
+      "score_rating": 12
+    },
+    {
+      "category_rating": "prices",
+      "score_rating": 12
+    }
+  ],
   "detail_reviews": {
     "username_id": "3882d74b-00f4-40c5-afb3-a8b7d7861b48",
     "username_reviews": "R******",

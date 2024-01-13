@@ -5,8 +5,8 @@
     "Aneka nasi",
     "gofood.co.id"
   ],
-  "crawling_time": "2024-01-13 22:35:30.859107",
-  "crawling_time_epoch": 1705160130,
+  "crawling_time": "2024-01-13 23:23:23.407720",
+  "crawling_time_epoch": 1705163003,
   "path_data_raw": "data/jakarta/bekasi-restaurants/Nasi_Goreng_Riski_Bekasi/json/81c9e7f8-d0f8-4c8d-bfaa-f500f14cd0df.json",
   "path_data_clean": "data/jakarta/bekasi-restaurants/Nasi_Goreng_Riski_Bekasi/json/81c9e7f8-d0f8-4c8d-bfaa-f500f14cd0df.json",
   "reviews_name": "Nasi Goreng Riski, Bekasi",
@@ -23,22 +23,22 @@
     "total_ratings": {
       "average": 4.7,
       "total": 1717
-    },
-    "detail_total_rating": [
-      {
-        "score_rating": 306,
-        "category_rating": "taste"
-      },
-      {
-        "score_rating": 295,
-        "category_rating": "portion"
-      },
-      {
-        "score_rating": 240,
-        "category_rating": "packaging"
-      }
-    ]
+    }
   },
+  "detail_total_rating": [
+    {
+      "category_rating": "taste",
+      "score_rating": 306
+    },
+    {
+      "category_rating": "portion",
+      "score_rating": 295
+    },
+    {
+      "category_rating": "prices",
+      "score_rating": 240
+    }
+  ],
   "detail_reviews": {
     "username_id": "81c9e7f8-d0f8-4c8d-bfaa-f500f14cd0df",
     "username_reviews": "halasson",

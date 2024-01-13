@@ -9,7 +9,6 @@ from fake_useragent import FakeUserAgent
 from typing import List
 from concurrent.futures import ThreadPoolExecutor
 from concurrent.futures import wait
-from tqdm import tqdm
 
 from src.utils.fileIO import File
 from src.utils.logs import logger
@@ -47,6 +46,15 @@ class Gofood:
             '3': '40k-100k',
             '4': '>100k',
         }
+
+        self.RATING = {
+            "CANNED_RESPONSE_TASTE": "taste",
+            "CANNED_RESPONSE_PORTION": "portion",
+            "CANNED_RESPONSE_PACKAGING": "packaging",
+            "CANNED_RESPONSE_FRESHNESS": "freshness",
+            "CANNED_RESPONSE_VALUE": "prices",
+            "CANNED_RESPONSE_HYGIENE": "hygiene",
+        }
         ...
 
     def __convert_time(self, times: str) -> int:
@@ -80,7 +88,6 @@ class Gofood:
                 return response
 
 
-
             case 'post':
 
                 while True:
@@ -98,6 +105,7 @@ class Gofood:
                         retry_interval+=5
 
                 return response
+            
             
             case 'review':
 
@@ -269,21 +277,14 @@ class Gofood:
                         
                         "reviews_rating": {
                             "total_ratings": food_review.json()["pageProps"]["outlet"]["ratings"],
-                            "detail_total_rating": [
-                                {
-                                    "score_rating": food_review.json()["pageProps"]["cannedOutlet"][0]["count"],
-                                    "category_rating": "taste",
-                                },
-                                {
-                                    "score_rating": food_review.json()["pageProps"]["cannedOutlet"][1]["count"],
-                                    "category_rating": "portion",
-                                },
-                                {
-                                    "score_rating": food_review.json()["pageProps"]["cannedOutlet"][-1]["count"],
-                                    "category_rating": "packaging",
-                                }
-                            ] if food_review.json()["pageProps"]["cannedOutlet"] else None
                         },
+
+                        "detail_total_rating": [
+                            {
+                                "category_rating": self.RATING[rating["id"]],
+                                "score_rating": rating["count"]
+                            } for rating in food_review.json()["pageProps"]["cannedOutlet"]
+                        ],
 
                         "range_prices": self.PRICE[str(food_review.json()["pageProps"]["outlet"]["priceLevel"])],
                         "restaurant_id": food_review.json()["pageProps"]["outlet"]["uid"],
@@ -321,3 +322,5 @@ class Gofood:
 
 
 # for card in tqdm(cards, ascii=True, smoothing=0.1, total=len(cards)): # lokasi thread
+
+# data/jakarta/bekasi-restaurants/Ayam_Geprek_Bu_TER_Bekasi_Selatan/json/270871ab-bb07-4f65-8e9d-8c12b0ddcbc5.json

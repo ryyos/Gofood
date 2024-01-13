@@ -5,8 +5,8 @@
     "Sate",
     "gofood.co.id"
   ],
-  "crawling_time": "2024-01-13 22:35:33.625561",
-  "crawling_time_epoch": 1705160133,
+  "crawling_time": "2024-01-13 23:23:26.861228",
+  "crawling_time_epoch": 1705163006,
   "path_data_raw": "data/jakarta/bekasi-restaurants/Sate_Madura_Cak_Ari_Bekasi_Selatan/json/d481e431-3091-44f9-b033-cf3f08ef9d65.json",
   "path_data_clean": "data/jakarta/bekasi-restaurants/Sate_Madura_Cak_Ari_Bekasi_Selatan/json/d481e431-3091-44f9-b033-cf3f08ef9d65.json",
   "reviews_name": "Sate Madura Cak Ari, Bekasi Selatan",
@@ -23,22 +23,22 @@
     "total_ratings": {
       "average": 4.7,
       "total": 6478
-    },
-    "detail_total_rating": [
-      {
-        "score_rating": 827,
-        "category_rating": "taste"
-      },
-      {
-        "score_rating": 589,
-        "category_rating": "portion"
-      },
-      {
-        "score_rating": 535,
-        "category_rating": "packaging"
-      }
-    ]
+    }
   },
+  "detail_total_rating": [
+    {
+      "category_rating": "taste",
+      "score_rating": 827
+    },
+    {
+      "category_rating": "portion",
+      "score_rating": 589
+    },
+    {
+      "category_rating": "freshness",
+      "score_rating": 535
+    }
+  ],
   "detail_reviews": {
     "username_id": "d481e431-3091-44f9-b033-cf3f08ef9d65",
     "username_reviews": "H**** G******",
