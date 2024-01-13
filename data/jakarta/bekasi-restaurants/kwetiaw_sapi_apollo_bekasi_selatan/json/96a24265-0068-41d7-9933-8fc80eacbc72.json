@@ -1,0 +1,75 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/kwetiaw-sapi-apollo-bekasi-selatan-23b7f615-3600-4d02-8678-cef4fa6a66c7",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Chinese",
+    "Aneka nasi",
+    "Bakmie",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:55:28.059560",
+  "crawling_time_epoch": 1705157728,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Kwetiaw_Sapi_Apollo_Bekasi_Selatan/json/96a24265-0068-41d7-9933-8fc80eacbc72.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Kwetiaw_Sapi_Apollo_Bekasi_Selatan/json/96a24265-0068-41d7-9933-8fc80eacbc72.json",
+  "reviews_name": "Kwetiaw Sapi Apollo, Bekasi Selatan",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 1.04
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "23b7f615-3600-4d02-8678-cef4fa6a66c7",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.7,
+      "total": 3512
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 305,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 251,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 205,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "96a24265-0068-41d7-9933-8fc80eacbc72",
+    "username_reviews": "A***",
+    "initialName": "A",
+    "image_reviews": null,
+    "created_time": "2021-06-07T01:50:21.722507+07:00",
+    "created_time_epoch": 1623030621,
+    "reviews_rating": 2,
+    "orders": {
+      "orderedAt": "2021-06-05T14:04:46.197057Z",
+      "items": [
+        {
+          "id": "0ca97d99-4720-4216-864d-809408657cf7",
+          "name": "Nasi Goreng Sapi"
+        }
+      ]
+    },
+    "tags_review": [
+      "CANNED_RESPONSE_FRESHNESS",
+      "CANNED_RESPONSE_TASTE",
+      "CANNED_RESPONSE_PORTION",
+      "CANNED_RESPONSE_HYGIENE",
+      "CANNED_RESPONSE_PRICE",
+      "CANNED_RESPONSE_PACKAGING",
+      "CANNED_RESPONSE_VALUE",
+      "CANNED_RESPONSE_PICKUP_EXP",
+      "gofood.co.id"
+    ],
+    "content_reviews": "SUDAH BELI DI SINI SERING TAPI KOK TIAP BELI RASA MASAKANNYA BEDA BEDA DAN KALI INI BENER BENER ZONK BGT! KWETIAU HAMBAR, RASA BAWANG PUTIH NYENGET, DAGING SAPI NYA DIKIT PAKE BGT.",
+    "date_of_experience": ""
+  }
+}

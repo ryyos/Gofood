@@ -1,0 +1,68 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/kwetiaw-sapi-apollo-bekasi-selatan-23b7f615-3600-4d02-8678-cef4fa6a66c7",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Chinese",
+    "Aneka nasi",
+    "Bakmie",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:55:28.059560",
+  "crawling_time_epoch": 1705157728,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Kwetiaw_Sapi_Apollo_Bekasi_Selatan/json/d151d080-c725-4a4c-8358-a4d0749d4218.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Kwetiaw_Sapi_Apollo_Bekasi_Selatan/json/d151d080-c725-4a4c-8358-a4d0749d4218.json",
+  "reviews_name": "Kwetiaw Sapi Apollo, Bekasi Selatan",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 1.04
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "23b7f615-3600-4d02-8678-cef4fa6a66c7",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.7,
+      "total": 3512
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 305,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 251,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 205,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "d151d080-c725-4a4c-8358-a4d0749d4218",
+    "username_reviews": "stella",
+    "initialName": "S",
+    "image_reviews": null,
+    "created_time": "2022-02-18T08:19:52.389371+07:00",
+    "created_time_epoch": 1645172392,
+    "reviews_rating": 2,
+    "orders": {
+      "orderedAt": "2022-02-17T12:38:11.446691Z",
+      "items": [
+        {
+          "id": "d67d5c28-aff9-4366-9bf4-e80796cdbba7",
+          "name": "Kwetiaw Goreng Sapi"
+        }
+      ]
+    },
+    "tags_review": [
+      "CANNED_RESPONSE_TASTE",
+      "gofood.co.id"
+    ],
+    "content_reviews": "rasanya asin banget",
+    "date_of_experience": ""
+  }
+}

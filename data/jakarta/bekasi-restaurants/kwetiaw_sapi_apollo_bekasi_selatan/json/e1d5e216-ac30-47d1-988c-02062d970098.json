@@ -1,0 +1,104 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/kwetiaw-sapi-apollo-bekasi-selatan-23b7f615-3600-4d02-8678-cef4fa6a66c7",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Chinese",
+    "Aneka nasi",
+    "Bakmie",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:55:28.059560",
+  "crawling_time_epoch": 1705157728,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Kwetiaw_Sapi_Apollo_Bekasi_Selatan/json/e1d5e216-ac30-47d1-988c-02062d970098.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Kwetiaw_Sapi_Apollo_Bekasi_Selatan/json/e1d5e216-ac30-47d1-988c-02062d970098.json",
+  "reviews_name": "Kwetiaw Sapi Apollo, Bekasi Selatan",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 1.04
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "23b7f615-3600-4d02-8678-cef4fa6a66c7",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.7,
+      "total": 3512
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 305,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 251,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 205,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "e1d5e216-ac30-47d1-988c-02062d970098",
+    "username_reviews": "Shinta Dwi Ayu Cartika",
+    "initialName": "SC",
+    "image_reviews": null,
+    "created_time": "2022-11-28T14:10:49.941371+07:00",
+    "created_time_epoch": 1669644649,
+    "reviews_rating": 1,
+    "orders": {
+      "orderedAt": "2022-11-28T05:22:32.881358Z",
+      "items": [
+        {
+          "id": "67155e64-a71a-4310-8d5a-eafa56d45595",
+          "name": "Nasi Goreng Seafood"
+        },
+        {
+          "id": "ab1c4f8c-e70c-4c5b-810b-4864ad65bfbb",
+          "name": "Kwetiaw Goreng Polos (tanpa daging)"
+        },
+        {
+          "id": "bcf84fb3-7426-4b50-b547-c2c883bbf913",
+          "name": "Siomay Ayam 1 Porsi (4pcs)"
+        },
+        {
+          "id": "11e66ae4-5411-405c-8eb8-aaec42645c3f",
+          "name": "Nasi Goreng Ayam"
+        },
+        {
+          "id": "0ca97d99-4720-4216-864d-809408657cf7",
+          "name": "Nasi Goreng Sapi"
+        },
+        {
+          "id": "451b5aba-deee-4cc9-a8bc-8c7c0fba0df0",
+          "name": "Bihun Goreng Sapi"
+        },
+        {
+          "id": "c0ea6233-3233-456e-9fa3-0ee70b360122",
+          "name": "Kwetiaw Goreng Sapi"
+        },
+        {
+          "id": "c191b8c5-d9d6-4a70-a543-b4080b13a03a",
+          "name": "Sop Sapi Kuah"
+        },
+        {
+          "id": "ff60d11d-051b-4875-9d3c-caefd5ba3862",
+          "name": "Nasi Putih"
+        },
+        {
+          "id": "5a49df2f-0045-402d-b8d0-3bc001c20b70",
+          "name": "Kwetiaw Siram Sapi"
+        }
+      ]
+    },
+    "tags_review": [
+      "CANNED_RESPONSE_PRICE",
+      "gofood.co.id"
+    ],
+    "content_reviews": "porsi nya kurang 1 kwetiau siram nya kenapa tidak diantar",
+    "date_of_experience": ""
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/kwetiaw-sapi-apollo-bekasi-selatan-23b7f615-3600-4d02-8678-cef4fa6a66c7",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Chinese",
+    "Aneka nasi",
+    "Bakmie",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:55:28.059560",
+  "crawling_time_epoch": 1705157728,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Kwetiaw_Sapi_Apollo_Bekasi_Selatan/json/75dd20f8-6507-4d10-83d7-3ac9be1c7ec8.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Kwetiaw_Sapi_Apollo_Bekasi_Selatan/json/75dd20f8-6507-4d10-83d7-3ac9be1c7ec8.json",
+  "reviews_name": "Kwetiaw Sapi Apollo, Bekasi Selatan",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 1.04
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "23b7f615-3600-4d02-8678-cef4fa6a66c7",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.7,
+      "total": 3512
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 305,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 251,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 205,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "75dd20f8-6507-4d10-83d7-3ac9be1c7ec8",
+    "username_reviews": "S*****",
+    "initialName": "S",
+    "image_reviews": null,
+    "created_time": "2019-09-11T16:36:48.927+07:00",
+    "created_time_epoch": 1568219808,
+    "reviews_rating": 3,
+    "orders": {
+      "orderedAt": "2019-09-10T14:57:16.936611Z",
+      "items": [
+        {
+          "id": "3f02cfe9-3a79-4dd7-967e-0bd7df58802b",
+          "name": "Kwetiaw Bun Sapi"
+        },
+        {
+          "id": "587c3668-3aeb-4347-862f-82a2b029e819",
+          "name": "Bihun Goreng Ayam"
+        },
+        {
+          "id": "155a949c-d6d1-4330-bc41-3721ca67aaf1",
+          "name": "Liang Teh"
+        }
+      ]
+    },
+    "tags_review": [
+      "",
+      "gofood.co.id"
+    ],
+    "content_reviews": "semalam beli kwetiaw enak tapi sayang bihunnya agak asin jd sayang ngk kemakan apa lupa ngasi garem 2x ya ...semoga pesen berikutnya enak ya ...cemangat apolo",
+    "date_of_experience": ""
+  }
+}

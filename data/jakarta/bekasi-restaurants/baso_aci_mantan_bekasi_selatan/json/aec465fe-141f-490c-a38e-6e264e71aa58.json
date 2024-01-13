@@ -1,0 +1,67 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/baso-aci-mantan-bekasi-selatan-a4c8817c-c8c3-477d-9d6d-643d86546882",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Jajanan",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:55:31.450901",
+  "crawling_time_epoch": 1705157731,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Baso_Aci_Mantan_Bekasi_Selatan/json/aec465fe-141f-490c-a38e-6e264e71aa58.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Baso_Aci_Mantan_Bekasi_Selatan/json/aec465fe-141f-490c-a38e-6e264e71aa58.json",
+  "reviews_name": "Baso Aci Mantan, Bekasi Selatan",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 1.05
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "a4c8817c-c8c3-477d-9d6d-643d86546882",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.6,
+      "total": 4520
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 408,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 312,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 304,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "aec465fe-141f-490c-a38e-6e264e71aa58",
+    "username_reviews": "I***** K*****",
+    "initialName": "IK",
+    "image_reviews": null,
+    "created_time": "2022-02-17T11:00:06.311446+07:00",
+    "created_time_epoch": 1645095606,
+    "reviews_rating": 5,
+    "orders": {
+      "orderedAt": "2022-02-12T11:17:10.800967Z",
+      "items": [
+        {
+          "id": "0add5fb2-b794-4687-9ed2-0f8e1e5a887b",
+          "name": "Mantan Sapiㅤㅤ"
+        }
+      ]
+    },
+    "tags_review": [
+      "CANNED_RESPONSE_TASTE",
+      "CANNED_RESPONSE_VALUE",
+      "gofood.co.id"
+    ],
+    "content_reviews": "Baso aci fav di area galaxy. Ga terlalu micin 👌🏻",
+    "date_of_experience": ""
+  }
+}

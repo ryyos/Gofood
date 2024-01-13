@@ -1,0 +1,78 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/kwetiaw-sapi-apollo-bekasi-selatan-23b7f615-3600-4d02-8678-cef4fa6a66c7",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Chinese",
+    "Aneka nasi",
+    "Bakmie",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:55:28.059560",
+  "crawling_time_epoch": 1705157728,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Kwetiaw_Sapi_Apollo_Bekasi_Selatan/json/625b83c2-1bf3-468b-b8f3-7039cecfec3d.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Kwetiaw_Sapi_Apollo_Bekasi_Selatan/json/625b83c2-1bf3-468b-b8f3-7039cecfec3d.json",
+  "reviews_name": "Kwetiaw Sapi Apollo, Bekasi Selatan",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 1.04
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "23b7f615-3600-4d02-8678-cef4fa6a66c7",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.7,
+      "total": 3512
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 305,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 251,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 205,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "625b83c2-1bf3-468b-b8f3-7039cecfec3d",
+    "username_reviews": "wenda",
+    "initialName": "W",
+    "image_reviews": null,
+    "created_time": "2023-02-09T21:27:25.641795+07:00",
+    "created_time_epoch": 1675978045,
+    "reviews_rating": 4,
+    "orders": {
+      "orderedAt": "2023-02-09T13:06:30.398438Z",
+      "items": [
+        {
+          "id": "c0ea6233-3233-456e-9fa3-0ee70b360122",
+          "name": "Kwetiaw Goreng Sapi"
+        },
+        {
+          "id": "155a949c-d6d1-4330-bc41-3721ca67aaf1",
+          "name": "Liang Teh"
+        },
+        {
+          "id": "fad673a5-2539-450c-8258-9151bfea5da8",
+          "name": "Es Teh Manis"
+        }
+      ]
+    },
+    "tags_review": [
+      "CANNED_RESPONSE_PACKAGING",
+      "CANNED_RESPONSE_PORTION",
+      "CANNED_RESPONSE_HYGIENE",
+      "gofood.co.id"
+    ],
+    "content_reviews": "kurang kering sedikit. \noverall enak. maturnuwun. ",
+    "date_of_experience": ""
+  }
+}

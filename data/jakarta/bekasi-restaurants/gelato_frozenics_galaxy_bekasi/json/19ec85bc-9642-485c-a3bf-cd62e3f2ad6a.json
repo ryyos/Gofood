@@ -1,0 +1,62 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/gelato-frozenics-galaxy-bekasi-9d3beeb2-e780-4250-8d6f-4298676ef9a7",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Kopi",
+    "Sweets",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:55:30.037467",
+  "crawling_time_epoch": 1705157730,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Gelato_Frozenics_Galaxy_Bekasi/json/19ec85bc-9642-485c-a3bf-cd62e3f2ad6a.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Gelato_Frozenics_Galaxy_Bekasi/json/19ec85bc-9642-485c-a3bf-cd62e3f2ad6a.json",
+  "reviews_name": "Gelato Frozenics Galaxy, Bekasi",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 1.05
+  },
+  "range_prices": ">100k",
+  "restaurant_id": "9d3beeb2-e780-4250-8d6f-4298676ef9a7",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.7,
+      "total": 317
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 49,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 40,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 36,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "19ec85bc-9642-485c-a3bf-cd62e3f2ad6a",
+    "username_reviews": "T*****",
+    "initialName": "T",
+    "image_reviews": null,
+    "created_time": "2019-04-03T18:56:46.049424+07:00",
+    "created_time_epoch": 1554317806,
+    "reviews_rating": 2,
+    "orders": {
+      "orderedAt": "2019-04-03T07:53:50.272504Z",
+      "items": []
+    },
+    "tags_review": [
+      "",
+      "gofood.co.id"
+    ],
+    "content_reviews": "pesan donat indomie mozarella tp mozarellanya tdk nampak sama sekali dan tekstur donatnya lembek tdk crunchy. rasa biasa aja.",
+    "date_of_experience": ""
+  }
+}

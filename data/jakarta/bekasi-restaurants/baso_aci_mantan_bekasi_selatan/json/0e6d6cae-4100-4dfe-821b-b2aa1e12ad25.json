@@ -1,0 +1,66 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/baso-aci-mantan-bekasi-selatan-a4c8817c-c8c3-477d-9d6d-643d86546882",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Jajanan",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:55:31.450901",
+  "crawling_time_epoch": 1705157731,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Baso_Aci_Mantan_Bekasi_Selatan/json/0e6d6cae-4100-4dfe-821b-b2aa1e12ad25.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Baso_Aci_Mantan_Bekasi_Selatan/json/0e6d6cae-4100-4dfe-821b-b2aa1e12ad25.json",
+  "reviews_name": "Baso Aci Mantan, Bekasi Selatan",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 1.05
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "a4c8817c-c8c3-477d-9d6d-643d86546882",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.6,
+      "total": 4520
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 408,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 312,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 304,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "0e6d6cae-4100-4dfe-821b-b2aa1e12ad25",
+    "username_reviews": "V**",
+    "initialName": "V",
+    "image_reviews": null,
+    "created_time": "2020-03-12T22:10:34.386+07:00",
+    "created_time_epoch": 1584051034,
+    "reviews_rating": 4,
+    "orders": {
+      "orderedAt": "2020-03-12T14:33:19.743574Z",
+      "items": [
+        {
+          "id": "3e049dc2-15f6-4d51-a749-d2d69359f3c2",
+          "name": "Double Hemat Sapi x Salmon"
+        }
+      ]
+    },
+    "tags_review": [
+      "",
+      "gofood.co.id"
+    ],
+    "content_reviews": "loh es teh manisnya mana ya?d'situ k'terangannya beli 2paket bakso aci sapi&bakso aci salmon+es teh manis..tp es teh manisnya ga ada??",
+    "date_of_experience": ""
+  }
+}

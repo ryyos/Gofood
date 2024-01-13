@@ -1,0 +1,75 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/kwetiaw-sapi-apollo-bekasi-selatan-23b7f615-3600-4d02-8678-cef4fa6a66c7",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Chinese",
+    "Aneka nasi",
+    "Bakmie",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:55:28.059560",
+  "crawling_time_epoch": 1705157728,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Kwetiaw_Sapi_Apollo_Bekasi_Selatan/json/61566f62-4bac-42b6-a147-244283c72b8b.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Kwetiaw_Sapi_Apollo_Bekasi_Selatan/json/61566f62-4bac-42b6-a147-244283c72b8b.json",
+  "reviews_name": "Kwetiaw Sapi Apollo, Bekasi Selatan",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 1.04
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "23b7f615-3600-4d02-8678-cef4fa6a66c7",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.7,
+      "total": 3512
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 305,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 251,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 205,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "61566f62-4bac-42b6-a147-244283c72b8b",
+    "username_reviews": "J**********",
+    "initialName": "J",
+    "image_reviews": null,
+    "created_time": "2023-01-15T11:32:47.198711+07:00",
+    "created_time_epoch": 1673782367,
+    "reviews_rating": 5,
+    "orders": {
+      "orderedAt": "2023-01-10T13:16:12.915656Z",
+      "items": [
+        {
+          "id": "4493a45e-ab9d-42b5-b13b-e294b76583f1",
+          "name": "Kwetiau Goreng Seafood"
+        },
+        {
+          "id": "0ca97d99-4720-4216-864d-809408657cf7",
+          "name": "Nasi Goreng Sapi"
+        },
+        {
+          "id": "0daf5716-fd3e-4661-aaac-2d08830b50c6",
+          "name": "Kwetiaw Yam Sapi"
+        }
+      ]
+    },
+    "tags_review": [
+      "gofood.co.id"
+    ],
+    "content_reviews": "Enak. Tapi dagingnya dikiiiiiiitttt bget. ",
+    "date_of_experience": ""
+  }
+}

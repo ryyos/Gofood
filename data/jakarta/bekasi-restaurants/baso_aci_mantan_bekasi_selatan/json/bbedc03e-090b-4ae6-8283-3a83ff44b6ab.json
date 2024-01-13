@@ -1,0 +1,66 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/baso-aci-mantan-bekasi-selatan-a4c8817c-c8c3-477d-9d6d-643d86546882",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Jajanan",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:55:31.450901",
+  "crawling_time_epoch": 1705157731,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Baso_Aci_Mantan_Bekasi_Selatan/json/bbedc03e-090b-4ae6-8283-3a83ff44b6ab.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Baso_Aci_Mantan_Bekasi_Selatan/json/bbedc03e-090b-4ae6-8283-3a83ff44b6ab.json",
+  "reviews_name": "Baso Aci Mantan, Bekasi Selatan",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 1.05
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "a4c8817c-c8c3-477d-9d6d-643d86546882",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.6,
+      "total": 4520
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 408,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 312,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 304,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "bbedc03e-090b-4ae6-8283-3a83ff44b6ab",
+    "username_reviews": "N*****",
+    "initialName": "N",
+    "image_reviews": null,
+    "created_time": "2019-10-22T14:54:50.296+07:00",
+    "created_time_epoch": 1571756090,
+    "reviews_rating": 2,
+    "orders": {
+      "orderedAt": "2019-10-22T07:25:47.321173Z",
+      "items": [
+        {
+          "id": "090246bb-ac29-4aa8-a786-d2bd49c8fdde",
+          "name": "Mantan Cheese"
+        }
+      ]
+    },
+    "tags_review": [
+      "",
+      "gofood.co.id"
+    ],
+    "content_reviews": "baso Aci nya kaya baso Aci angetan  kurang enak",
+    "date_of_experience": ""
+  }
+}

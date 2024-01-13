@@ -7,8 +7,8 @@
     "Jajanan",
     "gofood.co.id"
   ],
-  "crawling_time": "2024-01-13 21:18:48.067806",
-  "crawling_time_epoch": 1705155528,
+  "crawling_time": "2024-01-13 21:54:55.611075",
+  "crawling_time_epoch": 1705157695,
   "path_data_raw": "data/jakarta/bekasi-restaurants/Dominos_Pizza_Kemang_Pratama/json/525f586e-6e36-489f-82a6-8faf7f7356e5.json",
   "path_data_clean": "data/jakarta/bekasi-restaurants/Dominos_Pizza_Kemang_Pratama/json/525f586e-6e36-489f-82a6-8faf7f7356e5.json",
   "reviews_name": "Domino's Pizza, Kemang Pratama",

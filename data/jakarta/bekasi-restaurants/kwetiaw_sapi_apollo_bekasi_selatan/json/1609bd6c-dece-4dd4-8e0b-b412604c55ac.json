@@ -1,0 +1,70 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/kwetiaw-sapi-apollo-bekasi-selatan-23b7f615-3600-4d02-8678-cef4fa6a66c7",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Chinese",
+    "Aneka nasi",
+    "Bakmie",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:55:28.059560",
+  "crawling_time_epoch": 1705157728,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Kwetiaw_Sapi_Apollo_Bekasi_Selatan/json/1609bd6c-dece-4dd4-8e0b-b412604c55ac.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Kwetiaw_Sapi_Apollo_Bekasi_Selatan/json/1609bd6c-dece-4dd4-8e0b-b412604c55ac.json",
+  "reviews_name": "Kwetiaw Sapi Apollo, Bekasi Selatan",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 1.04
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "23b7f615-3600-4d02-8678-cef4fa6a66c7",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.7,
+      "total": 3512
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 305,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 251,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 205,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "1609bd6c-dece-4dd4-8e0b-b412604c55ac",
+    "username_reviews": "diana lylyana",
+    "initialName": "DL",
+    "image_reviews": null,
+    "created_time": "2021-12-23T16:16:26.666512+07:00",
+    "created_time_epoch": 1640276186,
+    "reviews_rating": 5,
+    "orders": {
+      "orderedAt": "2021-12-23T08:20:37.564194Z",
+      "items": [
+        {
+          "id": "13d6bee6-8202-4065-97f3-910217ea95e2",
+          "name": "Nasi Siram Seafood"
+        }
+      ]
+    },
+    "tags_review": [
+      "CANNED_RESPONSE_FRESHNESS",
+      "CANNED_RESPONSE_TASTE",
+      "CANNED_RESPONSE_PACKAGING",
+      "gofood.co.id"
+    ],
+    "content_reviews": "Mantap!👍🏼👍🏼👍🏼👍🏼👍🏼👍🏼👍🏼👍🏼👍🏼👍🏼👍🏼👍🏼👍🏼👍🏼👍🏼👍🏼👍🏼👍🏼👍🏼👍🏼👍🏼",
+    "date_of_experience": ""
+  }
+}

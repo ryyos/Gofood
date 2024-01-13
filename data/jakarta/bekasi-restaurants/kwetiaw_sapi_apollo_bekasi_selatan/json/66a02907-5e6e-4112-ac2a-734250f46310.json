@@ -1,0 +1,76 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/kwetiaw-sapi-apollo-bekasi-selatan-23b7f615-3600-4d02-8678-cef4fa6a66c7",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Chinese",
+    "Aneka nasi",
+    "Bakmie",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:55:28.059560",
+  "crawling_time_epoch": 1705157728,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Kwetiaw_Sapi_Apollo_Bekasi_Selatan/json/66a02907-5e6e-4112-ac2a-734250f46310.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Kwetiaw_Sapi_Apollo_Bekasi_Selatan/json/66a02907-5e6e-4112-ac2a-734250f46310.json",
+  "reviews_name": "Kwetiaw Sapi Apollo, Bekasi Selatan",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 1.04
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "23b7f615-3600-4d02-8678-cef4fa6a66c7",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.7,
+      "total": 3512
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 305,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 251,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 205,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "66a02907-5e6e-4112-ac2a-734250f46310",
+    "username_reviews": "D***",
+    "initialName": "D",
+    "image_reviews": null,
+    "created_time": "2021-08-01T12:17:37.891188+07:00",
+    "created_time_epoch": 1627820257,
+    "reviews_rating": 3,
+    "orders": {
+      "orderedAt": "2021-08-01T04:05:49.171486Z",
+      "items": [
+        {
+          "id": "5a49df2f-0045-402d-b8d0-3bc001c20b70",
+          "name": "Kwetiaw Siram Sapi"
+        },
+        {
+          "id": "50608b98-8ccd-4f37-a254-9e9859a7b613",
+          "name": "Mie Goreng Sapi"
+        },
+        {
+          "id": "c191b8c5-d9d6-4a70-a543-b4080b13a03a",
+          "name": "Sop Sapi Kuah"
+        }
+      ]
+    },
+    "tags_review": [
+      "CANNED_RESPONSE_TASTE",
+      "gofood.co.id"
+    ],
+    "content_reviews": "cb kokinya cobain dikit... asinnnn bangettt x ini masakannya. ",
+    "date_of_experience": ""
+  }
+}

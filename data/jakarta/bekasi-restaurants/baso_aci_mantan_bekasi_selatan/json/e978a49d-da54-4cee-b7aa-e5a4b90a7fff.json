@@ -1,0 +1,70 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/baso-aci-mantan-bekasi-selatan-a4c8817c-c8c3-477d-9d6d-643d86546882",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Jajanan",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:55:31.450901",
+  "crawling_time_epoch": 1705157731,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Baso_Aci_Mantan_Bekasi_Selatan/json/e978a49d-da54-4cee-b7aa-e5a4b90a7fff.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Baso_Aci_Mantan_Bekasi_Selatan/json/e978a49d-da54-4cee-b7aa-e5a4b90a7fff.json",
+  "reviews_name": "Baso Aci Mantan, Bekasi Selatan",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 1.05
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "a4c8817c-c8c3-477d-9d6d-643d86546882",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.6,
+      "total": 4520
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 408,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 312,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 304,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "e978a49d-da54-4cee-b7aa-e5a4b90a7fff",
+    "username_reviews": "L***** A*****",
+    "initialName": "LA",
+    "image_reviews": null,
+    "created_time": "2020-09-16T15:22:39.292+07:00",
+    "created_time_epoch": 1600269759,
+    "reviews_rating": 3,
+    "orders": {
+      "orderedAt": "2020-09-16T05:01:37.012117Z",
+      "items": [
+        {
+          "id": "6083b188-a57d-4490-8a0f-7e8a6a7487c4",
+          "name": "Mantan Ketiga"
+        },
+        {
+          "id": "6910d587-a116-49cd-b238-2998fac11bd5",
+          "name": "Extra Ceker"
+        }
+      ]
+    },
+    "tags_review": [
+      "CANNED_RESPONSE_TASTE",
+      "gofood.co.id"
+    ],
+    "content_reviews": "rasanya berasa mantan😄",
+    "date_of_experience": ""
+  }
+}

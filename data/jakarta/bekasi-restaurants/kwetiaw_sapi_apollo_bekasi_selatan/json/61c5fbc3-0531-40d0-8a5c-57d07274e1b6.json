@@ -1,0 +1,76 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/kwetiaw-sapi-apollo-bekasi-selatan-23b7f615-3600-4d02-8678-cef4fa6a66c7",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Chinese",
+    "Aneka nasi",
+    "Bakmie",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:55:28.059560",
+  "crawling_time_epoch": 1705157728,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Kwetiaw_Sapi_Apollo_Bekasi_Selatan/json/61c5fbc3-0531-40d0-8a5c-57d07274e1b6.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Kwetiaw_Sapi_Apollo_Bekasi_Selatan/json/61c5fbc3-0531-40d0-8a5c-57d07274e1b6.json",
+  "reviews_name": "Kwetiaw Sapi Apollo, Bekasi Selatan",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 1.04
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "23b7f615-3600-4d02-8678-cef4fa6a66c7",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.7,
+      "total": 3512
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 305,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 251,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 205,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "61c5fbc3-0531-40d0-8a5c-57d07274e1b6",
+    "username_reviews": "Hanan",
+    "initialName": "H",
+    "image_reviews": null,
+    "created_time": "2022-02-18T16:08:56.261668+07:00",
+    "created_time_epoch": 1645200536,
+    "reviews_rating": 5,
+    "orders": {
+      "orderedAt": "2022-02-16T08:43:08.956983Z",
+      "items": [
+        {
+          "id": "c0ea6233-3233-456e-9fa3-0ee70b360122",
+          "name": "Kwetiaw Goreng Sapi"
+        },
+        {
+          "id": "590c83a5-8d59-4714-a1e5-8f670f328e01",
+          "name": "Mie Goreng Ayam"
+        },
+        {
+          "id": "67155e64-a71a-4310-8d5a-eafa56d45595",
+          "name": "Nasi Goreng Seafood"
+        }
+      ]
+    },
+    "tags_review": [
+      "CANNED_RESPONSE_PORTION",
+      "gofood.co.id"
+    ],
+    "content_reviews": "1 porsi bisa buat berdua",
+    "date_of_experience": ""
+  }
+}

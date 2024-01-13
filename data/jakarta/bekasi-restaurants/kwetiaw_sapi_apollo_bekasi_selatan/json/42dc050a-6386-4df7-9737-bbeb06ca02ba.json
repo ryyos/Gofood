@@ -1,0 +1,72 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/kwetiaw-sapi-apollo-bekasi-selatan-23b7f615-3600-4d02-8678-cef4fa6a66c7",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Chinese",
+    "Aneka nasi",
+    "Bakmie",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:55:28.059560",
+  "crawling_time_epoch": 1705157728,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Kwetiaw_Sapi_Apollo_Bekasi_Selatan/json/42dc050a-6386-4df7-9737-bbeb06ca02ba.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Kwetiaw_Sapi_Apollo_Bekasi_Selatan/json/42dc050a-6386-4df7-9737-bbeb06ca02ba.json",
+  "reviews_name": "Kwetiaw Sapi Apollo, Bekasi Selatan",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 1.04
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "23b7f615-3600-4d02-8678-cef4fa6a66c7",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.7,
+      "total": 3512
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 305,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 251,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 205,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "42dc050a-6386-4df7-9737-bbeb06ca02ba",
+    "username_reviews": "E**",
+    "initialName": "E",
+    "image_reviews": null,
+    "created_time": "2019-12-03T10:34:20.11+07:00",
+    "created_time_epoch": 1575369260,
+    "reviews_rating": 2,
+    "orders": {
+      "orderedAt": "2019-11-30T04:16:58.920513Z",
+      "items": [
+        {
+          "id": "ef064b68-209e-4c24-a3f1-37ea0bb263f1",
+          "name": "Paket Kwetiaw Goreng ( + Liang Teh)"
+        },
+        {
+          "id": "84012758-c428-47bd-81da-248ae28bbdb8",
+          "name": "Paket Nasgor ( + Es Teh Manis)"
+        }
+      ]
+    },
+    "tags_review": [
+      "CANNED_RESPONSE_PORTION",
+      "gofood.co.id"
+    ],
+    "content_reviews": "minuman nya kurang 1. kwetiaw nya gosong jadi agak pahit2.",
+    "date_of_experience": ""
+  }
+}

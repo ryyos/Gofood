@@ -5,8 +5,8 @@
     "Aneka nasi",
     "gofood.co.id"
   ],
-  "crawling_time": "2024-01-13 21:20:19.392522",
-  "crawling_time_epoch": 1705155619,
+  "crawling_time": "2024-01-13 21:55:12.675928",
+  "crawling_time_epoch": 1705157712,
   "path_data_raw": "data/jakarta/bekasi-restaurants/Bubur_Ayam_Kampung_Nyemplung_Pekayon/json/5b6d2204-92c6-42c9-bc3b-e3f9374211fc.json",
   "path_data_clean": "data/jakarta/bekasi-restaurants/Bubur_Ayam_Kampung_Nyemplung_Pekayon/json/5b6d2204-92c6-42c9-bc3b-e3f9374211fc.json",
   "reviews_name": "Bubur Ayam Kampung Nyemplung, Pekayon",

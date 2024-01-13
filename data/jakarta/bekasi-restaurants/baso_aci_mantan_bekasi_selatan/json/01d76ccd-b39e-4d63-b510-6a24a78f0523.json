@@ -1,0 +1,70 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/baso-aci-mantan-bekasi-selatan-a4c8817c-c8c3-477d-9d6d-643d86546882",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Jajanan",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:55:31.450901",
+  "crawling_time_epoch": 1705157731,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Baso_Aci_Mantan_Bekasi_Selatan/json/01d76ccd-b39e-4d63-b510-6a24a78f0523.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Baso_Aci_Mantan_Bekasi_Selatan/json/01d76ccd-b39e-4d63-b510-6a24a78f0523.json",
+  "reviews_name": "Baso Aci Mantan, Bekasi Selatan",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 1.05
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "a4c8817c-c8c3-477d-9d6d-643d86546882",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.6,
+      "total": 4520
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 408,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 312,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 304,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "01d76ccd-b39e-4d63-b510-6a24a78f0523",
+    "username_reviews": "A****",
+    "initialName": "A",
+    "image_reviews": null,
+    "created_time": "2019-12-03T11:00:19.818+07:00",
+    "created_time_epoch": 1575370819,
+    "reviews_rating": 3,
+    "orders": {
+      "orderedAt": "2019-11-30T13:45:37.951891Z",
+      "items": [
+        {
+          "id": "41d674e6-2bcc-4dc3-b51e-665d0f0fe555",
+          "name": "Mantan Mie"
+        },
+        {
+          "id": "e564a9f3-3edd-4cbe-a622-fd470b6dffb5",
+          "name": "Extra Baso"
+        }
+      ]
+    },
+    "tags_review": [
+      "",
+      "gofood.co.id"
+    ],
+    "content_reviews": "extra bakso di aplikasi jumlahnya 5 dapetnya 2",
+    "date_of_experience": ""
+  }
+}

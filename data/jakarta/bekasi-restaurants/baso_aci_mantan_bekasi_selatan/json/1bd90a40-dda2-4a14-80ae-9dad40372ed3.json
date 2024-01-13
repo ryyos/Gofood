@@ -1,0 +1,70 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/baso-aci-mantan-bekasi-selatan-a4c8817c-c8c3-477d-9d6d-643d86546882",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Jajanan",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:55:31.450901",
+  "crawling_time_epoch": 1705157731,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Baso_Aci_Mantan_Bekasi_Selatan/json/1bd90a40-dda2-4a14-80ae-9dad40372ed3.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Baso_Aci_Mantan_Bekasi_Selatan/json/1bd90a40-dda2-4a14-80ae-9dad40372ed3.json",
+  "reviews_name": "Baso Aci Mantan, Bekasi Selatan",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 1.05
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "a4c8817c-c8c3-477d-9d6d-643d86546882",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.6,
+      "total": 4520
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 408,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 312,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 304,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "1bd90a40-dda2-4a14-80ae-9dad40372ed3",
+    "username_reviews": "N******",
+    "initialName": "N",
+    "image_reviews": null,
+    "created_time": "2020-05-07T11:53:05.039+07:00",
+    "created_time_epoch": 1588852385,
+    "reviews_rating": 2,
+    "orders": {
+      "orderedAt": "2020-05-05T09:16:29.601365Z",
+      "items": [
+        {
+          "id": "090246bb-ac29-4aa8-a786-d2bd49c8fdde",
+          "name": "Mantan Cheese"
+        },
+        {
+          "id": "e564a9f3-3edd-4cbe-a622-fd470b6dffb5",
+          "name": "Extra Baso"
+        }
+      ]
+    },
+    "tags_review": [
+      "CANNED_RESPONSE_PORTION",
+      "gofood.co.id"
+    ],
+    "content_reviews": "porsi tidak sesuai dgn list menu. extra baso ditulis 5pcs tp yg dateng hanya 2 pcs",
+    "date_of_experience": ""
+  }
+}

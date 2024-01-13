@@ -1,0 +1,68 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/oremi-coffee-and-eatery-grand-galaxy-city-af384868-ddaf-4fb1-bc07-6a7b5245bde2",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Bakmie",
+    "Aneka nasi",
+    "Kopi",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:55:33.649023",
+  "crawling_time_epoch": 1705157733,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Oremi_Coffee_and_Eatery_Grand_Galaxy_City/json/7be7dd84-3abc-4196-a9c8-8c4229e117cd.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Oremi_Coffee_and_Eatery_Grand_Galaxy_City/json/7be7dd84-3abc-4196-a9c8-8c4229e117cd.json",
+  "reviews_name": "Oremi Coffee and Eatery, Grand Galaxy City",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 1.07
+  },
+  "range_prices": "16k-40k",
+  "restaurant_id": "af384868-ddaf-4fb1-bc07-6a7b5245bde2",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.2,
+      "total": 531
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 98,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 56,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 55,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "7be7dd84-3abc-4196-a9c8-8c4229e117cd",
+    "username_reviews": "L*** S*****",
+    "initialName": "LS",
+    "image_reviews": null,
+    "created_time": "2019-12-06T07:58:52.087+07:00",
+    "created_time_epoch": 1575619132,
+    "reviews_rating": 4,
+    "orders": {
+      "orderedAt": "2019-12-06T00:13:12.577768Z",
+      "items": [
+        {
+          "id": "5410ed2f-77d1-4c24-ba09-a375fe0a090e",
+          "name": "Pangsit (1 Bh)"
+        }
+      ]
+    },
+    "tags_review": [
+      "",
+      "gofood.co.id"
+    ],
+    "content_reviews": "pangait nya lain kali pake dus/ box, soalnya ngegempal jadi satu",
+    "date_of_experience": ""
+  }
+}

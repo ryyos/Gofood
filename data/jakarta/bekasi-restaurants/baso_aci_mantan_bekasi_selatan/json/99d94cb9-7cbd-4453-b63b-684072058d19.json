@@ -1,0 +1,69 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/baso-aci-mantan-bekasi-selatan-a4c8817c-c8c3-477d-9d6d-643d86546882",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Jajanan",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:55:31.450901",
+  "crawling_time_epoch": 1705157731,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Baso_Aci_Mantan_Bekasi_Selatan/json/99d94cb9-7cbd-4453-b63b-684072058d19.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Baso_Aci_Mantan_Bekasi_Selatan/json/99d94cb9-7cbd-4453-b63b-684072058d19.json",
+  "reviews_name": "Baso Aci Mantan, Bekasi Selatan",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 1.05
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "a4c8817c-c8c3-477d-9d6d-643d86546882",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.6,
+      "total": 4520
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 408,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 312,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 304,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "99d94cb9-7cbd-4453-b63b-684072058d19",
+    "username_reviews": "Yonathan Alvin",
+    "initialName": "YA",
+    "image_reviews": null,
+    "created_time": "2022-10-14T18:57:10.044411+07:00",
+    "created_time_epoch": 1665773830,
+    "reviews_rating": 1,
+    "orders": {
+      "orderedAt": "2022-10-14T11:37:38.67539Z",
+      "items": [
+        {
+          "id": "8128db95-84fd-4eac-87bd-bcd7b1bbf9c2",
+          "name": "Mantan Ketigaㅤㅤ"
+        },
+        {
+          "id": "e564a9f3-3edd-4cbe-a622-fd470b6dffb5",
+          "name": "Extra Baso"
+        }
+      ]
+    },
+    "tags_review": [
+      "gofood.co.id"
+    ],
+    "content_reviews": "Ada laron besar di dalam kuah",
+    "date_of_experience": ""
+  }
+}

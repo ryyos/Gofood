@@ -7,8 +7,8 @@
     "Aneka nasi",
     "gofood.co.id"
   ],
-  "crawling_time": "2024-01-13 21:20:23.240256",
-  "crawling_time_epoch": 1705155623,
+  "crawling_time": "2024-01-13 21:55:15.108255",
+  "crawling_time_epoch": 1705157715,
   "path_data_raw": "data/jakarta/bekasi-restaurants/Richeese_Factory_Pekayon/json/9e19f3cf-9d72-4a13-93e1-a95250602a6d.json",
   "path_data_clean": "data/jakarta/bekasi-restaurants/Richeese_Factory_Pekayon/json/9e19f3cf-9d72-4a13-93e1-a95250602a6d.json",
   "reviews_name": "Richeese Factory, Pekayon",

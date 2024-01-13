@@ -1,0 +1,70 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/baso-aci-mantan-bekasi-selatan-a4c8817c-c8c3-477d-9d6d-643d86546882",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Jajanan",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:55:31.450901",
+  "crawling_time_epoch": 1705157731,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Baso_Aci_Mantan_Bekasi_Selatan/json/3ff8beb2-1bcc-4d9f-b53f-faea67d6f861.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Baso_Aci_Mantan_Bekasi_Selatan/json/3ff8beb2-1bcc-4d9f-b53f-faea67d6f861.json",
+  "reviews_name": "Baso Aci Mantan, Bekasi Selatan",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 1.05
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "a4c8817c-c8c3-477d-9d6d-643d86546882",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.6,
+      "total": 4520
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 408,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 312,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 304,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "3ff8beb2-1bcc-4d9f-b53f-faea67d6f861",
+    "username_reviews": "T**",
+    "initialName": "T",
+    "image_reviews": null,
+    "created_time": "2020-01-26T14:22:08.472+07:00",
+    "created_time_epoch": 1580048528,
+    "reviews_rating": 4,
+    "orders": {
+      "orderedAt": "2020-01-26T06:52:49.753992Z",
+      "items": [
+        {
+          "id": "fae16878-80c5-4267-aff9-758af6b5626e",
+          "name": "Mantan Pertama"
+        },
+        {
+          "id": "363dbb77-84ef-4cd8-9d1c-fadbe12449f7",
+          "name": "Extra Cuankie Lidah"
+        }
+      ]
+    },
+    "tags_review": [
+      "",
+      "gofood.co.id"
+    ],
+    "content_reviews": "lain kali d cek ulang ya kak kelengkapan bumbunya,aku udh order beberapa klii pasti ada yg ga kbawa kmrin bli gada jeruknya skrg bli gada bumbu cabainyaa",
+    "date_of_experience": ""
+  }
+}

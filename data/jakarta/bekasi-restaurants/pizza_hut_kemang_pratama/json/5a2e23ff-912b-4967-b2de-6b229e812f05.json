@@ -2,15 +2,15 @@
   "link": "https://gofood.co.id/jakarta/restaurant/pizza-hut-kemang-pratama-619b40c5-b111-4004-a05e-2cf6526de384",
   "domain": "gofood.co.id",
   "tags": [
-    "Barat",
     "Jajanan",
     "Ayam & bebek",
     "Pizza & pasta",
     "Cepat saji",
+    "Barat",
     "gofood.co.id"
   ],
-  "crawling_time": "2024-01-13 21:20:55.807619",
-  "crawling_time_epoch": 1705155655,
+  "crawling_time": "2024-01-13 21:55:22.454602",
+  "crawling_time_epoch": 1705157722,
   "path_data_raw": "data/jakarta/bekasi-restaurants/Pizza_Hut_Kemang_Pratama/json/5a2e23ff-912b-4967-b2de-6b229e812f05.json",
   "path_data_clean": "data/jakarta/bekasi-restaurants/Pizza_Hut_Kemang_Pratama/json/5a2e23ff-912b-4967-b2de-6b229e812f05.json",
   "reviews_name": "Pizza Hut, Kemang Pratama",

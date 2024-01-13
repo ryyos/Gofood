@@ -5,8 +5,8 @@
     "Cepat saji",
     "gofood.co.id"
   ],
-  "crawling_time": "2024-01-13 21:20:11.107220",
-  "crawling_time_epoch": 1705155611,
+  "crawling_time": "2024-01-13 21:55:09.347571",
+  "crawling_time_epoch": 1705157709,
   "path_data_raw": "data/jakarta/bekasi-restaurants/AW_Linc_Square/json/102fbd66-9c15-4710-957b-d8aa61e0b89b.json",
   "path_data_clean": "data/jakarta/bekasi-restaurants/AW_Linc_Square/json/102fbd66-9c15-4710-957b-d8aa61e0b89b.json",
   "reviews_name": "A&W, Linc Square",

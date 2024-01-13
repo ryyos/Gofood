@@ -5,8 +5,8 @@
     "Sate",
     "gofood.co.id"
   ],
-  "crawling_time": "2024-01-13 21:19:50.904999",
-  "crawling_time_epoch": 1705155590,
+  "crawling_time": "2024-01-13 21:55:03.287782",
+  "crawling_time_epoch": 1705157703,
   "path_data_raw": "data/jakarta/bekasi-restaurants/Sate_Madura_Cak_Ari_Bekasi_Selatan/json/1ae0af58-1b10-49fb-ba3b-8108cef66c0e.json",
   "path_data_clean": "data/jakarta/bekasi-restaurants/Sate_Madura_Cak_Ari_Bekasi_Selatan/json/1ae0af58-1b10-49fb-ba3b-8108cef66c0e.json",
   "reviews_name": "Sate Madura Cak Ari, Bekasi Selatan",

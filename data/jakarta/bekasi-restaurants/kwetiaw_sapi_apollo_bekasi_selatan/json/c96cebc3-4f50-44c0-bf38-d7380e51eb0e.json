@@ -1,0 +1,68 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/kwetiaw-sapi-apollo-bekasi-selatan-23b7f615-3600-4d02-8678-cef4fa6a66c7",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Chinese",
+    "Aneka nasi",
+    "Bakmie",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:55:28.059560",
+  "crawling_time_epoch": 1705157728,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Kwetiaw_Sapi_Apollo_Bekasi_Selatan/json/c96cebc3-4f50-44c0-bf38-d7380e51eb0e.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Kwetiaw_Sapi_Apollo_Bekasi_Selatan/json/c96cebc3-4f50-44c0-bf38-d7380e51eb0e.json",
+  "reviews_name": "Kwetiaw Sapi Apollo, Bekasi Selatan",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 1.04
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "23b7f615-3600-4d02-8678-cef4fa6a66c7",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.7,
+      "total": 3512
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 305,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 251,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 205,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "c96cebc3-4f50-44c0-bf38-d7380e51eb0e",
+    "username_reviews": "A**** D********",
+    "initialName": "AD",
+    "image_reviews": null,
+    "created_time": "2021-07-10T19:29:16.224717+07:00",
+    "created_time_epoch": 1625945356,
+    "reviews_rating": 3,
+    "orders": {
+      "orderedAt": "2021-07-10T11:25:06.575898Z",
+      "items": [
+        {
+          "id": "4493a45e-ab9d-42b5-b13b-e294b76583f1",
+          "name": "Kwetiau Goreng Seafood"
+        }
+      ]
+    },
+    "tags_review": [
+      "CANNED_RESPONSE_TASTE",
+      "gofood.co.id"
+    ],
+    "content_reviews": "Sayuran seperti sawi dan toge yang digunakan PAHIT, sehingga mempengaruhi taste/ rasa Kwetiaw goreng keseluruhan. Mohon diperhatikan. Terima kasih 🙏🏻",
+    "date_of_experience": ""
+  }
+}

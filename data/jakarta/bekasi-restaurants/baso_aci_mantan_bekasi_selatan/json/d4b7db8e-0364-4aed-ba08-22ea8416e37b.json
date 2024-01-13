@@ -1,0 +1,69 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/baso-aci-mantan-bekasi-selatan-a4c8817c-c8c3-477d-9d6d-643d86546882",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Jajanan",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:55:31.450901",
+  "crawling_time_epoch": 1705157731,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Baso_Aci_Mantan_Bekasi_Selatan/json/d4b7db8e-0364-4aed-ba08-22ea8416e37b.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Baso_Aci_Mantan_Bekasi_Selatan/json/d4b7db8e-0364-4aed-ba08-22ea8416e37b.json",
+  "reviews_name": "Baso Aci Mantan, Bekasi Selatan",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 1.05
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "a4c8817c-c8c3-477d-9d6d-643d86546882",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.6,
+      "total": 4520
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 408,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 312,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 304,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "d4b7db8e-0364-4aed-ba08-22ea8416e37b",
+    "username_reviews": "R*** D*******",
+    "initialName": "RD",
+    "image_reviews": null,
+    "created_time": "2021-08-09T11:18:27.893497+07:00",
+    "created_time_epoch": 1628507907,
+    "reviews_rating": 3,
+    "orders": {
+      "orderedAt": "2021-08-07T11:04:11.594447Z",
+      "items": [
+        {
+          "id": "b4e1be1a-3a98-4737-9c79-f274e6b88d01",
+          "name": "Mantan Keempatㅤㅤ"
+        },
+        {
+          "id": "e564a9f3-3edd-4cbe-a622-fd470b6dffb5",
+          "name": "Extra Baso"
+        }
+      ]
+    },
+    "tags_review": [
+      "gofood.co.id"
+    ],
+    "content_reviews": "gak minta pake ceker, minta tambahan order baso sapi tp dikasih baso aci. piye toh??",
+    "date_of_experience": ""
+  }
+}

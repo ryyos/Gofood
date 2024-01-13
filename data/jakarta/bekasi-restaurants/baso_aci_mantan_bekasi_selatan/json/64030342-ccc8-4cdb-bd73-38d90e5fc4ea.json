@@ -1,0 +1,66 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/baso-aci-mantan-bekasi-selatan-a4c8817c-c8c3-477d-9d6d-643d86546882",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Jajanan",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:55:31.450901",
+  "crawling_time_epoch": 1705157731,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Baso_Aci_Mantan_Bekasi_Selatan/json/64030342-ccc8-4cdb-bd73-38d90e5fc4ea.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Baso_Aci_Mantan_Bekasi_Selatan/json/64030342-ccc8-4cdb-bd73-38d90e5fc4ea.json",
+  "reviews_name": "Baso Aci Mantan, Bekasi Selatan",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 1.05
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "a4c8817c-c8c3-477d-9d6d-643d86546882",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.6,
+      "total": 4520
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 408,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 312,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 304,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "64030342-ccc8-4cdb-bd73-38d90e5fc4ea",
+    "username_reviews": "D*** A*******",
+    "initialName": "DA",
+    "image_reviews": null,
+    "created_time": "2019-11-26T14:36:47.256+07:00",
+    "created_time_epoch": 1574779007,
+    "reviews_rating": 5,
+    "orders": {
+      "orderedAt": "2019-11-26T06:53:17.136723Z",
+      "items": [
+        {
+          "id": "fae16878-80c5-4267-aff9-758af6b5626e",
+          "name": "Mantan Pertama"
+        }
+      ]
+    },
+    "tags_review": [
+      "",
+      "gofood.co.id"
+    ],
+    "content_reviews": "Airnya kurang bnyak. jadi kental bnget kalau udh di kasi sambel... Tapi tetap mantul ❤😊",
+    "date_of_experience": ""
+  }
+}

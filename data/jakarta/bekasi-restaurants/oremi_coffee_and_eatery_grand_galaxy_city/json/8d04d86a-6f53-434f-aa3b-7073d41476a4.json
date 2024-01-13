@@ -1,0 +1,71 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/oremi-coffee-and-eatery-grand-galaxy-city-af384868-ddaf-4fb1-bc07-6a7b5245bde2",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Bakmie",
+    "Aneka nasi",
+    "Kopi",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:55:33.649023",
+  "crawling_time_epoch": 1705157733,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Oremi_Coffee_and_Eatery_Grand_Galaxy_City/json/8d04d86a-6f53-434f-aa3b-7073d41476a4.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Oremi_Coffee_and_Eatery_Grand_Galaxy_City/json/8d04d86a-6f53-434f-aa3b-7073d41476a4.json",
+  "reviews_name": "Oremi Coffee and Eatery, Grand Galaxy City",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 1.07
+  },
+  "range_prices": "16k-40k",
+  "restaurant_id": "af384868-ddaf-4fb1-bc07-6a7b5245bde2",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.2,
+      "total": 531
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 98,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 56,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 55,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "8d04d86a-6f53-434f-aa3b-7073d41476a4",
+    "username_reviews": "devina",
+    "initialName": "D",
+    "image_reviews": null,
+    "created_time": "2022-05-28T11:05:38.983749+07:00",
+    "created_time_epoch": 1653735938,
+    "reviews_rating": 5,
+    "orders": {
+      "orderedAt": "2022-05-28T00:54:37.117071Z",
+      "items": [
+        {
+          "id": "ceb09f3c-4387-4cd9-81df-39a4b55c38ce",
+          "name": "Mie / Bihun / Kwetiauw Ayam Kecap Polos"
+        },
+        {
+          "id": "a2ef8b94-1473-46c2-a8f2-c0ecbdc2638c",
+          "name": "Nasi Campur Ayam Marah"
+        }
+      ]
+    },
+    "tags_review": [
+      "gofood.co.id"
+    ],
+    "content_reviews": "enak, hanya terganggu sama kemasan mie ayamnya, paper bowl terlalu kecil, pas ngaduk resiko tumpah ruah.",
+    "date_of_experience": ""
+  }
+}

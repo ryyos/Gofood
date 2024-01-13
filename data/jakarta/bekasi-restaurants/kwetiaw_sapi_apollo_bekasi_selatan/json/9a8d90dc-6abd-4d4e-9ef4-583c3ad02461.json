@@ -1,0 +1,85 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/kwetiaw-sapi-apollo-bekasi-selatan-23b7f615-3600-4d02-8678-cef4fa6a66c7",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Chinese",
+    "Aneka nasi",
+    "Bakmie",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:55:28.059560",
+  "crawling_time_epoch": 1705157728,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Kwetiaw_Sapi_Apollo_Bekasi_Selatan/json/9a8d90dc-6abd-4d4e-9ef4-583c3ad02461.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Kwetiaw_Sapi_Apollo_Bekasi_Selatan/json/9a8d90dc-6abd-4d4e-9ef4-583c3ad02461.json",
+  "reviews_name": "Kwetiaw Sapi Apollo, Bekasi Selatan",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 1.04
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "23b7f615-3600-4d02-8678-cef4fa6a66c7",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.7,
+      "total": 3512
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 305,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 251,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 205,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "9a8d90dc-6abd-4d4e-9ef4-583c3ad02461",
+    "username_reviews": "yenny",
+    "initialName": "Y",
+    "image_reviews": null,
+    "created_time": "2022-01-02T17:25:35.837755+07:00",
+    "created_time_epoch": 1641144335,
+    "reviews_rating": 5,
+    "orders": {
+      "orderedAt": "2022-01-02T09:22:16.919879Z",
+      "items": [
+        {
+          "id": "0daf5716-fd3e-4661-aaac-2d08830b50c6",
+          "name": "Kwetiaw Yam Sapi"
+        },
+        {
+          "id": "d67d5c28-aff9-4366-9bf4-e80796cdbba7",
+          "name": "Kwetiaw Goreng Sapi"
+        },
+        {
+          "id": "a420dc33-de87-483c-aa3f-774c2241fe42",
+          "name": "Mie Goreng Seafood"
+        },
+        {
+          "id": "3f02cfe9-3a79-4dd7-967e-0bd7df58802b",
+          "name": "Kwetiaw Bun Sapi"
+        }
+      ]
+    },
+    "tags_review": [
+      "CANNED_RESPONSE_FRESHNESS",
+      "CANNED_RESPONSE_TASTE",
+      "CANNED_RESPONSE_PORTION",
+      "CANNED_RESPONSE_HYGIENE",
+      "CANNED_RESPONSE_PACKAGING",
+      "CANNED_RESPONSE_VALUE",
+      "gofood.co.id"
+    ],
+    "content_reviews": "porsi banyak bangett bisa utk ber2",
+    "date_of_experience": ""
+  }
+}

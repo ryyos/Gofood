@@ -1,0 +1,66 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/warung-sate-madura-pak-udin-bekasi-selatan-a5442523-acdd-46d1-a427-d1a3582b1a0a",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Sate",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:55:41.010381",
+  "crawling_time_epoch": 1705157741,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Warung_Sate_Madura_Pak_Udin_Bekasi_Selatan/json/9dd82da4-9eda-4eaf-a5e8-7aa5d3f8e31e.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Warung_Sate_Madura_Pak_Udin_Bekasi_Selatan/json/9dd82da4-9eda-4eaf-a5e8-7aa5d3f8e31e.json",
+  "reviews_name": "Warung Sate Madura Pak Udin, Bekasi Selatan",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 1.14
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "a5442523-acdd-46d1-a427-d1a3582b1a0a",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 3.9,
+      "total": 287
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 32,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 12,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 12,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "9dd82da4-9eda-4eaf-a5e8-7aa5d3f8e31e",
+    "username_reviews": "ghani padmonodewo",
+    "initialName": "GP",
+    "image_reviews": null,
+    "created_time": "2022-01-30T20:00:37.346912+07:00",
+    "created_time_epoch": 1643572837,
+    "reviews_rating": 5,
+    "orders": {
+      "orderedAt": "2022-01-30T12:33:25.342085Z",
+      "items": [
+        {
+          "id": "138d8c70-586f-47bd-83db-c89b784812a0",
+          "name": "Sate Ayam Tampa Lemak"
+        }
+      ]
+    },
+    "tags_review": [
+      "CANNED_RESPONSE_TASTE",
+      "gofood.co.id"
+    ],
+    "content_reviews": "enak daging smuanya",
+    "date_of_experience": ""
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/warung-sate-madura-pak-udin-bekasi-selatan-a5442523-acdd-46d1-a427-d1a3582b1a0a",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Sate",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:55:41.010381",
+  "crawling_time_epoch": 1705157741,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Warung_Sate_Madura_Pak_Udin_Bekasi_Selatan/json/6cdd9d6d-6cb8-4a93-b714-a390ba8bae5f.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Warung_Sate_Madura_Pak_Udin_Bekasi_Selatan/json/6cdd9d6d-6cb8-4a93-b714-a390ba8bae5f.json",
+  "reviews_name": "Warung Sate Madura Pak Udin, Bekasi Selatan",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 1.14
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "a5442523-acdd-46d1-a427-d1a3582b1a0a",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 3.9,
+      "total": 287
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 32,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 12,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 12,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "6cdd9d6d-6cb8-4a93-b714-a390ba8bae5f",
+    "username_reviews": "D****",
+    "initialName": "D",
+    "image_reviews": null,
+    "created_time": "2021-11-27T22:34:07.100796+07:00",
+    "created_time_epoch": 1638052447,
+    "reviews_rating": 5,
+    "orders": {
+      "orderedAt": "2021-11-26T14:46:00.765023Z",
+      "items": [
+        {
+          "id": "d8e743c8-6da7-429d-b486-23bbe383b4cb",
+          "name": "Sate Kambing 15tusuk"
+        }
+      ]
+    },
+    "tags_review": [
+      "gofood.co.id"
+    ],
+    "content_reviews": "saya order lagi sekarang bumbunya di pisah kaya kemarin lupa kasih keterangan",
+    "date_of_experience": ""
+  }
+}

@@ -7,6 +7,9 @@ from datetime import datetime, timezone
 from icecream import ic
 from fake_useragent import FakeUserAgent
 from typing import List
+from concurrent.futures import ThreadPoolExecutor
+from concurrent.futures import wait
+from tqdm import tqdm
 
 from src.utils.fileIO import File
 from src.utils.logs import logger
@@ -19,6 +22,7 @@ class Gofood:
         self.__file = File()
         self.__faker = FakeUserAgent(browsers='chrome', os='windows')
         self.__sessions = requests.Session()
+        self.__executor = ThreadPoolExecutor(max_workers=10)
 
         self.DOMAIN = 'gofood.co.id'
         self.MAIN_URL = 'https://gofood.co.id'
@@ -51,7 +55,49 @@ class Gofood:
         return int(dt.timestamp())
         ...
 
-    def __retry(self, url):
+    def __retry(self, url: str, method: str = 'get', payload: dict = None, retry_interval: int = 10):
+
+        ic(url)
+        match method:
+
+            case 'get':
+
+                while True:
+                    try:
+                        response = self.__sessions.get(url=url, headers=self.HEADER)
+                        ic(response)
+                        if response.status_code == 200: break
+
+                        sleep(retry_interval)
+                        retry_interval+=5
+                    except Exception as err:
+                        ic(err)
+
+                        sleep(retry_interval)
+                        retry_interval+=5
+
+                return response
+
+
+
+            case 'post':
+
+                while True:
+                    try:
+                        response = self.__sessions.post(url=url, headers=self.HEADER, json=payload)
+                        ic(response)
+                        if response.status_code == 200: break
+
+                        sleep(retry_interval)
+                        retry_interval+=5
+                    except Exception as err:
+                        ic(err)
+
+                        sleep(retry_interval)
+                        retry_interval+=5
+
+                return response
+
         ...
 
     def __buld_payload(self, page: str, latitude: float, longitude: float) -> dict:
@@ -77,7 +123,7 @@ class Gofood:
         uid = raw_json["restaurant_id"]
 
         page = '?page=1&page_size=50'
-        response = self.__sessions.get(url=f'{self.API_REVIEW_PAGE}{uid}/reviews{page}', headers=self.HEADER)
+        response = self.__retry(url=f'{self.API_REVIEW_PAGE}{uid}/reviews{page}')
 
         ic(f'{self.API_REVIEW_PAGE}{uid}/reviews{page}')
         ic(response)
@@ -121,15 +167,14 @@ class Gofood:
 
             page = response.json().get("next_page", None)
             if page:
-                sleep(2)
-                response = self.__sessions.get(url=f'{self.API_REVIEW_PAGE}/{uid}/reviews{page}', headers=self.HEADER)
+                response = self.__retry(url=f'{self.API_REVIEW_PAGE}/{uid}/reviews{page}')
                 ic('next'+ str(response))
 
             else: break
         ...
 
     def __fetch_card_food(self, city: str, restaurant: str) -> List[str]:
-        response = self.__sessions.get(url=f'https://gofood.co.id/_next/data/8.10.0/id{restaurant}/near_me.json?service_area={city}&locality={restaurant.split("/")[-1]}&category=near_me', headers=self.HEADER)
+        response = self.__retry(url=f'https://gofood.co.id/_next/data/8.10.0/id{restaurant}/near_me.json?service_area={city}&locality={restaurant.split("/")[-1]}&category=near_me')
 
 
         latitude = response.json()["pageProps"]["userLocation"]["chosenLocation"]["latitude"]
@@ -139,9 +184,9 @@ class Gofood:
         cards = [card["path"] for card in response.json()["pageProps"]["outlets"]]
         while True:
 
-            response = self.__sessions.post(url=self.FOODS_API, 
-                                     headers=self.HEADER, 
-                                     json=self.__buld_payload(page=page_token, 
+            response = self.__retry(url=self.FOODS_API, 
+                                    method='post',
+                                    payload=self.__buld_payload(page=page_token, 
                                                               latitude=latitude,
                                                               longitude=longitude
                                                               ))
@@ -160,12 +205,12 @@ class Gofood:
 
     def main(self) -> None:
 
-        response = self.__sessions.get(url=self.API_CITY, headers=self.HEADER)
+        response = self.__retry(url=self.API_CITY)
         ic(response)
 
         cities = response.json()
         for city in cities["pageProps"]["contents"][0]["data"]: # Mengambil Kota
-            response = self.__sessions.get(url=f'https://gofood.co.id/_next/data/8.10.0/id/{city["name"].lower()}/restaurants.json', headers=self.HEADER)
+            response = self.__retry(url=f'https://gofood.co.id/_next/data/8.10.0/id/{city["name"].lower()}/restaurants.json')
 
             for restaurant in response.json()["pageProps"]["contents"][0]["data"]: # Mengambil restaurant dari kota
                 ic(restaurant)
@@ -174,7 +219,7 @@ class Gofood:
 
                 for card in cards: # lokasi thread
 
-                    food_review = self.__sessions.get(f'https://gofood.co.id/_next/data/8.10.0/id{card}/reviews.json?id={card.split("/")[-1]}', headers=self.HEADER)
+                    food_review = self.__retry(f'https://gofood.co.id/_next/data/8.10.0/id{card}/reviews.json?id={card.split("/")[-1]}')
                     ic(food_review)
                     ic(f'https://gofood.co.id/_next/data/8.10.0/id{card}/reviews.json?id={card.split("/")[-1]}')
 
@@ -242,19 +287,9 @@ class Gofood:
 'https://gofood.co.id/jakarta/restaurant/mcdonald-s-pekayon-50150204-8f6d-4372-8458-668f1be126e8/reviews.json?id=mcdonald-s-pekayon-50150204-8f6d-4372-8458-668f1be126e8'
 'https://gofood.co.id/_next/data/8.10.0/id/jakarta/restaurant/mcdonald-s-pekayon-50150204-8f6d-4372-8458-668f1be126e8/reviews.json?id=mcdonald-s-pekayon-50150204-8f6d-4372-8458-668f1be126e8'
 
+# https://gofood.co.id/_next/data/8.10.0/id/jakarta/restaurant/waroeng-ikal-3-76-ruko-grand-galaxy-265efdac-fdd0-44c6-bd3f-9564423f61c2/reviews.json?service_area=jakarta&id=waroeng-ikal-3-76-ruko-grand-galaxy-265efdac-fdd0-44c6-bd3f-9564423f61c2
+# https://gofood.co.id/_next/data/8.10.0/id/jakarta/restaurant/waroeng-ikal-376-ruko-grand-galaxy-265efdac-fdd0-44c6-bd3f-9564423f61c2/reviews.json?id=waroeng-ikal-376-ruko-grand-galaxy-265efdac-fdd0-44c6-bd3f-9564423f61c2
 
-"""
-ic| response: <Response [200]>
-Traceback (most recent call last):
-  File "D:\programming\Python\project\Gofood\main.py", line 5, in <module>
-    go.main()
-  File "D:\programming\Python\project\Gofood\src\service\gofood.py", line 223, in main
-    self.__extract_restaurant(raw_json=header_required)
-  File "D:\programming\Python\project\Gofood\src\service\gofood.py", line 107, in __extract_restaurant
-    "path_data_raw": f'/data/{raw_json["city"]}/{raw_json["area"]}/{file_name(raw_json["reviews_name"].lower())}/json',
-                              ~~~~~~~~^^^^^^^^
-KeyError: 'city'
-PS D:\programming\Py"""
 
 # https://gofood.co.id/_next/data/8.10.0/id/jakarta/restaurant/a-w-linc-square-d4fe7a94-86cd-4883-b279-07bdd7002ad9/reviews.json?id=a-w-linc-square-d4fe7a94-86cd-4883-b279-07bdd7002ad9
 # https://gofood.co.id/_next/data/8.10.0/id/jakarta/restaurant/aw-linc-square-d4fe7a94-86cd-4883-b279-07bdd7002ad9/reviews.json?id=aw-linc-square-d4fe7a94-86cd-4883-b279-07bdd7002ad9

@@ -1,0 +1,79 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/kwetiaw-sapi-apollo-bekasi-selatan-23b7f615-3600-4d02-8678-cef4fa6a66c7",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Chinese",
+    "Aneka nasi",
+    "Bakmie",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:55:28.059560",
+  "crawling_time_epoch": 1705157728,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Kwetiaw_Sapi_Apollo_Bekasi_Selatan/json/7b9dbf13-9e21-4744-9e2e-7f6db11fd840.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Kwetiaw_Sapi_Apollo_Bekasi_Selatan/json/7b9dbf13-9e21-4744-9e2e-7f6db11fd840.json",
+  "reviews_name": "Kwetiaw Sapi Apollo, Bekasi Selatan",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 1.04
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "23b7f615-3600-4d02-8678-cef4fa6a66c7",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.7,
+      "total": 3512
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 305,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 251,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 205,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "7b9dbf13-9e21-4744-9e2e-7f6db11fd840",
+    "username_reviews": "Hendi Kwok",
+    "initialName": "HK",
+    "image_reviews": null,
+    "created_time": "2022-09-25T20:42:42.666672+07:00",
+    "created_time_epoch": 1664138562,
+    "reviews_rating": 5,
+    "orders": {
+      "orderedAt": "2022-09-24T13:56:12.675787Z",
+      "items": [
+        {
+          "id": "c0ea6233-3233-456e-9fa3-0ee70b360122",
+          "name": "Kwetiaw Goreng Sapi"
+        },
+        {
+          "id": "67155e64-a71a-4310-8d5a-eafa56d45595",
+          "name": "Nasi Goreng Seafood"
+        },
+        {
+          "id": "fad673a5-2539-450c-8258-9151bfea5da8",
+          "name": "Es Teh Manis"
+        },
+        {
+          "id": "b4aa3cb6-af00-47ee-83ce-4faa5ac41e7c",
+          "name": "Es Teh Tawar"
+        }
+      ]
+    },
+    "tags_review": [
+      "gofood.co.id"
+    ],
+    "content_reviews": "Mantap masakan nya",
+    "date_of_experience": ""
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/kwetiaw-sapi-apollo-bekasi-selatan-23b7f615-3600-4d02-8678-cef4fa6a66c7",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Chinese",
+    "Aneka nasi",
+    "Bakmie",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:55:28.059560",
+  "crawling_time_epoch": 1705157728,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Kwetiaw_Sapi_Apollo_Bekasi_Selatan/json/b402c61c-9557-4994-9039-23db79692d7b.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Kwetiaw_Sapi_Apollo_Bekasi_Selatan/json/b402c61c-9557-4994-9039-23db79692d7b.json",
+  "reviews_name": "Kwetiaw Sapi Apollo, Bekasi Selatan",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 1.04
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "23b7f615-3600-4d02-8678-cef4fa6a66c7",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.7,
+      "total": 3512
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 305,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 251,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 205,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "b402c61c-9557-4994-9039-23db79692d7b",
+    "username_reviews": "M**",
+    "initialName": "M",
+    "image_reviews": null,
+    "created_time": "2022-06-29T23:02:18.202966+07:00",
+    "created_time_epoch": 1656543738,
+    "reviews_rating": 5,
+    "orders": {
+      "orderedAt": "2022-06-29T15:28:29.699217Z",
+      "items": [
+        {
+          "id": "6400450b-a073-4f42-8cf1-0557321dfdf0",
+          "name": "Bihun Baso Kuah"
+        }
+      ]
+    },
+    "tags_review": [
+      "CANNED_RESPONSE_TASTE",
+      "gofood.co.id"
+    ],
+    "content_reviews": "jng berubah ya dlm rasa,enakkk betull.sungguh.cuma saya g saya dpt baso gepeng atau mmng demikian gepeng semua.sucsesss terusss.Amin",
+    "date_of_experience": ""
+  }
+}

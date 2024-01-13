@@ -1,0 +1,83 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/kwetiaw-sapi-apollo-bekasi-selatan-23b7f615-3600-4d02-8678-cef4fa6a66c7",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Chinese",
+    "Aneka nasi",
+    "Bakmie",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:55:28.059560",
+  "crawling_time_epoch": 1705157728,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Kwetiaw_Sapi_Apollo_Bekasi_Selatan/json/56404451-508b-49e4-8089-66672fa1635e.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Kwetiaw_Sapi_Apollo_Bekasi_Selatan/json/56404451-508b-49e4-8089-66672fa1635e.json",
+  "reviews_name": "Kwetiaw Sapi Apollo, Bekasi Selatan",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 1.04
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "23b7f615-3600-4d02-8678-cef4fa6a66c7",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.7,
+      "total": 3512
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 305,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 251,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 205,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "56404451-508b-49e4-8089-66672fa1635e",
+    "username_reviews": "O**** P************",
+    "initialName": "OP",
+    "image_reviews": null,
+    "created_time": "2022-11-08T12:06:13.236349+07:00",
+    "created_time_epoch": 1667909173,
+    "reviews_rating": 5,
+    "orders": {
+      "orderedAt": "2022-10-24T12:42:30.461815Z",
+      "items": [
+        {
+          "id": "5a49df2f-0045-402d-b8d0-3bc001c20b70",
+          "name": "Kwetiaw Siram Sapi"
+        },
+        {
+          "id": "590c83a5-8d59-4714-a1e5-8f670f328e01",
+          "name": "Mie Goreng Ayam"
+        },
+        {
+          "id": "155a949c-d6d1-4330-bc41-3721ca67aaf1",
+          "name": "Liang Teh"
+        },
+        {
+          "id": "c0ea6233-3233-456e-9fa3-0ee70b360122",
+          "name": "Kwetiaw Goreng Sapi"
+        }
+      ]
+    },
+    "tags_review": [
+      "CANNED_RESPONSE_FRESHNESS",
+      "CANNED_RESPONSE_TASTE",
+      "CANNED_RESPONSE_PORTION",
+      "CANNED_RESPONSE_VALUE",
+      "gofood.co.id"
+    ],
+    "content_reviews": "Enak! Bakalan beli lagi sih nih.",
+    "date_of_experience": ""
+  }
+}

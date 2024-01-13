@@ -1,0 +1,68 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/baso-aci-mantan-bekasi-selatan-a4c8817c-c8c3-477d-9d6d-643d86546882",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Jajanan",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:55:31.450901",
+  "crawling_time_epoch": 1705157731,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Baso_Aci_Mantan_Bekasi_Selatan/json/9b8827d2-401c-44c6-82aa-96d27c476cca.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Baso_Aci_Mantan_Bekasi_Selatan/json/9b8827d2-401c-44c6-82aa-96d27c476cca.json",
+  "reviews_name": "Baso Aci Mantan, Bekasi Selatan",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 1.05
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "a4c8817c-c8c3-477d-9d6d-643d86546882",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.6,
+      "total": 4520
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 408,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 312,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 304,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "9b8827d2-401c-44c6-82aa-96d27c476cca",
+    "username_reviews": "A******** P H********",
+    "initialName": "AH",
+    "image_reviews": null,
+    "created_time": "2020-04-17T19:45:13.551+07:00",
+    "created_time_epoch": 1587152713,
+    "reviews_rating": 4,
+    "orders": {
+      "orderedAt": "2020-04-17T08:01:40.892967Z",
+      "items": [
+        {
+          "id": "4381bf15-1bd8-46e5-928b-d5f2affa4760",
+          "name": "Paket Mantan Salmon x Sapi"
+        }
+      ]
+    },
+    "tags_review": [
+      "CANNED_RESPONSE_FRESHNESS",
+      "CANNED_RESPONSE_TASTE",
+      "CANNED_RESPONSE_HYGIENE",
+      "gofood.co.id"
+    ],
+    "content_reviews": "1st timer nyoba baso aci.\nkupikir bakal kaya bakso malang, rupanya beda di tekstur.. gorengannya alot2 musti direndem, jadinya kenyal..\nlumayan, ku ga kecewa.\nharga slightly above sepadan dengan rasa",
+    "date_of_experience": ""
+  }
+}

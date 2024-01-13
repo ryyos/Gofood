@@ -1,0 +1,69 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/baso-aci-mantan-bekasi-selatan-a4c8817c-c8c3-477d-9d6d-643d86546882",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Jajanan",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:55:31.450901",
+  "crawling_time_epoch": 1705157731,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Baso_Aci_Mantan_Bekasi_Selatan/json/4749ffa1-9f0b-4e68-9794-4d75876f5717.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Baso_Aci_Mantan_Bekasi_Selatan/json/4749ffa1-9f0b-4e68-9794-4d75876f5717.json",
+  "reviews_name": "Baso Aci Mantan, Bekasi Selatan",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 1.05
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "a4c8817c-c8c3-477d-9d6d-643d86546882",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.6,
+      "total": 4520
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 408,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 312,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 304,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "4749ffa1-9f0b-4e68-9794-4d75876f5717",
+    "username_reviews": "W****",
+    "initialName": "W",
+    "image_reviews": null,
+    "created_time": "2022-02-22T00:14:29.725394+07:00",
+    "created_time_epoch": 1645488869,
+    "reviews_rating": 4,
+    "orders": {
+      "orderedAt": "2022-02-21T12:22:59.266052Z",
+      "items": [
+        {
+          "id": "b7f1c9e0-c77a-4cbb-8b2c-dba2988a7a9f",
+          "name": "Mantan Pertamaㅤㅤ"
+        },
+        {
+          "id": "363dbb77-84ef-4cd8-9d1c-fadbe12449f7",
+          "name": "Extra Cuankie Lidah"
+        }
+      ]
+    },
+    "tags_review": [
+      "gofood.co.id"
+    ],
+    "content_reviews": "tiap pesen tambahan cuanki selalu cm dpt 3 pdhl di aplikasi tertulis 5\ng ngerti knp\nkalo emang cm dpt 3 knp g dirubah sih?",
+    "date_of_experience": ""
+  }
+}
