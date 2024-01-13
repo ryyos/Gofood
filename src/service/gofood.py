@@ -4,7 +4,6 @@ import datetime as date
 
 from time import time, sleep
 from datetime import datetime, timezone
-from icecream import ic
 from fake_useragent import FakeUserAgent
 from typing import List
 from concurrent.futures import ThreadPoolExecutor
@@ -25,6 +24,7 @@ class Gofood:
 
         self.DOMAIN = 'gofood.co.id'
         self.MAIN_URL = 'https://gofood.co.id'
+        self.MAIN_PATH = 'data'
 
         self.API_CITY = 'https://gofood.co.id/_next/data/8.10.0/id/cities.json' # 89
         self.RESTAURANT = 'https://gofood.co.id/_next/data/8.10.0/id/jakarta/restaurants.json' # 94
@@ -66,21 +66,40 @@ class Gofood:
 
     def __retry(self, url: str, action: str = 'get', payload: dict = None, retry_interval: int = 10, url_review: str = None):
 
-        ic(url)
+
+
         match action:
 
             case 'get':
-
+                retry = 0
                 while True:
                     try:
                         response = self.__sessions.get(url=url, headers=self.HEADER)
-                        ic(response)
+
+                        logger.info(f'response status: {response.status_code}')
+                        logger.info(f'try request in url: {url}')
+                        logger.info(f'request action: {action}')
+                        logger.info(f'url review: {url_review}')
+                        print()
+
                         if response.status_code == 200: break
 
                         sleep(retry_interval)
+
+                        logger.warning(f'response status: {response}')
+                        logger.warning(f'retry interval: {retry_interval}')
+                        logger.warning(f'retry to: {retry}')
+                        print()
+
                         retry_interval+=5
+                        retry+=1
+
                     except Exception as err:
-                        ic(err)
+
+                        logger.error(err)
+                        logger.warning(f'retry interval: {retry_interval}')
+                        logger.warning(f'retry to: {retry}')
+                        print()
 
                         sleep(retry_interval)
                         retry_interval+=5
@@ -93,13 +112,21 @@ class Gofood:
                 while True:
                     try:
                         response = self.__sessions.post(url=url, headers=self.HEADER, json=payload)
-                        ic(response)
+
+                        logger.info(f'response status: {response.status_code}')
+                        logger.info(f'try request in url: {url}')
+                        logger.info(f'request action: {action}')
+                        logger.info(f'url review: {url_review}')
+                        print()
+
                         if response.status_code == 200: break
 
                         sleep(retry_interval)
                         retry_interval+=5
                     except Exception as err:
-                        ic(err)
+                        logger.error(err)
+                        logger.warning(f'retry interval: {retry_interval}')
+                        logger.warning(f'retry to: {retry}')
 
                         sleep(retry_interval)
                         retry_interval+=5
@@ -112,7 +139,13 @@ class Gofood:
                 while True:
                     try:
                         response = self.__sessions.get(url=url, headers=self.HEADER)
-                        ic(response)
+
+                        logger.info(f'response status: {response.status_code}')
+                        logger.info(f'try request in url: {url}')
+                        logger.info(f'request action: {action}')
+                        logger.info(f'url review: {url_review}')
+                        print()
+
                         if response.status_code == 200: break
 
                         sleep(retry_interval)
@@ -120,13 +153,25 @@ class Gofood:
                         response = self.__sessions.get(url=url_review, headers=self.HEADER)
 
                     except Exception as err:
-                        ic(err)
+                        logger.error(err)
+                        logger.warning(f'retry interval: {retry_interval}')
+                        logger.warning(f'retry to: {retry}')
 
                         sleep(retry_interval)
                         retry_interval+=5
 
                 return response
 
+        ...
+
+    def __create_dir(self, raw_data: dict) -> str:
+
+        if not os.path.exists(f'{self.MAIN_PATH}/{raw_data["location_review"]}'): os.mkdir(f'data/{raw_data["location_review"]}')
+        if not os.path.exists(f'{self.MAIN_PATH}/{raw_data["location_review"]}/{raw_data["location_restaurant"]["area"]}'): os.mkdir(f'data/{raw_data["location_review"]}/{raw_data["location_restaurant"]["area"]}')
+        if not os.path.exists(f'{self.MAIN_PATH}/{raw_data["location_review"]}/{raw_data["location_restaurant"]["area"]}/{file_name(raw_data["reviews_name"].lower())}'): os.mkdir(f'data/{raw_data["location_review"]}/{raw_data["location_restaurant"]["area"]}/{file_name(raw_data["reviews_name"].lower())}')
+        if not os.path.exists(f'{self.MAIN_PATH}/{raw_data["location_review"]}/{raw_data["location_restaurant"]["area"]}/{file_name(raw_data["reviews_name"].lower())}/json'): os.mkdir(f'data/{raw_data["location_review"]}/{raw_data["location_restaurant"]["area"]}/{file_name(raw_data["reviews_name"].lower())}/json')
+        
+        return f'data/{raw_data["location_review"]}/{raw_data["location_restaurant"]["area"]}/{file_name(raw_data["reviews_name"].lower())}/json'
         ...
 
     def __buld_payload(self, page: str, latitude: float, longitude: float) -> dict:
@@ -149,14 +194,13 @@ class Gofood:
     ...
 
     def __extract_restaurant(self, raw_json: dict):
+        logger.info('extract review from restaurant')
         uid = raw_json["restaurant_id"]
 
         page = '?page=1&page_size=50'
         response = self.__retry(url=f'{self.API_REVIEW_PAGE}{uid}/reviews{page}')
 
-        ic(f'{self.API_REVIEW_PAGE}{uid}/reviews{page}')
-        ic(response)
-
+        page_review = 0
         while True:
 
             review = response.json()["data"]
@@ -175,35 +219,38 @@ class Gofood:
                     "date_of_experience": "",
                 }
 
+                path_data = self.__create_dir(raw_json)
 
                 detail_reviews["tags_review"].append(self.DOMAIN)
 
                 raw_json.update({
                     "detail_reviews": detail_reviews,
-                    "path_data_raw": f'data/{raw_json["location_review"]}/{raw_json["location_restaurant"]["area"]}/{file_name(raw_json["reviews_name"])}/json/{detail_reviews["username_id"]}.json',
-                    "path_data_clean": f'data/{raw_json["location_review"]}/{raw_json["location_restaurant"]["area"]}/{file_name(raw_json["reviews_name"])}/json/{detail_reviews["username_id"]}.json',
-                })
+                    "path_data_raw": f'{path_data}/{detail_reviews["username_id"]}.json',
+                    "path_data_clean": f'{path_data}/{detail_reviews["username_id"]}.json'
+                })                
 
-                if not os.path.exists(f'data/{raw_json["location_review"]}'): os.mkdir(f'data/{raw_json["location_review"]}')
-                if not os.path.exists(f'data/{raw_json["location_review"]}/{raw_json["location_restaurant"]["area"]}'): os.mkdir(f'data/{raw_json["location_review"]}/{raw_json["location_restaurant"]["area"]}')
-                if not os.path.exists(f'data/{raw_json["location_review"]}/{raw_json["location_restaurant"]["area"]}/{file_name(raw_json["reviews_name"].lower())}'): os.mkdir(f'data/{raw_json["location_review"]}/{raw_json["location_restaurant"]["area"]}/{file_name(raw_json["reviews_name"].lower())}')
-                if not os.path.exists(f'data/{raw_json["location_review"]}/{raw_json["location_restaurant"]["area"]}/{file_name(raw_json["reviews_name"].lower())}/json'): os.mkdir(f'data/{raw_json["location_review"]}/{raw_json["location_restaurant"]["area"]}/{file_name(raw_json["reviews_name"].lower())}/json')
-                
-
-                self.__file.write_json(path=f'data/{raw_json["location_review"]}/{raw_json["location_restaurant"]["area"]}/{file_name(raw_json["reviews_name"])}/json/{detail_reviews["username_id"]}.json',
+                self.__file.write_json(path=f'{path_data}/{detail_reviews["username_id"]}.json',
                                        content=raw_json)
 
+                
+                
+            logger.info(f'page review: {page_review}')
+            logger.info(f'api review page: {self.API_REVIEW_PAGE}{uid}/reviews{page}')
+            print()
 
             page = response.json().get("next_page", None)
             if page:
                 response = self.__retry(url=f'{self.API_REVIEW_PAGE}{uid}/reviews{page}', action='review', url_review=self.__url_food_review)
-                ic('next'+ str(response))
+                page_review+=1
 
-            else: break
+            else: 
+                logger.warning(f'review finished')
+                break
         ...
 
     def __fetch_card_food(self, city: str, restaurant: str) -> List[str]:
         response = self.__retry(url=f'https://gofood.co.id/_next/data/8.10.0/id{restaurant}/near_me.json?service_area={city}&locality={restaurant.split("/")[-1]}&category=near_me')
+        logger.info('fetch card food')
 
 
         latitude = response.json()["pageProps"]["userLocation"]["chosenLocation"]["latitude"]
@@ -222,6 +269,12 @@ class Gofood:
 
             card = [self.__create_card(city=city, pieces=card) for card in response.json()["outlets"]]
             cards.extend(card)
+
+            
+            logger.info(f'card page: {page_token}')
+            logger.info(f'total card: {len(cards)}')
+            print()
+
             try:
                 page_token = response.json()["nextPageToken"]
                 sleep(3)
@@ -235,25 +288,23 @@ class Gofood:
     def main(self) -> None:
 
         response = self.__retry(url=self.API_CITY)
-        ic(response)
 
         cities = response.json()
         for city in cities["pageProps"]["contents"][0]["data"]: # Mengambil Kota
             response = self.__retry(url=f'https://gofood.co.id/_next/data/8.10.0/id/{city["name"].lower()}/restaurants.json')
 
             for restaurant in response.json()["pageProps"]["contents"][0]["data"]: # Mengambil restaurant dari kota
-                ic(restaurant)
 
                 cards = self.__fetch_card_food(city=city["name"].lower(), restaurant=restaurant["path"]) # Mengambil card makanan dari restaurant
 
                 for card in cards: # lokasi thread
-                    self.__url_food_review = f'https://gofood.co.id/_next/data/8.10.0/id{card}/reviews.json?id={card.split("/")[-1]}'
 
-                    food_review = self.__retry(f'https://gofood.co.id/_next/data/8.10.0/id{card}/reviews.json?id={card.split("/")[-1]}')
-                    ic(food_review)
-                    ic(f'https://gofood.co.id/_next/data/8.10.0/id{card}/reviews.json?id={card.split("/")[-1]}')
-                    ic(self.MAIN_URL+food_review.json()["pageProps"].get("outletUrl"))
+                    api_review = f'https://gofood.co.id/_next/data/8.10.0/id{card}/reviews.json?id={card.split("/")[-1]}'
+                    self.__url_food_review = api_review
 
+                    food_review = self.__retry(api_review)
+
+                    task_executor = []
                     header_required = {
                         "link": self.MAIN_URL+food_review.json()["pageProps"].get("outletUrl"),
                         "domain": self.DOMAIN,
@@ -291,14 +342,23 @@ class Gofood:
                         "detail_reviews": ""
                     }
 
+
+                    logger.info(f'city: {city["name"].lower()}')
+                    logger.info(f'restaurant: {restaurant["path"].split("/")[-1]}')
+                    logger.info(f'link: {header_required["link"]}')
+                    logger.info(f'api review: {api_review}')
+                    logger.info(f'restaurant name: {header_required["reviews_name"]}')
+                    print()
+
+
                     header_required["tags"].append(self.DOMAIN)
                     # self.__extract_restaurant(raw_json=header_required)
-                    self.__executor.submit(self.__extract_restaurant, header_required)
-                    ic("restaurant")
+                    task_executor.append(self.__executor.submit(self.__extract_restaurant, header_required))
 
                     sleep(1)
 
-                wait(self.__executor)
+                wait(task_executor)
+                self.__executor.shutdown(wait=True)
                 break
 
             break

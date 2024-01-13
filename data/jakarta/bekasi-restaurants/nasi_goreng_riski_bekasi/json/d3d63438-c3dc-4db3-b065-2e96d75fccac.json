@@ -5,10 +5,10 @@
     "Aneka nasi",
     "gofood.co.id"
   ],
-  "crawling_time": "2024-01-13 23:23:23.407720",
-  "crawling_time_epoch": 1705163003,
-  "path_data_raw": "data/jakarta/bekasi-restaurants/Nasi_Goreng_Riski_Bekasi/json/d3d63438-c3dc-4db3-b065-2e96d75fccac.json",
-  "path_data_clean": "data/jakarta/bekasi-restaurants/Nasi_Goreng_Riski_Bekasi/json/d3d63438-c3dc-4db3-b065-2e96d75fccac.json",
+  "crawling_time": "2024-01-14 00:32:26.459689",
+  "crawling_time_epoch": 1705167146,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/nasi_goreng_riski_bekasi/json/d3d63438-c3dc-4db3-b065-2e96d75fccac.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/nasi_goreng_riski_bekasi/json/d3d63438-c3dc-4db3-b065-2e96d75fccac.json",
   "reviews_name": "Nasi Goreng Riski, Bekasi",
   "location_review": "jakarta",
   "location_restaurant": {

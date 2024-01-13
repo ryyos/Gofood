@@ -7,10 +7,10 @@
     "Jajanan",
     "gofood.co.id"
   ],
-  "crawling_time": "2024-01-13 23:23:16.939446",
-  "crawling_time_epoch": 1705162996,
-  "path_data_raw": "data/jakarta/bekasi-restaurants/McDonalds_Pekayon/json/87258be1-596f-46a1-9a8e-854d70be9b3e.json",
-  "path_data_clean": "data/jakarta/bekasi-restaurants/McDonalds_Pekayon/json/87258be1-596f-46a1-9a8e-854d70be9b3e.json",
+  "crawling_time": "2024-01-14 00:32:23.638761",
+  "crawling_time_epoch": 1705167143,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/mcdonalds_pekayon/json/87258be1-596f-46a1-9a8e-854d70be9b3e.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/mcdonalds_pekayon/json/87258be1-596f-46a1-9a8e-854d70be9b3e.json",
   "reviews_name": "McDonald's, Pekayon",
   "location_review": "jakarta",
   "location_restaurant": {
