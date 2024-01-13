@@ -2,13 +2,13 @@
   "link": "https://gofood.co.id/jakarta/restaurant/bang-raden-gerobak-kopi-grand-galaxy-city-11ac8186-f8f3-4965-9a75-13c2dfc2581d",
   "domain": "gofood.co.id",
   "tags": [
+    "Minuman",
     "Kopi",
     "Sweets",
-    "Minuman",
     "gofood.co.id"
   ],
-  "crawling_time": "2024-01-13 21:55:26.144916",
-  "crawling_time_epoch": 1705157726,
+  "crawling_time": "2024-01-13 22:35:38.405234",
+  "crawling_time_epoch": 1705160138,
   "path_data_raw": "data/jakarta/bekasi-restaurants/Bang_Raden_Gerobak_Kopi_Grand_Galaxy_City/json/2ec33dcc-44d7-4816-b8d5-a4d6fcbb2356.json",
   "path_data_clean": "data/jakarta/bekasi-restaurants/Bang_Raden_Gerobak_Kopi_Grand_Galaxy_City/json/2ec33dcc-44d7-4816-b8d5-a4d6fcbb2356.json",
   "reviews_name": "Bang Raden Gerobak Kopi, Grand Galaxy City",

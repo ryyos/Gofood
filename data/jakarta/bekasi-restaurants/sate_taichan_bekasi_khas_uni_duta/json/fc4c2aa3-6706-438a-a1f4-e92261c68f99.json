@@ -5,8 +5,8 @@
     "Sate",
     "gofood.co.id"
   ],
-  "crawling_time": "2024-01-13 21:55:01.403201",
-  "crawling_time_epoch": 1705157701,
+  "crawling_time": "2024-01-13 22:35:32.385043",
+  "crawling_time_epoch": 1705160132,
   "path_data_raw": "data/jakarta/bekasi-restaurants/Sate_Taichan_Bekasi_Khas_Uni_Duta/json/fc4c2aa3-6706-438a-a1f4-e92261c68f99.json",
   "path_data_clean": "data/jakarta/bekasi-restaurants/Sate_Taichan_Bekasi_Khas_Uni_Duta/json/fc4c2aa3-6706-438a-a1f4-e92261c68f99.json",
   "reviews_name": "Sate Taichan Bekasi \"Khas Uni\", Duta",

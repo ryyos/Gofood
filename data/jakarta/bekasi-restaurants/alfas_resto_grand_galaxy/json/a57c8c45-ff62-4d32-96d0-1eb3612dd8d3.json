@@ -6,8 +6,8 @@
     "Aneka nasi",
     "gofood.co.id"
   ],
-  "crawling_time": "2024-01-13 21:55:39.032503",
-  "crawling_time_epoch": 1705157739,
+  "crawling_time": "2024-01-13 22:35:40.620585",
+  "crawling_time_epoch": 1705160140,
   "path_data_raw": "data/jakarta/bekasi-restaurants/Alfas_Resto_Grand_Galaxy/json/a57c8c45-ff62-4d32-96d0-1eb3612dd8d3.json",
   "path_data_clean": "data/jakarta/bekasi-restaurants/Alfas_Resto_Grand_Galaxy/json/a57c8c45-ff62-4d32-96d0-1eb3612dd8d3.json",
   "reviews_name": "Alfa's Resto, Grand Galaxy",

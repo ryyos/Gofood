@@ -34,6 +34,7 @@ class Gofood:
         self.API_REVIEW = 'https://gofood.co.id/_next/data/8.10.0/id/jakarta/restaurant/mcdonald-s-pekayon-50150204-8f6d-4372-8458-668f1be126e8/reviews.json?id=mcdonald-s-pekayon-50150204-8f6d-4372-8458-668f1be126e8'
         self.API_REVIEW_PAGE = 'https://gofood.co.id/api/outlets/'
 
+        self.__url_food_review = ''
         self.HEADER = {
             "User-Agent": self.__faker.random,
             "Content-Type": "application/json"
@@ -55,10 +56,10 @@ class Gofood:
         return int(dt.timestamp())
         ...
 
-    def __retry(self, url: str, method: str = 'get', payload: dict = None, retry_interval: int = 10):
+    def __retry(self, url: str, action: str = 'get', payload: dict = None, retry_interval: int = 10, url_review: str = None):
 
         ic(url)
-        match method:
+        match action:
 
             case 'get':
 
@@ -90,6 +91,26 @@ class Gofood:
 
                         sleep(retry_interval)
                         retry_interval+=5
+                    except Exception as err:
+                        ic(err)
+
+                        sleep(retry_interval)
+                        retry_interval+=5
+
+                return response
+            
+            case 'review':
+
+                while True:
+                    try:
+                        response = self.__sessions.get(url=url, headers=self.HEADER)
+                        ic(response)
+                        if response.status_code == 200: break
+
+                        sleep(retry_interval)
+                        retry_interval+=5
+                        response = self.__sessions.get(url=url_review, headers=self.HEADER)
+
                     except Exception as err:
                         ic(err)
 
@@ -167,7 +188,7 @@ class Gofood:
 
             page = response.json().get("next_page", None)
             if page:
-                response = self.__retry(url=f'{self.API_REVIEW_PAGE}/{uid}/reviews{page}')
+                response = self.__retry(url=f'{self.API_REVIEW_PAGE}{uid}/reviews{page}', action='review', url_review=self.__url_food_review)
                 ic('next'+ str(response))
 
             else: break
@@ -185,7 +206,7 @@ class Gofood:
         while True:
 
             response = self.__retry(url=self.FOODS_API, 
-                                    method='post',
+                                    action='post',
                                     payload=self.__buld_payload(page=page_token, 
                                                               latitude=latitude,
                                                               longitude=longitude
@@ -218,13 +239,15 @@ class Gofood:
                 cards = self.__fetch_card_food(city=city["name"].lower(), restaurant=restaurant["path"]) # Mengambil card makanan dari restaurant
 
                 for card in cards: # lokasi thread
+                    self.__url_food_review = f'https://gofood.co.id/_next/data/8.10.0/id{card}/reviews.json?id={card.split("/")[-1]}'
 
                     food_review = self.__retry(f'https://gofood.co.id/_next/data/8.10.0/id{card}/reviews.json?id={card.split("/")[-1]}')
                     ic(food_review)
                     ic(f'https://gofood.co.id/_next/data/8.10.0/id{card}/reviews.json?id={card.split("/")[-1]}')
+                    ic(self.MAIN_URL+food_review.json()["pageProps"].get("outletUrl"))
 
                     header_required = {
-                        "link": self.MAIN_URL+food_review.json()["pageProps"]["outletUrl"],
+                        "link": self.MAIN_URL+food_review.json()["pageProps"].get("outletUrl"),
                         "domain": self.DOMAIN,
                         "tags": [tag["displayName"] for tag in food_review.json()["pageProps"]["outlet"]["core"]["tags"]],
                         "crawling_time": str(datetime.now()),
@@ -259,7 +282,7 @@ class Gofood:
                                     "score_rating": food_review.json()["pageProps"]["cannedOutlet"][-1]["count"],
                                     "category_rating": "packaging",
                                 }
-                            ] if len(food_review.json()["pageProps"]["cannedOutlet"]) else None
+                            ] if food_review.json()["pageProps"]["cannedOutlet"] else None
                         },
 
                         "range_prices": self.PRICE[str(food_review.json()["pageProps"]["outlet"]["priceLevel"])],
@@ -268,11 +291,13 @@ class Gofood:
                     }
 
                     header_required["tags"].append(self.DOMAIN)
-                    self.__extract_restaurant(raw_json=header_required)
+                    # self.__extract_restaurant(raw_json=header_required)
+                    self.__executor.submit(self.__extract_restaurant, header_required)
                     ic("restaurant")
 
                     sleep(1)
 
+                wait(self.__executor)
                 break
 
             break
@@ -293,3 +318,6 @@ class Gofood:
 
 # https://gofood.co.id/_next/data/8.10.0/id/jakarta/restaurant/a-w-linc-square-d4fe7a94-86cd-4883-b279-07bdd7002ad9/reviews.json?id=a-w-linc-square-d4fe7a94-86cd-4883-b279-07bdd7002ad9
 # https://gofood.co.id/_next/data/8.10.0/id/jakarta/restaurant/aw-linc-square-d4fe7a94-86cd-4883-b279-07bdd7002ad9/reviews.json?id=aw-linc-square-d4fe7a94-86cd-4883-b279-07bdd7002ad9
+
+
+# for card in tqdm(cards, ascii=True, smoothing=0.1, total=len(cards)): # lokasi thread

@@ -5,8 +5,8 @@
     "Sate",
     "gofood.co.id"
   ],
-  "crawling_time": "2024-01-13 21:55:41.010381",
-  "crawling_time_epoch": 1705157741,
+  "crawling_time": "2024-01-13 22:35:43.298384",
+  "crawling_time_epoch": 1705160143,
   "path_data_raw": "data/jakarta/bekasi-restaurants/Warung_Sate_Madura_Pak_Udin_Bekasi_Selatan/json/36b7110a-47a4-4a5a-bf88-f8203056c9e9.json",
   "path_data_clean": "data/jakarta/bekasi-restaurants/Warung_Sate_Madura_Pak_Udin_Bekasi_Selatan/json/36b7110a-47a4-4a5a-bf88-f8203056c9e9.json",
   "reviews_name": "Warung Sate Madura Pak Udin, Bekasi Selatan",
