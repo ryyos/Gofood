@@ -1,0 +1,84 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/richeese-factory-pekayon-fb7c3452-2cba-464a-9e24-23840a40a179",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Cepat saji",
+    "Ayam & bebek",
+    "Aneka nasi",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:20:23.240256",
+  "crawling_time_epoch": 1705155623,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Richeese_Factory_Pekayon/json/4bad0997-36a2-4118-98c0-58e205bfac44.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Richeese_Factory_Pekayon/json/4bad0997-36a2-4118-98c0-58e205bfac44.json",
+  "reviews_name": "Richeese Factory, Pekayon",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.97
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "fb7c3452-2cba-464a-9e24-23840a40a179",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.7,
+      "total": 32095
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 2029,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 1477,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 1469,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "4bad0997-36a2-4118-98c0-58e205bfac44",
+    "username_reviews": "M****** C******",
+    "initialName": "MC",
+    "image_reviews": null,
+    "created_time": "2019-09-10T18:57:01.49+07:00",
+    "created_time_epoch": 1568141821,
+    "reviews_rating": 4,
+    "orders": {
+      "orderedAt": "2019-09-07T09:00:02.219288Z",
+      "items": [
+        {
+          "id": "6add1fc2-0730-43f8-be06-be6df90118f8",
+          "name": "Combo 1 Fire Chicken"
+        },
+        {
+          "id": "8c714db4-82ad-495c-b76e-19c4b65b777c",
+          "name": "Kids Meal – Crispy Chicken Bites"
+        },
+        {
+          "id": "5dd4c749-bba5-46ac-963a-78e09a8054c5",
+          "name": "Add On Potato Churros"
+        },
+        {
+          "id": "17e4e8b8-3815-4dcc-b6bc-a827496ca62c",
+          "name": "Cheese Crackling"
+        },
+        {
+          "id": "ec22a450-63e7-43b2-8798-d36423dad0d2",
+          "name": "Combo Cheese Crackling"
+        }
+      ]
+    },
+    "tags_review": [
+      "CANNED_RESPONSE_PACKAGING",
+      "gofood.co.id"
+    ],
+    "content_reviews": "seharusnya box makanan dan minuman tidak dijadikan 1 plastik. karena minuman dingin jadi berair dan basah sehingga box makanan hancur karena basah..",
+    "date_of_experience": ""
+  }
+}

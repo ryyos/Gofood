@@ -1,0 +1,73 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/kfc-kemang-pratama-ef8c2c3e-61d6-4bd4-b9fa-10cfd6358dcf",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Cepat saji",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:19:21.062803",
+  "crawling_time_epoch": 1705155561,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/KFC_Kemang_Pratama/json/fdac4b5a-1154-41fa-a730-b93631a035e8.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/KFC_Kemang_Pratama/json/fdac4b5a-1154-41fa-a730-b93631a035e8.json",
+  "reviews_name": "KFC, Kemang Pratama",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.53
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "ef8c2c3e-61d6-4bd4-b9fa-10cfd6358dcf",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.8,
+      "total": 24067
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 2021,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 1696,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 1631,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "fdac4b5a-1154-41fa-a730-b93631a035e8",
+    "username_reviews": "L**** S",
+    "initialName": "LS",
+    "image_reviews": null,
+    "created_time": "2023-07-06T16:05:40.583586+07:00",
+    "created_time_epoch": 1688659540,
+    "reviews_rating": 4,
+    "orders": {
+      "orderedAt": "2023-07-06T03:37:14.21413Z",
+      "items": [
+        {
+          "id": "bd750a2b-df59-4f22-a8d7-db6ec76ae4c0",
+          "name": "French Fries Reguler"
+        },
+        {
+          "id": "becab11c-3f97-4750-81e4-7dc9ab48f0fd",
+          "name": "1 Pc Chicken"
+        },
+        {
+          "id": "3d0d42f5-c9f8-4c23-9c20-5d45b9d6c12d",
+          "name": "Rice"
+        }
+      ]
+    },
+    "tags_review": [
+      "gofood.co.id"
+    ],
+    "content_reviews": "Kulit tepung rasanya kaya kue pastel ngga kerasa khas kfc nya, sausnya juga cuman dapet yang sambal yang tomat ga dapet",
+    "date_of_experience": ""
+  }
+}

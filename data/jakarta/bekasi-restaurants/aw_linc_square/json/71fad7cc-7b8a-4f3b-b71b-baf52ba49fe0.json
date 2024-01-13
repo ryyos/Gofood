@@ -1,0 +1,66 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/a-w-linc-square-d4fe7a94-86cd-4883-b279-07bdd7002ad9",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Cepat saji",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:20:11.107220",
+  "crawling_time_epoch": 1705155611,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/AW_Linc_Square/json/71fad7cc-7b8a-4f3b-b71b-baf52ba49fe0.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/AW_Linc_Square/json/71fad7cc-7b8a-4f3b-b71b-baf52ba49fe0.json",
+  "reviews_name": "A&W, Linc Square",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.94
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "d4fe7a94-86cd-4883-b279-07bdd7002ad9",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.8,
+      "total": 7181
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 499,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 403,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 365,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "71fad7cc-7b8a-4f3b-b71b-baf52ba49fe0",
+    "username_reviews": "desi novitasari",
+    "initialName": "DN",
+    "image_reviews": null,
+    "created_time": "2023-03-10T20:59:28.846001+07:00",
+    "created_time_epoch": 1678481968,
+    "reviews_rating": 3,
+    "orders": {
+      "orderedAt": "2023-03-08T13:42:50.943744Z",
+      "items": [
+        {
+          "id": "669ec428-9a13-448b-80f5-6bbf248338fd",
+          "name": "SUPER WednesDeals - Deluxe Burger & FREE! Cheese Burger"
+        }
+      ]
+    },
+    "tags_review": [
+      "CANNED_RESPONSE_ORDER",
+      "gofood.co.id"
+    ],
+    "content_reviews": "udh dinote no pickles and no tomat ttp aj dikasih",
+    "date_of_experience": ""
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/dobel-martabak-bude-pekayon-c516bbfe-5583-4fbc-9605-9cd02cd220b0",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Martabak",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:18:42.021929",
+  "crawling_time_epoch": 1705155522,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Dobel_Martabak_Bude_Pekayon/json/e7912880-1ee2-482e-a1c4-1361f2a4424c.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Dobel_Martabak_Bude_Pekayon/json/e7912880-1ee2-482e-a1c4-1361f2a4424c.json",
+  "reviews_name": "Dobel Martabak Bude, Pekayon",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.46
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "c516bbfe-5583-4fbc-9605-9cd02cd220b0",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.6,
+      "total": 2907
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 366,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 264,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 253,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "e7912880-1ee2-482e-a1c4-1361f2a4424c",
+    "username_reviews": "Untung Adinyoto",
+    "initialName": "UA",
+    "image_reviews": null,
+    "created_time": "2023-09-05T19:22:04.379212+07:00",
+    "created_time_epoch": 1693941724,
+    "reviews_rating": 4,
+    "orders": {
+      "orderedAt": "2023-09-05T11:26:11.545805Z",
+      "items": [
+        {
+          "id": "418e9bca-b072-4838-8ac7-06b3362a914f",
+          "name": "Martabak Telor Bebek Istimewa"
+        }
+      ]
+    },
+    "tags_review": [
+      "gofood.co.id"
+    ],
+    "content_reviews": "Daging sapi keras, tidak enak dimakannya",
+    "date_of_experience": ""
+  }
+}

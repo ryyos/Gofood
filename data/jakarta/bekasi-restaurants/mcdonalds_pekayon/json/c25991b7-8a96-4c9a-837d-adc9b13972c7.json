@@ -1,0 +1,72 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/mcdonald-s-pekayon-50150204-8f6d-4372-8458-668f1be126e8",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Cepat saji",
+    "Sweets",
+    "Jajanan",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:17:21.424093",
+  "crawling_time_epoch": 1705155441,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/McDonalds_Pekayon/json/c25991b7-8a96-4c9a-837d-adc9b13972c7.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/McDonalds_Pekayon/json/c25991b7-8a96-4c9a-837d-adc9b13972c7.json",
+  "reviews_name": "McDonald's, Pekayon",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.46
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "50150204-8f6d-4372-8458-668f1be126e8",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.8,
+      "total": 70397
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 4555,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 3695,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 3669,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "c25991b7-8a96-4c9a-837d-adc9b13972c7",
+    "username_reviews": "S*** M******",
+    "initialName": "SM",
+    "image_reviews": null,
+    "created_time": "2020-02-23T18:01:57.141+07:00",
+    "created_time_epoch": 1582480917,
+    "reviews_rating": 5,
+    "orders": {
+      "orderedAt": "2020-02-22T12:13:07.087111Z",
+      "items": [
+        {
+          "id": "963af859-8101-4f88-9285-9c51b904b931",
+          "name": "Big Mac Meal Medium"
+        },
+        {
+          "id": "6ce1f755-ecbb-467c-887d-8315ebec459e",
+          "name": "Double Cheese Burger"
+        }
+      ]
+    },
+    "tags_review": [
+      "CANNED_RESPONSE_FRESHNESS",
+      "gofood.co.id"
+    ],
+    "content_reviews": "it was great but can please separate the cold and hot items. when my Coke is next to my French fries by the time they get to me they are not hot anymore - so when you package my order separate the hot and cold please",
+    "date_of_experience": ""
+  }
+}

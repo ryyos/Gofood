@@ -1,0 +1,69 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/pizza-hut-kemang-pratama-619b40c5-b111-4004-a05e-2cf6526de384",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Barat",
+    "Jajanan",
+    "Ayam & bebek",
+    "Pizza & pasta",
+    "Cepat saji",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:20:55.807619",
+  "crawling_time_epoch": 1705155655,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Pizza_Hut_Kemang_Pratama/json/feec3fbb-5dba-4ada-a175-ac7e00404dc4.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Pizza_Hut_Kemang_Pratama/json/feec3fbb-5dba-4ada-a175-ac7e00404dc4.json",
+  "reviews_name": "Pizza Hut, Kemang Pratama",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.99
+  },
+  "range_prices": ">100k",
+  "restaurant_id": "619b40c5-b111-4004-a05e-2cf6526de384",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.8,
+      "total": 12460
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 997,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 804,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 735,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "feec3fbb-5dba-4ada-a175-ac7e00404dc4",
+    "username_reviews": "alya rafi",
+    "initialName": "AR",
+    "image_reviews": null,
+    "created_time": "2022-04-17T11:30:17.738853+07:00",
+    "created_time_epoch": 1650195017,
+    "reviews_rating": 1,
+    "orders": {
+      "orderedAt": "2022-04-16T09:12:52.004895Z",
+      "items": [
+        {
+          "id": "2252e000-544f-4b9b-b438-8e3258906b1b",
+          "name": "Large Dimsum Pizza"
+        }
+      ]
+    },
+    "tags_review": [
+      "gofood.co.id"
+    ],
+    "content_reviews": "sy kecewa.orderan ga sesuai yg saya pesan",
+    "date_of_experience": ""
+  }
+}

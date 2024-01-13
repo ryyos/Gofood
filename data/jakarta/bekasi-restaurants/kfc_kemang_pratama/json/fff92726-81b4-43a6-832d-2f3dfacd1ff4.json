@@ -1,0 +1,78 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/kfc-kemang-pratama-ef8c2c3e-61d6-4bd4-b9fa-10cfd6358dcf",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Cepat saji",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:19:21.062803",
+  "crawling_time_epoch": 1705155561,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/KFC_Kemang_Pratama/json/fff92726-81b4-43a6-832d-2f3dfacd1ff4.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/KFC_Kemang_Pratama/json/fff92726-81b4-43a6-832d-2f3dfacd1ff4.json",
+  "reviews_name": "KFC, Kemang Pratama",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.53
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "ef8c2c3e-61d6-4bd4-b9fa-10cfd6358dcf",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.8,
+      "total": 24067
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 2021,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 1696,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 1631,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "fff92726-81b4-43a6-832d-2f3dfacd1ff4",
+    "username_reviews": "A********",
+    "initialName": "A",
+    "image_reviews": null,
+    "created_time": "2020-07-05T21:12:57.472+07:00",
+    "created_time_epoch": 1593983577,
+    "reviews_rating": 2,
+    "orders": {
+      "orderedAt": "2020-07-05T13:36:12.914236Z",
+      "items": [
+        {
+          "id": "ac9ba50c-47c5-4270-b81d-dc693fb66775",
+          "name": "Original Chicken"
+        },
+        {
+          "id": "d85c666b-5b9c-437b-9e4a-c6a8261b6647",
+          "name": "Colonel Rice Fest 1"
+        },
+        {
+          "id": "b8d811b4-5362-4489-ac1a-f2f3044ff678",
+          "name": "Deluxe Burger"
+        },
+        {
+          "id": "529e4aa1-3e32-49d8-ade7-caee7db9c9e8",
+          "name": "OMJ Burger"
+        }
+      ]
+    },
+    "tags_review": [
+      "",
+      "gofood.co.id"
+    ],
+    "content_reviews": "tidak ada nasinya padahal paket colonel yakiniku rice",
+    "date_of_experience": ""
+  }
+}

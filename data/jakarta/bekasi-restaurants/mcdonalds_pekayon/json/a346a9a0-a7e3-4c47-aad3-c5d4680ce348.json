@@ -1,0 +1,76 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/mcdonald-s-pekayon-50150204-8f6d-4372-8458-668f1be126e8",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Cepat saji",
+    "Sweets",
+    "Jajanan",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:17:21.424093",
+  "crawling_time_epoch": 1705155441,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/McDonalds_Pekayon/json/a346a9a0-a7e3-4c47-aad3-c5d4680ce348.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/McDonalds_Pekayon/json/a346a9a0-a7e3-4c47-aad3-c5d4680ce348.json",
+  "reviews_name": "McDonald's, Pekayon",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.46
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "50150204-8f6d-4372-8458-668f1be126e8",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.8,
+      "total": 70397
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 4555,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 3695,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 3669,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "a346a9a0-a7e3-4c47-aad3-c5d4680ce348",
+    "username_reviews": "Y*****",
+    "initialName": "Y",
+    "image_reviews": null,
+    "created_time": "2021-11-02T07:48:08.110949+07:00",
+    "created_time_epoch": 1635839288,
+    "reviews_rating": 1,
+    "orders": {
+      "orderedAt": "2021-11-01T23:26:20.391105Z",
+      "items": [
+        {
+          "id": "78778836-9c57-4170-9844-c43130309118",
+          "name": "PaNas Special Spicy, Large"
+        },
+        {
+          "id": "b6593629-08b4-4179-b13c-21b452519d46",
+          "name": "PaNas Special Krispy, Large"
+        },
+        {
+          "id": "85d69dd4-b384-4bd3-9b1f-000bb8d2e22b",
+          "name": "Hot Cakes 3pcs"
+        }
+      ]
+    },
+    "tags_review": [
+      "CANNED_RESPONSE_ORDER",
+      "gofood.co.id"
+    ],
+    "content_reviews": "gimana sih pesen pancake ga di kasih mapple syrup nya terus makan pake butter doang gt ,???parah banget .!",
+    "date_of_experience": ""
+  }
+}

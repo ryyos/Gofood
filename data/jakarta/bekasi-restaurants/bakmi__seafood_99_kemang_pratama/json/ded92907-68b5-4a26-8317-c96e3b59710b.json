@@ -1,0 +1,71 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/bakmi-seafood-99-kemang-pratama-84e91552-6c93-4753-b7d8-ef64336203d3",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Aneka nasi",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:19:45.539552",
+  "crawling_time_epoch": 1705155585,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Bakmi__Seafood_99_Kemang_Pratama/json/ded92907-68b5-4a26-8317-c96e3b59710b.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Bakmi__Seafood_99_Kemang_Pratama/json/ded92907-68b5-4a26-8317-c96e3b59710b.json",
+  "reviews_name": "Bakmi & Seafood 99, Kemang Pratama",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.53
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "84e91552-6c93-4753-b7d8-ef64336203d3",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.8,
+      "total": 1843
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 147,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 112,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 105,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "ded92907-68b5-4a26-8317-c96e3b59710b",
+    "username_reviews": "J*** D*****",
+    "initialName": "JD",
+    "image_reviews": null,
+    "created_time": "2022-01-22T12:40:43.634682+07:00",
+    "created_time_epoch": 1642855243,
+    "reviews_rating": 3,
+    "orders": {
+      "orderedAt": "2022-01-16T04:17:16.535196Z",
+      "items": [
+        {
+          "id": "03eb6055-d791-4103-8334-db9cc93f9b68",
+          "name": "Cap Cay Kuah Ayam"
+        },
+        {
+          "id": "84f03d15-8a56-4f61-9f39-3e49486fe1a8",
+          "name": "Bistik Ayam"
+        }
+      ]
+    },
+    "tags_review": [
+      "CANNED_RESPONSE_TASTE",
+      "CANNED_RESPONSE_PORTION",
+      "gofood.co.id"
+    ],
+    "content_reviews": "Harga cukup mahal dan rasa berasa penyedapnya",
+    "date_of_experience": ""
+  }
+}

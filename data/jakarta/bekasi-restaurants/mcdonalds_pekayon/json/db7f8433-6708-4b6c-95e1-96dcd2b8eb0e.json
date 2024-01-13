@@ -1,0 +1,76 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/mcdonald-s-pekayon-50150204-8f6d-4372-8458-668f1be126e8",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Cepat saji",
+    "Sweets",
+    "Jajanan",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:17:21.424093",
+  "crawling_time_epoch": 1705155441,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/McDonalds_Pekayon/json/db7f8433-6708-4b6c-95e1-96dcd2b8eb0e.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/McDonalds_Pekayon/json/db7f8433-6708-4b6c-95e1-96dcd2b8eb0e.json",
+  "reviews_name": "McDonald's, Pekayon",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.46
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "50150204-8f6d-4372-8458-668f1be126e8",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.8,
+      "total": 70397
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 4555,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 3695,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 3669,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "db7f8433-6708-4b6c-95e1-96dcd2b8eb0e",
+    "username_reviews": "A*",
+    "initialName": "A",
+    "image_reviews": null,
+    "created_time": "2021-11-14T00:12:05.665797+07:00",
+    "created_time_epoch": 1636848725,
+    "reviews_rating": 3,
+    "orders": {
+      "orderedAt": "2021-11-13T16:07:38.475657Z",
+      "items": [
+        {
+          "id": "c9937ecc-62f1-4eba-8a6c-526452b66cea",
+          "name": "PaNas 2  Spicy with Fries, Large"
+        },
+        {
+          "id": "c9937ecc-62f1-4eba-8a6c-526452b66cea",
+          "name": "PaNas 2  Spicy with Fries, Large"
+        },
+        {
+          "id": "29531f12-3e01-4085-8afa-9cd9024a670a",
+          "name": "PaNas 2 with Fries Ayam Gulai McD Krispy"
+        }
+      ]
+    },
+    "tags_review": [
+      "CANNED_RESPONSE_ORDER",
+      "gofood.co.id"
+    ],
+    "content_reviews": "paket gulai ayam crispynya tidak ada minumannya, padahal didalam paketnya sudah dengan minuman dan tadi sudah bilang minta ditambahkan saos sambal tapi tidak dikasih juga. minta tolong dicek ulang lagi ya untuk kedepannya. makasi",
+    "date_of_experience": ""
+  }
+}

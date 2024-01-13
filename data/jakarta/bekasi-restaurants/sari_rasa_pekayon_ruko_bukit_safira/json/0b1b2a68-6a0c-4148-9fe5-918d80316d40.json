@@ -1,0 +1,76 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/sari-rasa-pekayon-ruko-bukit-safira-1457b34a-58b8-4ac5-b2b1-f64b5c9c967f",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Sate",
+    "Ayam & bebek",
+    "Aneka nasi",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:19:47.200172",
+  "crawling_time_epoch": 1705155587,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Sari_Rasa_Pekayon_Ruko_Bukit_Safira/json/0b1b2a68-6a0c-4148-9fe5-918d80316d40.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Sari_Rasa_Pekayon_Ruko_Bukit_Safira/json/0b1b2a68-6a0c-4148-9fe5-918d80316d40.json",
+  "reviews_name": "Sari Rasa Pekayon, Ruko Bukit Safira",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.6
+  },
+  "range_prices": "16k-40k",
+  "restaurant_id": "1457b34a-58b8-4ac5-b2b1-f64b5c9c967f",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.8,
+      "total": 1979
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 216,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 169,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 164,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "0b1b2a68-6a0c-4148-9fe5-918d80316d40",
+    "username_reviews": "B*** N*******",
+    "initialName": "BN",
+    "image_reviews": null,
+    "created_time": "2020-04-16T20:22:52.516+07:00",
+    "created_time_epoch": 1587068572,
+    "reviews_rating": 3,
+    "orders": {
+      "orderedAt": "2020-04-16T12:10:20.89583Z",
+      "items": [
+        {
+          "id": "f3e5a9e9-a131-46ce-89b2-08487d377103",
+          "name": "Nila Samjori"
+        },
+        {
+          "id": "ea23e929-a482-4302-bb6e-ba696528835c",
+          "name": "Pepes Tahu"
+        },
+        {
+          "id": "8a67a7cc-680f-4702-95f1-591552b1431d",
+          "name": "Nasi Putih"
+        }
+      ]
+    },
+    "tags_review": [
+      "",
+      "gofood.co.id"
+    ],
+    "content_reviews": "makanan ok, tp pesanannya dikasi ngaco, \npesan nasi ga dikasi nasi\npesan 2 ikan, dikasi 4 ikan",
+    "date_of_experience": ""
+  }
+}

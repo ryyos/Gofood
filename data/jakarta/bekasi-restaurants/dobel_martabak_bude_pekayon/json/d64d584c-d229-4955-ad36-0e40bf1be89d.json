@@ -1,0 +1,73 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/dobel-martabak-bude-pekayon-c516bbfe-5583-4fbc-9605-9cd02cd220b0",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Martabak",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:18:42.021929",
+  "crawling_time_epoch": 1705155522,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Dobel_Martabak_Bude_Pekayon/json/d64d584c-d229-4955-ad36-0e40bf1be89d.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Dobel_Martabak_Bude_Pekayon/json/d64d584c-d229-4955-ad36-0e40bf1be89d.json",
+  "reviews_name": "Dobel Martabak Bude, Pekayon",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.46
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "c516bbfe-5583-4fbc-9605-9cd02cd220b0",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.6,
+      "total": 2907
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 366,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 264,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 253,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "d64d584c-d229-4955-ad36-0e40bf1be89d",
+    "username_reviews": "Mama Nanda / Calvin",
+    "initialName": "MC",
+    "image_reviews": null,
+    "created_time": "2022-03-26T23:00:07.14369+07:00",
+    "created_time_epoch": 1648335607,
+    "reviews_rating": 5,
+    "orders": {
+      "orderedAt": "2022-03-25T14:40:31.091842Z",
+      "items": [
+        {
+          "id": "5d9bc46f-cad2-41b2-91f0-7431ebd21087",
+          "name": "Coklat ( Biasa )"
+        },
+        {
+          "id": "6775f5c4-c4ff-4a99-95f4-cb89ba03aa7c",
+          "name": "Martabak Telor Ayam Special"
+        },
+        {
+          "id": "6317e715-0b81-459f-902e-d83efcac40e0",
+          "name": "Keju Coklat Sedang Susu"
+        }
+      ]
+    },
+    "tags_review": [
+      "gofood.co.id"
+    ],
+    "content_reviews": "makk nyusss lah pokonya",
+    "date_of_experience": ""
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/mcdonald-s-pekayon-50150204-8f6d-4372-8458-668f1be126e8",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Cepat saji",
+    "Sweets",
+    "Jajanan",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:17:21.424093",
+  "crawling_time_epoch": 1705155441,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/McDonalds_Pekayon/json/2c9f858b-b0c5-4a53-9805-8847b97c180e.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/McDonalds_Pekayon/json/2c9f858b-b0c5-4a53-9805-8847b97c180e.json",
+  "reviews_name": "McDonald's, Pekayon",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.46
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "50150204-8f6d-4372-8458-668f1be126e8",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.8,
+      "total": 70397
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 4555,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 3695,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 3669,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "2c9f858b-b0c5-4a53-9805-8847b97c180e",
+    "username_reviews": "V***",
+    "initialName": "V",
+    "image_reviews": null,
+    "created_time": "2022-10-23T11:05:14.014966+07:00",
+    "created_time_epoch": 1666523114,
+    "reviews_rating": 3,
+    "orders": {
+      "orderedAt": "2022-10-23T01:59:14.735605Z",
+      "items": [
+        {
+          "id": "4d93612a-5401-4981-9688-61b54fc9351e",
+          "name": "Family Time Happy Meal Egg & Cheese Muffin dan Mainan, Krispy"
+        },
+        {
+          "id": "4f90c3e7-d1ad-48b7-9cbf-8a33ce9d2bf7",
+          "name": "Paket Hemat Sausage McMuffin"
+        },
+        {
+          "id": "501098b3-0982-4259-a1b5-f48ffb5be52d",
+          "name": "PaMer 5 Mix"
+        }
+      ]
+    },
+    "tags_review": [
+      "gofood.co.id"
+    ],
+    "content_reviews": "tolong dong lain kali klo ordernya paha atas jangan dikasih dada, asal mirip2 paha atas dan pesennya online ga mngkin balik lg kan, sering bgt bgni nih... ",
+    "date_of_experience": ""
+  }
+}

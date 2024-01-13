@@ -1,0 +1,70 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/a-w-linc-square-d4fe7a94-86cd-4883-b279-07bdd7002ad9",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Cepat saji",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:20:11.107220",
+  "crawling_time_epoch": 1705155611,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/AW_Linc_Square/json/9663099d-1975-4a7a-b1fd-f1e37fb68da3.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/AW_Linc_Square/json/9663099d-1975-4a7a-b1fd-f1e37fb68da3.json",
+  "reviews_name": "A&W, Linc Square",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.94
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "d4fe7a94-86cd-4883-b279-07bdd7002ad9",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.8,
+      "total": 7181
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 499,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 403,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 365,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "9663099d-1975-4a7a-b1fd-f1e37fb68da3",
+    "username_reviews": "S**** Z** M*******",
+    "initialName": "SM",
+    "image_reviews": null,
+    "created_time": "2020-02-28T19:33:46.981+07:00",
+    "created_time_epoch": 1582918426,
+    "reviews_rating": 3,
+    "orders": {
+      "orderedAt": "2020-02-26T12:11:49.703634Z",
+      "items": [
+        {
+          "id": "7e2533a8-691b-474a-a976-9995eb4eccf7",
+          "name": "Chicken Chunks (4pcs)"
+        },
+        {
+          "id": "aabbe2b6-0d9c-4dd4-81d9-bf115f82f7bc",
+          "name": "Rice White"
+        }
+      ]
+    },
+    "tags_review": [
+      "CANNED_RESPONSE_TASTE",
+      "gofood.co.id"
+    ],
+    "content_reviews": "krg mateng kali ini :(",
+    "date_of_experience": ""
+  }
+}

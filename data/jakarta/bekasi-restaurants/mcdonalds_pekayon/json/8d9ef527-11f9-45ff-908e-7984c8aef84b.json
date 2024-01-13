@@ -1,0 +1,76 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/mcdonald-s-pekayon-50150204-8f6d-4372-8458-668f1be126e8",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Cepat saji",
+    "Sweets",
+    "Jajanan",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:17:21.424093",
+  "crawling_time_epoch": 1705155441,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/McDonalds_Pekayon/json/8d9ef527-11f9-45ff-908e-7984c8aef84b.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/McDonalds_Pekayon/json/8d9ef527-11f9-45ff-908e-7984c8aef84b.json",
+  "reviews_name": "McDonald's, Pekayon",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.46
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "50150204-8f6d-4372-8458-668f1be126e8",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.8,
+      "total": 70397
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 4555,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 3695,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 3669,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "8d9ef527-11f9-45ff-908e-7984c8aef84b",
+    "username_reviews": "E***",
+    "initialName": "E",
+    "image_reviews": null,
+    "created_time": "2020-06-26T14:25:37.987+07:00",
+    "created_time_epoch": 1593181537,
+    "reviews_rating": 4,
+    "orders": {
+      "orderedAt": "2020-06-26T05:47:27.422005Z",
+      "items": [
+        {
+          "id": "811b7bca-a3cb-47eb-a668-0efdfbba5052",
+          "name": "2Pcs  Choco Strawberry Pie"
+        },
+        {
+          "id": "4c106b3b-c88b-426d-aac1-bc906404d0fa",
+          "name": "McFlurry Feat. Oreo"
+        },
+        {
+          "id": "30d2f6de-9d5e-4afb-bb2b-27552dee2788",
+          "name": "Double Cheeseburger Meal Medium"
+        }
+      ]
+    },
+    "tags_review": [
+      "",
+      "gofood.co.id"
+    ],
+    "content_reviews": "sama sekali ga dikasih sambel 😔",
+    "date_of_experience": ""
+  }
+}

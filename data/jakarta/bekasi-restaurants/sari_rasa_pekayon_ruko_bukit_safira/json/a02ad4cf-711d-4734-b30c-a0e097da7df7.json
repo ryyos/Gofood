@@ -1,0 +1,86 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/sari-rasa-pekayon-ruko-bukit-safira-1457b34a-58b8-4ac5-b2b1-f64b5c9c967f",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Sate",
+    "Ayam & bebek",
+    "Aneka nasi",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:19:47.200172",
+  "crawling_time_epoch": 1705155587,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Sari_Rasa_Pekayon_Ruko_Bukit_Safira/json/a02ad4cf-711d-4734-b30c-a0e097da7df7.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Sari_Rasa_Pekayon_Ruko_Bukit_Safira/json/a02ad4cf-711d-4734-b30c-a0e097da7df7.json",
+  "reviews_name": "Sari Rasa Pekayon, Ruko Bukit Safira",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.6
+  },
+  "range_prices": "16k-40k",
+  "restaurant_id": "1457b34a-58b8-4ac5-b2b1-f64b5c9c967f",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.8,
+      "total": 1979
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 216,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 169,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 164,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "a02ad4cf-711d-4734-b30c-a0e097da7df7",
+    "username_reviews": "Febby",
+    "initialName": "F",
+    "image_reviews": null,
+    "created_time": "2022-04-07T17:56:36.449648+07:00",
+    "created_time_epoch": 1649354196,
+    "reviews_rating": 5,
+    "orders": {
+      "orderedAt": "2022-04-06T10:44:30.568553Z",
+      "items": [
+        {
+          "id": "bdae77f5-cf16-49d2-aeef-e4af0f47a86c",
+          "name": "Sate Maranggi Ayam (10 Tusuk)"
+        },
+        {
+          "id": "5bf6b4c7-300d-42c2-b284-b39996e0af96",
+          "name": "Nila Bakar"
+        },
+        {
+          "id": "eb19e5e7-203a-4db6-987a-d02021bcbe26",
+          "name": "Nasgor Sosis"
+        },
+        {
+          "id": "ea23e929-a482-4302-bb6e-ba696528835c",
+          "name": "Pepes Tahu"
+        },
+        {
+          "id": "053415b3-add4-43c2-ba13-dd5fe3e2e876",
+          "name": "Iga Bakar"
+        }
+      ]
+    },
+    "tags_review": [
+      "CANNED_RESPONSE_TASTE",
+      "CANNED_RESPONSE_PORTION",
+      "CANNED_RESPONSE_VALUE",
+      "gofood.co.id"
+    ],
+    "content_reviews": "Berawal dari coba coba, berujung nagih hampir semua menu udah dicoba dan enak semua, taste rasa lebih ke manis, tapi overal untuk harga dan porsi emang bintang 5",
+    "date_of_experience": ""
+  }
+}

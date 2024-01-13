@@ -1,0 +1,68 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/sweevory-delight-bekasi-selatan-f3a625e8-9183-4159-9717-85a0a64c6808",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Minuman",
+    "Roti",
+    "Kopi",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:21:22.495121",
+  "crawling_time_epoch": 1705155682,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Sweevory_Delight_Bekasi_Selatan/json/dc1c37ec-2595-4635-ba65-de019399eea6.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Sweevory_Delight_Bekasi_Selatan/json/dc1c37ec-2595-4635-ba65-de019399eea6.json",
+  "reviews_name": "Sweevory Delight, Bekasi Selatan",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 1.02
+  },
+  "range_prices": "16k-40k",
+  "restaurant_id": "f3a625e8-9183-4159-9717-85a0a64c6808",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.4,
+      "total": 81
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 34,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 14,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 12,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "dc1c37ec-2595-4635-ba65-de019399eea6",
+    "username_reviews": "F***** W****",
+    "initialName": "FW",
+    "image_reviews": null,
+    "created_time": "2019-04-09T13:56:06.651265+07:00",
+    "created_time_epoch": 1554818166,
+    "reviews_rating": 5,
+    "orders": {
+      "orderedAt": "2019-04-09T06:08:41.208206Z",
+      "items": []
+    },
+    "tags_review": [
+      "CANNED_RESPONSE_FRESHNESS",
+      "CANNED_RESPONSE_TASTE",
+      "CANNED_RESPONSE_PORTION",
+      "CANNED_RESPONSE_HYGIENE",
+      "CANNED_RESPONSE_PACKAGING",
+      "CANNED_RESPONSE_VALUE",
+      "gofood.co.id"
+    ],
+    "content_reviews": "thankyou mister! ive really enjoyed the food. and for sweevory delight its one hell of a delicious cinnamon roll💜💜💜 i loved it!",
+    "date_of_experience": ""
+  }
+}

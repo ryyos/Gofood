@@ -1,0 +1,73 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/bubur-ayam-kampung-nyemplung-pekayon-decd86af-75d6-466d-9d74-c66a45850297",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Aneka nasi",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:20:19.392522",
+  "crawling_time_epoch": 1705155619,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Bubur_Ayam_Kampung_Nyemplung_Pekayon/json/56052cc0-135c-4647-8da0-9e43d4441549.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Bubur_Ayam_Kampung_Nyemplung_Pekayon/json/56052cc0-135c-4647-8da0-9e43d4441549.json",
+  "reviews_name": "Bubur Ayam Kampung Nyemplung, Pekayon",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.96
+  },
+  "range_prices": "<16k",
+  "restaurant_id": "decd86af-75d6-466d-9d74-c66a45850297",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.7,
+      "total": 2066
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 191,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 138,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 137,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "56052cc0-135c-4647-8da0-9e43d4441549",
+    "username_reviews": "A**** B***",
+    "initialName": "AB",
+    "image_reviews": null,
+    "created_time": "2022-10-27T06:20:51.163924+07:00",
+    "created_time_epoch": 1666851651,
+    "reviews_rating": 5,
+    "orders": {
+      "orderedAt": "2022-10-23T23:11:25.054865Z",
+      "items": [
+        {
+          "id": "d8519448-d0cd-43f4-a597-1e25b7cb83a3",
+          "name": "Bubur Ayam Kampung 1 Porsi"
+        },
+        {
+          "id": "f469f731-6509-4ae3-ae33-03e1d888b8d4",
+          "name": "Sate Ampela"
+        },
+        {
+          "id": "a9bf1225-8687-445b-b401-46fc11210d8b",
+          "name": "Sate Ati"
+        }
+      ]
+    },
+    "tags_review": [
+      "gofood.co.id"
+    ],
+    "content_reviews": "enak.. tp dikit porsiny... 😄",
+    "date_of_experience": ""
+  }
+}

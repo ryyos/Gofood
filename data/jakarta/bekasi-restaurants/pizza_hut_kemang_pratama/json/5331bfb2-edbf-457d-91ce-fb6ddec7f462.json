@@ -1,0 +1,74 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/pizza-hut-kemang-pratama-619b40c5-b111-4004-a05e-2cf6526de384",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Barat",
+    "Jajanan",
+    "Ayam & bebek",
+    "Pizza & pasta",
+    "Cepat saji",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:20:55.807619",
+  "crawling_time_epoch": 1705155655,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Pizza_Hut_Kemang_Pratama/json/5331bfb2-edbf-457d-91ce-fb6ddec7f462.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Pizza_Hut_Kemang_Pratama/json/5331bfb2-edbf-457d-91ce-fb6ddec7f462.json",
+  "reviews_name": "Pizza Hut, Kemang Pratama",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.99
+  },
+  "range_prices": ">100k",
+  "restaurant_id": "619b40c5-b111-4004-a05e-2cf6526de384",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.8,
+      "total": 12460
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 997,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 804,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 735,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "5331bfb2-edbf-457d-91ce-fb6ddec7f462",
+    "username_reviews": "Aryo Sangaji",
+    "initialName": "AS",
+    "image_reviews": null,
+    "created_time": "2022-04-26T17:52:34.370284+07:00",
+    "created_time_epoch": 1650995554,
+    "reviews_rating": 1,
+    "orders": {
+      "orderedAt": "2022-04-26T09:44:56.537465Z",
+      "items": [
+        {
+          "id": "4f00e106-f5e6-4975-88e6-3a4450ab9e70",
+          "name": "Regular Pizza"
+        },
+        {
+          "id": "79300647-aee2-45ce-b517-17cfa0e5a84a",
+          "name": "Cheese Rolls"
+        }
+      ]
+    },
+    "tags_review": [
+      "CANNED_RESPONSE_ORDER",
+      "gofood.co.id"
+    ],
+    "content_reviews": "saya order pinggiran chesybite tapi yg datang tanpa pinggiran",
+    "date_of_experience": ""
+  }
+}

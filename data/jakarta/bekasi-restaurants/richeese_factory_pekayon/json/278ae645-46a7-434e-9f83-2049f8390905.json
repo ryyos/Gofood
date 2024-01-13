@@ -1,0 +1,80 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/richeese-factory-pekayon-fb7c3452-2cba-464a-9e24-23840a40a179",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Cepat saji",
+    "Ayam & bebek",
+    "Aneka nasi",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:20:23.240256",
+  "crawling_time_epoch": 1705155623,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Richeese_Factory_Pekayon/json/278ae645-46a7-434e-9f83-2049f8390905.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Richeese_Factory_Pekayon/json/278ae645-46a7-434e-9f83-2049f8390905.json",
+  "reviews_name": "Richeese Factory, Pekayon",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.97
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "fb7c3452-2cba-464a-9e24-23840a40a179",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.7,
+      "total": 32095
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 2029,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 1477,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 1469,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "278ae645-46a7-434e-9f83-2049f8390905",
+    "username_reviews": "M*** I******",
+    "initialName": "MI",
+    "image_reviews": null,
+    "created_time": "2020-08-01T18:29:13.922+07:00",
+    "created_time_epoch": 1596306553,
+    "reviews_rating": 5,
+    "orders": {
+      "orderedAt": "2020-07-27T11:50:18.827874Z",
+      "items": [
+        {
+          "id": "e02f86ad-6af1-475a-b638-a6bc02c66c05",
+          "name": "Combo 2 Fire Drum Stick with Fries"
+        },
+        {
+          "id": "4141083f-15b3-4173-9e5d-3f4b56647c5b",
+          "name": "Fire Chicken 1 Pcs"
+        },
+        {
+          "id": "dbe4980b-17af-4781-bdfe-599f5b019afc",
+          "name": "Pink Lava (Medium)"
+        }
+      ]
+    },
+    "tags_review": [
+      "CANNED_RESPONSE_FRESHNESS",
+      "CANNED_RESPONSE_TASTE",
+      "CANNED_RESPONSE_PORTION",
+      "CANNED_RESPONSE_HYGIENE",
+      "CANNED_RESPONSE_PACKAGING",
+      "gofood.co.id"
+    ],
+    "content_reviews": "Ofc, richeese gapernah ga enak!!! ❤️",
+    "date_of_experience": ""
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/sweevory-delight-bekasi-selatan-f3a625e8-9183-4159-9717-85a0a64c6808",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Minuman",
+    "Roti",
+    "Kopi",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:21:22.495121",
+  "crawling_time_epoch": 1705155682,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Sweevory_Delight_Bekasi_Selatan/json/cb848c68-3634-43ee-ad5d-674497052ec5.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Sweevory_Delight_Bekasi_Selatan/json/cb848c68-3634-43ee-ad5d-674497052ec5.json",
+  "reviews_name": "Sweevory Delight, Bekasi Selatan",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 1.02
+  },
+  "range_prices": "16k-40k",
+  "restaurant_id": "f3a625e8-9183-4159-9717-85a0a64c6808",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.4,
+      "total": 81
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 34,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 14,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 12,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "cb848c68-3634-43ee-ad5d-674497052ec5",
+    "username_reviews": "A**",
+    "initialName": "A",
+    "image_reviews": null,
+    "created_time": "2019-07-17T20:08:50.791008+07:00",
+    "created_time_epoch": 1563394130,
+    "reviews_rating": 2,
+    "orders": {
+      "orderedAt": "2019-07-17T11:55:38.109959Z",
+      "items": []
+    },
+    "tags_review": [
+      "CANNED_RESPONSE_TASTE",
+      "CANNED_RESPONSE_PORTION",
+      "CANNED_RESPONSE_PRICE",
+      "gofood.co.id"
+    ],
+    "content_reviews": "Harga dengan “ Salmon Mentai “ ga sesuai , banyakan karbo nasi",
+    "date_of_experience": ""
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/mcdonald-s-pekayon-50150204-8f6d-4372-8458-668f1be126e8",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Cepat saji",
+    "Sweets",
+    "Jajanan",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:17:21.424093",
+  "crawling_time_epoch": 1705155441,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/McDonalds_Pekayon/json/687a95da-82ce-4014-93d1-6f3ad61a74f6.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/McDonalds_Pekayon/json/687a95da-82ce-4014-93d1-6f3ad61a74f6.json",
+  "reviews_name": "McDonald's, Pekayon",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.46
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "50150204-8f6d-4372-8458-668f1be126e8",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.8,
+      "total": 70397
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 4555,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 3695,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 3669,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "687a95da-82ce-4014-93d1-6f3ad61a74f6",
+    "username_reviews": "Diandra",
+    "initialName": "D",
+    "image_reviews": null,
+    "created_time": "2023-05-11T05:55:15.915194+07:00",
+    "created_time_epoch": 1683784515,
+    "reviews_rating": 1,
+    "orders": {
+      "orderedAt": "2023-05-10T22:29:52.121228Z",
+      "items": [
+        {
+          "id": "b5856cb9-a727-4dca-9efa-bb8d81e5a879",
+          "name": "Paket Hemat Chicken McMuffin"
+        },
+        {
+          "id": "72d68b48-6832-43e1-b0b8-871b95f2cda6",
+          "name": "Chicken McMuffin"
+        },
+        {
+          "id": "ea93e3dd-a2d0-469f-8a73-0f9bad2ae82f",
+          "name": "Egg & Cheese Muffin"
+        },
+        {
+          "id": "b85d66ff-edfc-45a3-bf9f-d0c0e1643666",
+          "name": "Breakfast Wrap"
+        }
+      ]
+    },
+    "tags_review": [
+      "gofood.co.id"
+    ],
+    "content_reviews": "Kopinya tumpah karena seal-nya nggak bener. Sampai sisa sedikit dan kena semua makanan. Ini sudah kali kedua pesan minumnya tumpah.",
+    "date_of_experience": ""
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/sari-rasa-pekayon-ruko-bukit-safira-1457b34a-58b8-4ac5-b2b1-f64b5c9c967f",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Sate",
+    "Ayam & bebek",
+    "Aneka nasi",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:19:47.200172",
+  "crawling_time_epoch": 1705155587,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Sari_Rasa_Pekayon_Ruko_Bukit_Safira/json/8f3391e7-798f-41c7-9584-07fce5bbd0b9.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Sari_Rasa_Pekayon_Ruko_Bukit_Safira/json/8f3391e7-798f-41c7-9584-07fce5bbd0b9.json",
+  "reviews_name": "Sari Rasa Pekayon, Ruko Bukit Safira",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.6
+  },
+  "range_prices": "16k-40k",
+  "restaurant_id": "1457b34a-58b8-4ac5-b2b1-f64b5c9c967f",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.8,
+      "total": 1979
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 216,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 169,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 164,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "8f3391e7-798f-41c7-9584-07fce5bbd0b9",
+    "username_reviews": "A****",
+    "initialName": "A",
+    "image_reviews": null,
+    "created_time": "2022-04-28T13:58:27.797401+07:00",
+    "created_time_epoch": 1651154307,
+    "reviews_rating": 3,
+    "orders": {
+      "orderedAt": "2022-04-28T05:40:02.405957Z",
+      "items": [
+        {
+          "id": "d39cbc76-8a33-4f32-b10a-6cab2fef9e1c",
+          "name": "Gurame Pesmol"
+        },
+        {
+          "id": "252740e1-4668-45dc-9373-9e4dcca19be6",
+          "name": "Ayam Bakar Madu"
+        },
+        {
+          "id": "d5bfce7e-1d02-4fa9-b86d-fd31ce6894a0",
+          "name": "Sayur Asem"
+        }
+      ]
+    },
+    "tags_review": [
+      "gofood.co.id"
+    ],
+    "content_reviews": "gurame pesmol nya kurang ... sama aja kaya gurame goreng ..",
+    "date_of_experience": ""
+  }
+}

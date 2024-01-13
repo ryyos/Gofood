@@ -1,0 +1,84 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/sari-rasa-pekayon-ruko-bukit-safira-1457b34a-58b8-4ac5-b2b1-f64b5c9c967f",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Sate",
+    "Ayam & bebek",
+    "Aneka nasi",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:19:47.200172",
+  "crawling_time_epoch": 1705155587,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Sari_Rasa_Pekayon_Ruko_Bukit_Safira/json/2a76ab52-0a5e-477e-b73a-771c2ae09552.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Sari_Rasa_Pekayon_Ruko_Bukit_Safira/json/2a76ab52-0a5e-477e-b73a-771c2ae09552.json",
+  "reviews_name": "Sari Rasa Pekayon, Ruko Bukit Safira",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.6
+  },
+  "range_prices": "16k-40k",
+  "restaurant_id": "1457b34a-58b8-4ac5-b2b1-f64b5c9c967f",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.8,
+      "total": 1979
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 216,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 169,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 164,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "2a76ab52-0a5e-477e-b73a-771c2ae09552",
+    "username_reviews": "R****",
+    "initialName": "R",
+    "image_reviews": null,
+    "created_time": "2020-12-28T18:59:24.478+07:00",
+    "created_time_epoch": 1609181964,
+    "reviews_rating": 3,
+    "orders": {
+      "orderedAt": "2020-12-27T05:48:55.174283Z",
+      "items": [
+        {
+          "id": "566af4a5-5db9-41b9-828b-f438b70dccf5",
+          "name": "Bawal Bakar"
+        },
+        {
+          "id": "13969eb0-36df-48e6-852b-9e6b2ee987b8",
+          "name": "Karedok"
+        },
+        {
+          "id": "90a69313-1c9d-4a20-84c0-901083f3f022",
+          "name": "Tumis Genjer"
+        },
+        {
+          "id": "13777c16-a411-495a-93c3-7f8a0f59fd3f",
+          "name": "Tahu Goreng"
+        },
+        {
+          "id": "c8b4df5e-e0e4-4228-bc65-22b662824ba8",
+          "name": "Tempe Goreng"
+        }
+      ]
+    },
+    "tags_review": [
+      "",
+      "gofood.co.id"
+    ],
+    "content_reviews": "menu yg dipesan tdk ada..pdhl di aplikasi gofood masih tersedia",
+    "date_of_experience": ""
+  }
+}

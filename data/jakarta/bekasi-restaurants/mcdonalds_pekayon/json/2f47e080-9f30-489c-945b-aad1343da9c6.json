@@ -1,0 +1,71 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/mcdonald-s-pekayon-50150204-8f6d-4372-8458-668f1be126e8",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Cepat saji",
+    "Sweets",
+    "Jajanan",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:17:21.424093",
+  "crawling_time_epoch": 1705155441,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/McDonalds_Pekayon/json/2f47e080-9f30-489c-945b-aad1343da9c6.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/McDonalds_Pekayon/json/2f47e080-9f30-489c-945b-aad1343da9c6.json",
+  "reviews_name": "McDonald's, Pekayon",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.46
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "50150204-8f6d-4372-8458-668f1be126e8",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.8,
+      "total": 70397
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 4555,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 3695,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 3669,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "2f47e080-9f30-489c-945b-aad1343da9c6",
+    "username_reviews": "Ikhsan Kadarusman",
+    "initialName": "IK",
+    "image_reviews": null,
+    "created_time": "2022-12-30T21:37:23.29687+07:00",
+    "created_time_epoch": 1672436243,
+    "reviews_rating": 1,
+    "orders": {
+      "orderedAt": "2022-12-30T14:19:20.812281Z",
+      "items": [
+        {
+          "id": "54465247-7ab2-4562-a120-eaa01308a856",
+          "name": "Paket Hemat Big Mac, Large"
+        },
+        {
+          "id": "282c9fc4-6419-4dfc-ad5f-8bf06a181670",
+          "name": "PaNas 2  Krispy, Large"
+        }
+      ]
+    },
+    "tags_review": [
+      "gofood.co.id"
+    ],
+    "content_reviews": "ayam saya tidak ada",
+    "date_of_experience": ""
+  }
+}

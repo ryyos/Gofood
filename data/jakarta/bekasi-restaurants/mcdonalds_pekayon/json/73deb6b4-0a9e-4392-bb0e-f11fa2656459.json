@@ -1,0 +1,76 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/mcdonald-s-pekayon-50150204-8f6d-4372-8458-668f1be126e8",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Cepat saji",
+    "Sweets",
+    "Jajanan",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:17:21.424093",
+  "crawling_time_epoch": 1705155441,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/McDonalds_Pekayon/json/73deb6b4-0a9e-4392-bb0e-f11fa2656459.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/McDonalds_Pekayon/json/73deb6b4-0a9e-4392-bb0e-f11fa2656459.json",
+  "reviews_name": "McDonald's, Pekayon",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.46
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "50150204-8f6d-4372-8458-668f1be126e8",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.8,
+      "total": 70397
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 4555,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 3695,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 3669,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "73deb6b4-0a9e-4392-bb0e-f11fa2656459",
+    "username_reviews": "Y***",
+    "initialName": "Y",
+    "image_reviews": null,
+    "created_time": "2020-02-22T08:29:07.096+07:00",
+    "created_time_epoch": 1582360147,
+    "reviews_rating": 2,
+    "orders": {
+      "orderedAt": "2020-02-22T00:38:56.497168Z",
+      "items": [
+        {
+          "id": "4b79ef62-e099-4168-bb4f-796a5e8e50a1",
+          "name": "Big Breakfast Combo Meal"
+        },
+        {
+          "id": "3fd17746-9a93-4aef-b62d-fbb6fbf2231c",
+          "name": "Nasi Uduk McD"
+        },
+        {
+          "id": "94945646-f445-4671-9fd1-ce7ad867a06a",
+          "name": "Sausage Wrap"
+        }
+      ]
+    },
+    "tags_review": [
+      "",
+      "gofood.co.id"
+    ],
+    "content_reviews": "Nasi uduknya kelembekan tidak sperti biasanya",
+    "date_of_experience": ""
+  }
+}

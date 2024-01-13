@@ -1,0 +1,74 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/nasi-goreng-riski-bekasi-9196fe69-72e5-4826-b4fe-bf6bfbafabe4",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Aneka nasi",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:19:03.233848",
+  "crawling_time_epoch": 1705155543,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Nasi_Goreng_Riski_Bekasi/json/693d281a-af95-420b-9619-4600a37ca094.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Nasi_Goreng_Riski_Bekasi/json/693d281a-af95-420b-9619-4600a37ca094.json",
+  "reviews_name": "Nasi Goreng Riski, Bekasi",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.48
+  },
+  "range_prices": "16k-40k",
+  "restaurant_id": "9196fe69-72e5-4826-b4fe-bf6bfbafabe4",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.7,
+      "total": 1717
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 306,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 295,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 240,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "693d281a-af95-420b-9619-4600a37ca094",
+    "username_reviews": "A*****",
+    "initialName": "A",
+    "image_reviews": null,
+    "created_time": "2021-11-24T22:40:57.857775+07:00",
+    "created_time_epoch": 1637793657,
+    "reviews_rating": 1,
+    "orders": {
+      "orderedAt": "2021-11-24T15:24:29.404474Z",
+      "items": [
+        {
+          "id": "94198730-8fda-4843-9cf0-8a4b0f893213",
+          "name": "Nasi Goreng Gila"
+        },
+        {
+          "id": "51772e85-e77f-485e-8985-0c156fd942a9",
+          "name": "Es teh manis"
+        },
+        {
+          "id": "13a1c0b0-e932-4cb2-97b7-49b20b2bfa09",
+          "name": "Bakso"
+        }
+      ]
+    },
+    "tags_review": [
+      "CANNED_RESPONSE_PORTION",
+      "gofood.co.id"
+    ],
+    "content_reviews": "ada yang kurang makanannya",
+    "date_of_experience": ""
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/mcdonald-s-pekayon-50150204-8f6d-4372-8458-668f1be126e8",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Cepat saji",
+    "Sweets",
+    "Jajanan",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:17:21.424093",
+  "crawling_time_epoch": 1705155441,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/McDonalds_Pekayon/json/2b66c6db-e9c6-4baf-9751-ff1b4dcdb395.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/McDonalds_Pekayon/json/2b66c6db-e9c6-4baf-9751-ff1b4dcdb395.json",
+  "reviews_name": "McDonald's, Pekayon",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.46
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "50150204-8f6d-4372-8458-668f1be126e8",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.8,
+      "total": 70397
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 4555,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 3695,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 3669,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "2b66c6db-e9c6-4baf-9751-ff1b4dcdb395",
+    "username_reviews": "Rendy Manorek",
+    "initialName": "RM",
+    "image_reviews": null,
+    "created_time": "2022-10-01T20:11:56.535491+07:00",
+    "created_time_epoch": 1664655116,
+    "reviews_rating": 3,
+    "orders": {
+      "orderedAt": "2022-10-01T12:05:19.025387Z",
+      "items": [
+        {
+          "id": "c6070034-34b7-4b22-b2e8-0af26274580a",
+          "name": "Family Time Happy Meal Ayam McD dan Mainan"
+        },
+        {
+          "id": "316cd771-1863-4388-8cab-c82d377ece2c",
+          "name": "Paket 2 Ayam Krispy with McFlavor Fries"
+        },
+        {
+          "id": "a9d4cc11-9927-4a88-9e88-a215471c3994",
+          "name": "Apple Pie"
+        },
+        {
+          "id": "4c106b3b-c88b-426d-aac1-bc906404d0fa",
+          "name": "McFlurry Feat. Oreo"
+        },
+        {
+          "id": "864aaee7-9e45-48ea-84ff-1550e82988e6",
+          "name": "Fish Snack Wrap"
+        }
+      ]
+    },
+    "tags_review": [
+      "gofood.co.id"
+    ],
+    "content_reviews": "Sprite nya ga ada",
+    "date_of_experience": ""
+  }
+}

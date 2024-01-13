@@ -1,0 +1,71 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/mcdonald-s-pekayon-50150204-8f6d-4372-8458-668f1be126e8",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Cepat saji",
+    "Sweets",
+    "Jajanan",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:17:21.424093",
+  "crawling_time_epoch": 1705155441,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/McDonalds_Pekayon/json/50a26a29-a782-4dcf-9a82-1417ad196fab.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/McDonalds_Pekayon/json/50a26a29-a782-4dcf-9a82-1417ad196fab.json",
+  "reviews_name": "McDonald's, Pekayon",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.46
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "50150204-8f6d-4372-8458-668f1be126e8",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.8,
+      "total": 70397
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 4555,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 3695,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 3669,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "50a26a29-a782-4dcf-9a82-1417ad196fab",
+    "username_reviews": "G*** B********",
+    "initialName": "GB",
+    "image_reviews": null,
+    "created_time": "2022-04-26T01:47:20.154779+07:00",
+    "created_time_epoch": 1650937640,
+    "reviews_rating": 2,
+    "orders": {
+      "orderedAt": "2022-04-25T17:49:24.503532Z",
+      "items": [
+        {
+          "id": "d4d2e0a1-099c-4d22-b543-cc558bbc8985",
+          "name": "White Choco Strawberry Pastry Pie"
+        },
+        {
+          "id": "ae9dcf03-0545-4751-b638-f5bbbec1ed45",
+          "name": "PaHeBat Chicken Burger Deluxe, Medium"
+        }
+      ]
+    },
+    "tags_review": [
+      "gofood.co.id"
+    ],
+    "content_reviews": "Kentang nya ga ada rasa, ga dikasih saus ",
+    "date_of_experience": ""
+  }
+}

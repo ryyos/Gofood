@@ -1,0 +1,74 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/kfc-kemang-pratama-ef8c2c3e-61d6-4bd4-b9fa-10cfd6358dcf",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Cepat saji",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:19:21.062803",
+  "crawling_time_epoch": 1705155561,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/KFC_Kemang_Pratama/json/509f01c4-b9d4-4758-85c7-4e5cbc9ecf89.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/KFC_Kemang_Pratama/json/509f01c4-b9d4-4758-85c7-4e5cbc9ecf89.json",
+  "reviews_name": "KFC, Kemang Pratama",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.53
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "ef8c2c3e-61d6-4bd4-b9fa-10cfd6358dcf",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.8,
+      "total": 24067
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 2021,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 1696,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 1631,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "509f01c4-b9d4-4758-85c7-4e5cbc9ecf89",
+    "username_reviews": "W**** P******",
+    "initialName": "WP",
+    "image_reviews": null,
+    "created_time": "2020-02-16T17:50:12.854+07:00",
+    "created_time_epoch": 1581875412,
+    "reviews_rating": 3,
+    "orders": {
+      "orderedAt": "2020-02-16T09:50:17.183985Z",
+      "items": [
+        {
+          "id": "55a24b3a-3605-4b0f-9761-48b6bf2a8bd1",
+          "name": "Special Day HCC"
+        },
+        {
+          "id": "6bbc5551-97c5-4429-b783-aeb587be058d",
+          "name": "French Fries Regular"
+        },
+        {
+          "id": "7600f952-a1ca-47e9-a6a7-5bc354238489",
+          "name": "Mini Chizza Free Coca Cola"
+        }
+      ]
+    },
+    "tags_review": [
+      "CANNED_RESPONSE_PACKAGING",
+      "gofood.co.id"
+    ],
+    "content_reviews": "gak dapet saosnya",
+    "date_of_experience": ""
+  }
+}

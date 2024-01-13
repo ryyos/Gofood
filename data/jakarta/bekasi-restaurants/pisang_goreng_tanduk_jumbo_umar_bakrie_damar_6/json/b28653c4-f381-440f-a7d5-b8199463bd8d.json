@@ -1,0 +1,70 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/pisang-goreng-tanduk-jumbo-umar-bakrie-damar-6-fb7fecd4-9337-4d02-907a-2e1ddefdbd03",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Cepat saji",
+    "Jajanan",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:17:09.085002",
+  "crawling_time_epoch": 1705155429,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Pisang_Goreng_Tanduk_Jumbo_Umar_Bakrie_Damar_6/json/b28653c4-f381-440f-a7d5-b8199463bd8d.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Pisang_Goreng_Tanduk_Jumbo_Umar_Bakrie_Damar_6/json/b28653c4-f381-440f-a7d5-b8199463bd8d.json",
+  "reviews_name": "Pisang Goreng Tanduk Jumbo Umar Bakrie, Damar 6",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.36
+  },
+  "range_prices": "16k-40k",
+  "restaurant_id": "fb7fecd4-9337-4d02-907a-2e1ddefdbd03",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.7,
+      "total": 2037
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 218,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 175,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 172,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "b28653c4-f381-440f-a7d5-b8199463bd8d",
+    "username_reviews": "Joice Chelsea",
+    "initialName": "JC",
+    "image_reviews": null,
+    "created_time": "2023-10-12T19:02:31.126382+07:00",
+    "created_time_epoch": 1697137351,
+    "reviews_rating": 1,
+    "orders": {
+      "orderedAt": "2023-10-12T10:56:33.607387Z",
+      "items": [
+        {
+          "id": "05f12b06-57b5-4730-8b87-59eec5e3ec63",
+          "name": "Sukun Goreng Krispi Isi 4 Pcs"
+        },
+        {
+          "id": "8a4c2dc0-c051-4270-bbe7-b31357bbd618",
+          "name": "4 Pcs Pisgor Kepok"
+        }
+      ]
+    },
+    "tags_review": [
+      "gofood.co.id"
+    ],
+    "content_reviews": "pisangnya agak mentah rasa jd sepat, sukunnya juga keras agak mentah ",
+    "date_of_experience": ""
+  }
+}

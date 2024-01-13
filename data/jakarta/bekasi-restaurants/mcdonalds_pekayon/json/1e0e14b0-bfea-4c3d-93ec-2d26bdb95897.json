@@ -1,0 +1,67 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/mcdonald-s-pekayon-50150204-8f6d-4372-8458-668f1be126e8",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Cepat saji",
+    "Sweets",
+    "Jajanan",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:17:21.424093",
+  "crawling_time_epoch": 1705155441,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/McDonalds_Pekayon/json/1e0e14b0-bfea-4c3d-93ec-2d26bdb95897.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/McDonalds_Pekayon/json/1e0e14b0-bfea-4c3d-93ec-2d26bdb95897.json",
+  "reviews_name": "McDonald's, Pekayon",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.46
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "50150204-8f6d-4372-8458-668f1be126e8",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.8,
+      "total": 70397
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 4555,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 3695,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 3669,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "1e0e14b0-bfea-4c3d-93ec-2d26bdb95897",
+    "username_reviews": "R** M***",
+    "initialName": "RM",
+    "image_reviews": null,
+    "created_time": "2022-10-23T16:02:00.816291+07:00",
+    "created_time_epoch": 1666540920,
+    "reviews_rating": 5,
+    "orders": {
+      "orderedAt": "2022-10-23T06:31:41.57871Z",
+      "items": [
+        {
+          "id": "4c56856e-2683-4bcd-a2b0-f544fa19d27f",
+          "name": "Paket Hemat Fish Fillet Burger McFlavor Set Colorful Bottle"
+        }
+      ]
+    },
+    "tags_review": [
+      "gofood.co.id"
+    ],
+    "content_reviews": "pelayanannya sangat memuaskan trimakasih buat semuanya,buat mbanya khususnya yg nganterin botol minum,hehe,trimakasih ya mba,next order lg.",
+    "date_of_experience": ""
+  }
+}

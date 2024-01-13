@@ -1,0 +1,72 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/domino-s-pizza-kemang-pratama-00fb7fae-fbe1-4b63-ad17-dc7094c64f9c",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Pizza & pasta",
+    "Cepat saji",
+    "Jajanan",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:18:48.067806",
+  "crawling_time_epoch": 1705155528,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Dominos_Pizza_Kemang_Pratama/json/0f526679-453a-4388-9e97-c25e9e612148.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Dominos_Pizza_Kemang_Pratama/json/0f526679-453a-4388-9e97-c25e9e612148.json",
+  "reviews_name": "Domino's Pizza, Kemang Pratama",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.47
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "00fb7fae-fbe1-4b63-ad17-dc7094c64f9c",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.7,
+      "total": 11582
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 1426,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 1210,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 1158,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "0f526679-453a-4388-9e97-c25e9e612148",
+    "username_reviews": "Indah Ayu",
+    "initialName": "IA",
+    "image_reviews": null,
+    "created_time": "2022-10-10T12:57:28.868937+07:00",
+    "created_time_epoch": 1665406648,
+    "reviews_rating": 4,
+    "orders": {
+      "orderedAt": "2022-10-10T05:07:27.816517Z",
+      "items": [
+        {
+          "id": "288f5f64-765c-4ddc-b5fb-9a6ec77c3ddf",
+          "name": "Save 40% for 3 Pizza"
+        },
+        {
+          "id": "84343ccc-aceb-4bff-bfeb-2f66ce577916",
+          "name": "Seoul Cheesy Sausage Roll"
+        }
+      ]
+    },
+    "tags_review": [
+      "CANNED_RESPONSE_PORTION",
+      "gofood.co.id"
+    ],
+    "content_reviews": "Please add more sauce 😊",
+    "date_of_experience": ""
+  }
+}

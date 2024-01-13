@@ -1,0 +1,79 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/sari-rasa-pekayon-ruko-bukit-safira-1457b34a-58b8-4ac5-b2b1-f64b5c9c967f",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Sate",
+    "Ayam & bebek",
+    "Aneka nasi",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:19:47.200172",
+  "crawling_time_epoch": 1705155587,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Sari_Rasa_Pekayon_Ruko_Bukit_Safira/json/0c98a161-b0cc-41ce-88a2-e021b2755155.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Sari_Rasa_Pekayon_Ruko_Bukit_Safira/json/0c98a161-b0cc-41ce-88a2-e021b2755155.json",
+  "reviews_name": "Sari Rasa Pekayon, Ruko Bukit Safira",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.6
+  },
+  "range_prices": "16k-40k",
+  "restaurant_id": "1457b34a-58b8-4ac5-b2b1-f64b5c9c967f",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.8,
+      "total": 1979
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 216,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 169,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 164,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "0c98a161-b0cc-41ce-88a2-e021b2755155",
+    "username_reviews": "dedeh",
+    "initialName": "D",
+    "image_reviews": null,
+    "created_time": "2022-06-27T16:47:06.681807+07:00",
+    "created_time_epoch": 1656348426,
+    "reviews_rating": 2,
+    "orders": {
+      "orderedAt": "2022-06-27T09:04:05.841397Z",
+      "items": [
+        {
+          "id": "f2564c06-2d10-45aa-96b9-29db74fe3753",
+          "name": "Nasi Bakar Cumi"
+        },
+        {
+          "id": "855b22fe-68b9-4257-b5ec-f78959c60616",
+          "name": "Nasi Bakar Peda"
+        },
+        {
+          "id": "a577ea66-692d-4204-8080-ccb90fcd52c9",
+          "name": "Sate Maranggi Sapi (5 Tusuk)"
+        },
+        {
+          "id": "f56bad22-8e06-4c54-b913-6149a3abf94e",
+          "name": "Tempe Penyet (Isi 3)"
+        }
+      ]
+    },
+    "tags_review": [
+      "gofood.co.id"
+    ],
+    "content_reviews": "daging satenya potongannya kecil, ",
+    "date_of_experience": ""
+  }
+}

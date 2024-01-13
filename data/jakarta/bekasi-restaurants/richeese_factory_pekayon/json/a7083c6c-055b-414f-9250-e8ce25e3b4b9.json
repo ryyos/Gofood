@@ -1,0 +1,72 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/richeese-factory-pekayon-fb7c3452-2cba-464a-9e24-23840a40a179",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Cepat saji",
+    "Ayam & bebek",
+    "Aneka nasi",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:20:23.240256",
+  "crawling_time_epoch": 1705155623,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Richeese_Factory_Pekayon/json/a7083c6c-055b-414f-9250-e8ce25e3b4b9.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Richeese_Factory_Pekayon/json/a7083c6c-055b-414f-9250-e8ce25e3b4b9.json",
+  "reviews_name": "Richeese Factory, Pekayon",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.97
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "fb7c3452-2cba-464a-9e24-23840a40a179",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.7,
+      "total": 32095
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 2029,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 1477,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 1469,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "a7083c6c-055b-414f-9250-e8ce25e3b4b9",
+    "username_reviews": "M***** Y****",
+    "initialName": "MY",
+    "image_reviews": null,
+    "created_time": "2019-09-29T15:39:00.97+07:00",
+    "created_time_epoch": 1569771540,
+    "reviews_rating": 3,
+    "orders": {
+      "orderedAt": "2019-09-29T06:50:11.496231Z",
+      "items": [
+        {
+          "id": "4141083f-15b3-4173-9e5d-3f4b56647c5b",
+          "name": "Fire Chicken 1 Pcs"
+        },
+        {
+          "id": "64045e0b-44da-4c74-8d18-4cee1168e3c9",
+          "name": "Pink Lava 22oz"
+        }
+      ]
+    },
+    "tags_review": [
+      "",
+      "gofood.co.id"
+    ],
+    "content_reviews": "kurang profesional",
+    "date_of_experience": ""
+  }
+}

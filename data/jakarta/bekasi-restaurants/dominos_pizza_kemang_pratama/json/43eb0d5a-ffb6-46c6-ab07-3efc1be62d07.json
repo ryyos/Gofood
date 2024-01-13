@@ -1,0 +1,72 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/domino-s-pizza-kemang-pratama-00fb7fae-fbe1-4b63-ad17-dc7094c64f9c",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Pizza & pasta",
+    "Cepat saji",
+    "Jajanan",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:18:48.067806",
+  "crawling_time_epoch": 1705155528,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Dominos_Pizza_Kemang_Pratama/json/43eb0d5a-ffb6-46c6-ab07-3efc1be62d07.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Dominos_Pizza_Kemang_Pratama/json/43eb0d5a-ffb6-46c6-ab07-3efc1be62d07.json",
+  "reviews_name": "Domino's Pizza, Kemang Pratama",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.47
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "00fb7fae-fbe1-4b63-ad17-dc7094c64f9c",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.7,
+      "total": 11582
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 1426,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 1210,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 1158,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "43eb0d5a-ffb6-46c6-ab07-3efc1be62d07",
+    "username_reviews": "F******** S****",
+    "initialName": "FS",
+    "image_reviews": null,
+    "created_time": "2020-09-17T21:42:49.7+07:00",
+    "created_time_epoch": 1600378969,
+    "reviews_rating": 4,
+    "orders": {
+      "orderedAt": "2020-09-15T15:34:59.450488Z",
+      "items": [
+        {
+          "id": "7b510115-1817-4f0c-8e7f-9cbeb1a31af3",
+          "name": "Chicken Pepperoni Feast Medium Hand Tossed"
+        },
+        {
+          "id": "b6500de5-62ea-4244-89b2-6d6424071f45",
+          "name": "Domino’s Pizza Eco Bag"
+        }
+      ]
+    },
+    "tags_review": [
+      "",
+      "gofood.co.id"
+    ],
+    "content_reviews": "kenapa pizza rasa terlalu asin di mulut saya? Coba takaran garam jangan terlalu berlebihan di dalam pizza",
+    "date_of_experience": ""
+  }
+}

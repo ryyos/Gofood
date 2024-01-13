@@ -1,0 +1,75 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/mcdonald-s-pekayon-50150204-8f6d-4372-8458-668f1be126e8",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Cepat saji",
+    "Sweets",
+    "Jajanan",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:17:21.424093",
+  "crawling_time_epoch": 1705155441,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/McDonalds_Pekayon/json/f5bb6e4e-9a35-403f-b559-7f6b0f801d56.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/McDonalds_Pekayon/json/f5bb6e4e-9a35-403f-b559-7f6b0f801d56.json",
+  "reviews_name": "McDonald's, Pekayon",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.46
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "50150204-8f6d-4372-8458-668f1be126e8",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.8,
+      "total": 70397
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 4555,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 3695,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 3669,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "f5bb6e4e-9a35-403f-b559-7f6b0f801d56",
+    "username_reviews": "D**** M*******",
+    "initialName": "DM",
+    "image_reviews": null,
+    "created_time": "2021-05-11T11:02:35.120318+07:00",
+    "created_time_epoch": 1620730955,
+    "reviews_rating": 5,
+    "orders": {
+      "orderedAt": "2021-05-07T13:34:39.767739Z",
+      "items": [
+        {
+          "id": "e462422a-a559-4610-b025-006e603dafaf",
+          "name": "Spicy Chicken Bites, Chicken Fingers, RFries, Crunchy Bubble"
+        },
+        {
+          "id": "03ed5be6-83bc-408c-b4ad-c8c3a4e2b762",
+          "name": "Big Mac Meal Medium"
+        }
+      ]
+    },
+    "tags_review": [
+      "CANNED_RESPONSE_TASTE",
+      "CANNED_RESPONSE_HYGIENE",
+      "CANNED_RESPONSE_PACKAGING",
+      "CANNED_RESPONSE_VALUE",
+      "gofood.co.id"
+    ],
+    "content_reviews": "trmksh chef SDH bkin menu saayaa jdi enak,soalny lgi ngidam bgt👍😁",
+    "date_of_experience": ""
+  }
+}

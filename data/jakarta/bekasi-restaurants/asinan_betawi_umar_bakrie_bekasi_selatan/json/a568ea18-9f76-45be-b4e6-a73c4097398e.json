@@ -1,0 +1,61 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/asinan-betawi-umar-bakrie-bekasi-selatan-6256964a-a97c-4657-ab38-68cdba4e3d50",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Cepat saji",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:17:16.823868",
+  "crawling_time_epoch": 1705155436,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Asinan_Betawi_Umar_Bakrie_Bekasi_Selatan/json/a568ea18-9f76-45be-b4e6-a73c4097398e.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Asinan_Betawi_Umar_Bakrie_Bekasi_Selatan/json/a568ea18-9f76-45be-b4e6-a73c4097398e.json",
+  "reviews_name": "Asinan Betawi Umar Bakrie, Bekasi Selatan",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.39
+  },
+  "range_prices": "16k-40k",
+  "restaurant_id": "6256964a-a97c-4657-ab38-68cdba4e3d50",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.8,
+      "total": 1319
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 186,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 162,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 149,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "a568ea18-9f76-45be-b4e6-a73c4097398e",
+    "username_reviews": "V****",
+    "initialName": "V",
+    "image_reviews": null,
+    "created_time": "2019-07-27T16:19:25.263275+07:00",
+    "created_time_epoch": 1564244365,
+    "reviews_rating": 5,
+    "orders": {
+      "orderedAt": "2019-07-27T08:20:06.285008Z",
+      "items": []
+    },
+    "tags_review": [
+      "",
+      "gofood.co.id"
+    ],
+    "content_reviews": "Juaraaa pisgor thai nya.  Asinan buahnya juga JOSSSSHH GANDOOOSSSH 👍👍👍",
+    "date_of_experience": ""
+  }
+}

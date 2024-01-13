@@ -1,0 +1,71 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/kfc-kemang-pratama-ef8c2c3e-61d6-4bd4-b9fa-10cfd6358dcf",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Cepat saji",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:19:21.062803",
+  "crawling_time_epoch": 1705155561,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/KFC_Kemang_Pratama/json/b127ee93-5d9b-4eea-b774-360d325f27bd.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/KFC_Kemang_Pratama/json/b127ee93-5d9b-4eea-b774-360d325f27bd.json",
+  "reviews_name": "KFC, Kemang Pratama",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.53
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "ef8c2c3e-61d6-4bd4-b9fa-10cfd6358dcf",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.8,
+      "total": 24067
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 2021,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 1696,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 1631,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "b127ee93-5d9b-4eea-b774-360d325f27bd",
+    "username_reviews": "N**** A*******",
+    "initialName": "NA",
+    "image_reviews": null,
+    "created_time": "2021-04-24T21:24:38.721789+07:00",
+    "created_time_epoch": 1619299478,
+    "reviews_rating": 5,
+    "orders": {
+      "orderedAt": "2021-04-24T13:42:04.163247Z",
+      "items": [
+        {
+          "id": "a7e8a5bb-bf64-4db7-94de-d23ddcc845cf",
+          "name": "Krunchy Burger"
+        }
+      ]
+    },
+    "tags_review": [
+      "CANNED_RESPONSE_FRESHNESS",
+      "CANNED_RESPONSE_TASTE",
+      "CANNED_RESPONSE_PORTION",
+      "CANNED_RESPONSE_HYGIENE",
+      "CANNED_RESPONSE_PACKAGING",
+      "CANNED_RESPONSE_VALUE",
+      "gofood.co.id"
+    ],
+    "content_reviews": "pengen dapet kfc se trek wkwkw",
+    "date_of_experience": ""
+  }
+}

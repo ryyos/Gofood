@@ -1,0 +1,68 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/richeese-factory-pekayon-fb7c3452-2cba-464a-9e24-23840a40a179",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Cepat saji",
+    "Ayam & bebek",
+    "Aneka nasi",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:20:23.240256",
+  "crawling_time_epoch": 1705155623,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Richeese_Factory_Pekayon/json/bdc34799-8f3d-41d8-83ed-8a5fa4cee469.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Richeese_Factory_Pekayon/json/bdc34799-8f3d-41d8-83ed-8a5fa4cee469.json",
+  "reviews_name": "Richeese Factory, Pekayon",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.97
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "fb7c3452-2cba-464a-9e24-23840a40a179",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.7,
+      "total": 32095
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 2029,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 1477,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 1469,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "bdc34799-8f3d-41d8-83ed-8a5fa4cee469",
+    "username_reviews": "A**** L******",
+    "initialName": "AL",
+    "image_reviews": null,
+    "created_time": "2020-04-28T17:28:38.215+07:00",
+    "created_time_epoch": 1588094918,
+    "reviews_rating": 4,
+    "orders": {
+      "orderedAt": "2020-04-28T04:20:02.129323Z",
+      "items": [
+        {
+          "id": "5f024b19-65d0-4f1b-ae6b-fc69d6116a87",
+          "name": "6 Pcs Fire Chicken"
+        }
+      ]
+    },
+    "tags_review": [
+      "",
+      "gofood.co.id"
+    ],
+    "content_reviews": "memang saya lupa ngasih keterangan level di pesanan fire chicken milik saya. ketika driver tanya, sy sudah bilang lv 1. apakah driver sudah menyampaikan? jika sudah, mengapa diberikan lv 2? mohon diperhatikan lg mengenai pesanan dr pelanggan melalui driver. terima kasih",
+    "date_of_experience": ""
+  }
+}

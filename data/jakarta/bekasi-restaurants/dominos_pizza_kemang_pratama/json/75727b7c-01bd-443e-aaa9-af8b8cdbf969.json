@@ -1,0 +1,67 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/domino-s-pizza-kemang-pratama-00fb7fae-fbe1-4b63-ad17-dc7094c64f9c",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Pizza & pasta",
+    "Cepat saji",
+    "Jajanan",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:18:48.067806",
+  "crawling_time_epoch": 1705155528,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Dominos_Pizza_Kemang_Pratama/json/75727b7c-01bd-443e-aaa9-af8b8cdbf969.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Dominos_Pizza_Kemang_Pratama/json/75727b7c-01bd-443e-aaa9-af8b8cdbf969.json",
+  "reviews_name": "Domino's Pizza, Kemang Pratama",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.47
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "00fb7fae-fbe1-4b63-ad17-dc7094c64f9c",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.7,
+      "total": 11582
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 1426,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 1210,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 1158,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "75727b7c-01bd-443e-aaa9-af8b8cdbf969",
+    "username_reviews": "Asep Edi Supriyadi",
+    "initialName": "AS",
+    "image_reviews": null,
+    "created_time": "2022-01-31T21:18:37.241018+07:00",
+    "created_time_epoch": 1643663917,
+    "reviews_rating": 5,
+    "orders": {
+      "orderedAt": "2022-01-31T13:38:58.820581Z",
+      "items": [
+        {
+          "id": "e4b3829b-3c0d-4340-8a01-68bb49055e96",
+          "name": "Buy Premium PAN Pizza Get Rp 88 For 2nd Pizza"
+        }
+      ]
+    },
+    "tags_review": [
+      "gofood.co.id"
+    ],
+    "content_reviews": "mantapp cheff nya",
+    "date_of_experience": ""
+  }
+}

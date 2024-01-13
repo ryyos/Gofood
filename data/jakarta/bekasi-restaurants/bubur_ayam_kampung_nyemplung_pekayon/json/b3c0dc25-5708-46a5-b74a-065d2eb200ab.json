@@ -1,0 +1,66 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/bubur-ayam-kampung-nyemplung-pekayon-decd86af-75d6-466d-9d74-c66a45850297",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Aneka nasi",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:20:19.392522",
+  "crawling_time_epoch": 1705155619,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Bubur_Ayam_Kampung_Nyemplung_Pekayon/json/b3c0dc25-5708-46a5-b74a-065d2eb200ab.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Bubur_Ayam_Kampung_Nyemplung_Pekayon/json/b3c0dc25-5708-46a5-b74a-065d2eb200ab.json",
+  "reviews_name": "Bubur Ayam Kampung Nyemplung, Pekayon",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.96
+  },
+  "range_prices": "<16k",
+  "restaurant_id": "decd86af-75d6-466d-9d74-c66a45850297",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.7,
+      "total": 2066
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 191,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 138,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 137,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "b3c0dc25-5708-46a5-b74a-065d2eb200ab",
+    "username_reviews": "sandra sarah",
+    "initialName": "SS",
+    "image_reviews": null,
+    "created_time": "2022-01-24T09:50:32.656786+07:00",
+    "created_time_epoch": 1643017832,
+    "reviews_rating": 1,
+    "orders": {
+      "orderedAt": "2022-01-23T02:52:34.258782Z",
+      "items": [
+        {
+          "id": "d8519448-d0cd-43f4-a597-1e25b7cb83a3",
+          "name": "Bubur Ayam Kampung 1 Porsi"
+        }
+      ]
+    },
+    "tags_review": [
+      "CANNED_RESPONSE_PRICE",
+      "gofood.co.id"
+    ],
+    "content_reviews": "25.000 ga ada suiran ayamnya samasekali",
+    "date_of_experience": ""
+  }
+}

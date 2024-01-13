@@ -1,0 +1,68 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/domino-s-pizza-kemang-pratama-00fb7fae-fbe1-4b63-ad17-dc7094c64f9c",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Pizza & pasta",
+    "Cepat saji",
+    "Jajanan",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:18:48.067806",
+  "crawling_time_epoch": 1705155528,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Dominos_Pizza_Kemang_Pratama/json/e9748bb9-ce98-463b-b0d4-57ec168519e3.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Dominos_Pizza_Kemang_Pratama/json/e9748bb9-ce98-463b-b0d4-57ec168519e3.json",
+  "reviews_name": "Domino's Pizza, Kemang Pratama",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.47
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "00fb7fae-fbe1-4b63-ad17-dc7094c64f9c",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.7,
+      "total": 11582
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 1426,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 1210,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 1158,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "e9748bb9-ce98-463b-b0d4-57ec168519e3",
+    "username_reviews": "mariyam",
+    "initialName": "M",
+    "image_reviews": null,
+    "created_time": "2022-12-28T19:21:00.502577+07:00",
+    "created_time_epoch": 1672255260,
+    "reviews_rating": 5,
+    "orders": {
+      "orderedAt": "2022-12-28T10:54:24.669459Z",
+      "items": [
+        {
+          "id": "c2eb2a0d-7a7a-4352-816e-6957a3c244df",
+          "name": "Buy 4 Pizza Mania for 59K"
+        }
+      ]
+    },
+    "tags_review": [
+      "CANNED_RESPONSE_TASTE",
+      "gofood.co.id"
+    ],
+    "content_reviews": "enak...mantabs.....cucok di lidah sy",
+    "date_of_experience": ""
+  }
+}

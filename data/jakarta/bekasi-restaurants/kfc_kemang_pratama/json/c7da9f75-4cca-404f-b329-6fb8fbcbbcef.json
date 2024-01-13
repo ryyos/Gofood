@@ -1,0 +1,71 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/kfc-kemang-pratama-ef8c2c3e-61d6-4bd4-b9fa-10cfd6358dcf",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Cepat saji",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:19:21.062803",
+  "crawling_time_epoch": 1705155561,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/KFC_Kemang_Pratama/json/c7da9f75-4cca-404f-b329-6fb8fbcbbcef.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/KFC_Kemang_Pratama/json/c7da9f75-4cca-404f-b329-6fb8fbcbbcef.json",
+  "reviews_name": "KFC, Kemang Pratama",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.53
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "ef8c2c3e-61d6-4bd4-b9fa-10cfd6358dcf",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.8,
+      "total": 24067
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 2021,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 1696,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 1631,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "c7da9f75-4cca-404f-b329-6fb8fbcbbcef",
+    "username_reviews": "gabrizagebby",
+    "initialName": "G",
+    "image_reviews": null,
+    "created_time": "2023-01-31T11:15:56.265055+07:00",
+    "created_time_epoch": 1675163756,
+    "reviews_rating": 3,
+    "orders": {
+      "orderedAt": "2023-01-31T03:51:56.654551Z",
+      "items": [
+        {
+          "id": "d2cd5ceb-6e45-4ae3-b98d-69223025dbf9",
+          "name": "Kombo Nescafe 1"
+        },
+        {
+          "id": "1e248b82-35b7-4c45-9901-bc9ff11ebc92",
+          "name": "Cream Soup"
+        }
+      ]
+    },
+    "tags_review": [
+      "CANNED_RESPONSE_HYGIENE",
+      "CANNED_RESPONSE_PACKAGING",
+      "gofood.co.id"
+    ],
+    "content_reviews": "tolong diperhatikan kebersihannya, masa di tutup minumannya ada hitam2. gimanasih",
+    "date_of_experience": ""
+  }
+}

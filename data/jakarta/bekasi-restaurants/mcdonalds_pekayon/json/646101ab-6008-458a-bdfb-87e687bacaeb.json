@@ -1,0 +1,67 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/mcdonald-s-pekayon-50150204-8f6d-4372-8458-668f1be126e8",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Cepat saji",
+    "Sweets",
+    "Jajanan",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:17:21.424093",
+  "crawling_time_epoch": 1705155441,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/McDonalds_Pekayon/json/646101ab-6008-458a-bdfb-87e687bacaeb.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/McDonalds_Pekayon/json/646101ab-6008-458a-bdfb-87e687bacaeb.json",
+  "reviews_name": "McDonald's, Pekayon",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.46
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "50150204-8f6d-4372-8458-668f1be126e8",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.8,
+      "total": 70397
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 4555,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 3695,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 3669,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "646101ab-6008-458a-bdfb-87e687bacaeb",
+    "username_reviews": "M******* A*** R***** F********",
+    "initialName": "MF",
+    "image_reviews": null,
+    "created_time": "2023-04-28T01:51:07.069427+07:00",
+    "created_time_epoch": 1682646667,
+    "reviews_rating": 1,
+    "orders": {
+      "orderedAt": "2023-04-26T21:20:37.895747Z",
+      "items": [
+        {
+          "id": "0e81147f-a8d1-42f1-8d0d-69d7a85a1cfa",
+          "name": "PaNas 2 Ayam McD Gulai Spicy"
+        }
+      ]
+    },
+    "tags_review": [
+      "gofood.co.id"
+    ],
+    "content_reviews": "fast food apaan nunggunya lama banget, UMKM sekitar aja lebih cepet, ini mah namanya slow ass food",
+    "date_of_experience": ""
+  }
+}

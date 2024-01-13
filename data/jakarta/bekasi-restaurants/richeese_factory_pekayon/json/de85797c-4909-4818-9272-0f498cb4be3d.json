@@ -1,0 +1,75 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/richeese-factory-pekayon-fb7c3452-2cba-464a-9e24-23840a40a179",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Cepat saji",
+    "Ayam & bebek",
+    "Aneka nasi",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:20:23.240256",
+  "crawling_time_epoch": 1705155623,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Richeese_Factory_Pekayon/json/de85797c-4909-4818-9272-0f498cb4be3d.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Richeese_Factory_Pekayon/json/de85797c-4909-4818-9272-0f498cb4be3d.json",
+  "reviews_name": "Richeese Factory, Pekayon",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.97
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "fb7c3452-2cba-464a-9e24-23840a40a179",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.7,
+      "total": 32095
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 2029,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 1477,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 1469,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "de85797c-4909-4818-9272-0f498cb4be3d",
+    "username_reviews": "S*****",
+    "initialName": "S",
+    "image_reviews": null,
+    "created_time": "2022-04-07T17:37:14.155645+07:00",
+    "created_time_epoch": 1649353034,
+    "reviews_rating": 2,
+    "orders": {
+      "orderedAt": "2022-04-07T09:07:29.488447Z",
+      "items": [
+        {
+          "id": "dc559c5b-ed1e-4158-ab9e-f0ac684a1467",
+          "name": "Fire Flying Chicken"
+        },
+        {
+          "id": "f4b98920-de7c-46e3-937f-c93f4f72265b",
+          "name": "Fire Flying Chicken 1 pcs"
+        },
+        {
+          "id": "775bbb73-1cd4-450d-b64a-ef025cfb9218",
+          "name": "Cheesy Cream Soup"
+        }
+      ]
+    },
+    "tags_review": [
+      "gofood.co.id"
+    ],
+    "content_reviews": "Minta yg non spicy dikasih yg spicy tanpa konfirmasi",
+    "date_of_experience": ""
+  }
+}

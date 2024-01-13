@@ -1,0 +1,76 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/richeese-factory-pekayon-fb7c3452-2cba-464a-9e24-23840a40a179",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Cepat saji",
+    "Ayam & bebek",
+    "Aneka nasi",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:20:23.240256",
+  "crawling_time_epoch": 1705155623,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Richeese_Factory_Pekayon/json/0732d595-a9c4-44fa-80e2-f001d9a6ea48.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Richeese_Factory_Pekayon/json/0732d595-a9c4-44fa-80e2-f001d9a6ea48.json",
+  "reviews_name": "Richeese Factory, Pekayon",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.97
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "fb7c3452-2cba-464a-9e24-23840a40a179",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.7,
+      "total": 32095
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 2029,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 1477,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 1469,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "0732d595-a9c4-44fa-80e2-f001d9a6ea48",
+    "username_reviews": "D**** R*** C*****",
+    "initialName": "DC",
+    "image_reviews": null,
+    "created_time": "2020-04-19T11:24:39.343+07:00",
+    "created_time_epoch": 1587295479,
+    "reviews_rating": 2,
+    "orders": {
+      "orderedAt": "2020-04-18T12:43:50.527853Z",
+      "items": [
+        {
+          "id": "d774c444-08f9-460d-9be3-69d735a60c48",
+          "name": "6 Pcs Richicken"
+        },
+        {
+          "id": "48a52081-e041-4f8e-853a-c1c27d0b00ae",
+          "name": "Potato Pom Pom Ala Carte"
+        },
+        {
+          "id": "2ad79b4d-9012-4cff-b350-7bedd222b8ed",
+          "name": "Raspberry Jelly Cake in a Cup"
+        }
+      ]
+    },
+    "tags_review": [
+      "CANNED_RESPONSE_TASTE",
+      "gofood.co.id"
+    ],
+    "content_reviews": "enakan masakan emak saya",
+    "date_of_experience": ""
+  }
+}

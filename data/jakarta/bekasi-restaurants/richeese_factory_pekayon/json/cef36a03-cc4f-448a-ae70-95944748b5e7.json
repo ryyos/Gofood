@@ -1,0 +1,80 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/richeese-factory-pekayon-fb7c3452-2cba-464a-9e24-23840a40a179",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Cepat saji",
+    "Ayam & bebek",
+    "Aneka nasi",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:20:23.240256",
+  "crawling_time_epoch": 1705155623,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Richeese_Factory_Pekayon/json/cef36a03-cc4f-448a-ae70-95944748b5e7.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Richeese_Factory_Pekayon/json/cef36a03-cc4f-448a-ae70-95944748b5e7.json",
+  "reviews_name": "Richeese Factory, Pekayon",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.97
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "fb7c3452-2cba-464a-9e24-23840a40a179",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.7,
+      "total": 32095
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 2029,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 1477,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 1469,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "cef36a03-cc4f-448a-ae70-95944748b5e7",
+    "username_reviews": "A**** R*****",
+    "initialName": "AR",
+    "image_reviews": null,
+    "created_time": "2019-10-13T19:03:18.254+07:00",
+    "created_time_epoch": 1570993398,
+    "reviews_rating": 4,
+    "orders": {
+      "orderedAt": "2019-10-13T03:48:09.256487Z",
+      "items": [
+        {
+          "id": "495a70b3-ae5a-407b-be07-35463493a6a8",
+          "name": "Richeese Black Lava Large Size"
+        },
+        {
+          "id": "2a172676-841c-4899-885f-121375c6a57f",
+          "name": "Richeese Black Chicken"
+        },
+        {
+          "id": "8315b6f7-d909-43e2-b2da-79b3e64486fe",
+          "name": "Richeese Black Friend Fries"
+        },
+        {
+          "id": "4141083f-15b3-4173-9e5d-3f4b56647c5b",
+          "name": "Fire Chicken 1 Pcs"
+        }
+      ]
+    },
+    "tags_review": [
+      "CANNED_RESPONSE_TASTE",
+      "gofood.co.id"
+    ],
+    "content_reviews": "varian black kentangnya keasinan",
+    "date_of_experience": ""
+  }
+}

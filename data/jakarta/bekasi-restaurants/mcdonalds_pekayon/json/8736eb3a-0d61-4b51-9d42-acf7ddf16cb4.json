@@ -1,0 +1,75 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/mcdonald-s-pekayon-50150204-8f6d-4372-8458-668f1be126e8",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Cepat saji",
+    "Sweets",
+    "Jajanan",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:17:21.424093",
+  "crawling_time_epoch": 1705155441,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/McDonalds_Pekayon/json/8736eb3a-0d61-4b51-9d42-acf7ddf16cb4.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/McDonalds_Pekayon/json/8736eb3a-0d61-4b51-9d42-acf7ddf16cb4.json",
+  "reviews_name": "McDonald's, Pekayon",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.46
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "50150204-8f6d-4372-8458-668f1be126e8",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.8,
+      "total": 70397
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 4555,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 3695,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 3669,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "8736eb3a-0d61-4b51-9d42-acf7ddf16cb4",
+    "username_reviews": "R*****",
+    "initialName": "R",
+    "image_reviews": null,
+    "created_time": "2023-10-07T21:01:24.99835+07:00",
+    "created_time_epoch": 1696712484,
+    "reviews_rating": 2,
+    "orders": {
+      "orderedAt": "2023-10-07T12:47:54.929693Z",
+      "items": [
+        {
+          "id": "b733dbaa-1bfb-4e2c-98fc-61faa9d53d32",
+          "name": "Paket Hemat Big Mac Medium"
+        },
+        {
+          "id": "b6593629-08b4-4179-b13c-21b452519d46",
+          "name": "PaNas Special Krispy, Large"
+        },
+        {
+          "id": "9de9a8eb-78e2-492f-b026-e16a8be13bca",
+          "name": "Paket Hemat McSpicy Medium"
+        }
+      ]
+    },
+    "tags_review": [
+      "gofood.co.id"
+    ],
+    "content_reviews": "big mac nya mgak ada",
+    "date_of_experience": ""
+  }
+}

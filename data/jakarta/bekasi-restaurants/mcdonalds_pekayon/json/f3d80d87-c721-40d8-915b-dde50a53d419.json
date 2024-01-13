@@ -1,0 +1,78 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/mcdonald-s-pekayon-50150204-8f6d-4372-8458-668f1be126e8",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Cepat saji",
+    "Sweets",
+    "Jajanan",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:17:21.424093",
+  "crawling_time_epoch": 1705155441,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/McDonalds_Pekayon/json/f3d80d87-c721-40d8-915b-dde50a53d419.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/McDonalds_Pekayon/json/f3d80d87-c721-40d8-915b-dde50a53d419.json",
+  "reviews_name": "McDonald's, Pekayon",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.46
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "50150204-8f6d-4372-8458-668f1be126e8",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.8,
+      "total": 70397
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 4555,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 3695,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 3669,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "f3d80d87-c721-40d8-915b-dde50a53d419",
+    "username_reviews": "danis marshal",
+    "initialName": "DM",
+    "image_reviews": null,
+    "created_time": "2022-04-02T21:34:46.801563+07:00",
+    "created_time_epoch": 1648935286,
+    "reviews_rating": 1,
+    "orders": {
+      "orderedAt": "2022-04-02T13:39:52.943619Z",
+      "items": [
+        {
+          "id": "78778836-9c57-4170-9844-c43130309118",
+          "name": "PaNas Special Spicy, Large"
+        },
+        {
+          "id": "f0be764a-a3de-47dc-9689-020d391cc7b1",
+          "name": "Cheese Burger With Egg"
+        },
+        {
+          "id": "0462b502-1a64-4a78-8539-af7ac2c237bf",
+          "name": "McSpicy"
+        }
+      ]
+    },
+    "tags_review": [
+      "CANNED_RESPONSE_FRESHNESS",
+      "CANNED_RESPONSE_PORTION",
+      "CANNED_RESPONSE_HYGIENE",
+      "gofood.co.id"
+    ],
+    "content_reviews": "Saya pesan paha atas dan dada cuma di anterinnya sayap dan paha bawah, dan minuman colanya tidak fresh sama sekali, serta omelette masih setengah matang, kenapa mengecewakan sekali  mcd pekayon??? Apa kualitasnya menurun karena banyak pesanan, ",
+    "date_of_experience": ""
+  }
+}

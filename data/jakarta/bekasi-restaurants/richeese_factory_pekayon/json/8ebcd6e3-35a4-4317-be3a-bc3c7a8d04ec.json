@@ -1,0 +1,72 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/richeese-factory-pekayon-fb7c3452-2cba-464a-9e24-23840a40a179",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Cepat saji",
+    "Ayam & bebek",
+    "Aneka nasi",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:20:23.240256",
+  "crawling_time_epoch": 1705155623,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Richeese_Factory_Pekayon/json/8ebcd6e3-35a4-4317-be3a-bc3c7a8d04ec.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Richeese_Factory_Pekayon/json/8ebcd6e3-35a4-4317-be3a-bc3c7a8d04ec.json",
+  "reviews_name": "Richeese Factory, Pekayon",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.97
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "fb7c3452-2cba-464a-9e24-23840a40a179",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.7,
+      "total": 32095
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 2029,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 1477,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 1469,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "8ebcd6e3-35a4-4317-be3a-bc3c7a8d04ec",
+    "username_reviews": "S**********",
+    "initialName": "S",
+    "image_reviews": null,
+    "created_time": "2020-12-26T11:17:52.789+07:00",
+    "created_time_epoch": 1608981472,
+    "reviews_rating": 2,
+    "orders": {
+      "orderedAt": "2020-12-26T03:13:50.947397Z",
+      "items": [
+        {
+          "id": "81229514-a722-47c5-9066-f5a428f3a012",
+          "name": "Flash Sale 8 pcs Fire Chicken"
+        },
+        {
+          "id": "2076db60-ee73-40e6-8bad-f8ffc50d4c04",
+          "name": "Pink Lava 1L"
+        }
+      ]
+    },
+    "tags_review": [
+      "CANNED_RESPONSE_TASTE",
+      "gofood.co.id"
+    ],
+    "content_reviews": "mesen level 1 tp kya level 3 pedes banget ga kemakan kenapa c rasa beda2 saya suka pesen level 1 engga sepedes ini...\n",
+    "date_of_experience": ""
+  }
+}

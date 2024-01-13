@@ -1,0 +1,83 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/sari-rasa-pekayon-ruko-bukit-safira-1457b34a-58b8-4ac5-b2b1-f64b5c9c967f",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Sate",
+    "Ayam & bebek",
+    "Aneka nasi",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:19:47.200172",
+  "crawling_time_epoch": 1705155587,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Sari_Rasa_Pekayon_Ruko_Bukit_Safira/json/e07fee48-45ec-441e-bba6-d05f536ea921.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Sari_Rasa_Pekayon_Ruko_Bukit_Safira/json/e07fee48-45ec-441e-bba6-d05f536ea921.json",
+  "reviews_name": "Sari Rasa Pekayon, Ruko Bukit Safira",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.6
+  },
+  "range_prices": "16k-40k",
+  "restaurant_id": "1457b34a-58b8-4ac5-b2b1-f64b5c9c967f",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.8,
+      "total": 1979
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 216,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 169,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 164,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "e07fee48-45ec-441e-bba6-d05f536ea921",
+    "username_reviews": "Y***",
+    "initialName": "Y",
+    "image_reviews": null,
+    "created_time": "2022-05-08T16:36:09.909863+07:00",
+    "created_time_epoch": 1652027769,
+    "reviews_rating": 3,
+    "orders": {
+      "orderedAt": "2022-05-06T07:27:06.094171Z",
+      "items": [
+        {
+          "id": "f4e64ec7-6a43-4665-bc82-27e130cf8642",
+          "name": "Kembung Goreng"
+        },
+        {
+          "id": "46a133e5-85fd-4146-b84f-56d97aa2b9a3",
+          "name": "Bawal Goreng"
+        },
+        {
+          "id": "db16a3b0-91f7-43e0-bc1a-a1ce9f87025f",
+          "name": "Tumis Kangkung"
+        },
+        {
+          "id": "c065bcb5-2f15-4dd3-af4a-d96b2ce58ad4",
+          "name": "Sambel Merah"
+        },
+        {
+          "id": "13969eb0-36df-48e6-852b-9e6b2ee987b8",
+          "name": "Karedok"
+        }
+      ]
+    },
+    "tags_review": [
+      "gofood.co.id"
+    ],
+    "content_reviews": "Karedok nya dingin kayak dari kulkas",
+    "date_of_experience": ""
+  }
+}

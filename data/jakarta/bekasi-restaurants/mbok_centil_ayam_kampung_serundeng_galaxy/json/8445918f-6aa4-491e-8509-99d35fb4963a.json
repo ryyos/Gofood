@@ -1,0 +1,61 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/mbok-centil-ayam-kampung-serundeng-galaxy-6d00f1a4-66b1-41c9-aec4-b7d49a404c6c",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Ayam & bebek",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:21:12.432830",
+  "crawling_time_epoch": 1705155672,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Mbok_Centil_Ayam_Kampung_Serundeng_Galaxy/json/8445918f-6aa4-491e-8509-99d35fb4963a.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Mbok_Centil_Ayam_Kampung_Serundeng_Galaxy/json/8445918f-6aa4-491e-8509-99d35fb4963a.json",
+  "reviews_name": "Mbok Centil Ayam Kampung Serundeng, Galaxy",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 1
+  },
+  "range_prices": "16k-40k",
+  "restaurant_id": "6d00f1a4-66b1-41c9-aec4-b7d49a404c6c",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.8,
+      "total": 2864
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 317,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 199,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 198,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "8445918f-6aa4-491e-8509-99d35fb4963a",
+    "username_reviews": "B***",
+    "initialName": "B",
+    "image_reviews": null,
+    "created_time": "2018-05-15T09:41:01.624005+07:00",
+    "created_time_epoch": 1526377261,
+    "reviews_rating": 3,
+    "orders": {
+      "orderedAt": "2018-05-14T07:24:12.984423Z",
+      "items": []
+    },
+    "tags_review": [
+      "BAD_CORRECTNESS",
+      "gofood.co.id"
+    ],
+    "content_reviews": "Tolong untuk pemesanan via gofood notes nya di baca dgn baik, 2x saya pesan ayam nya dada yg dateng paha. Terima kasih",
+    "date_of_experience": ""
+  }
+}

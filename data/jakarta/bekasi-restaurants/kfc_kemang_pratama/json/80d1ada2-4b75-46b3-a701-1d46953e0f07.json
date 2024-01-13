@@ -1,0 +1,70 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/kfc-kemang-pratama-ef8c2c3e-61d6-4bd4-b9fa-10cfd6358dcf",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Cepat saji",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:19:21.062803",
+  "crawling_time_epoch": 1705155561,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/KFC_Kemang_Pratama/json/80d1ada2-4b75-46b3-a701-1d46953e0f07.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/KFC_Kemang_Pratama/json/80d1ada2-4b75-46b3-a701-1d46953e0f07.json",
+  "reviews_name": "KFC, Kemang Pratama",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.53
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "ef8c2c3e-61d6-4bd4-b9fa-10cfd6358dcf",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.8,
+      "total": 24067
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 2021,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 1696,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 1631,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "80d1ada2-4b75-46b3-a701-1d46953e0f07",
+    "username_reviews": "M****** R****",
+    "initialName": "MR",
+    "image_reviews": null,
+    "created_time": "2020-05-25T13:28:34.965+07:00",
+    "created_time_epoch": 1590413314,
+    "reviews_rating": 5,
+    "orders": {
+      "orderedAt": "2020-05-24T08:46:36.546429Z",
+      "items": [
+        {
+          "id": "c1d032a9-d33c-4e53-9412-2863ca7317dd",
+          "name": "Bucket Winger + Sauce"
+        },
+        {
+          "id": "3eb1499e-ad06-4d67-9ee7-a1e856efa7b3",
+          "name": "Fun Fries"
+        }
+      ]
+    },
+    "tags_review": [
+      "",
+      "gofood.co.id"
+    ],
+    "content_reviews": "Promonya oke banget",
+    "date_of_experience": ""
+  }
+}

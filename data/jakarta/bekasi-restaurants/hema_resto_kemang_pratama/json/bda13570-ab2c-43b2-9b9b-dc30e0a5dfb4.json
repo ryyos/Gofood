@@ -1,0 +1,81 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/hema-resto-kemang-pratama-0ef656b8-4c0e-41a8-a4fc-fc6e1e8dfdd3",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Barat",
+    "Aneka nasi",
+    "Pizza & pasta",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:14:10.948768",
+  "crawling_time_epoch": 1705155250,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/HEMA_Resto_Kemang_Pratama/json/bda13570-ab2c-43b2-9b9b-dc30e0a5dfb4.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/HEMA_Resto_Kemang_Pratama/json/bda13570-ab2c-43b2-9b9b-dc30e0a5dfb4.json",
+  "reviews_name": "HEMA Resto, Kemang Pratama",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.54
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "0ef656b8-4c0e-41a8-a4fc-fc6e1e8dfdd3",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.8,
+      "total": 725
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 51,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 41,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 40,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "bda13570-ab2c-43b2-9b9b-dc30e0a5dfb4",
+    "username_reviews": "K***** G******",
+    "initialName": "KG",
+    "image_reviews": null,
+    "created_time": "2021-07-19T14:23:00.234938+07:00",
+    "created_time_epoch": 1626704580,
+    "reviews_rating": 5,
+    "orders": {
+      "orderedAt": "2021-07-19T06:31:37.900569Z",
+      "items": [
+        {
+          "id": "8dd35595-9d8f-4f09-b1ae-6b5b56e150b2",
+          "name": "Frozen Cappuccino"
+        },
+        {
+          "id": "f3e522c7-9b31-4b19-9154-ee92a884a660",
+          "name": "Meaty Balls"
+        },
+        {
+          "id": "412e520e-06b1-4ea2-a119-796082363f8a",
+          "name": "Pasta Aglio Olio"
+        }
+      ]
+    },
+    "tags_review": [
+      "CANNED_RESPONSE_FRESHNESS",
+      "CANNED_RESPONSE_TASTE",
+      "CANNED_RESPONSE_PORTION",
+      "CANNED_RESPONSE_HYGIENE",
+      "CANNED_RESPONSE_PACKAGING",
+      "CANNED_RESPONSE_VALUE",
+      "gofood.co.id"
+    ],
+    "content_reviews": "Frozen cappuccino nya nggak berubah dari 13 tahun lalu pas pertama kali nyobain:\")",
+    "date_of_experience": ""
+  }
+}

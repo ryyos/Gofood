@@ -1,0 +1,87 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/mcdonald-s-pekayon-50150204-8f6d-4372-8458-668f1be126e8",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Cepat saji",
+    "Sweets",
+    "Jajanan",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:17:21.424093",
+  "crawling_time_epoch": 1705155441,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/McDonalds_Pekayon/json/f70a593a-a2c6-4562-9a0d-60f3d6e20bfc.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/McDonalds_Pekayon/json/f70a593a-a2c6-4562-9a0d-60f3d6e20bfc.json",
+  "reviews_name": "McDonald's, Pekayon",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.46
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "50150204-8f6d-4372-8458-668f1be126e8",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.8,
+      "total": 70397
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 4555,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 3695,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 3669,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "f70a593a-a2c6-4562-9a0d-60f3d6e20bfc",
+    "username_reviews": "N****",
+    "initialName": "N",
+    "image_reviews": null,
+    "created_time": "2021-05-23T21:10:36.905035+07:00",
+    "created_time_epoch": 1621804236,
+    "reviews_rating": 3,
+    "orders": {
+      "orderedAt": "2021-05-23T13:09:31.745447Z",
+      "items": [
+        {
+          "id": "b313d5ef-1295-46af-82d7-42293ad99adf",
+          "name": "Iced Chocolate Float"
+        },
+        {
+          "id": "8bf5d783-91a8-4855-aeb9-1156e9a4de82",
+          "name": "3 pcs  Double Choco Pie"
+        },
+        {
+          "id": "4d739c13-734b-4b70-8293-41f83d21e5b4",
+          "name": "PaNas Spesial Spicy Medium"
+        },
+        {
+          "id": "6219eb11-936b-4503-86e6-b5b8a426219a",
+          "name": "Spicy Chicken Bites"
+        },
+        {
+          "id": "fb134366-7e44-43dd-a82e-93461de50172",
+          "name": "Sweet Corn with Crunchy Bubble"
+        },
+        {
+          "id": "6310649e-6237-4248-b351-2e82b43a8a65",
+          "name": "Chicken Snack Wrap"
+        }
+      ]
+    },
+    "tags_review": [
+      "gofood.co.id"
+    ],
+    "content_reviews": "mcd kl malam suka kelupaan. tolong sblm dikasih ke driver, makanan dicek lagi ya biar nggak ada yg ketinggalan.",
+    "date_of_experience": ""
+  }
+}

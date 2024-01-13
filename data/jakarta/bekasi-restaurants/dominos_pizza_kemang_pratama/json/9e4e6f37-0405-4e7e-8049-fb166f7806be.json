@@ -1,0 +1,71 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/domino-s-pizza-kemang-pratama-00fb7fae-fbe1-4b63-ad17-dc7094c64f9c",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Pizza & pasta",
+    "Cepat saji",
+    "Jajanan",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:18:48.067806",
+  "crawling_time_epoch": 1705155528,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Dominos_Pizza_Kemang_Pratama/json/9e4e6f37-0405-4e7e-8049-fb166f7806be.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Dominos_Pizza_Kemang_Pratama/json/9e4e6f37-0405-4e7e-8049-fb166f7806be.json",
+  "reviews_name": "Domino's Pizza, Kemang Pratama",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.47
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "00fb7fae-fbe1-4b63-ad17-dc7094c64f9c",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.7,
+      "total": 11582
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 1426,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 1210,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 1158,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "9e4e6f37-0405-4e7e-8049-fb166f7806be",
+    "username_reviews": "A***",
+    "initialName": "A",
+    "image_reviews": null,
+    "created_time": "2021-08-04T11:53:08.535552+07:00",
+    "created_time_epoch": 1628077988,
+    "reviews_rating": 5,
+    "orders": {
+      "orderedAt": "2021-06-23T10:59:06.812748Z",
+      "items": [
+        {
+          "id": "2521c04e-16d1-4616-aa83-bc77a027f8df",
+          "name": "PAPI DUO Cheese Burst"
+        },
+        {
+          "id": "565da618-a72d-4972-acc2-6664b826cf95",
+          "name": "Chicken Creamy Spaghetti"
+        }
+      ]
+    },
+    "tags_review": [
+      "gofood.co.id"
+    ],
+    "content_reviews": "selalu enak dominoz ",
+    "date_of_experience": ""
+  }
+}

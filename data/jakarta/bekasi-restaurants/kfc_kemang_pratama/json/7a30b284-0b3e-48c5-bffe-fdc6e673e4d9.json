@@ -1,0 +1,69 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/kfc-kemang-pratama-ef8c2c3e-61d6-4bd4-b9fa-10cfd6358dcf",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Cepat saji",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:19:21.062803",
+  "crawling_time_epoch": 1705155561,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/KFC_Kemang_Pratama/json/7a30b284-0b3e-48c5-bffe-fdc6e673e4d9.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/KFC_Kemang_Pratama/json/7a30b284-0b3e-48c5-bffe-fdc6e673e4d9.json",
+  "reviews_name": "KFC, Kemang Pratama",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.53
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "ef8c2c3e-61d6-4bd4-b9fa-10cfd6358dcf",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.8,
+      "total": 24067
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 2021,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 1696,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 1631,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "7a30b284-0b3e-48c5-bffe-fdc6e673e4d9",
+    "username_reviews": "icha",
+    "initialName": "I",
+    "image_reviews": null,
+    "created_time": "2022-03-11T16:07:50.04812+07:00",
+    "created_time_epoch": 1647014870,
+    "reviews_rating": 1,
+    "orders": {
+      "orderedAt": "2022-03-11T08:47:36.711981Z",
+      "items": [
+        {
+          "id": "d90207df-6d81-45c1-a848-d8c6d47c46b2",
+          "name": "Colonel Yakiniku Rice"
+        },
+        {
+          "id": "97485ab1-9695-4cd7-b1f8-b1f70d33955f",
+          "name": "Kombo Super Star Ber 3"
+        }
+      ]
+    },
+    "tags_review": [
+      "gofood.co.id"
+    ],
+    "content_reviews": "Nasiiii nya maneeeeee parah ni kfc",
+    "date_of_experience": ""
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/ayam-geprek-ayam-com-kemang-pratama-acb48dbc-474f-44f8-a2c9-9310a1dc6f56",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Ayam & bebek",
+    "Aneka nasi",
+    "Cepat saji",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:19:06.874520",
+  "crawling_time_epoch": 1705155546,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Ayam_Geprek_Ayamcom_Kemang_Pratama/json/b6e465e5-b7a9-4dff-b46e-3b5fdc24b3e4.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Ayam_Geprek_Ayamcom_Kemang_Pratama/json/b6e465e5-b7a9-4dff-b46e-3b5fdc24b3e4.json",
+  "reviews_name": "Ayam Geprek Ayam.com, Kemang Pratama",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.49
+  },
+  "range_prices": "16k-40k",
+  "restaurant_id": "acb48dbc-474f-44f8-a2c9-9310a1dc6f56",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.8,
+      "total": 2048
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 292,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 238,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 224,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "b6e465e5-b7a9-4dff-b46e-3b5fdc24b3e4",
+    "username_reviews": "A*****",
+    "initialName": "A",
+    "image_reviews": null,
+    "created_time": "2021-11-30T13:36:05.262994+07:00",
+    "created_time_epoch": 1638279365,
+    "reviews_rating": 1,
+    "orders": {
+      "orderedAt": "2021-11-30T04:34:07.40667Z",
+      "items": [
+        {
+          "id": "0cbbc2a4-328d-4409-a51e-69d3a76750e7",
+          "name": "Tidak Puas? Kami Ganti!"
+        }
+      ]
+    },
+    "tags_review": [
+      "gofood.co.id"
+    ],
+    "content_reviews": "menu dipampang diaplikasi begitu diorder cuma dapet angin doang..",
+    "date_of_experience": ""
+  }
+}

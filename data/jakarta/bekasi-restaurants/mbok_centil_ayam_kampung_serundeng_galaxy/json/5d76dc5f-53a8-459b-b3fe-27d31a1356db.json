@@ -1,0 +1,66 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/mbok-centil-ayam-kampung-serundeng-galaxy-6d00f1a4-66b1-41c9-aec4-b7d49a404c6c",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Ayam & bebek",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:21:12.432830",
+  "crawling_time_epoch": 1705155672,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Mbok_Centil_Ayam_Kampung_Serundeng_Galaxy/json/5d76dc5f-53a8-459b-b3fe-27d31a1356db.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Mbok_Centil_Ayam_Kampung_Serundeng_Galaxy/json/5d76dc5f-53a8-459b-b3fe-27d31a1356db.json",
+  "reviews_name": "Mbok Centil Ayam Kampung Serundeng, Galaxy",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 1
+  },
+  "range_prices": "16k-40k",
+  "restaurant_id": "6d00f1a4-66b1-41c9-aec4-b7d49a404c6c",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.8,
+      "total": 2864
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 317,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 199,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 198,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "5d76dc5f-53a8-459b-b3fe-27d31a1356db",
+    "username_reviews": "R*** I*",
+    "initialName": "RI",
+    "image_reviews": null,
+    "created_time": "2022-05-10T12:06:27.745627+07:00",
+    "created_time_epoch": 1652184387,
+    "reviews_rating": 1,
+    "orders": {
+      "orderedAt": "2022-05-10T04:37:17.263601Z",
+      "items": [
+        {
+          "id": "c6cbb75b-7101-4cfa-8691-6d60f5640da3",
+          "name": "Ayam Biasa Serundeng"
+        }
+      ]
+    },
+    "tags_review": [
+      "CANNED_RESPONSE_ORDER",
+      "gofood.co.id"
+    ],
+    "content_reviews": "Setelah hiatus 6 bulan karena pembelian terakhir ada kecoa kecil di sambel. Akhirnya beraniin lagi buat beli. Minta dada dikasi paha. Kalo emang ga ada kan bisa info. Emang capek bgt beli di sini tuh. Heran.",
+    "date_of_experience": ""
+  }
+}

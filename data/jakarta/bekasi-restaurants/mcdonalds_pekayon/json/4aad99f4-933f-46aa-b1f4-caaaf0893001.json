@@ -1,0 +1,91 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/mcdonald-s-pekayon-50150204-8f6d-4372-8458-668f1be126e8",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Cepat saji",
+    "Sweets",
+    "Jajanan",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:17:21.424093",
+  "crawling_time_epoch": 1705155441,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/McDonalds_Pekayon/json/4aad99f4-933f-46aa-b1f4-caaaf0893001.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/McDonalds_Pekayon/json/4aad99f4-933f-46aa-b1f4-caaaf0893001.json",
+  "reviews_name": "McDonald's, Pekayon",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.46
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "50150204-8f6d-4372-8458-668f1be126e8",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.8,
+      "total": 70397
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 4555,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 3695,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 3669,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "4aad99f4-933f-46aa-b1f4-caaaf0893001",
+    "username_reviews": "R***",
+    "initialName": "R",
+    "image_reviews": null,
+    "created_time": "2023-04-23T19:25:49.754978+07:00",
+    "created_time_epoch": 1682277949,
+    "reviews_rating": 1,
+    "orders": {
+      "orderedAt": "2023-04-23T11:42:18.148179Z",
+      "items": [
+        {
+          "id": "78778836-9c57-4170-9844-c43130309118",
+          "name": "PaNas Special Spicy, Large"
+        },
+        {
+          "id": "fa582cd1-a3f6-47ad-b4d1-2c831ba58d45",
+          "name": "PaMer 7 Krispy"
+        },
+        {
+          "id": "1eb168a1-66d6-486d-9f13-e8a08f2b5198",
+          "name": "Large Rice"
+        },
+        {
+          "id": "2bc001b6-1f78-4836-ba3c-9ba948f008d4",
+          "name": "French Fries Large"
+        },
+        {
+          "id": "2820354d-b9e6-4c42-991f-3df89ceec44e",
+          "name": "Chicken Burger"
+        },
+        {
+          "id": "5c1c3f27-537b-480f-8f65-359233244057",
+          "name": "Cheeseburger Deluxe"
+        },
+        {
+          "id": "f4a82fea-fdc8-4fac-8dfd-76f839f26e0e",
+          "name": "PaNas 1 Ayam McD Gulai Krispy"
+        }
+      ]
+    },
+    "tags_review": [
+      "gofood.co.id"
+    ],
+    "content_reviews": "masa pesenannya 7 ayam gaada, burger sama kentangnya juga nggak ada, gimana sih",
+    "date_of_experience": ""
+  }
+}

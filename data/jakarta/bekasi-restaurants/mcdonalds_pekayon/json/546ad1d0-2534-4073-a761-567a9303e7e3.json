@@ -1,0 +1,84 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/mcdonald-s-pekayon-50150204-8f6d-4372-8458-668f1be126e8",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Cepat saji",
+    "Sweets",
+    "Jajanan",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:17:21.424093",
+  "crawling_time_epoch": 1705155441,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/McDonalds_Pekayon/json/546ad1d0-2534-4073-a761-567a9303e7e3.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/McDonalds_Pekayon/json/546ad1d0-2534-4073-a761-567a9303e7e3.json",
+  "reviews_name": "McDonald's, Pekayon",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.46
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "50150204-8f6d-4372-8458-668f1be126e8",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.8,
+      "total": 70397
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 4555,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 3695,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 3669,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "546ad1d0-2534-4073-a761-567a9303e7e3",
+    "username_reviews": "Ardi Ramadan",
+    "initialName": "AR",
+    "image_reviews": null,
+    "created_time": "2023-10-09T22:20:02.189849+07:00",
+    "created_time_epoch": 1696890002,
+    "reviews_rating": 4,
+    "orders": {
+      "orderedAt": "2023-10-09T14:41:41.400049Z",
+      "items": [
+        {
+          "id": "3862a2c5-9daf-4c3f-bc38-949112da4004",
+          "name": "Big Mac McFlavor Set"
+        },
+        {
+          "id": "8200079b-4674-4383-8e16-1eb0c0ab2ee1",
+          "name": "2x Double Choco Pie"
+        },
+        {
+          "id": "4f027157-a255-4fe7-952e-a9f5251d203f",
+          "name": "Double Big Mac."
+        },
+        {
+          "id": "1cccaf8b-b381-4516-869c-a7468d863120",
+          "name": "Fanta, Large"
+        },
+        {
+          "id": "1be43157-f5f0-48df-8dc8-9682bd61771d",
+          "name": "Beef Burger"
+        }
+      ]
+    },
+    "tags_review": [
+      "CANNED_RESPONSE_TASTE",
+      "gofood.co.id"
+    ],
+    "content_reviews": "aga hambar sedikit",
+    "date_of_experience": ""
+  }
+}

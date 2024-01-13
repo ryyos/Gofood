@@ -1,0 +1,68 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/domino-s-pizza-kemang-pratama-00fb7fae-fbe1-4b63-ad17-dc7094c64f9c",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Pizza & pasta",
+    "Cepat saji",
+    "Jajanan",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:18:48.067806",
+  "crawling_time_epoch": 1705155528,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Dominos_Pizza_Kemang_Pratama/json/80ffb3f7-0950-40ed-8cbe-e9a2e94372c6.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Dominos_Pizza_Kemang_Pratama/json/80ffb3f7-0950-40ed-8cbe-e9a2e94372c6.json",
+  "reviews_name": "Domino's Pizza, Kemang Pratama",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.47
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "00fb7fae-fbe1-4b63-ad17-dc7094c64f9c",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.7,
+      "total": 11582
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 1426,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 1210,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 1158,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "80ffb3f7-0950-40ed-8cbe-e9a2e94372c6",
+    "username_reviews": "E**",
+    "initialName": "E",
+    "image_reviews": null,
+    "created_time": "2020-03-23T11:23:25.037+07:00",
+    "created_time_epoch": 1584962605,
+    "reviews_rating": 4,
+    "orders": {
+      "orderedAt": "2020-03-22T08:17:40.991069Z",
+      "items": [
+        {
+          "id": "3e3cc995-1a77-4f99-8b8c-4ee2488e2b4b",
+          "name": "Combo 1"
+        }
+      ]
+    },
+    "tags_review": [
+      "CANNED_RESPONSE_HYGIENE",
+      "gofood.co.id"
+    ],
+    "content_reviews": "kurang higenis krn tidak diberikan kantong, sehingga ditaruh di kap motor gojek. eww.",
+    "date_of_experience": ""
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/bang-raden-gerobak-kopi-grand-galaxy-city-11ac8186-f8f3-4965-9a75-13c2dfc2581d",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Minuman",
+    "Kopi",
+    "Sweets",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:21:18.616977",
+  "crawling_time_epoch": 1705155678,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Bang_Raden_Gerobak_Kopi_Grand_Galaxy_City/json/ba52f2ea-edea-4d6e-9acc-36a8a3b6f860.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Bang_Raden_Gerobak_Kopi_Grand_Galaxy_City/json/ba52f2ea-edea-4d6e-9acc-36a8a3b6f860.json",
+  "reviews_name": "Bang Raden Gerobak Kopi, Grand Galaxy City",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 1
+  },
+  "range_prices": "16k-40k",
+  "restaurant_id": "11ac8186-f8f3-4965-9a75-13c2dfc2581d",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.8,
+      "total": 3944
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 461,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 337,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 315,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "ba52f2ea-edea-4d6e-9acc-36a8a3b6f860",
+    "username_reviews": "widya",
+    "initialName": "W",
+    "image_reviews": null,
+    "created_time": "2023-01-08T13:22:34.538984+07:00",
+    "created_time_epoch": 1673184154,
+    "reviews_rating": 5,
+    "orders": {
+      "orderedAt": "2023-01-01T07:14:08.417997Z",
+      "items": [
+        {
+          "id": "bd96b5ff-9723-44fa-ab73-bf3f8f8f5be4",
+          "name": "Baileys Coffee (New Menu)"
+        },
+        {
+          "id": "cda9c14c-8f43-44fc-a4e8-56dbabe74efb",
+          "name": "Kopi Rakyat ( Best Seller )"
+        },
+        {
+          "id": "ef4797e4-8676-4ad7-8054-c0ef789fa2a4",
+          "name": "Butter Scotch Large"
+        }
+      ]
+    },
+    "tags_review": [
+      "gofood.co.id"
+    ],
+    "content_reviews": "Kopi bayleysnya enaaakk",
+    "date_of_experience": ""
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/ayam-geprek-ayam-com-kemang-pratama-acb48dbc-474f-44f8-a2c9-9310a1dc6f56",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Ayam & bebek",
+    "Aneka nasi",
+    "Cepat saji",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:19:06.874520",
+  "crawling_time_epoch": 1705155546,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Ayam_Geprek_Ayamcom_Kemang_Pratama/json/93eef550-0085-4fc8-9de6-393823d76045.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Ayam_Geprek_Ayamcom_Kemang_Pratama/json/93eef550-0085-4fc8-9de6-393823d76045.json",
+  "reviews_name": "Ayam Geprek Ayam.com, Kemang Pratama",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.49
+  },
+  "range_prices": "16k-40k",
+  "restaurant_id": "acb48dbc-474f-44f8-a2c9-9310a1dc6f56",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.8,
+      "total": 2048
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 292,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 238,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 224,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "93eef550-0085-4fc8-9de6-393823d76045",
+    "username_reviews": "S*****",
+    "initialName": "S",
+    "image_reviews": null,
+    "created_time": "2019-10-30T13:23:45.774+07:00",
+    "created_time_epoch": 1572441825,
+    "reviews_rating": 1,
+    "orders": {
+      "orderedAt": "2019-10-30T05:26:40.637824Z",
+      "items": [
+        {
+          "id": "323cfd9f-512e-4dc3-b54c-b0a30dfa4a44",
+          "name": "Ayam Crispy Dada"
+        },
+        {
+          "id": "154eef59-b09c-4902-8928-eb1cf8df5a69",
+          "name": "Ayam Geprek Paha Atas"
+        }
+      ]
+    },
+    "tags_review": [
+      "CANNED_RESPONSE_VALUE",
+      "gofood.co.id"
+    ],
+    "content_reviews": "pelayanan kurang baik.",
+    "date_of_experience": ""
+  }
+}

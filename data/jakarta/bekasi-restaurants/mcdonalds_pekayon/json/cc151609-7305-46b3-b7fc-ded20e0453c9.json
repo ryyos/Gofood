@@ -1,0 +1,68 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/mcdonald-s-pekayon-50150204-8f6d-4372-8458-668f1be126e8",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Cepat saji",
+    "Sweets",
+    "Jajanan",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:17:21.424093",
+  "crawling_time_epoch": 1705155441,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/McDonalds_Pekayon/json/cc151609-7305-46b3-b7fc-ded20e0453c9.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/McDonalds_Pekayon/json/cc151609-7305-46b3-b7fc-ded20e0453c9.json",
+  "reviews_name": "McDonald's, Pekayon",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.46
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "50150204-8f6d-4372-8458-668f1be126e8",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.8,
+      "total": 70397
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 4555,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 3695,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 3669,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "cc151609-7305-46b3-b7fc-ded20e0453c9",
+    "username_reviews": "A**** P*******",
+    "initialName": "AP",
+    "image_reviews": null,
+    "created_time": "2023-05-04T02:17:07.430578+07:00",
+    "created_time_epoch": 1683166627,
+    "reviews_rating": 1,
+    "orders": {
+      "orderedAt": "2023-05-03T18:48:36.114496Z",
+      "items": [
+        {
+          "id": "f5a2c3a7-c1b4-42e9-8cae-dbbff18dfd23",
+          "name": "PaHeBat Cheeseburger Deluxe, Medium"
+        }
+      ]
+    },
+    "tags_review": [
+      "CANNED_RESPONSE_ORDER",
+      "gofood.co.id"
+    ],
+    "content_reviews": "Entah ini mcd pekayon doang atau mcd skrng begini, karna jarang pesan dr mcd lain soalnya ini paling dekat rumah. Ada kayanya 5x order di sini minta minumnya no ice tapi pasti aja selalu pakai ice. Entah gabisa atau emang gabaca.",
+    "date_of_experience": ""
+  }
+}

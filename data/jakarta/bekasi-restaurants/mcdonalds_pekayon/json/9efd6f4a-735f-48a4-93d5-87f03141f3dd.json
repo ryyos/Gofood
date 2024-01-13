@@ -1,0 +1,80 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/mcdonald-s-pekayon-50150204-8f6d-4372-8458-668f1be126e8",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Cepat saji",
+    "Sweets",
+    "Jajanan",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:17:21.424093",
+  "crawling_time_epoch": 1705155441,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/McDonalds_Pekayon/json/9efd6f4a-735f-48a4-93d5-87f03141f3dd.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/McDonalds_Pekayon/json/9efd6f4a-735f-48a4-93d5-87f03141f3dd.json",
+  "reviews_name": "McDonald's, Pekayon",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.46
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "50150204-8f6d-4372-8458-668f1be126e8",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.8,
+      "total": 70397
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 4555,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 3695,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 3669,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "9efd6f4a-735f-48a4-93d5-87f03141f3dd",
+    "username_reviews": "elsa ritonga",
+    "initialName": "ER",
+    "image_reviews": null,
+    "created_time": "2022-04-11T17:17:09.124565+07:00",
+    "created_time_epoch": 1649697429,
+    "reviews_rating": 3,
+    "orders": {
+      "orderedAt": "2022-04-07T07:01:19.581756Z",
+      "items": [
+        {
+          "id": "ede981c9-dbec-4255-a1d8-92e16e8c5d8e",
+          "name": "PaNas 1 Spicy, Large"
+        },
+        {
+          "id": "27562a6a-40bd-4c16-a270-42cb32437f0d",
+          "name": "PaNas 1 Krispy, Large"
+        },
+        {
+          "id": "52f31e95-2180-4387-abf4-de8e2b3eb898",
+          "name": "Beef Burger"
+        },
+        {
+          "id": "3f66bc91-ce32-4780-a73c-113462a0050c",
+          "name": "2 pcs Krispy Chicken McD"
+        }
+      ]
+    },
+    "tags_review": [
+      "CANNED_RESPONSE_ORDER",
+      "gofood.co.id"
+    ],
+    "content_reviews": "dikasih saos tomat doang 2 biji itupun krn request saos sambal ny ga ada sm sekali, tissue jg ga dksh. kebiasaan emang",
+    "date_of_experience": ""
+  }
+}

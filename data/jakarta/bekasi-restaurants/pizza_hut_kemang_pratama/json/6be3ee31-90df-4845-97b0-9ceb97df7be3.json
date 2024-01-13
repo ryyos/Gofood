@@ -1,0 +1,81 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/pizza-hut-kemang-pratama-619b40c5-b111-4004-a05e-2cf6526de384",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Barat",
+    "Jajanan",
+    "Ayam & bebek",
+    "Pizza & pasta",
+    "Cepat saji",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:20:55.807619",
+  "crawling_time_epoch": 1705155655,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Pizza_Hut_Kemang_Pratama/json/6be3ee31-90df-4845-97b0-9ceb97df7be3.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Pizza_Hut_Kemang_Pratama/json/6be3ee31-90df-4845-97b0-9ceb97df7be3.json",
+  "reviews_name": "Pizza Hut, Kemang Pratama",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.99
+  },
+  "range_prices": ">100k",
+  "restaurant_id": "619b40c5-b111-4004-a05e-2cf6526de384",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.8,
+      "total": 12460
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 997,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 804,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 735,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "6be3ee31-90df-4845-97b0-9ceb97df7be3",
+    "username_reviews": "A***",
+    "initialName": "A",
+    "image_reviews": null,
+    "created_time": "2023-08-07T19:24:00.765339+07:00",
+    "created_time_epoch": 1691436240,
+    "reviews_rating": 5,
+    "orders": {
+      "orderedAt": "2023-08-07T11:37:13.932174Z",
+      "items": [
+        {
+          "id": "2441ee59-851d-45e8-915b-d08f21a2c9cf",
+          "name": "Melts Pizza"
+        },
+        {
+          "id": "85b6d3d1-54ec-416e-afb9-1af7d4a5641f",
+          "name": "Cheese Beef Fusilli"
+        },
+        {
+          "id": "b2a8eb24-9e64-4abc-9607-2e87be2d78df",
+          "name": "Green Chili Calamari"
+        },
+        {
+          "id": "2441ee59-851d-45e8-915b-d08f21a2c9cf",
+          "name": "Melts Pizza"
+        }
+      ]
+    },
+    "tags_review": [
+      "gofood.co.id"
+    ],
+    "content_reviews": "order nya fusilli tapi yang dateng penne.",
+    "date_of_experience": ""
+  }
+}

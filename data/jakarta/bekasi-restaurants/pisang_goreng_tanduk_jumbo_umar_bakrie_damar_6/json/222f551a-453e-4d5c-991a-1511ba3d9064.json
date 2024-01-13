@@ -1,0 +1,77 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/pisang-goreng-tanduk-jumbo-umar-bakrie-damar-6-fb7fecd4-9337-4d02-907a-2e1ddefdbd03",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Cepat saji",
+    "Jajanan",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:17:09.085002",
+  "crawling_time_epoch": 1705155429,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Pisang_Goreng_Tanduk_Jumbo_Umar_Bakrie_Damar_6/json/222f551a-453e-4d5c-991a-1511ba3d9064.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Pisang_Goreng_Tanduk_Jumbo_Umar_Bakrie_Damar_6/json/222f551a-453e-4d5c-991a-1511ba3d9064.json",
+  "reviews_name": "Pisang Goreng Tanduk Jumbo Umar Bakrie, Damar 6",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.36
+  },
+  "range_prices": "16k-40k",
+  "restaurant_id": "fb7fecd4-9337-4d02-907a-2e1ddefdbd03",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.7,
+      "total": 2037
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 218,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 175,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 172,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "222f551a-453e-4d5c-991a-1511ba3d9064",
+    "username_reviews": "Tyan",
+    "initialName": "T",
+    "image_reviews": null,
+    "created_time": "2023-11-21T16:31:19.964436+07:00",
+    "created_time_epoch": 1700584279,
+    "reviews_rating": 4,
+    "orders": {
+      "orderedAt": "2023-11-19T14:13:07.624004Z",
+      "items": [
+        {
+          "id": "d29a78de-38e3-49fc-aba1-9b55bb5ddcce",
+          "name": "singkong goreng + keju"
+        },
+        {
+          "id": "baff62e3-37c3-4c3f-aa96-ab91bfd838e4",
+          "name": "Pisgor tanduk PD isi 6 Pcs"
+        }
+      ]
+    },
+    "tags_review": [
+      "CANNED_RESPONSE_FRESHNESS",
+      "CANNED_RESPONSE_TASTE",
+      "CANNED_RESPONSE_PORTION",
+      "CANNED_RESPONSE_HYGIENE",
+      "CANNED_RESPONSE_PRICE",
+      "CANNED_RESPONSE_VALUE",
+      "CANNED_RESPONSE_PACKAGING",
+      "gofood.co.id"
+    ],
+    "content_reviews": "pisgornya okee tapi singkong gorengnya bukan tipe yg empuk gempur gitu sih sayangnya",
+    "date_of_experience": ""
+  }
+}

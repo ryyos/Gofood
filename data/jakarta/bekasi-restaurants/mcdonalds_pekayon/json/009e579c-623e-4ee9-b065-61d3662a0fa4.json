@@ -1,0 +1,75 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/mcdonald-s-pekayon-50150204-8f6d-4372-8458-668f1be126e8",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Cepat saji",
+    "Sweets",
+    "Jajanan",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:17:21.424093",
+  "crawling_time_epoch": 1705155441,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/McDonalds_Pekayon/json/009e579c-623e-4ee9-b065-61d3662a0fa4.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/McDonalds_Pekayon/json/009e579c-623e-4ee9-b065-61d3662a0fa4.json",
+  "reviews_name": "McDonald's, Pekayon",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.46
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "50150204-8f6d-4372-8458-668f1be126e8",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.8,
+      "total": 70397
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 4555,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 3695,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 3669,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "009e579c-623e-4ee9-b065-61d3662a0fa4",
+    "username_reviews": "yulaida",
+    "initialName": "Y",
+    "image_reviews": null,
+    "created_time": "2021-12-20T16:41:03.001367+07:00",
+    "created_time_epoch": 1640018463,
+    "reviews_rating": 1,
+    "orders": {
+      "orderedAt": "2021-12-20T07:30:34.34757Z",
+      "items": [
+        {
+          "id": "c10716e4-d4c7-4190-9c36-58cdb72f1914",
+          "name": "PaNas 2 Ayam Gulai McD Spicy"
+        },
+        {
+          "id": "e6bfc91a-3cd2-4ab9-9f7d-74b127de7cb3",
+          "name": "Family Time Bertiga Happy Meal Beef Burger, PaNas Krispy With 2pcs reg. MILO"
+        },
+        {
+          "id": "4ebbb602-75f8-4c7a-bdce-d88b1396a522",
+          "name": "Strawberry Sundae"
+        }
+      ]
+    },
+    "tags_review": [
+      "gofood.co.id"
+    ],
+    "content_reviews": "pesan sundae strawberry 2 cup,,yg DTG cuma 1,,GK teliti",
+    "date_of_experience": ""
+  }
+}

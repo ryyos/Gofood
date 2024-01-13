@@ -1,0 +1,78 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/kfc-kemang-pratama-ef8c2c3e-61d6-4bd4-b9fa-10cfd6358dcf",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Cepat saji",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:19:21.062803",
+  "crawling_time_epoch": 1705155561,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/KFC_Kemang_Pratama/json/6cf6d066-a097-45f4-9c9a-60190108e873.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/KFC_Kemang_Pratama/json/6cf6d066-a097-45f4-9c9a-60190108e873.json",
+  "reviews_name": "KFC, Kemang Pratama",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.53
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "ef8c2c3e-61d6-4bd4-b9fa-10cfd6358dcf",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.8,
+      "total": 24067
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 2021,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 1696,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 1631,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "6cf6d066-a097-45f4-9c9a-60190108e873",
+    "username_reviews": "A***** F******",
+    "initialName": "AF",
+    "image_reviews": null,
+    "created_time": "2020-04-02T12:26:00.881+07:00",
+    "created_time_epoch": 1585830360,
+    "reviews_rating": 3,
+    "orders": {
+      "orderedAt": "2020-04-01T09:07:34.178268Z",
+      "items": [
+        {
+          "id": "1e136124-95dc-4e06-9d58-0334ee90f3cb",
+          "name": "Oriental Bento"
+        },
+        {
+          "id": "f009b3f4-436b-48bb-98d1-f2680b7f6c0c",
+          "name": "9 pcs Chicken"
+        },
+        {
+          "id": "4eb959ce-2c5b-45da-9dc2-b7b57b2c0fba",
+          "name": "Winger Party 4"
+        },
+        {
+          "id": "39cae3e3-d2e3-4196-aee8-14c096f49b4b",
+          "name": "Spaghetti Supreme"
+        }
+      ]
+    },
+    "tags_review": [
+      "CANNED_RESPONSE_TASTE",
+      "gofood.co.id"
+    ],
+    "content_reviews": "ayamnya kayak goreng sisa kmrn. kerassss",
+    "date_of_experience": ""
+  }
+}

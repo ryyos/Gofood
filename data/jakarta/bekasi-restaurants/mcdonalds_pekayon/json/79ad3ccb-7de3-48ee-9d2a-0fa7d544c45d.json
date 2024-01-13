@@ -1,0 +1,68 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/mcdonald-s-pekayon-50150204-8f6d-4372-8458-668f1be126e8",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Cepat saji",
+    "Sweets",
+    "Jajanan",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:17:21.424093",
+  "crawling_time_epoch": 1705155441,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/McDonalds_Pekayon/json/79ad3ccb-7de3-48ee-9d2a-0fa7d544c45d.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/McDonalds_Pekayon/json/79ad3ccb-7de3-48ee-9d2a-0fa7d544c45d.json",
+  "reviews_name": "McDonald's, Pekayon",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.46
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "50150204-8f6d-4372-8458-668f1be126e8",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.8,
+      "total": 70397
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 4555,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 3695,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 3669,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "79ad3ccb-7de3-48ee-9d2a-0fa7d544c45d",
+    "username_reviews": "D*** A******",
+    "initialName": "DA",
+    "image_reviews": null,
+    "created_time": "2019-09-04T21:41:20.165885+07:00",
+    "created_time_epoch": 1567633280,
+    "reviews_rating": 3,
+    "orders": {
+      "orderedAt": "2019-09-04T13:53:39.66854Z",
+      "items": [
+        {
+          "id": "3cb7a4d1-ad1a-4d79-ad13-e7d657675526",
+          "name": "Apple Pie"
+        }
+      ]
+    },
+    "tags_review": [
+      "CANNED_RESPONSE_PORTION",
+      "gofood.co.id"
+    ],
+    "content_reviews": "porsi nya kurang besar",
+    "date_of_experience": ""
+  }
+}

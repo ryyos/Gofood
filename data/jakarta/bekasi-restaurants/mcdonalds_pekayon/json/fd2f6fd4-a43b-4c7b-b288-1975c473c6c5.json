@@ -1,0 +1,74 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/mcdonald-s-pekayon-50150204-8f6d-4372-8458-668f1be126e8",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Cepat saji",
+    "Sweets",
+    "Jajanan",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:17:21.424093",
+  "crawling_time_epoch": 1705155441,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/McDonalds_Pekayon/json/fd2f6fd4-a43b-4c7b-b288-1975c473c6c5.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/McDonalds_Pekayon/json/fd2f6fd4-a43b-4c7b-b288-1975c473c6c5.json",
+  "reviews_name": "McDonald's, Pekayon",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.46
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "50150204-8f6d-4372-8458-668f1be126e8",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.8,
+      "total": 70397
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 4555,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 3695,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 3669,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "fd2f6fd4-a43b-4c7b-b288-1975c473c6c5",
+    "username_reviews": "T*** A*******",
+    "initialName": "TA",
+    "image_reviews": null,
+    "created_time": "2020-02-21T21:02:29.866+07:00",
+    "created_time_epoch": 1582318949,
+    "reviews_rating": 5,
+    "orders": {
+      "orderedAt": "2020-02-21T13:00:39.529441Z",
+      "items": [
+        {
+          "id": "5f21870a-80d6-4eee-9fe5-12f880c312ca",
+          "name": "PaNas 2 Spicy Large"
+        },
+        {
+          "id": "8d387ed7-fe8b-422f-a0df-fb23d713c137",
+          "name": "2 pcs Spicy Chicken McD"
+        }
+      ]
+    },
+    "tags_review": [
+      "CANNED_RESPONSE_FRESHNESS",
+      "CANNED_RESPONSE_PORTION",
+      "CANNED_RESPONSE_PACKAGING",
+      "gofood.co.id"
+    ],
+    "content_reviews": "Terima kasih banyak",
+    "date_of_experience": ""
+  }
+}

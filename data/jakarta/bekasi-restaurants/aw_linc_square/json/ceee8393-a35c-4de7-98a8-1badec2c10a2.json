@@ -1,0 +1,75 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/a-w-linc-square-d4fe7a94-86cd-4883-b279-07bdd7002ad9",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Cepat saji",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:20:11.107220",
+  "crawling_time_epoch": 1705155611,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/AW_Linc_Square/json/ceee8393-a35c-4de7-98a8-1badec2c10a2.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/AW_Linc_Square/json/ceee8393-a35c-4de7-98a8-1badec2c10a2.json",
+  "reviews_name": "A&W, Linc Square",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.94
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "d4fe7a94-86cd-4883-b279-07bdd7002ad9",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.8,
+      "total": 7181
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 499,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 403,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 365,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "ceee8393-a35c-4de7-98a8-1badec2c10a2",
+    "username_reviews": "D****",
+    "initialName": "D",
+    "image_reviews": null,
+    "created_time": "2022-07-11T20:20:30.370542+07:00",
+    "created_time_epoch": 1657570830,
+    "reviews_rating": 5,
+    "orders": {
+      "orderedAt": "2022-07-11T12:54:02.074579Z",
+      "items": [
+        {
+          "id": "c7e461b8-846b-491f-8e1f-abaaa8d22a2e",
+          "name": "Waffle Regular - Ice Cream"
+        },
+        {
+          "id": "0f2e06e5-64cd-4f55-8913-278d5da88d3e",
+          "name": "SUPER MonDeals - 2 Aroma Chicken & FREE! Cheese Burger"
+        }
+      ]
+    },
+    "tags_review": [
+      "CANNED_RESPONSE_PORTION",
+      "CANNED_RESPONSE_PACKAGING",
+      "CANNED_RESPONSE_VALUE",
+      "CANNED_RESPONSE_HYGIENE",
+      "CANNED_RESPONSE_FRESHNESS",
+      "CANNED_RESPONSE_TASTE",
+      "gofood.co.id"
+    ],
+    "content_reviews": "thanks promo Mondaynya bestieee 😘😘😘😘😘",
+    "date_of_experience": ""
+  }
+}

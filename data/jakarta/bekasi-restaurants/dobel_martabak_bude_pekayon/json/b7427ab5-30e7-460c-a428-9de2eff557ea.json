@@ -1,0 +1,70 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/dobel-martabak-bude-pekayon-c516bbfe-5583-4fbc-9605-9cd02cd220b0",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Martabak",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:18:42.021929",
+  "crawling_time_epoch": 1705155522,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Dobel_Martabak_Bude_Pekayon/json/b7427ab5-30e7-460c-a428-9de2eff557ea.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Dobel_Martabak_Bude_Pekayon/json/b7427ab5-30e7-460c-a428-9de2eff557ea.json",
+  "reviews_name": "Dobel Martabak Bude, Pekayon",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.46
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "c516bbfe-5583-4fbc-9605-9cd02cd220b0",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.6,
+      "total": 2907
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 366,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 264,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 253,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "b7427ab5-30e7-460c-a428-9de2eff557ea",
+    "username_reviews": "R***",
+    "initialName": "R",
+    "image_reviews": null,
+    "created_time": "2020-12-02T11:29:50.302+07:00",
+    "created_time_epoch": 1606908590,
+    "reviews_rating": 5,
+    "orders": {
+      "orderedAt": "2020-11-29T11:50:19.445484Z",
+      "items": [
+        {
+          "id": "6775f5c4-c4ff-4a99-95f4-cb89ba03aa7c",
+          "name": "Martabak Telor Ayam Special"
+        },
+        {
+          "id": "24fcd3b9-f130-4e01-95f6-6186db7d02fe",
+          "name": "Martabak Manis Coklat Kismis"
+        }
+      ]
+    },
+    "tags_review": [
+      "CANNED_RESPONSE_VALUE",
+      "gofood.co.id"
+    ],
+    "content_reviews": "puas, senang dan suka...",
+    "date_of_experience": ""
+  }
+}

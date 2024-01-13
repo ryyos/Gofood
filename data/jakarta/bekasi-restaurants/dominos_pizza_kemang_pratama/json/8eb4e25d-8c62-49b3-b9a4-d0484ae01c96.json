@@ -1,0 +1,67 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/domino-s-pizza-kemang-pratama-00fb7fae-fbe1-4b63-ad17-dc7094c64f9c",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Pizza & pasta",
+    "Cepat saji",
+    "Jajanan",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:18:48.067806",
+  "crawling_time_epoch": 1705155528,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Dominos_Pizza_Kemang_Pratama/json/8eb4e25d-8c62-49b3-b9a4-d0484ae01c96.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Dominos_Pizza_Kemang_Pratama/json/8eb4e25d-8c62-49b3-b9a4-d0484ae01c96.json",
+  "reviews_name": "Domino's Pizza, Kemang Pratama",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.47
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "00fb7fae-fbe1-4b63-ad17-dc7094c64f9c",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.7,
+      "total": 11582
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 1426,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 1210,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 1158,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "8eb4e25d-8c62-49b3-b9a4-d0484ae01c96",
+    "username_reviews": "A**** S****",
+    "initialName": "AS",
+    "image_reviews": null,
+    "created_time": "2023-07-25T18:17:09.028797+07:00",
+    "created_time_epoch": 1690309029,
+    "reviews_rating": 5,
+    "orders": {
+      "orderedAt": "2023-07-25T10:43:28.839199Z",
+      "items": [
+        {
+          "id": "3a338e5b-26d5-4954-898f-a380613091c3",
+          "name": "Papi KEJU-tan"
+        }
+      ]
+    },
+    "tags_review": [
+      "gofood.co.id"
+    ],
+    "content_reviews": "Mantap makanannya enak",
+    "date_of_experience": ""
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/pizza-hut-kemang-pratama-619b40c5-b111-4004-a05e-2cf6526de384",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Barat",
+    "Jajanan",
+    "Ayam & bebek",
+    "Pizza & pasta",
+    "Cepat saji",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:20:55.807619",
+  "crawling_time_epoch": 1705155655,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Pizza_Hut_Kemang_Pratama/json/b18aed3e-4c86-48d7-a8c2-6da55d1859e6.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Pizza_Hut_Kemang_Pratama/json/b18aed3e-4c86-48d7-a8c2-6da55d1859e6.json",
+  "reviews_name": "Pizza Hut, Kemang Pratama",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.99
+  },
+  "range_prices": ">100k",
+  "restaurant_id": "619b40c5-b111-4004-a05e-2cf6526de384",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.8,
+      "total": 12460
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 997,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 804,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 735,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "b18aed3e-4c86-48d7-a8c2-6da55d1859e6",
+    "username_reviews": "C*****",
+    "initialName": "C",
+    "image_reviews": null,
+    "created_time": "2020-05-22T18:29:04.301+07:00",
+    "created_time_epoch": 1590172144,
+    "reviews_rating": 1,
+    "orders": {
+      "orderedAt": "2020-05-22T09:08:51.16343Z",
+      "items": [
+        {
+          "id": "8505198f-784b-440d-93ac-15877ecd4460",
+          "name": "Large Pan 2 Free Regular Pan Cheesy Frank Chicken/Beef"
+        }
+      ]
+    },
+    "tags_review": [
+      "CANNED_RESPONSE_TASTE",
+      "CANNED_RESPONSE_VALUE",
+      "gofood.co.id"
+    ],
+    "content_reviews": "Pizza gosong, doughnya ga ngembang, bantet, alot, potongan pizzanya berantakan dan ga kepotong. Baru kali ini sekecewa ini sama pizza hut. Kedepannya tolong diperbaiki. Thx",
+    "date_of_experience": ""
+  }
+}

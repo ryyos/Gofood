@@ -1,0 +1,69 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/ayam-geprek-ayam-com-kemang-pratama-acb48dbc-474f-44f8-a2c9-9310a1dc6f56",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Ayam & bebek",
+    "Aneka nasi",
+    "Cepat saji",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:19:06.874520",
+  "crawling_time_epoch": 1705155546,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Ayam_Geprek_Ayamcom_Kemang_Pratama/json/504e465b-7df8-43a3-8c7f-6636edc695c0.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Ayam_Geprek_Ayamcom_Kemang_Pratama/json/504e465b-7df8-43a3-8c7f-6636edc695c0.json",
+  "reviews_name": "Ayam Geprek Ayam.com, Kemang Pratama",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.49
+  },
+  "range_prices": "16k-40k",
+  "restaurant_id": "acb48dbc-474f-44f8-a2c9-9310a1dc6f56",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.8,
+      "total": 2048
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 292,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 238,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 224,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "504e465b-7df8-43a3-8c7f-6636edc695c0",
+    "username_reviews": "A***** S****",
+    "initialName": "AS",
+    "image_reviews": null,
+    "created_time": "2022-07-07T17:41:37.749368+07:00",
+    "created_time_epoch": 1657215697,
+    "reviews_rating": 5,
+    "orders": {
+      "orderedAt": "2022-07-06T12:54:09.523975Z",
+      "items": [
+        {
+          "id": "4bf95b1c-dfb8-49d6-a0fc-63854ce3aed1",
+          "name": "Mie + Ayam Geprek Jumbo"
+        }
+      ]
+    },
+    "tags_review": [
+      "CANNED_RESPONSE_PORTION",
+      "CANNED_RESPONSE_HYGIENE",
+      "gofood.co.id"
+    ],
+    "content_reviews": "kurangnya ada di sambelnya aja sih, kurang banyaaaaakkk🥲",
+    "date_of_experience": ""
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/kfc-kemang-pratama-ef8c2c3e-61d6-4bd4-b9fa-10cfd6358dcf",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Cepat saji",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:19:21.062803",
+  "crawling_time_epoch": 1705155561,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/KFC_Kemang_Pratama/json/ddf545e8-6884-4993-9d3f-1ebcec3d3285.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/KFC_Kemang_Pratama/json/ddf545e8-6884-4993-9d3f-1ebcec3d3285.json",
+  "reviews_name": "KFC, Kemang Pratama",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.53
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "ef8c2c3e-61d6-4bd4-b9fa-10cfd6358dcf",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.8,
+      "total": 24067
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 2021,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 1696,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 1631,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "ddf545e8-6884-4993-9d3f-1ebcec3d3285",
+    "username_reviews": "R**",
+    "initialName": "R",
+    "image_reviews": null,
+    "created_time": "2020-05-04T01:04:36.457+07:00",
+    "created_time_epoch": 1588554276,
+    "reviews_rating": 5,
+    "orders": {
+      "orderedAt": "2020-05-03T11:21:39.30222Z",
+      "items": [
+        {
+          "id": "719719b9-a3ed-4d93-a5d5-a1247d299d00",
+          "name": "Zuper Box OR Promo"
+        },
+        {
+          "id": "70f39a32-0151-4f58-8c0b-af3291b1778a",
+          "name": "Es Jelly Kacang Merah"
+        },
+        {
+          "id": "ab345a7e-3820-4713-ac47-710b7916406f",
+          "name": "OMJ Twisty"
+        },
+        {
+          "id": "d2471693-0e41-4b9f-a2df-931ba852886d",
+          "name": "Winger Party 1"
+        },
+        {
+          "id": "cc9585e0-941b-48e0-bb7b-b2e071b1ed3a",
+          "name": "Crazy Deal 9 OR free 2 pudding"
+        }
+      ]
+    },
+    "tags_review": [
+      "",
+      "gofood.co.id"
+    ],
+    "content_reviews": "Semoga next time gratis pudingnya ada ya thanks",
+    "date_of_experience": ""
+  }
+}

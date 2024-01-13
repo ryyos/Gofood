@@ -1,0 +1,75 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/mcdonald-s-pekayon-50150204-8f6d-4372-8458-668f1be126e8",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Cepat saji",
+    "Sweets",
+    "Jajanan",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:17:21.424093",
+  "crawling_time_epoch": 1705155441,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/McDonalds_Pekayon/json/cffb1246-c920-4853-b72a-703b065b4e61.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/McDonalds_Pekayon/json/cffb1246-c920-4853-b72a-703b065b4e61.json",
+  "reviews_name": "McDonald's, Pekayon",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.46
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "50150204-8f6d-4372-8458-668f1be126e8",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.8,
+      "total": 70397
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 4555,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 3695,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 3669,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "cffb1246-c920-4853-b72a-703b065b4e61",
+    "username_reviews": "S***** P*** Y*****",
+    "initialName": "SY",
+    "image_reviews": null,
+    "created_time": "2023-06-28T23:17:26.975333+07:00",
+    "created_time_epoch": 1687994246,
+    "reviews_rating": 1,
+    "orders": {
+      "orderedAt": "2023-06-28T15:36:41.425947Z",
+      "items": [
+        {
+          "id": "ae0c5b47-30bb-42c9-8be9-d6133e12f8e2",
+          "name": "Double Choco Pie A la Mode Chocolate"
+        },
+        {
+          "id": "e516506c-a39a-4863-90ba-d082088b80d7",
+          "name": "PaNas 1 Krispy, Medium"
+        },
+        {
+          "id": "e516506c-a39a-4863-90ba-d082088b80d7",
+          "name": "PaNas 1 Krispy, Medium"
+        }
+      ]
+    },
+    "tags_review": [
+      "gofood.co.id"
+    ],
+    "content_reviews": "pelit banget saos nya elaah ",
+    "date_of_experience": ""
+  }
+}

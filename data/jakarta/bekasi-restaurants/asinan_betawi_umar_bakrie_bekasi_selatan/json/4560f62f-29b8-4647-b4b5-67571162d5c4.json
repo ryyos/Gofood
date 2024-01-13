@@ -1,0 +1,69 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/asinan-betawi-umar-bakrie-bekasi-selatan-6256964a-a97c-4657-ab38-68cdba4e3d50",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Cepat saji",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:17:16.823868",
+  "crawling_time_epoch": 1705155436,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Asinan_Betawi_Umar_Bakrie_Bekasi_Selatan/json/4560f62f-29b8-4647-b4b5-67571162d5c4.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Asinan_Betawi_Umar_Bakrie_Bekasi_Selatan/json/4560f62f-29b8-4647-b4b5-67571162d5c4.json",
+  "reviews_name": "Asinan Betawi Umar Bakrie, Bekasi Selatan",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.39
+  },
+  "range_prices": "16k-40k",
+  "restaurant_id": "6256964a-a97c-4657-ab38-68cdba4e3d50",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.8,
+      "total": 1319
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 186,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 162,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 149,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "4560f62f-29b8-4647-b4b5-67571162d5c4",
+    "username_reviews": "Biby",
+    "initialName": "B",
+    "image_reviews": null,
+    "created_time": "2023-01-31T06:56:28.349488+07:00",
+    "created_time_epoch": 1675148188,
+    "reviews_rating": 1,
+    "orders": {
+      "orderedAt": "2023-01-28T09:13:33.159719Z",
+      "items": [
+        {
+          "id": "26636d89-7ae1-47ed-a5e3-e64ca0ac2479",
+          "name": "asinan buah penor"
+        },
+        {
+          "id": "64dfaddc-7284-4423-8ca7-32723cd8090a",
+          "name": "ubi Goreng tepung isi 5"
+        }
+      ]
+    },
+    "tags_review": [
+      "gofood.co.id"
+    ],
+    "content_reviews": "Asinan buahnya sangat asam. Sampai bingung membedakan ini asinan basi atau terlalu banyak cuka. Maap bintang 1 karena saya radang tenggorokan setelah nyoba ini🙏",
+    "date_of_experience": ""
+  }
+}

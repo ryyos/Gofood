@@ -1,0 +1,71 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/ayam-geprek-ayam-com-kemang-pratama-acb48dbc-474f-44f8-a2c9-9310a1dc6f56",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Ayam & bebek",
+    "Aneka nasi",
+    "Cepat saji",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:19:06.874520",
+  "crawling_time_epoch": 1705155546,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Ayam_Geprek_Ayamcom_Kemang_Pratama/json/25188b58-e403-497a-b300-8114d2a6e23a.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Ayam_Geprek_Ayamcom_Kemang_Pratama/json/25188b58-e403-497a-b300-8114d2a6e23a.json",
+  "reviews_name": "Ayam Geprek Ayam.com, Kemang Pratama",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.49
+  },
+  "range_prices": "16k-40k",
+  "restaurant_id": "acb48dbc-474f-44f8-a2c9-9310a1dc6f56",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.8,
+      "total": 2048
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 292,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 238,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 224,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "25188b58-e403-497a-b300-8114d2a6e23a",
+    "username_reviews": "dwi cahyani",
+    "initialName": "DC",
+    "image_reviews": null,
+    "created_time": "2022-09-15T15:20:09.216195+07:00",
+    "created_time_epoch": 1663255209,
+    "reviews_rating": 4,
+    "orders": {
+      "orderedAt": "2022-09-15T07:08:08.115508Z",
+      "items": [
+        {
+          "id": "0ee01115-306c-4909-9a3a-969dacc9c0ce",
+          "name": "Nasi + Ayam Geprek Jumbo"
+        },
+        {
+          "id": "5226ef92-e9ba-4c59-a8bb-0ada1e4a45cb",
+          "name": "3 Pcs Ayam Crispy Paha Bawah / Sayap"
+        }
+      ]
+    },
+    "tags_review": [
+      "gofood.co.id"
+    ],
+    "content_reviews": "pesanan saya ada yang kurang.\nsdh chat driver tp blm ada respon drivernya.\nsaya pesan tambahan telur dadar tapi gak ada di makanan yg saya terima. F-1843292837",
+    "date_of_experience": ""
+  }
+}

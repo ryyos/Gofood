@@ -1,0 +1,72 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/a-w-linc-square-d4fe7a94-86cd-4883-b279-07bdd7002ad9",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Cepat saji",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:20:11.107220",
+  "crawling_time_epoch": 1705155611,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/AW_Linc_Square/json/d5e6cac6-81ae-4bc3-9a07-ac9d5d37b118.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/AW_Linc_Square/json/d5e6cac6-81ae-4bc3-9a07-ac9d5d37b118.json",
+  "reviews_name": "A&W, Linc Square",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.94
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "d4fe7a94-86cd-4883-b279-07bdd7002ad9",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.8,
+      "total": 7181
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 499,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 403,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 365,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "d5e6cac6-81ae-4bc3-9a07-ac9d5d37b118",
+    "username_reviews": "Zhafira",
+    "initialName": "Z",
+    "image_reviews": null,
+    "created_time": "2023-03-08T16:30:06.760409+07:00",
+    "created_time_epoch": 1678293006,
+    "reviews_rating": 3,
+    "orders": {
+      "orderedAt": "2023-01-09T08:54:26.55068Z",
+      "items": [
+        {
+          "id": "5d7dea3f-e283-4631-8329-fe731848e961",
+          "name": "Spicy Aroma Chicken"
+        },
+        {
+          "id": "891b6b16-5e64-4e8d-b787-2e3b9721ca1f",
+          "name": "Chunks & Curly Fries"
+        }
+      ]
+    },
+    "tags_review": [
+      "CANNED_RESPONSE_FRESHNESS",
+      "CANNED_RESPONSE_HYGIENE",
+      "CANNED_RESPONSE_PORTION",
+      "gofood.co.id"
+    ],
+    "content_reviews": "Baru sekali ini beli ayam di A&W ayamnya belum mateng, masih merah. Alhasil jd ga kemakan satu ayamnya, sayang bgt. Kecewa bgt sm pesanan kali ini, kok bisa bisanya ayamnya smp ga mateng gitu, kacau👎🏻",
+    "date_of_experience": ""
+  }
+}

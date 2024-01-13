@@ -1,0 +1,67 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/richeese-factory-pekayon-fb7c3452-2cba-464a-9e24-23840a40a179",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Cepat saji",
+    "Ayam & bebek",
+    "Aneka nasi",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:20:23.240256",
+  "crawling_time_epoch": 1705155623,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Richeese_Factory_Pekayon/json/534b0d39-8a7f-4b93-adc0-977c7b14eaa6.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Richeese_Factory_Pekayon/json/534b0d39-8a7f-4b93-adc0-977c7b14eaa6.json",
+  "reviews_name": "Richeese Factory, Pekayon",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.97
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "fb7c3452-2cba-464a-9e24-23840a40a179",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.7,
+      "total": 32095
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 2029,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 1477,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 1469,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "534b0d39-8a7f-4b93-adc0-977c7b14eaa6",
+    "username_reviews": "D**** D******",
+    "initialName": "DD",
+    "image_reviews": null,
+    "created_time": "2022-08-23T17:31:39.974677+07:00",
+    "created_time_epoch": 1661275899,
+    "reviews_rating": 5,
+    "orders": {
+      "orderedAt": "2022-08-22T08:05:59.338772Z",
+      "items": [
+        {
+          "id": "bf0eb607-c755-4e6e-abd8-e763c7618b07",
+          "name": "Combo Mabar FC"
+        }
+      ]
+    },
+    "tags_review": [
+      "gofood.co.id"
+    ],
+    "content_reviews": "masih aga amis y ayamnya",
+    "date_of_experience": ""
+  }
+}

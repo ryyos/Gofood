@@ -1,0 +1,79 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/mbok-centil-ayam-kampung-serundeng-galaxy-6d00f1a4-66b1-41c9-aec4-b7d49a404c6c",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Ayam & bebek",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:21:12.432830",
+  "crawling_time_epoch": 1705155672,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Mbok_Centil_Ayam_Kampung_Serundeng_Galaxy/json/18028460-86ba-4f4d-9591-b39227cbed53.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Mbok_Centil_Ayam_Kampung_Serundeng_Galaxy/json/18028460-86ba-4f4d-9591-b39227cbed53.json",
+  "reviews_name": "Mbok Centil Ayam Kampung Serundeng, Galaxy",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 1
+  },
+  "range_prices": "16k-40k",
+  "restaurant_id": "6d00f1a4-66b1-41c9-aec4-b7d49a404c6c",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.8,
+      "total": 2864
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 317,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 199,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 198,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "18028460-86ba-4f4d-9591-b39227cbed53",
+    "username_reviews": "billy setia dwiyanto",
+    "initialName": "BD",
+    "image_reviews": null,
+    "created_time": "2022-07-25T14:59:37.514549+07:00",
+    "created_time_epoch": 1658761177,
+    "reviews_rating": 1,
+    "orders": {
+      "orderedAt": "2022-07-25T07:25:52.852477Z",
+      "items": [
+        {
+          "id": "6b890daa-be51-4239-b928-bafcff600f68",
+          "name": "Es Teller"
+        },
+        {
+          "id": "591110f2-d5ca-4f26-b23d-5cdc7aa51e09",
+          "name": "Tahu Gejrot Pedas"
+        },
+        {
+          "id": "144d377f-6891-452c-82a9-9dccf7cddbd4",
+          "name": "Tahu Gejrot Sedang"
+        },
+        {
+          "id": "cc034506-3fae-4dde-9218-dfe4f2e53b43",
+          "name": "Es Campur"
+        }
+      ]
+    },
+    "tags_review": [
+      "CANNED_RESPONSE_TASTE",
+      "CANNED_RESPONSE_VALUE",
+      "gofood.co.id"
+    ],
+    "content_reviews": "pesan tahu gejrot yg datang tahu dengan cabe dan bawang yang belum teruleg baik\nmasih banyak cabe dan bawang utuhnya\nair kuahnya pun sedikit sekali\nga jelas rasanya\nkalo ga niat jualan jangan jualan ya...kita beli pake uang ga sedikit dan susah carinya",
+    "date_of_experience": ""
+  }
+}

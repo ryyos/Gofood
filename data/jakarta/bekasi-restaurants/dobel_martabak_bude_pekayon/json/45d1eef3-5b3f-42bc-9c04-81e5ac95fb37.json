@@ -1,0 +1,70 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/dobel-martabak-bude-pekayon-c516bbfe-5583-4fbc-9605-9cd02cd220b0",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Martabak",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:18:42.021929",
+  "crawling_time_epoch": 1705155522,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Dobel_Martabak_Bude_Pekayon/json/45d1eef3-5b3f-42bc-9c04-81e5ac95fb37.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Dobel_Martabak_Bude_Pekayon/json/45d1eef3-5b3f-42bc-9c04-81e5ac95fb37.json",
+  "reviews_name": "Dobel Martabak Bude, Pekayon",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.46
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "c516bbfe-5583-4fbc-9605-9cd02cd220b0",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.6,
+      "total": 2907
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 366,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 264,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 253,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "45d1eef3-5b3f-42bc-9c04-81e5ac95fb37",
+    "username_reviews": "M** F****",
+    "initialName": "MF",
+    "image_reviews": null,
+    "created_time": "2021-05-24T17:15:57.158941+07:00",
+    "created_time_epoch": 1621876557,
+    "reviews_rating": 5,
+    "orders": {
+      "orderedAt": "2021-05-24T09:36:32.154794Z",
+      "items": [
+        {
+          "id": "e30eaf32-d555-4c1a-8be7-e55a16781552",
+          "name": "Coklat + Susu + (dobel)"
+        }
+      ]
+    },
+    "tags_review": [
+      "CANNED_RESPONSE_TASTE",
+      "CANNED_RESPONSE_PORTION",
+      "CANNED_RESPONSE_HYGIENE",
+      "CANNED_RESPONSE_PACKAGING",
+      "CANNED_RESPONSE_VALUE",
+      "gofood.co.id"
+    ],
+    "content_reviews": "ga pernah nyesel",
+    "date_of_experience": ""
+  }
+}

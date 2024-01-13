@@ -1,0 +1,81 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/richeese-factory-pekayon-fb7c3452-2cba-464a-9e24-23840a40a179",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Cepat saji",
+    "Ayam & bebek",
+    "Aneka nasi",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:20:23.240256",
+  "crawling_time_epoch": 1705155623,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Richeese_Factory_Pekayon/json/9cd1a30a-e897-4a4b-8a12-917a484b1235.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Richeese_Factory_Pekayon/json/9cd1a30a-e897-4a4b-8a12-917a484b1235.json",
+  "reviews_name": "Richeese Factory, Pekayon",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.97
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "fb7c3452-2cba-464a-9e24-23840a40a179",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.7,
+      "total": 32095
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 2029,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 1477,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 1469,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "9cd1a30a-e897-4a4b-8a12-917a484b1235",
+    "username_reviews": "A*****",
+    "initialName": "A",
+    "image_reviews": null,
+    "created_time": "2022-03-20T15:15:09.637766+07:00",
+    "created_time_epoch": 1647789309,
+    "reviews_rating": 5,
+    "orders": {
+      "orderedAt": "2022-03-20T06:43:41.751883Z",
+      "items": [
+        {
+          "id": "2076db60-ee73-40e6-8bad-f8ffc50d4c04",
+          "name": "Pink Lava 1L"
+        },
+        {
+          "id": "32e0decb-9beb-4fa8-9806-72a8a60250f9",
+          "name": "Fire Flying Chicken 4 pcs"
+        },
+        {
+          "id": "32e0decb-9beb-4fa8-9806-72a8a60250f9",
+          "name": "Fire Flying Chicken 4 pcs"
+        }
+      ]
+    },
+    "tags_review": [
+      "CANNED_RESPONSE_FRESHNESS",
+      "CANNED_RESPONSE_TASTE",
+      "CANNED_RESPONSE_PORTION",
+      "CANNED_RESPONSE_HYGIENE",
+      "CANNED_RESPONSE_PACKAGING",
+      "CANNED_RESPONSE_VALUE",
+      "gofood.co.id"
+    ],
+    "content_reviews": "Thank u Richeese.. pelayanannya bagus banget keren!",
+    "date_of_experience": ""
+  }
+}

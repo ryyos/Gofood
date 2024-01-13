@@ -1,0 +1,61 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/kfc-kemang-pratama-ef8c2c3e-61d6-4bd4-b9fa-10cfd6358dcf",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Cepat saji",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:19:21.062803",
+  "crawling_time_epoch": 1705155561,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/KFC_Kemang_Pratama/json/e43b59b1-fec3-4567-a42e-4ccb21f6f12f.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/KFC_Kemang_Pratama/json/e43b59b1-fec3-4567-a42e-4ccb21f6f12f.json",
+  "reviews_name": "KFC, Kemang Pratama",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.53
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "ef8c2c3e-61d6-4bd4-b9fa-10cfd6358dcf",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.8,
+      "total": 24067
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 2021,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 1696,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 1631,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "e43b59b1-fec3-4567-a42e-4ccb21f6f12f",
+    "username_reviews": "L***",
+    "initialName": "L",
+    "image_reviews": null,
+    "created_time": "2019-06-11T13:33:51.986755+07:00",
+    "created_time_epoch": 1560260031,
+    "reviews_rating": 1,
+    "orders": {
+      "orderedAt": "2019-06-11T05:38:32.365388Z",
+      "items": []
+    },
+    "tags_review": [
+      "",
+      "gofood.co.id"
+    ],
+    "content_reviews": "PESANAN TIDAK SESUAI. PESAN SIGNATURE BOX, YANG DATANG NASI + 2AYAM. PADAHAL STRUKNYA SESUAI.",
+    "date_of_experience": ""
+  }
+}

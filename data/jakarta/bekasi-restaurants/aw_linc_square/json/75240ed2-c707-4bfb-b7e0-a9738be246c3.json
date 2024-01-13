@@ -1,0 +1,71 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/a-w-linc-square-d4fe7a94-86cd-4883-b279-07bdd7002ad9",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Cepat saji",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:20:11.107220",
+  "crawling_time_epoch": 1705155611,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/AW_Linc_Square/json/75240ed2-c707-4bfb-b7e0-a9738be246c3.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/AW_Linc_Square/json/75240ed2-c707-4bfb-b7e0-a9738be246c3.json",
+  "reviews_name": "A&W, Linc Square",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.94
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "d4fe7a94-86cd-4883-b279-07bdd7002ad9",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.8,
+      "total": 7181
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 499,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 403,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 365,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "75240ed2-c707-4bfb-b7e0-a9738be246c3",
+    "username_reviews": "M************",
+    "initialName": "M",
+    "image_reviews": null,
+    "created_time": "2021-08-11T13:31:27.025294+07:00",
+    "created_time_epoch": 1628688687,
+    "reviews_rating": 5,
+    "orders": {
+      "orderedAt": "2021-06-28T08:35:39.7515Z",
+      "items": [
+        {
+          "id": "5d7dea3f-e283-4631-8329-fe731848e961",
+          "name": "Spicy Aroma Chicken"
+        },
+        {
+          "id": "8f1dd50b-13c0-4490-9cc6-390f82008629",
+          "name": "Curly Fries"
+        }
+      ]
+    },
+    "tags_review": [
+      "CANNED_RESPONSE_TASTE",
+      "CANNED_RESPONSE_PORTION",
+      "gofood.co.id"
+    ],
+    "content_reviews": "Ayam nya A&W ini memang paling enak, apalagi spicy aroma chicken nya, rada pedas nya ga gigit tapi enak bangt salty spicy gitu, kayak rasa bumbu Masala ala india gitu. Paling enak pake curly fries nya yang ga bikin seret dan renyah banget. Rootbeer juga salah satu kenapa set ini enak banget.",
+    "date_of_experience": ""
+  }
+}

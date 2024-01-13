@@ -1,0 +1,71 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/mcdonald-s-pekayon-50150204-8f6d-4372-8458-668f1be126e8",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Cepat saji",
+    "Sweets",
+    "Jajanan",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:17:21.424093",
+  "crawling_time_epoch": 1705155441,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/McDonalds_Pekayon/json/a561078f-f4e3-43de-a0e9-ed30ee7f748f.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/McDonalds_Pekayon/json/a561078f-f4e3-43de-a0e9-ed30ee7f748f.json",
+  "reviews_name": "McDonald's, Pekayon",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.46
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "50150204-8f6d-4372-8458-668f1be126e8",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.8,
+      "total": 70397
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 4555,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 3695,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 3669,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "a561078f-f4e3-43de-a0e9-ed30ee7f748f",
+    "username_reviews": "ruth marsitta",
+    "initialName": "RM",
+    "image_reviews": null,
+    "created_time": "2023-04-21T08:43:22.428842+07:00",
+    "created_time_epoch": 1682066602,
+    "reviews_rating": 4,
+    "orders": {
+      "orderedAt": "2023-04-21T00:17:19.544278Z",
+      "items": [
+        {
+          "id": "a6b0eb08-17da-48aa-ae2c-85882e299049",
+          "name": "McD Chicken Porridge"
+        },
+        {
+          "id": "debe1310-0dfe-4523-ba3d-5e4c9b3b5502",
+          "name": "PaMer 5 Krispy"
+        }
+      ]
+    },
+    "tags_review": [
+      "gofood.co.id"
+    ],
+    "content_reviews": "sepertinya tidak baca notes. ",
+    "date_of_experience": ""
+  }
+}

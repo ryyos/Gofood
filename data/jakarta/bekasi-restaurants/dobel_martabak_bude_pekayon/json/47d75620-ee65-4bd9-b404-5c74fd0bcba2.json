@@ -1,0 +1,67 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/dobel-martabak-bude-pekayon-c516bbfe-5583-4fbc-9605-9cd02cd220b0",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Martabak",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:18:42.021929",
+  "crawling_time_epoch": 1705155522,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Dobel_Martabak_Bude_Pekayon/json/47d75620-ee65-4bd9-b404-5c74fd0bcba2.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Dobel_Martabak_Bude_Pekayon/json/47d75620-ee65-4bd9-b404-5c74fd0bcba2.json",
+  "reviews_name": "Dobel Martabak Bude, Pekayon",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.46
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "c516bbfe-5583-4fbc-9605-9cd02cd220b0",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.6,
+      "total": 2907
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 366,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 264,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 253,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "47d75620-ee65-4bd9-b404-5c74fd0bcba2",
+    "username_reviews": "sofyan hadi",
+    "initialName": "SH",
+    "image_reviews": null,
+    "created_time": "2022-04-01T20:46:44.498816+07:00",
+    "created_time_epoch": 1648846004,
+    "reviews_rating": 5,
+    "orders": {
+      "orderedAt": "2022-04-01T12:28:14.865254Z",
+      "items": [
+        {
+          "id": "20217df9-4dea-44ce-a1fe-4825e637364d",
+          "name": "Keju (Dobel) + Susu"
+        }
+      ]
+    },
+    "tags_review": [
+      "CANNED_RESPONSE_HYGIENE",
+      "CANNED_RESPONSE_TASTE",
+      "gofood.co.id"
+    ],
+    "content_reviews": "mantul deh bikin nagih terus.. ",
+    "date_of_experience": ""
+  }
+}

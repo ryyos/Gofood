@@ -1,0 +1,72 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/mcdonald-s-pekayon-50150204-8f6d-4372-8458-668f1be126e8",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Cepat saji",
+    "Sweets",
+    "Jajanan",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:17:21.424093",
+  "crawling_time_epoch": 1705155441,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/McDonalds_Pekayon/json/a99746a9-4ad6-4e04-9aee-942232ee2e38.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/McDonalds_Pekayon/json/a99746a9-4ad6-4e04-9aee-942232ee2e38.json",
+  "reviews_name": "McDonald's, Pekayon",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.46
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "50150204-8f6d-4372-8458-668f1be126e8",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.8,
+      "total": 70397
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 4555,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 3695,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 3669,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "a99746a9-4ad6-4e04-9aee-942232ee2e38",
+    "username_reviews": "N*****",
+    "initialName": "N",
+    "image_reviews": null,
+    "created_time": "2021-01-21T15:34:27.285+07:00",
+    "created_time_epoch": 1611243267,
+    "reviews_rating": 2,
+    "orders": {
+      "orderedAt": "2021-01-21T07:55:53.469151Z",
+      "items": [
+        {
+          "id": "8d387ed7-fe8b-422f-a0df-fb23d713c137",
+          "name": "2 pcs Spicy Chicken McD"
+        },
+        {
+          "id": "f255ed63-b63c-4fa2-8341-7a898839ea2b",
+          "name": "1pc Spicy Chicken"
+        }
+      ]
+    },
+    "tags_review": [
+      "",
+      "gofood.co.id"
+    ],
+    "content_reviews": "pesan paha atas dikasih sayap",
+    "date_of_experience": ""
+  }
+}

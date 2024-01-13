@@ -1,0 +1,69 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/sate-madura-cak-ari-bekasi-selatan-65c0efa7-65ff-4868-95e5-a4ec690c6c14",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Sate",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:19:50.904999",
+  "crawling_time_epoch": 1705155590,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Sate_Madura_Cak_Ari_Bekasi_Selatan/json/7adf453a-2e23-418b-9140-fc4ae165d5e3.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Sate_Madura_Cak_Ari_Bekasi_Selatan/json/7adf453a-2e23-418b-9140-fc4ae165d5e3.json",
+  "reviews_name": "Sate Madura Cak Ari, Bekasi Selatan",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.69
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "65c0efa7-65ff-4868-95e5-a4ec690c6c14",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.7,
+      "total": 6478
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 827,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 589,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 535,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "7adf453a-2e23-418b-9140-fc4ae165d5e3",
+    "username_reviews": "I****",
+    "initialName": "I",
+    "image_reviews": null,
+    "created_time": "2021-08-07T22:37:55.023449+07:00",
+    "created_time_epoch": 1628375875,
+    "reviews_rating": 5,
+    "orders": {
+      "orderedAt": "2021-08-07T15:03:39.980783Z",
+      "items": [
+        {
+          "id": "c8e769f1-87d7-415f-9c12-2f62dde5e8f9",
+          "name": "Sate Kambiing"
+        }
+      ]
+    },
+    "tags_review": [
+      "CANNED_RESPONSE_FRESHNESS",
+      "CANNED_RESPONSE_TASTE",
+      "CANNED_RESPONSE_PORTION",
+      "CANNED_RESPONSE_PACKAGING",
+      "gofood.co.id"
+    ],
+    "content_reviews": "mantap daging nya gede gede",
+    "date_of_experience": ""
+  }
+}

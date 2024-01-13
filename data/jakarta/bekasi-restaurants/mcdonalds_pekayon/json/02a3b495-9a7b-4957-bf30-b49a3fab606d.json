@@ -1,0 +1,92 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/mcdonald-s-pekayon-50150204-8f6d-4372-8458-668f1be126e8",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Cepat saji",
+    "Sweets",
+    "Jajanan",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:17:21.424093",
+  "crawling_time_epoch": 1705155441,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/McDonalds_Pekayon/json/02a3b495-9a7b-4957-bf30-b49a3fab606d.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/McDonalds_Pekayon/json/02a3b495-9a7b-4957-bf30-b49a3fab606d.json",
+  "reviews_name": "McDonald's, Pekayon",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.46
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "50150204-8f6d-4372-8458-668f1be126e8",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.8,
+      "total": 70397
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 4555,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 3695,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 3669,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "02a3b495-9a7b-4957-bf30-b49a3fab606d",
+    "username_reviews": "L**** D*****",
+    "initialName": "LD",
+    "image_reviews": null,
+    "created_time": "2022-01-31T21:36:09.391871+07:00",
+    "created_time_epoch": 1643664969,
+    "reviews_rating": 1,
+    "orders": {
+      "orderedAt": "2022-01-31T13:07:02.985053Z",
+      "items": [
+        {
+          "id": "d3037be5-d39f-4d6b-a8bc-e348551b2040",
+          "name": "Paket Hemat McNuggets 6 pcs, Medium"
+        },
+        {
+          "id": "9b30d483-cffe-4e49-9d39-1f44ed35c0ed",
+          "name": "McNuggets  9pcs"
+        },
+        {
+          "id": "b6593629-08b4-4179-b13c-21b452519d46",
+          "name": "PaNas Special Krispy, Large"
+        },
+        {
+          "id": "4c106b3b-c88b-426d-aac1-bc906404d0fa",
+          "name": "McFlurry Feat. Oreo"
+        },
+        {
+          "id": "20f1ed18-0364-4bec-8826-17af4044b9cc",
+          "name": "Big Mac"
+        },
+        {
+          "id": "c9d9670e-56c9-41d3-95da-91288f8a39b3",
+          "name": "Beef Burger Deluxe"
+        },
+        {
+          "id": "0339fdb0-7102-4f13-8bc4-9e73ed731bf2",
+          "name": "Mini Cuts Spicy Chicken, ALC 4pcs"
+        }
+      ]
+    },
+    "tags_review": [
+      "CANNED_RESPONSE_ORDER",
+      "gofood.co.id"
+    ],
+    "content_reviews": "Pesanannya bermasalah, burger kurang satu dan pesan ayam krispy dapatnya spicy",
+    "date_of_experience": ""
+  }
+}

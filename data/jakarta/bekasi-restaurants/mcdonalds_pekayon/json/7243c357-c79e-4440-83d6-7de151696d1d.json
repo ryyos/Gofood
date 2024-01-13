@@ -1,0 +1,79 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/mcdonald-s-pekayon-50150204-8f6d-4372-8458-668f1be126e8",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Cepat saji",
+    "Sweets",
+    "Jajanan",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:17:21.424093",
+  "crawling_time_epoch": 1705155441,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/McDonalds_Pekayon/json/7243c357-c79e-4440-83d6-7de151696d1d.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/McDonalds_Pekayon/json/7243c357-c79e-4440-83d6-7de151696d1d.json",
+  "reviews_name": "McDonald's, Pekayon",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.46
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "50150204-8f6d-4372-8458-668f1be126e8",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.8,
+      "total": 70397
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 4555,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 3695,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 3669,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "7243c357-c79e-4440-83d6-7de151696d1d",
+    "username_reviews": "Rahmi Iftianti Hakim",
+    "initialName": "RH",
+    "image_reviews": null,
+    "created_time": "2022-01-09T15:07:23.014513+07:00",
+    "created_time_epoch": 1641740843,
+    "reviews_rating": 1,
+    "orders": {
+      "orderedAt": "2022-01-09T07:30:35.603254Z",
+      "items": [
+        {
+          "id": "0e7a41d1-a317-4169-8028-59c04cb106f6",
+          "name": "Cheese Steak Burger Medium, French Fries"
+        },
+        {
+          "id": "09ca51af-7183-436e-ad4a-024843ec771b",
+          "name": "Cheese Steak Burger"
+        },
+        {
+          "id": "337aae60-a72d-4aea-9184-f3e746683eff",
+          "name": "McFlurry Choco"
+        },
+        {
+          "id": "a9d4cc11-9927-4a88-9e88-a215471c3994",
+          "name": "Apple Pie"
+        }
+      ]
+    },
+    "tags_review": [
+      "gofood.co.id"
+    ],
+    "content_reviews": "TIDAK SESUAI INTRUKSI SUDAH TAMBAH OREO TAPI MALAH GA PAKAI OREO",
+    "date_of_experience": ""
+  }
+}

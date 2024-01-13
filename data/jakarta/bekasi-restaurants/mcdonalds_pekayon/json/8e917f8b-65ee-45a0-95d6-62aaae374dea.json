@@ -1,0 +1,67 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/mcdonald-s-pekayon-50150204-8f6d-4372-8458-668f1be126e8",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Cepat saji",
+    "Sweets",
+    "Jajanan",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:17:21.424093",
+  "crawling_time_epoch": 1705155441,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/McDonalds_Pekayon/json/8e917f8b-65ee-45a0-95d6-62aaae374dea.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/McDonalds_Pekayon/json/8e917f8b-65ee-45a0-95d6-62aaae374dea.json",
+  "reviews_name": "McDonald's, Pekayon",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.46
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "50150204-8f6d-4372-8458-668f1be126e8",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.8,
+      "total": 70397
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 4555,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 3695,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 3669,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "8e917f8b-65ee-45a0-95d6-62aaae374dea",
+    "username_reviews": "C****",
+    "initialName": "C",
+    "image_reviews": null,
+    "created_time": "2021-10-23T12:23:39.890834+07:00",
+    "created_time_epoch": 1634991819,
+    "reviews_rating": 5,
+    "orders": {
+      "orderedAt": "2021-10-23T01:40:39.478203Z",
+      "items": [
+        {
+          "id": "da1f0563-6fd6-4c68-9b81-6136696863ac",
+          "name": "Big Breakfast Combo"
+        }
+      ]
+    },
+    "tags_review": [
+      "gofood.co.id"
+    ],
+    "content_reviews": "untuk minuman seperti kopi dapat diplastikan agar tidak tumpah. tks",
+    "date_of_experience": ""
+  }
+}

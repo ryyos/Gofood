@@ -1,0 +1,68 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/mcdonald-s-pekayon-50150204-8f6d-4372-8458-668f1be126e8",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Cepat saji",
+    "Sweets",
+    "Jajanan",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:17:21.424093",
+  "crawling_time_epoch": 1705155441,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/McDonalds_Pekayon/json/6383e8d3-2fa6-4e8f-a29d-9b5ec41b65bf.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/McDonalds_Pekayon/json/6383e8d3-2fa6-4e8f-a29d-9b5ec41b65bf.json",
+  "reviews_name": "McDonald's, Pekayon",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.46
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "50150204-8f6d-4372-8458-668f1be126e8",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.8,
+      "total": 70397
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 4555,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 3695,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 3669,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "6383e8d3-2fa6-4e8f-a29d-9b5ec41b65bf",
+    "username_reviews": "A***",
+    "initialName": "A",
+    "image_reviews": null,
+    "created_time": "2019-12-28T20:20:26.522+07:00",
+    "created_time_epoch": 1577564426,
+    "reviews_rating": 4,
+    "orders": {
+      "orderedAt": "2019-12-28T12:31:29.587999Z",
+      "items": [
+        {
+          "id": "eaa502f4-4e41-4708-bb0a-fce287f0e054",
+          "name": "PaNas Spesial Spicy Medium"
+        }
+      ]
+    },
+    "tags_review": [
+      "CANNED_RESPONSE_TASTE",
+      "gofood.co.id"
+    ],
+    "content_reviews": "Kepedesan, Rasa Pedesnya Harusnya Menyatu Seperti air YIN dan YANG yang tidak terpisahkan",
+    "date_of_experience": ""
+  }
+}

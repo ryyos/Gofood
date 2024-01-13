@@ -1,0 +1,70 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/martabak-legit-group-pulo-ribung-e7bc6ee0-6632-451a-b5cf-adb7af7c3da9",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Jajanan",
+    "Martabak",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:20:03.652928",
+  "crawling_time_epoch": 1705155603,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Martabak_Legit_Group_Pulo_Ribung/json/383727f2-f6a8-4ae5-aaab-c734c1d400cc.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Martabak_Legit_Group_Pulo_Ribung/json/383727f2-f6a8-4ae5-aaab-c734c1d400cc.json",
+  "reviews_name": "Martabak Legit Group, Pulo Ribung",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.71
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "e7bc6ee0-6632-451a-b5cf-adb7af7c3da9",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.5,
+      "total": 1731
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 174,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 137,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 126,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "383727f2-f6a8-4ae5-aaab-c734c1d400cc",
+    "username_reviews": "Y***",
+    "initialName": "Y",
+    "image_reviews": null,
+    "created_time": "2022-01-18T17:59:28.354922+07:00",
+    "created_time_epoch": 1642528768,
+    "reviews_rating": 4,
+    "orders": {
+      "orderedAt": "2022-01-18T10:32:51.560559Z",
+      "items": [
+        {
+          "id": "ee657b9b-1b28-462a-bd38-f8d87ecaf92e",
+          "name": "Martabak Asin Telor Bebek Daging Sapi"
+        },
+        {
+          "id": "76a9090e-5f56-41ba-ac4a-9f7a923baf35",
+          "name": "Martabak Manis Original OREO COKELAT"
+        }
+      ]
+    },
+    "tags_review": [
+      "gofood.co.id"
+    ],
+    "content_reviews": "Martabak manisnya oke, tapi martabak telor 3 nya tipis amat dah dagingnya jg seadanya gitu",
+    "date_of_experience": ""
+  }
+}

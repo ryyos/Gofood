@@ -1,0 +1,66 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/bubur-ayam-kampung-nyemplung-pekayon-decd86af-75d6-466d-9d74-c66a45850297",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Aneka nasi",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:20:19.392522",
+  "crawling_time_epoch": 1705155619,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Bubur_Ayam_Kampung_Nyemplung_Pekayon/json/4dab53af-e33c-4ca6-b7fd-53008ddeb8cf.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Bubur_Ayam_Kampung_Nyemplung_Pekayon/json/4dab53af-e33c-4ca6-b7fd-53008ddeb8cf.json",
+  "reviews_name": "Bubur Ayam Kampung Nyemplung, Pekayon",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.96
+  },
+  "range_prices": "<16k",
+  "restaurant_id": "decd86af-75d6-466d-9d74-c66a45850297",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.7,
+      "total": 2066
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 191,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 138,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 137,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "4dab53af-e33c-4ca6-b7fd-53008ddeb8cf",
+    "username_reviews": "S***** Y****",
+    "initialName": "SY",
+    "image_reviews": null,
+    "created_time": "2020-01-24T11:18:45.191+07:00",
+    "created_time_epoch": 1579864725,
+    "reviews_rating": 5,
+    "orders": {
+      "orderedAt": "2020-01-24T03:17:14.105993Z",
+      "items": [
+        {
+          "id": "d73bb2d8-ad5e-4f7d-a62a-230457d4b5b8",
+          "name": "Bubur Ayam Kampung 1/2 Porsi"
+        }
+      ]
+    },
+    "tags_review": [
+      "",
+      "gofood.co.id"
+    ],
+    "content_reviews": "enaaakk tp porsi nya kecil gaes.. buat yg makannya dikit aja menurut sy porsi nya kecil bingit",
+    "date_of_experience": ""
+  }
+}

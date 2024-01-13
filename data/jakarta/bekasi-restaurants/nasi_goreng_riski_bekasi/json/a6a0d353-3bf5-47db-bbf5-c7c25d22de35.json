@@ -1,0 +1,62 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/nasi-goreng-riski-bekasi-9196fe69-72e5-4826-b4fe-bf6bfbafabe4",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Aneka nasi",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:19:03.233848",
+  "crawling_time_epoch": 1705155543,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Nasi_Goreng_Riski_Bekasi/json/a6a0d353-3bf5-47db-bbf5-c7c25d22de35.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Nasi_Goreng_Riski_Bekasi/json/a6a0d353-3bf5-47db-bbf5-c7c25d22de35.json",
+  "reviews_name": "Nasi Goreng Riski, Bekasi",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.48
+  },
+  "range_prices": "16k-40k",
+  "restaurant_id": "9196fe69-72e5-4826-b4fe-bf6bfbafabe4",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.7,
+      "total": 1717
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 306,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 295,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 240,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "a6a0d353-3bf5-47db-bbf5-c7c25d22de35",
+    "username_reviews": "A*******",
+    "initialName": "A",
+    "image_reviews": null,
+    "created_time": "2019-08-01T01:44:41.411943+07:00",
+    "created_time_epoch": 1564623881,
+    "reviews_rating": 5,
+    "orders": {
+      "orderedAt": "2019-07-31T17:49:07.106789Z",
+      "items": []
+    },
+    "tags_review": [
+      "CANNED_RESPONSE_PORTION",
+      "CANNED_RESPONSE_VALUE",
+      "gofood.co.id"
+    ],
+    "content_reviews": "mantul nasgor kambingnya",
+    "date_of_experience": ""
+  }
+}

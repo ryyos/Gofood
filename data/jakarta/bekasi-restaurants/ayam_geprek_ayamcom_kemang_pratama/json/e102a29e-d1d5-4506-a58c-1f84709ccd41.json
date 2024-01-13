@@ -1,0 +1,67 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/ayam-geprek-ayam-com-kemang-pratama-acb48dbc-474f-44f8-a2c9-9310a1dc6f56",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Ayam & bebek",
+    "Aneka nasi",
+    "Cepat saji",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:19:06.874520",
+  "crawling_time_epoch": 1705155546,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Ayam_Geprek_Ayamcom_Kemang_Pratama/json/e102a29e-d1d5-4506-a58c-1f84709ccd41.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Ayam_Geprek_Ayamcom_Kemang_Pratama/json/e102a29e-d1d5-4506-a58c-1f84709ccd41.json",
+  "reviews_name": "Ayam Geprek Ayam.com, Kemang Pratama",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.49
+  },
+  "range_prices": "16k-40k",
+  "restaurant_id": "acb48dbc-474f-44f8-a2c9-9310a1dc6f56",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.8,
+      "total": 2048
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 292,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 238,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 224,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "e102a29e-d1d5-4506-a58c-1f84709ccd41",
+    "username_reviews": "D** C******",
+    "initialName": "DC",
+    "image_reviews": null,
+    "created_time": "2022-07-07T14:29:04.032738+07:00",
+    "created_time_epoch": 1657204144,
+    "reviews_rating": 3,
+    "orders": {
+      "orderedAt": "2022-07-07T06:38:13.939979Z",
+      "items": [
+        {
+          "id": "0ee01115-306c-4909-9a3a-969dacc9c0ce",
+          "name": "Nasi + Ayam Geprek Jumbo"
+        }
+      ]
+    },
+    "tags_review": [
+      "gofood.co.id"
+    ],
+    "content_reviews": "pesan 2 porsi ( Nasi + Ayam geprek ) tapi dua duanya nasinya GAK ADA.\ntolong lebih teliti ya,saya sdh langganan karna rasa nya enak. F-1760719555",
+    "date_of_experience": ""
+  }
+}

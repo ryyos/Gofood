@@ -1,0 +1,75 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/domino-s-pizza-kemang-pratama-00fb7fae-fbe1-4b63-ad17-dc7094c64f9c",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Pizza & pasta",
+    "Cepat saji",
+    "Jajanan",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:18:48.067806",
+  "crawling_time_epoch": 1705155528,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Dominos_Pizza_Kemang_Pratama/json/84b9a174-e6b0-4744-98dd-8b21d0d10b00.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Dominos_Pizza_Kemang_Pratama/json/84b9a174-e6b0-4744-98dd-8b21d0d10b00.json",
+  "reviews_name": "Domino's Pizza, Kemang Pratama",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.47
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "00fb7fae-fbe1-4b63-ad17-dc7094c64f9c",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.7,
+      "total": 11582
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 1426,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 1210,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 1158,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "84b9a174-e6b0-4744-98dd-8b21d0d10b00",
+    "username_reviews": "H Jack",
+    "initialName": "HJ",
+    "image_reviews": null,
+    "created_time": "2022-08-08T19:59:56.87561+07:00",
+    "created_time_epoch": 1659988796,
+    "reviews_rating": 4,
+    "orders": {
+      "orderedAt": "2022-08-08T12:21:22.126271Z",
+      "items": [
+        {
+          "id": "39be8406-4dbd-43a1-acbd-e24225f30dd3",
+          "name": "Beef Rasher"
+        },
+        {
+          "id": "219c952b-5152-415c-bee1-a1c47c116202",
+          "name": "Chicken Sausage"
+        },
+        {
+          "id": "f024d1d1-6c38-44d3-af85-02870f10af79",
+          "name": "1 Pizza Mania + 1 Breadsticks"
+        }
+      ]
+    },
+    "tags_review": [
+      "gofood.co.id"
+    ],
+    "content_reviews": "pesanannya TDK melihat catatan yg diminta, mhn lebih teliti lagi. sy minta TDK pakai sauce di pizzanya, malah tetap dipakai saucenya, anak sy jd TDK makan nih ",
+    "date_of_experience": ""
+  }
+}

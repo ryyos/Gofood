@@ -1,0 +1,75 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/sate-madura-cak-ari-bekasi-selatan-65c0efa7-65ff-4868-95e5-a4ec690c6c14",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Sate",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:19:50.904999",
+  "crawling_time_epoch": 1705155590,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Sate_Madura_Cak_Ari_Bekasi_Selatan/json/c960eefe-91c6-4a39-87b1-a7570d076d7e.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Sate_Madura_Cak_Ari_Bekasi_Selatan/json/c960eefe-91c6-4a39-87b1-a7570d076d7e.json",
+  "reviews_name": "Sate Madura Cak Ari, Bekasi Selatan",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.69
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "65c0efa7-65ff-4868-95e5-a4ec690c6c14",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.7,
+      "total": 6478
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 827,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 589,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 535,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "c960eefe-91c6-4a39-87b1-a7570d076d7e",
+    "username_reviews": "S*****",
+    "initialName": "S",
+    "image_reviews": null,
+    "created_time": "2020-09-02T17:04:23.35+07:00",
+    "created_time_epoch": 1599066263,
+    "reviews_rating": 5,
+    "orders": {
+      "orderedAt": "2020-09-01T11:10:14.111085Z",
+      "items": [
+        {
+          "id": "7883144e-0724-4464-9f4c-1ac8f16c6e27",
+          "name": "1 Porsi Sate Ayam + Gratis Milo/Nescafe"
+        },
+        {
+          "id": "7f536579-f0ee-4463-a40d-182584f6ffc8",
+          "name": "1 Porsi Sate Kambing + Gratis Milo/Nescafe Free"
+        }
+      ]
+    },
+    "tags_review": [
+      "CANNED_RESPONSE_FRESHNESS",
+      "CANNED_RESPONSE_TASTE",
+      "CANNED_RESPONSE_PORTION",
+      "CANNED_RESPONSE_HYGIENE",
+      "CANNED_RESPONSE_PACKAGING",
+      "CANNED_RESPONSE_VALUE",
+      "gofood.co.id"
+    ],
+    "content_reviews": "sate kambing  kurang bumbu kecapnya utk 10 tusuk. lain kali tambahin yaa.",
+    "date_of_experience": ""
+  }
+}

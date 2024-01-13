@@ -1,0 +1,75 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/richeese-factory-pekayon-fb7c3452-2cba-464a-9e24-23840a40a179",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Cepat saji",
+    "Ayam & bebek",
+    "Aneka nasi",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:20:23.240256",
+  "crawling_time_epoch": 1705155623,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Richeese_Factory_Pekayon/json/103c6ed9-6bf1-438f-82da-33af805afd89.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Richeese_Factory_Pekayon/json/103c6ed9-6bf1-438f-82da-33af805afd89.json",
+  "reviews_name": "Richeese Factory, Pekayon",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.97
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "fb7c3452-2cba-464a-9e24-23840a40a179",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.7,
+      "total": 32095
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 2029,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 1477,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 1469,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "103c6ed9-6bf1-438f-82da-33af805afd89",
+    "username_reviews": "F**** H********",
+    "initialName": "FH",
+    "image_reviews": null,
+    "created_time": "2022-08-27T21:01:13.442154+07:00",
+    "created_time_epoch": 1661634073,
+    "reviews_rating": 4,
+    "orders": {
+      "orderedAt": "2022-08-27T12:39:06.165897Z",
+      "items": [
+        {
+          "id": "67bf8e07-cbb1-4479-83c5-659a07c79684",
+          "name": "Richeese Mi Instan"
+        },
+        {
+          "id": "37b21d0a-18d7-437e-bb8e-4394fc94f666",
+          "name": "Buy 1 Get 1 Mythical Glory Drink"
+        },
+        {
+          "id": "4141083f-15b3-4173-9e5d-3f4b56647c5b",
+          "name": "Fire Chicken 1 Pcs"
+        }
+      ]
+    },
+    "tags_review": [
+      "gofood.co.id"
+    ],
+    "content_reviews": "Pesanan ga sesuai request, padahal tulisannya buy 1 get 1 free tp yg dtng malah satu.",
+    "date_of_experience": ""
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/mcdonald-s-pekayon-50150204-8f6d-4372-8458-668f1be126e8",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Cepat saji",
+    "Sweets",
+    "Jajanan",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:17:21.424093",
+  "crawling_time_epoch": 1705155441,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/McDonalds_Pekayon/json/ce795446-55cc-4bad-b6b6-32bedb46702b.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/McDonalds_Pekayon/json/ce795446-55cc-4bad-b6b6-32bedb46702b.json",
+  "reviews_name": "McDonald's, Pekayon",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.46
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "50150204-8f6d-4372-8458-668f1be126e8",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.8,
+      "total": 70397
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 4555,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 3695,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 3669,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "ce795446-55cc-4bad-b6b6-32bedb46702b",
+    "username_reviews": "K*****",
+    "initialName": "K",
+    "image_reviews": null,
+    "created_time": "2020-02-11T17:15:20.315+07:00",
+    "created_time_epoch": 1581441320,
+    "reviews_rating": 4,
+    "orders": {
+      "orderedAt": "2020-02-11T09:34:01.048039Z",
+      "items": [
+        {
+          "id": "6310649e-6237-4248-b351-2e82b43a8a65",
+          "name": "Chicken Snack Wrap"
+        },
+        {
+          "id": "535ff0a6-5ecf-4299-bb9a-f8f8985b9c24",
+          "name": "Breakfast Wrap"
+        },
+        {
+          "id": "4c106b3b-c88b-426d-aac1-bc906404d0fa",
+          "name": "McFlurry Feat. Oreo"
+        }
+      ]
+    },
+    "tags_review": [
+      "CANNED_RESPONSE_PORTION",
+      "CANNED_RESPONSE_HYGIENE",
+      "CANNED_RESPONSE_VALUE",
+      "gofood.co.id"
+    ],
+    "content_reviews": "No Tissue Papers.",
+    "date_of_experience": ""
+  }
+}

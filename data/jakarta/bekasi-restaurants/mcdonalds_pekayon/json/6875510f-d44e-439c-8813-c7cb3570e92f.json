@@ -1,0 +1,75 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/mcdonald-s-pekayon-50150204-8f6d-4372-8458-668f1be126e8",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Cepat saji",
+    "Sweets",
+    "Jajanan",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:17:21.424093",
+  "crawling_time_epoch": 1705155441,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/McDonalds_Pekayon/json/6875510f-d44e-439c-8813-c7cb3570e92f.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/McDonalds_Pekayon/json/6875510f-d44e-439c-8813-c7cb3570e92f.json",
+  "reviews_name": "McDonald's, Pekayon",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.46
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "50150204-8f6d-4372-8458-668f1be126e8",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.8,
+      "total": 70397
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 4555,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 3695,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 3669,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "6875510f-d44e-439c-8813-c7cb3570e92f",
+    "username_reviews": "A*** R*****",
+    "initialName": "AR",
+    "image_reviews": null,
+    "created_time": "2020-12-09T14:51:27.685+07:00",
+    "created_time_epoch": 1607525487,
+    "reviews_rating": 1,
+    "orders": {
+      "orderedAt": "2020-12-08T09:48:31.763Z",
+      "items": [
+        {
+          "id": "428a2a60-1f67-431a-8c4b-7d04ffaf5dbd",
+          "name": "Rica Rica Fish Rice McD"
+        },
+        {
+          "id": "f255ed63-b63c-4fa2-8341-7a898839ea2b",
+          "name": "1pc Spicy Chicken"
+        }
+      ]
+    },
+    "tags_review": [
+      "CANNED_RESPONSE_FRESHNESS",
+      "CANNED_RESPONSE_TASTE",
+      "CANNED_RESPONSE_PACKAGING",
+      "CANNED_RESPONSE_VALUE",
+      "gofood.co.id"
+    ],
+    "content_reviews": "rasa ga sama kaya mcd yg laen aga kurang fresh",
+    "date_of_experience": ""
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/mcdonald-s-pekayon-50150204-8f6d-4372-8458-668f1be126e8",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Cepat saji",
+    "Sweets",
+    "Jajanan",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:17:21.424093",
+  "crawling_time_epoch": 1705155441,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/McDonalds_Pekayon/json/92d06a4b-2959-4669-a8bc-2324ac7590e0.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/McDonalds_Pekayon/json/92d06a4b-2959-4669-a8bc-2324ac7590e0.json",
+  "reviews_name": "McDonald's, Pekayon",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.46
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "50150204-8f6d-4372-8458-668f1be126e8",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.8,
+      "total": 70397
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 4555,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 3695,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 3669,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "92d06a4b-2959-4669-a8bc-2324ac7590e0",
+    "username_reviews": "R*****",
+    "initialName": "R",
+    "image_reviews": null,
+    "created_time": "2023-01-04T20:55:40.886+07:00",
+    "created_time_epoch": 1672865740,
+    "reviews_rating": 1,
+    "orders": {
+      "orderedAt": "2023-01-02T16:52:33.754507Z",
+      "items": [
+        {
+          "id": "09193c5f-e442-46f2-a2b5-dc3902a30df0",
+          "name": "Paket Beef Prosperity Burger with French Fries, Large"
+        },
+        {
+          "id": "3f66bc91-ce32-4780-a73c-113462a0050c",
+          "name": "2 pcs Krispy Chicken McD"
+        }
+      ]
+    },
+    "tags_review": [
+      "CANNED_RESPONSE_PACKAGING",
+      "CANNED_RESPONSE_VALUE",
+      "gofood.co.id"
+    ],
+    "content_reviews": "Bocor terus minuman nya!!!",
+    "date_of_experience": ""
+  }
+}

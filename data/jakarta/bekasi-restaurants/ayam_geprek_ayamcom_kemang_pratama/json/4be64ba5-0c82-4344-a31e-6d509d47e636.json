@@ -1,0 +1,67 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/ayam-geprek-ayam-com-kemang-pratama-acb48dbc-474f-44f8-a2c9-9310a1dc6f56",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Ayam & bebek",
+    "Aneka nasi",
+    "Cepat saji",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:19:06.874520",
+  "crawling_time_epoch": 1705155546,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Ayam_Geprek_Ayamcom_Kemang_Pratama/json/4be64ba5-0c82-4344-a31e-6d509d47e636.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Ayam_Geprek_Ayamcom_Kemang_Pratama/json/4be64ba5-0c82-4344-a31e-6d509d47e636.json",
+  "reviews_name": "Ayam Geprek Ayam.com, Kemang Pratama",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.49
+  },
+  "range_prices": "16k-40k",
+  "restaurant_id": "acb48dbc-474f-44f8-a2c9-9310a1dc6f56",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.8,
+      "total": 2048
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 292,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 238,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 224,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "4be64ba5-0c82-4344-a31e-6d509d47e636",
+    "username_reviews": "Farras Ayudhitya",
+    "initialName": "FA",
+    "image_reviews": null,
+    "created_time": "2023-03-02T15:59:09.267898+07:00",
+    "created_time_epoch": 1677772749,
+    "reviews_rating": 3,
+    "orders": {
+      "orderedAt": "2023-03-02T08:17:59.408071Z",
+      "items": [
+        {
+          "id": "0ee01115-306c-4909-9a3a-969dacc9c0ce",
+          "name": "Nasi + Ayam Geprek Jumbo"
+        }
+      ]
+    },
+    "tags_review": [
+      "gofood.co.id"
+    ],
+    "content_reviews": "honest review, telor dadarnya keasinan. banget. dan sambalnya asam. buat aku yang suka banget pesen ayam geprek lalu coba ini agak kaget, karena beda dari review orang orang. next time semoga resto ini bisa improve. karena ga semuanya pesan karena lapar, tapi ingin nyobain dan kasih nilai juga. overall, ini rate nya 6/10 dari aku.",
+    "date_of_experience": ""
+  }
+}

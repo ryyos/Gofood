@@ -1,0 +1,72 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/mcdonald-s-pekayon-50150204-8f6d-4372-8458-668f1be126e8",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Cepat saji",
+    "Sweets",
+    "Jajanan",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:17:21.424093",
+  "crawling_time_epoch": 1705155441,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/McDonalds_Pekayon/json/99529507-d278-41fe-8dbd-b72598d55b4b.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/McDonalds_Pekayon/json/99529507-d278-41fe-8dbd-b72598d55b4b.json",
+  "reviews_name": "McDonald's, Pekayon",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.46
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "50150204-8f6d-4372-8458-668f1be126e8",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.8,
+      "total": 70397
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 4555,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 3695,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 3669,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "99529507-d278-41fe-8dbd-b72598d55b4b",
+    "username_reviews": "M** R****",
+    "initialName": "MR",
+    "image_reviews": null,
+    "created_time": "2019-12-26T16:24:07.281+07:00",
+    "created_time_epoch": 1577377447,
+    "reviews_rating": 3,
+    "orders": {
+      "orderedAt": "2019-12-25T05:05:27.330218Z",
+      "items": [
+        {
+          "id": "39ee7e62-e5e6-4632-9674-48db54467603",
+          "name": "Cheeseburger Deluxe Meal Medium"
+        },
+        {
+          "id": "45b9d0b7-c5c6-4c34-948d-a2477b7aca2b",
+          "name": "Big Mac Meal Medium"
+        }
+      ]
+    },
+    "tags_review": [
+      "",
+      "gofood.co.id"
+    ],
+    "content_reviews": "rasanya udh beda jauh",
+    "date_of_experience": ""
+  }
+}

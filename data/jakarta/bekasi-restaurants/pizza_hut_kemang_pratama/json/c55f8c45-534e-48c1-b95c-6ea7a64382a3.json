@@ -1,0 +1,73 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/pizza-hut-kemang-pratama-619b40c5-b111-4004-a05e-2cf6526de384",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Barat",
+    "Jajanan",
+    "Ayam & bebek",
+    "Pizza & pasta",
+    "Cepat saji",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:20:55.807619",
+  "crawling_time_epoch": 1705155655,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Pizza_Hut_Kemang_Pratama/json/c55f8c45-534e-48c1-b95c-6ea7a64382a3.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Pizza_Hut_Kemang_Pratama/json/c55f8c45-534e-48c1-b95c-6ea7a64382a3.json",
+  "reviews_name": "Pizza Hut, Kemang Pratama",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.99
+  },
+  "range_prices": ">100k",
+  "restaurant_id": "619b40c5-b111-4004-a05e-2cf6526de384",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.8,
+      "total": 12460
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 997,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 804,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 735,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "c55f8c45-534e-48c1-b95c-6ea7a64382a3",
+    "username_reviews": "devy",
+    "initialName": "D",
+    "image_reviews": null,
+    "created_time": "2022-11-13T12:48:49.566735+07:00",
+    "created_time_epoch": 1668343729,
+    "reviews_rating": 3,
+    "orders": {
+      "orderedAt": "2022-11-13T05:18:12.652276Z",
+      "items": [
+        {
+          "id": "97136bad-f7a4-4884-aa62-fa1f4ebc3872",
+          "name": "My Box Plus Pasta/Rice"
+        },
+        {
+          "id": "e13f1f1c-5f59-454e-9225-46d61b27537e",
+          "name": "Garlic Bread"
+        }
+      ]
+    },
+    "tags_review": [
+      "gofood.co.id"
+    ],
+    "content_reviews": "saya pesan 2 macam, yg datang hanya 1. Tidak ada garlic bread nya. mengecewakan.",
+    "date_of_experience": ""
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/richeese-factory-pekayon-fb7c3452-2cba-464a-9e24-23840a40a179",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Cepat saji",
+    "Ayam & bebek",
+    "Aneka nasi",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:20:23.240256",
+  "crawling_time_epoch": 1705155623,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Richeese_Factory_Pekayon/json/0cb5c471-9aa9-4b5f-8922-ed9f025d7bf6.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Richeese_Factory_Pekayon/json/0cb5c471-9aa9-4b5f-8922-ed9f025d7bf6.json",
+  "reviews_name": "Richeese Factory, Pekayon",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.97
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "fb7c3452-2cba-464a-9e24-23840a40a179",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.7,
+      "total": 32095
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 2029,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 1477,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 1469,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "0cb5c471-9aa9-4b5f-8922-ed9f025d7bf6",
+    "username_reviews": "M****",
+    "initialName": "M",
+    "image_reviews": null,
+    "created_time": "2020-09-23T20:29:47.988+07:00",
+    "created_time_epoch": 1600892987,
+    "reviews_rating": 1,
+    "orders": {
+      "orderedAt": "2020-09-23T10:14:31.30858Z",
+      "items": [
+        {
+          "id": "8bb2996a-d5f2-46ee-a87b-8c50f9c043fe",
+          "name": "3 pcs Fire Chicken"
+        },
+        {
+          "id": "6add1fc2-0730-43f8-be06-be6df90118f8",
+          "name": "Combo 1 Fire Chicken"
+        }
+      ]
+    },
+    "tags_review": [
+      "CANNED_RESPONSE_TASTE",
+      "CANNED_RESPONSE_PORTION",
+      "gofood.co.id"
+    ],
+    "content_reviews": "beli ayam 3 + 1 paket terus yang dikasih saos keju nya cuma 3 sedangkan levelnya lumayan pedes dan udah notice minta extra saos keju. next jangan pelit\" ya kasih saos keju. setidaknya udah beli 4 ayam dikasih saosnya ya 4 jangan 3 juga. kepedesan gue anjir.",
+    "date_of_experience": ""
+  }
+}

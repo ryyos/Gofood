@@ -1,0 +1,78 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/mcdonald-s-pekayon-50150204-8f6d-4372-8458-668f1be126e8",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Cepat saji",
+    "Sweets",
+    "Jajanan",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:17:21.424093",
+  "crawling_time_epoch": 1705155441,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/McDonalds_Pekayon/json/38639bf6-7b45-4b42-90e7-969a781101e3.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/McDonalds_Pekayon/json/38639bf6-7b45-4b42-90e7-969a781101e3.json",
+  "reviews_name": "McDonald's, Pekayon",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.46
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "50150204-8f6d-4372-8458-668f1be126e8",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.8,
+      "total": 70397
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 4555,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 3695,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 3669,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "38639bf6-7b45-4b42-90e7-969a781101e3",
+    "username_reviews": "C*****",
+    "initialName": "C",
+    "image_reviews": null,
+    "created_time": "2023-08-31T11:19:04.478144+07:00",
+    "created_time_epoch": 1693480744,
+    "reviews_rating": 5,
+    "orders": {
+      "orderedAt": "2023-08-31T03:34:57.885734Z",
+      "items": [
+        {
+          "id": "58025ba4-a4d9-455d-8ecd-afd1ee4a08b9",
+          "name": "McFlurry Es Kopyor Kelapa"
+        },
+        {
+          "id": "18cb9215-7b6f-4063-abf9-51090de70bb2",
+          "name": "PaNas Spesial Spicy  Ayam McD Balado, Med"
+        }
+      ]
+    },
+    "tags_review": [
+      "CANNED_RESPONSE_FRESHNESS",
+      "CANNED_RESPONSE_HYGIENE",
+      "CANNED_RESPONSE_VALUE",
+      "CANNED_RESPONSE_TASTE",
+      "CANNED_RESPONSE_PORTION",
+      "CANNED_RESPONSE_CUTLERY",
+      "CANNED_RESPONSE_PACKAGING",
+      "gofood.co.id"
+    ],
+    "content_reviews": "kalau ayam yg di pilih gak ada,di telfon sama mbak mcd nya melalui gojek. mantapppp",
+    "date_of_experience": ""
+  }
+}

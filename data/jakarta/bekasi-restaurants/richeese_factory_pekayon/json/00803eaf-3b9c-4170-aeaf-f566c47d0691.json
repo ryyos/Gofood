@@ -1,0 +1,76 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/richeese-factory-pekayon-fb7c3452-2cba-464a-9e24-23840a40a179",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Cepat saji",
+    "Ayam & bebek",
+    "Aneka nasi",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:20:23.240256",
+  "crawling_time_epoch": 1705155623,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Richeese_Factory_Pekayon/json/00803eaf-3b9c-4170-aeaf-f566c47d0691.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Richeese_Factory_Pekayon/json/00803eaf-3b9c-4170-aeaf-f566c47d0691.json",
+  "reviews_name": "Richeese Factory, Pekayon",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.97
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "fb7c3452-2cba-464a-9e24-23840a40a179",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.7,
+      "total": 32095
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 2029,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 1477,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 1469,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "00803eaf-3b9c-4170-aeaf-f566c47d0691",
+    "username_reviews": "R***",
+    "initialName": "R",
+    "image_reviews": null,
+    "created_time": "2020-12-31T17:02:56.52+07:00",
+    "created_time_epoch": 1609434176,
+    "reviews_rating": 4,
+    "orders": {
+      "orderedAt": "2020-12-27T07:49:04.906785Z",
+      "items": [
+        {
+          "id": "dbe4980b-17af-4781-bdfe-599f5b019afc",
+          "name": "Pink Lava (Medium)"
+        },
+        {
+          "id": "ff3620e3-b4c4-4257-a137-3aec0c18172f",
+          "name": "Paket New Hemat Fire Chicken"
+        },
+        {
+          "id": "b17c4656-8898-4e92-8df2-0a161b5968de",
+          "name": "Combo Duo Fire Chicken with Fries"
+        }
+      ]
+    },
+    "tags_review": [
+      "",
+      "gofood.co.id"
+    ],
+    "content_reviews": "Minumannya esnya dikit banget",
+    "date_of_experience": ""
+  }
+}

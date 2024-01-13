@@ -1,0 +1,71 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/richeese-factory-pekayon-fb7c3452-2cba-464a-9e24-23840a40a179",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Cepat saji",
+    "Ayam & bebek",
+    "Aneka nasi",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:20:23.240256",
+  "crawling_time_epoch": 1705155623,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Richeese_Factory_Pekayon/json/bb76f347-f613-4335-bf92-7a02724dda2b.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Richeese_Factory_Pekayon/json/bb76f347-f613-4335-bf92-7a02724dda2b.json",
+  "reviews_name": "Richeese Factory, Pekayon",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.97
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "fb7c3452-2cba-464a-9e24-23840a40a179",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.7,
+      "total": 32095
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 2029,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 1477,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 1469,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "bb76f347-f613-4335-bf92-7a02724dda2b",
+    "username_reviews": "R*** A*******",
+    "initialName": "RA",
+    "image_reviews": null,
+    "created_time": "2021-07-13T12:04:05.939243+07:00",
+    "created_time_epoch": 1626177845,
+    "reviews_rating": 2,
+    "orders": {
+      "orderedAt": "2021-07-13T03:59:29.237375Z",
+      "items": [
+        {
+          "id": "6add1fc2-0730-43f8-be06-be6df90118f8",
+          "name": "Combo 1 Fire Chicken"
+        },
+        {
+          "id": "2fb64133-69f5-4592-a6f3-c04c584a7f08",
+          "name": "Combo 2 Fire Drum Stick"
+        }
+      ]
+    },
+    "tags_review": [
+      "gofood.co.id"
+    ],
+    "content_reviews": "Cari karyawan yg bisa baca lain kali. Order level 1 dikasih level 3, di makan pedes bgt ga dimakan sayang",
+    "date_of_experience": ""
+  }
+}

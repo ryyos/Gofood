@@ -1,0 +1,82 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/kfc-kemang-pratama-ef8c2c3e-61d6-4bd4-b9fa-10cfd6358dcf",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Cepat saji",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:19:21.062803",
+  "crawling_time_epoch": 1705155561,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/KFC_Kemang_Pratama/json/0743907c-6e83-4e0b-9348-b9551d29a2a1.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/KFC_Kemang_Pratama/json/0743907c-6e83-4e0b-9348-b9551d29a2a1.json",
+  "reviews_name": "KFC, Kemang Pratama",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.53
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "ef8c2c3e-61d6-4bd4-b9fa-10cfd6358dcf",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.8,
+      "total": 24067
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 2021,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 1696,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 1631,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "0743907c-6e83-4e0b-9348-b9551d29a2a1",
+    "username_reviews": "A***** H***** M********",
+    "initialName": "AM",
+    "image_reviews": null,
+    "created_time": "2020-06-28T17:47:27.933+07:00",
+    "created_time_epoch": 1593366447,
+    "reviews_rating": 5,
+    "orders": {
+      "orderedAt": "2020-06-28T08:35:41.801394Z",
+      "items": [
+        {
+          "id": "2bc79ec8-7b77-4774-971b-70fecfc67311",
+          "name": "Pomtilla Bits & Fish"
+        },
+        {
+          "id": "7b39abab-456e-4a09-a2a7-dfcfd91fb552",
+          "name": "Signature Box HCC"
+        },
+        {
+          "id": "0024f3fd-c5a5-4801-a523-6b9a4fa5f0e1",
+          "name": "Lovlychee Float"
+        },
+        {
+          "id": "f862b302-12ee-4910-a542-ee349a8747db",
+          "name": "Double Down Duo"
+        },
+        {
+          "id": "ca53835b-db5e-437a-94aa-81ed0a759e5a",
+          "name": "Winger Party 2"
+        }
+      ]
+    },
+    "tags_review": [
+      "",
+      "gofood.co.id"
+    ],
+    "content_reviews": "Saosnya kurang",
+    "date_of_experience": ""
+  }
+}

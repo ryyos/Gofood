@@ -1,0 +1,81 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/domino-s-pizza-kemang-pratama-00fb7fae-fbe1-4b63-ad17-dc7094c64f9c",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Pizza & pasta",
+    "Cepat saji",
+    "Jajanan",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:18:48.067806",
+  "crawling_time_epoch": 1705155528,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Dominos_Pizza_Kemang_Pratama/json/1049593e-cc67-4974-a7b9-26b25536e277.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Dominos_Pizza_Kemang_Pratama/json/1049593e-cc67-4974-a7b9-26b25536e277.json",
+  "reviews_name": "Domino's Pizza, Kemang Pratama",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.47
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "00fb7fae-fbe1-4b63-ad17-dc7094c64f9c",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.7,
+      "total": 11582
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 1426,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 1210,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 1158,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "1049593e-cc67-4974-a7b9-26b25536e277",
+    "username_reviews": "I**** K********",
+    "initialName": "IK",
+    "image_reviews": null,
+    "created_time": "2022-05-24T23:47:32.363417+07:00",
+    "created_time_epoch": 1653436052,
+    "reviews_rating": 5,
+    "orders": {
+      "orderedAt": "2022-05-21T15:34:27.862952Z",
+      "items": [
+        {
+          "id": "2521c04e-16d1-4616-aa83-bc77a027f8df",
+          "name": "PAPI DUO Cheese Burst"
+        },
+        {
+          "id": "93c162d7-6d3b-455b-a57a-6ff07bfc2153",
+          "name": "Coca Cola, Fanta, Sprite (1L)"
+        },
+        {
+          "id": "e41784ce-5b39-4c2f-a800-72bfcefe85c8",
+          "name": "Beef Delight"
+        }
+      ]
+    },
+    "tags_review": [
+      "CANNED_RESPONSE_FRESHNESS",
+      "CANNED_RESPONSE_TASTE",
+      "CANNED_RESPONSE_PORTION",
+      "CANNED_RESPONSE_HYGIENE",
+      "CANNED_RESPONSE_PACKAGING",
+      "CANNED_RESPONSE_VALUE",
+      "gofood.co.id"
+    ],
+    "content_reviews": "dominos makin mantab!",
+    "date_of_experience": ""
+  }
+}

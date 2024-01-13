@@ -1,0 +1,72 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/richeese-factory-pekayon-fb7c3452-2cba-464a-9e24-23840a40a179",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Cepat saji",
+    "Ayam & bebek",
+    "Aneka nasi",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:20:23.240256",
+  "crawling_time_epoch": 1705155623,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Richeese_Factory_Pekayon/json/d3fc8f36-c497-4e8c-8c2c-4e26f653cdbd.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Richeese_Factory_Pekayon/json/d3fc8f36-c497-4e8c-8c2c-4e26f653cdbd.json",
+  "reviews_name": "Richeese Factory, Pekayon",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.97
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "fb7c3452-2cba-464a-9e24-23840a40a179",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.7,
+      "total": 32095
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 2029,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 1477,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 1469,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "d3fc8f36-c497-4e8c-8c2c-4e26f653cdbd",
+    "username_reviews": "C*****",
+    "initialName": "C",
+    "image_reviews": null,
+    "created_time": "2019-10-25T07:57:56.297+07:00",
+    "created_time_epoch": 1571990276,
+    "reviews_rating": 1,
+    "orders": {
+      "orderedAt": "2019-10-25T00:17:08.809478Z",
+      "items": [
+        {
+          "id": "8baa04c1-e0f1-4a16-a3b9-d7e5e5c7c476",
+          "name": "Combo 1 Chicken"
+        },
+        {
+          "id": "8315b6f7-d909-43e2-b2da-79b3e64486fe",
+          "name": "Richeese Black Friend Fries"
+        }
+      ]
+    },
+    "tags_review": [
+      "",
+      "gofood.co.id"
+    ],
+    "content_reviews": "Tidak dpt saus keju harus nya dapat 2",
+    "date_of_experience": ""
+  }
+}

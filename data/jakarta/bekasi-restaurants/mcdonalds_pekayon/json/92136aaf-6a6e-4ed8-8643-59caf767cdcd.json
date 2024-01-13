@@ -1,0 +1,75 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/mcdonald-s-pekayon-50150204-8f6d-4372-8458-668f1be126e8",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Cepat saji",
+    "Sweets",
+    "Jajanan",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:17:21.424093",
+  "crawling_time_epoch": 1705155441,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/McDonalds_Pekayon/json/92136aaf-6a6e-4ed8-8643-59caf767cdcd.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/McDonalds_Pekayon/json/92136aaf-6a6e-4ed8-8643-59caf767cdcd.json",
+  "reviews_name": "McDonald's, Pekayon",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.46
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "50150204-8f6d-4372-8458-668f1be126e8",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.8,
+      "total": 70397
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 4555,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 3695,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 3669,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "92136aaf-6a6e-4ed8-8643-59caf767cdcd",
+    "username_reviews": "I*** R*******",
+    "initialName": "IR",
+    "image_reviews": null,
+    "created_time": "2023-07-30T09:02:21.212646+07:00",
+    "created_time_epoch": 1690707741,
+    "reviews_rating": 1,
+    "orders": {
+      "orderedAt": "2023-07-30T01:10:01.557168Z",
+      "items": [
+        {
+          "id": "85d69dd4-b384-4bd3-9b1f-000bb8d2e22b",
+          "name": "Hot Cakes 3pcs"
+        },
+        {
+          "id": "b0c30b98-de9d-4937-9fdd-8de992e70d3f",
+          "name": "1pc Krispy Chicken"
+        },
+        {
+          "id": "2c5e908a-f2ae-41dc-907d-a4308b019be7",
+          "name": "Long Black Large"
+        }
+      ]
+    },
+    "tags_review": [
+      "gofood.co.id"
+    ],
+    "content_reviews": "Saos sambel buat ayam gak dikasih, butter buat hotcake gak dikasih, garem buat scrambled egg gak dikasih. Entah kenapa mcd pekayon ini cost reduction nya gila2an dibanding yg lain.",
+    "date_of_experience": ""
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/bubur-ayam-kampung-nyemplung-pekayon-decd86af-75d6-466d-9d74-c66a45850297",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Aneka nasi",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:20:19.392522",
+  "crawling_time_epoch": 1705155619,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Bubur_Ayam_Kampung_Nyemplung_Pekayon/json/9ea996e9-f19f-4f02-87cf-c1aaada878e2.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Bubur_Ayam_Kampung_Nyemplung_Pekayon/json/9ea996e9-f19f-4f02-87cf-c1aaada878e2.json",
+  "reviews_name": "Bubur Ayam Kampung Nyemplung, Pekayon",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.96
+  },
+  "range_prices": "<16k",
+  "restaurant_id": "decd86af-75d6-466d-9d74-c66a45850297",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.7,
+      "total": 2066
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 191,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 138,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 137,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "9ea996e9-f19f-4f02-87cf-c1aaada878e2",
+    "username_reviews": "Kasdiman Sinaga",
+    "initialName": "KS",
+    "image_reviews": null,
+    "created_time": "2022-05-01T15:24:26.520188+07:00",
+    "created_time_epoch": 1651418666,
+    "reviews_rating": 5,
+    "orders": {
+      "orderedAt": "2022-04-26T12:07:01.496977Z",
+      "items": [
+        {
+          "id": "e6804c70-6dd8-4412-9b3d-cc079ab8b9f3",
+          "name": "Bubur Ayam Kampung Polos"
+        }
+      ]
+    },
+    "tags_review": [
+      "gofood.co.id"
+    ],
+    "content_reviews": "Terima kasih atas pelayanan ",
+    "date_of_experience": ""
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/a-w-linc-square-d4fe7a94-86cd-4883-b279-07bdd7002ad9",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Cepat saji",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:20:11.107220",
+  "crawling_time_epoch": 1705155611,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/AW_Linc_Square/json/63417075-628d-4084-90b8-84ef1439fa66.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/AW_Linc_Square/json/63417075-628d-4084-90b8-84ef1439fa66.json",
+  "reviews_name": "A&W, Linc Square",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.94
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "d4fe7a94-86cd-4883-b279-07bdd7002ad9",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.8,
+      "total": 7181
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 499,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 403,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 365,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "63417075-628d-4084-90b8-84ef1439fa66",
+    "username_reviews": "S******",
+    "initialName": "S",
+    "image_reviews": null,
+    "created_time": "2022-10-26T22:45:37.738844+07:00",
+    "created_time_epoch": 1666824337,
+    "reviews_rating": 1,
+    "orders": {
+      "orderedAt": "2022-10-26T14:57:50.155181Z",
+      "items": [
+        {
+          "id": "575097df-bada-4378-a7b2-5bc980195335",
+          "name": "MUSHROOM - Double Steak & Fries"
+        },
+        {
+          "id": "7badc061-f001-4d13-a22f-b99e55955217",
+          "name": "Mango Chicken Pocket"
+        },
+        {
+          "id": "7ce4cc3e-80fd-4578-ac12-1e7524f320da",
+          "name": "Chicken Soup"
+        },
+        {
+          "id": "a5756167-a259-4289-9d12-e57072cceb63",
+          "name": "SUPER - Buy 2 Sundaes Get 1 FREE! Sundae"
+        }
+      ]
+    },
+    "tags_review": [
+      "CANNED_RESPONSE_TASTE",
+      "CANNED_RESPONSE_CUTLERY_INCORRECT",
+      "gofood.co.id"
+    ],
+    "content_reviews": "Kalau orang makan di kasih alat makan atau sausnya dong. Pelit banget",
+    "date_of_experience": ""
+  }
+}

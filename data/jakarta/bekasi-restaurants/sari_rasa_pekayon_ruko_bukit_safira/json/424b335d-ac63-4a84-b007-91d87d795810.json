@@ -1,0 +1,84 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/sari-rasa-pekayon-ruko-bukit-safira-1457b34a-58b8-4ac5-b2b1-f64b5c9c967f",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Sate",
+    "Ayam & bebek",
+    "Aneka nasi",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:19:47.200172",
+  "crawling_time_epoch": 1705155587,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Sari_Rasa_Pekayon_Ruko_Bukit_Safira/json/424b335d-ac63-4a84-b007-91d87d795810.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Sari_Rasa_Pekayon_Ruko_Bukit_Safira/json/424b335d-ac63-4a84-b007-91d87d795810.json",
+  "reviews_name": "Sari Rasa Pekayon, Ruko Bukit Safira",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.6
+  },
+  "range_prices": "16k-40k",
+  "restaurant_id": "1457b34a-58b8-4ac5-b2b1-f64b5c9c967f",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.8,
+      "total": 1979
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 216,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 169,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 164,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "424b335d-ac63-4a84-b007-91d87d795810",
+    "username_reviews": "R****",
+    "initialName": "R",
+    "image_reviews": null,
+    "created_time": "2020-12-20T12:28:16.267+07:00",
+    "created_time_epoch": 1608467296,
+    "reviews_rating": 3,
+    "orders": {
+      "orderedAt": "2020-12-20T03:34:32.992673Z",
+      "items": [
+        {
+          "id": "cf92c37d-497a-4d5c-8a6b-fc29aa83c10c",
+          "name": "Sup Iga Sapi"
+        },
+        {
+          "id": "8a67a7cc-680f-4702-95f1-591552b1431d",
+          "name": "Nasi Putih"
+        },
+        {
+          "id": "db16a3b0-91f7-43e0-bc1a-a1ce9f87025f",
+          "name": "Tumis Kangkung"
+        },
+        {
+          "id": "566af4a5-5db9-41b9-828b-f438b70dccf5",
+          "name": "Bawal Bakar"
+        },
+        {
+          "id": "f56bad22-8e06-4c54-b913-6149a3abf94e",
+          "name": "Tempe Penyet (Isi 3)"
+        }
+      ]
+    },
+    "tags_review": [
+      "",
+      "gofood.co.id"
+    ],
+    "content_reviews": "kelamaan nunggu masaknya",
+    "date_of_experience": ""
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/kfc-kemang-pratama-ef8c2c3e-61d6-4bd4-b9fa-10cfd6358dcf",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Cepat saji",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:19:21.062803",
+  "crawling_time_epoch": 1705155561,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/KFC_Kemang_Pratama/json/dffdb1ce-a41a-42f9-9d49-f98bfecb8ae9.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/KFC_Kemang_Pratama/json/dffdb1ce-a41a-42f9-9d49-f98bfecb8ae9.json",
+  "reviews_name": "KFC, Kemang Pratama",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.53
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "ef8c2c3e-61d6-4bd4-b9fa-10cfd6358dcf",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.8,
+      "total": 24067
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 2021,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 1696,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 1631,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "dffdb1ce-a41a-42f9-9d49-f98bfecb8ae9",
+    "username_reviews": "F***** R*****",
+    "initialName": "FR",
+    "image_reviews": null,
+    "created_time": "2020-07-19T15:55:23.365+07:00",
+    "created_time_epoch": 1595174123,
+    "reviews_rating": 1,
+    "orders": {
+      "orderedAt": "2020-07-18T09:59:44.863032Z",
+      "items": [
+        {
+          "id": "b69db167-8999-45af-a1fc-1bd762db64ed",
+          "name": "Super Bucket Deal  Mix 2"
+        },
+        {
+          "id": "baa8ea31-87db-4499-94fe-03cf38f21911",
+          "name": "Rice"
+        }
+      ]
+    },
+    "tags_review": [
+      "",
+      "gofood.co.id"
+    ],
+    "content_reviews": "Saya pesan ayam dan nasi tapi nasi nya ngga dikirim, padahal di struk ada tulisan nasi, bukan masalah uangnya tapi saya kecewa karna pesanannya tidak sulit tapi tidak terlayani dengan baik",
+    "date_of_experience": ""
+  }
+}

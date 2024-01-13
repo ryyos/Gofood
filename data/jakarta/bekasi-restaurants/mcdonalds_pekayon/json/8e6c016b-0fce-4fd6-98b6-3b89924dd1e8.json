@@ -1,0 +1,80 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/mcdonald-s-pekayon-50150204-8f6d-4372-8458-668f1be126e8",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Cepat saji",
+    "Sweets",
+    "Jajanan",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:17:21.424093",
+  "crawling_time_epoch": 1705155441,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/McDonalds_Pekayon/json/8e6c016b-0fce-4fd6-98b6-3b89924dd1e8.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/McDonalds_Pekayon/json/8e6c016b-0fce-4fd6-98b6-3b89924dd1e8.json",
+  "reviews_name": "McDonald's, Pekayon",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.46
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "50150204-8f6d-4372-8458-668f1be126e8",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.8,
+      "total": 70397
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 4555,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 3695,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 3669,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "8e6c016b-0fce-4fd6-98b6-3b89924dd1e8",
+    "username_reviews": "A***** S***** M*******",
+    "initialName": "AM",
+    "image_reviews": null,
+    "created_time": "2021-05-15T10:39:22.80571+07:00",
+    "created_time_epoch": 1621075162,
+    "reviews_rating": 3,
+    "orders": {
+      "orderedAt": "2021-05-15T02:21:31.757324Z",
+      "items": [
+        {
+          "id": "eca765c2-89b1-4455-8229-db2f19ce607a",
+          "name": "Nasi Uduk McD Ayam Suwir"
+        },
+        {
+          "id": "f56e49c4-a2d2-4927-bf60-b3d8951c1c67",
+          "name": "PaNas 1 Large"
+        },
+        {
+          "id": "4c106b3b-c88b-426d-aac1-bc906404d0fa",
+          "name": "McFlurry Feat. Oreo"
+        },
+        {
+          "id": "3899028b-2948-4e5e-aa42-2ab21fdc11f2",
+          "name": "Iced Cafe Latte Large"
+        }
+      ]
+    },
+    "tags_review": [
+      "CANNED_RESPONSE_TASTE",
+      "gofood.co.id"
+    ],
+    "content_reviews": "Nasi uduknya kurang enak. Sudah ekstra tambah ayam suwir dan bawang goreng tapi seperti tidak ditambahkan karena sangat sedikit sekali.",
+    "date_of_experience": ""
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/dobel-martabak-bude-pekayon-c516bbfe-5583-4fbc-9605-9cd02cd220b0",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Martabak",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:18:42.021929",
+  "crawling_time_epoch": 1705155522,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Dobel_Martabak_Bude_Pekayon/json/0f7caa14-3d7d-441d-b48e-4418919ff26e.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Dobel_Martabak_Bude_Pekayon/json/0f7caa14-3d7d-441d-b48e-4418919ff26e.json",
+  "reviews_name": "Dobel Martabak Bude, Pekayon",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.46
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "c516bbfe-5583-4fbc-9605-9cd02cd220b0",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.6,
+      "total": 2907
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 366,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 264,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 253,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "0f7caa14-3d7d-441d-b48e-4418919ff26e",
+    "username_reviews": "lona noprida yanti",
+    "initialName": "LY",
+    "image_reviews": null,
+    "created_time": "2021-12-13T20:17:05.619893+07:00",
+    "created_time_epoch": 1639426625,
+    "reviews_rating": 5,
+    "orders": {
+      "orderedAt": "2021-12-13T12:39:34.881674Z",
+      "items": [
+        {
+          "id": "9593588e-5fa6-45b3-b55c-abf4ba38c485",
+          "name": "Martabak Telor Bebek Special"
+        },
+        {
+          "id": "20217df9-4dea-44ce-a1fe-4825e637364d",
+          "name": "Keju (Dobel) + Susu"
+        }
+      ]
+    },
+    "tags_review": [
+      "gofood.co.id"
+    ],
+    "content_reviews": "mantap.! maachii",
+    "date_of_experience": ""
+  }
+}

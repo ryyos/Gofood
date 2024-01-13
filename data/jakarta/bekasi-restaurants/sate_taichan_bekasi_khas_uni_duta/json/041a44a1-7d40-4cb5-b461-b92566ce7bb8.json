@@ -1,0 +1,74 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/sate-taichan-bekasi-khas-uni-duta-25b9b3e0-fc52-40f2-8ea6-8debb71288f8",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Sate",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:19:15.113257",
+  "crawling_time_epoch": 1705155555,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Sate_Taichan_Bekasi_Khas_Uni_Duta/json/041a44a1-7d40-4cb5-b461-b92566ce7bb8.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Sate_Taichan_Bekasi_Khas_Uni_Duta/json/041a44a1-7d40-4cb5-b461-b92566ce7bb8.json",
+  "reviews_name": "Sate Taichan Bekasi \"Khas Uni\", Duta",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.52
+  },
+  "range_prices": "16k-40k",
+  "restaurant_id": "25b9b3e0-fc52-40f2-8ea6-8debb71288f8",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.7,
+      "total": 4176
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 304,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 196,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 186,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "041a44a1-7d40-4cb5-b461-b92566ce7bb8",
+    "username_reviews": "L** R***",
+    "initialName": "LR",
+    "image_reviews": null,
+    "created_time": "2020-10-03T19:30:57.406+07:00",
+    "created_time_epoch": 1601753457,
+    "reviews_rating": 2,
+    "orders": {
+      "orderedAt": "2020-09-29T10:21:00.963831Z",
+      "items": [
+        {
+          "id": "0e42d7d8-e3f0-4d8e-8aa7-5115cd6bc093",
+          "name": "Lontong"
+        },
+        {
+          "id": "2a4f03e4-0d10-476f-a133-363c91b58641",
+          "name": "Sate Kulit 5 Tusuk"
+        },
+        {
+          "id": "55763509-9751-4aa9-a7e5-e970a5f76bdd",
+          "name": "Sate Dada 5 Tusuk"
+        }
+      ]
+    },
+    "tags_review": [
+      "CANNED_RESPONSE_PACKAGING",
+      "gofood.co.id"
+    ],
+    "content_reviews": "tolong kalau pesan lontong itu sekalian dipotong ya jangan dikasih gitu doang. Kan beli satenya 2bungkus harusnya sambalnya kasih 2 dong jangan pelit. kalau rasa lumayanlah makasi",
+    "date_of_experience": ""
+  }
+}

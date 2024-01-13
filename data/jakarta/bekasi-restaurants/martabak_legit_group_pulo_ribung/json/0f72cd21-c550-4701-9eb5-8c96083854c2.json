@@ -1,0 +1,66 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/martabak-legit-group-pulo-ribung-e7bc6ee0-6632-451a-b5cf-adb7af7c3da9",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Jajanan",
+    "Martabak",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:20:03.652928",
+  "crawling_time_epoch": 1705155603,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Martabak_Legit_Group_Pulo_Ribung/json/0f72cd21-c550-4701-9eb5-8c96083854c2.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Martabak_Legit_Group_Pulo_Ribung/json/0f72cd21-c550-4701-9eb5-8c96083854c2.json",
+  "reviews_name": "Martabak Legit Group, Pulo Ribung",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.71
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "e7bc6ee0-6632-451a-b5cf-adb7af7c3da9",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.5,
+      "total": 1731
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 174,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 137,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 126,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "0f72cd21-c550-4701-9eb5-8c96083854c2",
+    "username_reviews": "L*** R****",
+    "initialName": "LR",
+    "image_reviews": null,
+    "created_time": "2021-08-06T21:29:14.731417+07:00",
+    "created_time_epoch": 1628285354,
+    "reviews_rating": 1,
+    "orders": {
+      "orderedAt": "2021-08-06T13:44:57.067337Z",
+      "items": [
+        {
+          "id": "10742ca7-ec69-4ab4-905a-9a64d93976c8",
+          "name": "Martabak Manis Pandan Keju"
+        }
+      ]
+    },
+    "tags_review": [
+      "gofood.co.id"
+    ],
+    "content_reviews": "Padahal order xtra topping keju, tp sepertinya tidak ditambahkan kejunya, bener2 sedikit bgt kejunya sampe banyak bagian yg ga kena keju di martabaknya😭",
+    "date_of_experience": ""
+  }
+}

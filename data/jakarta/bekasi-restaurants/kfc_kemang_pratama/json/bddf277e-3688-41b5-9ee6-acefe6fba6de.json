@@ -1,0 +1,67 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/kfc-kemang-pratama-ef8c2c3e-61d6-4bd4-b9fa-10cfd6358dcf",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Cepat saji",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:19:21.062803",
+  "crawling_time_epoch": 1705155561,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/KFC_Kemang_Pratama/json/bddf277e-3688-41b5-9ee6-acefe6fba6de.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/KFC_Kemang_Pratama/json/bddf277e-3688-41b5-9ee6-acefe6fba6de.json",
+  "reviews_name": "KFC, Kemang Pratama",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.53
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "ef8c2c3e-61d6-4bd4-b9fa-10cfd6358dcf",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.8,
+      "total": 24067
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 2021,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 1696,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 1631,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "bddf277e-3688-41b5-9ee6-acefe6fba6de",
+    "username_reviews": "Z***",
+    "initialName": "Z",
+    "image_reviews": null,
+    "created_time": "2020-12-26T07:53:58.453+07:00",
+    "created_time_epoch": 1608969238,
+    "reviews_rating": 1,
+    "orders": {
+      "orderedAt": "2020-12-25T13:22:29.148883Z",
+      "items": [
+        {
+          "id": "c17667f6-c69e-45be-9f28-9bd4d06f35eb",
+          "name": "Hot and Crispy Chicken"
+        }
+      ]
+    },
+    "tags_review": [
+      "CANNED_RESPONSE_PRICE",
+      "CANNED_RESPONSE_PACKAGING",
+      "gofood.co.id"
+    ],
+    "content_reviews": "waktu kirim , kardusnya sudah berceceran ayamnya kotaknya basah karena ayamnya panas, itu juga masi dibebankan ongkos biaya bungkus sebenernya kalian mesti belajar lagi SOP KFC kayak tukang gorengan aja.\nkemudian saya minta Paha Atas dikasinya dada sama paha bawah ukuran kecil , saya merasa dirugikan dong karena saya khan beli normal bukan barang promo ,\n\nJANGAN MENTANG MENTANG PUNYA NAMA BESAR KFC SEENAKNYA SAJA KASI PELAYANAN SEMBARANGAN KE PELANGGAN.",
+    "date_of_experience": ""
+  }
+}

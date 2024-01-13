@@ -1,0 +1,70 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/a-w-linc-square-d4fe7a94-86cd-4883-b279-07bdd7002ad9",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Cepat saji",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:20:11.107220",
+  "crawling_time_epoch": 1705155611,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/AW_Linc_Square/json/095b8ed2-ae00-4175-b0a9-8601d3a78de3.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/AW_Linc_Square/json/095b8ed2-ae00-4175-b0a9-8601d3a78de3.json",
+  "reviews_name": "A&W, Linc Square",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.94
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "d4fe7a94-86cd-4883-b279-07bdd7002ad9",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.8,
+      "total": 7181
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 499,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 403,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 365,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "095b8ed2-ae00-4175-b0a9-8601d3a78de3",
+    "username_reviews": "A**",
+    "initialName": "A",
+    "image_reviews": null,
+    "created_time": "2020-07-08T17:15:12.206+07:00",
+    "created_time_epoch": 1594228512,
+    "reviews_rating": 4,
+    "orders": {
+      "orderedAt": "2020-07-08T05:14:58.334724Z",
+      "items": [
+        {
+          "id": "1e0e804d-9787-476b-b4d4-3582372f8760",
+          "name": "Paket Gratis 1 - Chicken"
+        },
+        {
+          "id": "7ce4cc3e-80fd-4578-ac12-1e7524f320da",
+          "name": "Chicken Soup"
+        }
+      ]
+    },
+    "tags_review": [
+      "",
+      "gofood.co.id"
+    ],
+    "content_reviews": "dari 4 ayam golden aroma yg sy pesan, 2 rasanya tidak fresh dan tulangnya hitam.",
+    "date_of_experience": ""
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/martabak-legit-group-pulo-ribung-e7bc6ee0-6632-451a-b5cf-adb7af7c3da9",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Jajanan",
+    "Martabak",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:20:03.652928",
+  "crawling_time_epoch": 1705155603,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Martabak_Legit_Group_Pulo_Ribung/json/e39550ff-f521-4b1a-a948-6bdf4c224ac6.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Martabak_Legit_Group_Pulo_Ribung/json/e39550ff-f521-4b1a-a948-6bdf4c224ac6.json",
+  "reviews_name": "Martabak Legit Group, Pulo Ribung",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.71
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "e7bc6ee0-6632-451a-b5cf-adb7af7c3da9",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.5,
+      "total": 1731
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 174,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 137,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 126,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "e39550ff-f521-4b1a-a948-6bdf4c224ac6",
+    "username_reviews": "S****** A**",
+    "initialName": "SA",
+    "image_reviews": null,
+    "created_time": "2021-07-08T10:16:10.84306+07:00",
+    "created_time_epoch": 1625739370,
+    "reviews_rating": 5,
+    "orders": {
+      "orderedAt": "2021-07-07T08:21:19.180178Z",
+      "items": [
+        {
+          "id": "cf0b2d04-35c9-40e6-9834-541a7de763d1",
+          "name": "Martabak Asin Telor Bebek Daging Sapi"
+        }
+      ]
+    },
+    "tags_review": [
+      "CANNED_RESPONSE_FRESHNESS",
+      "CANNED_RESPONSE_TASTE",
+      "CANNED_RESPONSE_PORTION",
+      "CANNED_RESPONSE_HYGIENE",
+      "CANNED_RESPONSE_PACKAGING",
+      "CANNED_RESPONSE_VALUE",
+      "gofood.co.id"
+    ],
+    "content_reviews": "rasanya enak bgt, murah juga mantap bgt dehh",
+    "date_of_experience": ""
+  }
+}

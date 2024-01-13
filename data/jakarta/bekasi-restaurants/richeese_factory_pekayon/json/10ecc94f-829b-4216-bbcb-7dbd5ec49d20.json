@@ -1,0 +1,64 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/richeese-factory-pekayon-fb7c3452-2cba-464a-9e24-23840a40a179",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Cepat saji",
+    "Ayam & bebek",
+    "Aneka nasi",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:20:23.240256",
+  "crawling_time_epoch": 1705155623,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Richeese_Factory_Pekayon/json/10ecc94f-829b-4216-bbcb-7dbd5ec49d20.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Richeese_Factory_Pekayon/json/10ecc94f-829b-4216-bbcb-7dbd5ec49d20.json",
+  "reviews_name": "Richeese Factory, Pekayon",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.97
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "fb7c3452-2cba-464a-9e24-23840a40a179",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.7,
+      "total": 32095
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 2029,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 1477,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 1469,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "10ecc94f-829b-4216-bbcb-7dbd5ec49d20",
+    "username_reviews": "Z******",
+    "initialName": "Z",
+    "image_reviews": null,
+    "created_time": "2019-06-06T18:45:00.090423+07:00",
+    "created_time_epoch": 1559846700,
+    "reviews_rating": 4,
+    "orders": {
+      "orderedAt": "2019-06-03T18:57:19.211009Z",
+      "items": []
+    },
+    "tags_review": [
+      "CANNED_RESPONSE_PORTION",
+      "CANNED_RESPONSE_VALUE",
+      "gofood.co.id"
+    ],
+    "content_reviews": "Saus keju nya dikit banget, tambahin boleh kali",
+    "date_of_experience": ""
+  }
+}

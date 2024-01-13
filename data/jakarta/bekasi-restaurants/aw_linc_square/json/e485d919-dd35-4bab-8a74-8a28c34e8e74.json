@@ -1,0 +1,74 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/a-w-linc-square-d4fe7a94-86cd-4883-b279-07bdd7002ad9",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Cepat saji",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:20:11.107220",
+  "crawling_time_epoch": 1705155611,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/AW_Linc_Square/json/e485d919-dd35-4bab-8a74-8a28c34e8e74.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/AW_Linc_Square/json/e485d919-dd35-4bab-8a74-8a28c34e8e74.json",
+  "reviews_name": "A&W, Linc Square",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.94
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "d4fe7a94-86cd-4883-b279-07bdd7002ad9",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.8,
+      "total": 7181
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 499,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 403,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 365,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "e485d919-dd35-4bab-8a74-8a28c34e8e74",
+    "username_reviews": "C******",
+    "initialName": "C",
+    "image_reviews": null,
+    "created_time": "2020-01-15T17:53:52.277+07:00",
+    "created_time_epoch": 1579110832,
+    "reviews_rating": 5,
+    "orders": {
+      "orderedAt": "2020-01-15T08:29:08.24173Z",
+      "items": [
+        {
+          "id": "dac1f0d2-babb-4987-b29d-72528d410bbb",
+          "name": "Hari-Hari Untung - Golden Aroma Chicken"
+        },
+        {
+          "id": "fdbd6829-74c3-4171-b97e-7328201ab132",
+          "name": "Sundae"
+        },
+        {
+          "id": "c9a872f1-4e1a-4e38-9edb-1e317519d4cc",
+          "name": "French Fries"
+        }
+      ]
+    },
+    "tags_review": [
+      "",
+      "gofood.co.id"
+    ],
+    "content_reviews": "a polite driver",
+    "date_of_experience": ""
+  }
+}

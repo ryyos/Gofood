@@ -1,0 +1,74 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/kfc-kemang-pratama-ef8c2c3e-61d6-4bd4-b9fa-10cfd6358dcf",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Cepat saji",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:19:21.062803",
+  "crawling_time_epoch": 1705155561,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/KFC_Kemang_Pratama/json/8985a5a3-8f9c-4a28-bed2-5136b9b494de.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/KFC_Kemang_Pratama/json/8985a5a3-8f9c-4a28-bed2-5136b9b494de.json",
+  "reviews_name": "KFC, Kemang Pratama",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.53
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "ef8c2c3e-61d6-4bd4-b9fa-10cfd6358dcf",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.8,
+      "total": 24067
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 2021,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 1696,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 1631,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "8985a5a3-8f9c-4a28-bed2-5136b9b494de",
+    "username_reviews": "W******** M********",
+    "initialName": "WM",
+    "image_reviews": null,
+    "created_time": "2020-04-30T18:11:04.436+07:00",
+    "created_time_epoch": 1588270264,
+    "reviews_rating": 4,
+    "orders": {
+      "orderedAt": "2020-04-30T10:12:20.967612Z",
+      "items": [
+        {
+          "id": "def7a568-6249-4c74-82e1-9471618869f0",
+          "name": "Zuper Box HCC Promo"
+        },
+        {
+          "id": "3d5666d4-c737-465a-82bd-3b0b211a290a",
+          "name": "KFC Soup"
+        },
+        {
+          "id": "cf5e6e09-87c2-49fc-8567-f9099329fd52",
+          "name": "Pudding"
+        }
+      ]
+    },
+    "tags_review": [
+      "",
+      "gofood.co.id"
+    ],
+    "content_reviews": "lah koq pesenan saya ngga ada 1 ya, antara gojeknya yg gak teliti atau pelayannya yg gak konsentrasi, ngga cek pesanann sudah sesuai atau blm",
+    "date_of_experience": ""
+  }
+}

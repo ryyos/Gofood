@@ -1,0 +1,68 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/richeese-factory-pekayon-fb7c3452-2cba-464a-9e24-23840a40a179",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Cepat saji",
+    "Ayam & bebek",
+    "Aneka nasi",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:20:23.240256",
+  "crawling_time_epoch": 1705155623,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Richeese_Factory_Pekayon/json/04adb571-843c-4443-8b63-5c3fdcf2576f.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Richeese_Factory_Pekayon/json/04adb571-843c-4443-8b63-5c3fdcf2576f.json",
+  "reviews_name": "Richeese Factory, Pekayon",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.97
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "fb7c3452-2cba-464a-9e24-23840a40a179",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.7,
+      "total": 32095
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 2029,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 1477,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 1469,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "04adb571-843c-4443-8b63-5c3fdcf2576f",
+    "username_reviews": "E** W",
+    "initialName": "EW",
+    "image_reviews": null,
+    "created_time": "2022-04-09T09:27:08.298644+07:00",
+    "created_time_epoch": 1649496428,
+    "reviews_rating": 5,
+    "orders": {
+      "orderedAt": "2022-04-08T07:47:41.958933Z",
+      "items": [
+        {
+          "id": "ba157368-12a8-4bfc-b3be-cde4dd236ce4",
+          "name": "Special Price Combo 1 Fire Chicken 10K"
+        }
+      ]
+    },
+    "tags_review": [
+      "CANNED_RESPONSE_TASTE",
+      "gofood.co.id"
+    ],
+    "content_reviews": "pedesss mantap...sesuai dengan apa yg di pesan",
+    "date_of_experience": ""
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/mcdonald-s-pekayon-50150204-8f6d-4372-8458-668f1be126e8",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Cepat saji",
+    "Sweets",
+    "Jajanan",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:17:21.424093",
+  "crawling_time_epoch": 1705155441,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/McDonalds_Pekayon/json/b56e07c4-b7d1-4883-b4ef-407f45e1e8b2.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/McDonalds_Pekayon/json/b56e07c4-b7d1-4883-b4ef-407f45e1e8b2.json",
+  "reviews_name": "McDonald's, Pekayon",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.46
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "50150204-8f6d-4372-8458-668f1be126e8",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.8,
+      "total": 70397
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 4555,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 3695,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 3669,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "b56e07c4-b7d1-4883-b4ef-407f45e1e8b2",
+    "username_reviews": "Ivan",
+    "initialName": "I",
+    "image_reviews": null,
+    "created_time": "2023-02-19T12:58:52.246266+07:00",
+    "created_time_epoch": 1676811532,
+    "reviews_rating": 1,
+    "orders": {
+      "orderedAt": "2023-02-19T05:20:46.074126Z",
+      "items": [
+        {
+          "id": "ede981c9-dbec-4255-a1d8-92e16e8c5d8e",
+          "name": "PaNas 1 Spicy, Large"
+        },
+        {
+          "id": "2bc001b6-1f78-4836-ba3c-9ba948f008d4",
+          "name": "French Fries Large"
+        },
+        {
+          "id": "9b30d483-cffe-4e49-9d39-1f44ed35c0ed",
+          "name": "McNuggets  9pcs"
+        },
+        {
+          "id": "6ce1f755-ecbb-467c-887d-8315ebec459e",
+          "name": "Double Cheese Burger"
+        },
+        {
+          "id": "1eb168a1-66d6-486d-9f13-e8a08f2b5198",
+          "name": "Large Rice"
+        },
+        {
+          "id": "2820354d-b9e6-4c42-991f-3df89ceec44e",
+          "name": "Chicken Burger"
+        }
+      ]
+    },
+    "tags_review": [
+      "CANNED_RESPONSE_ORDER",
+      "gofood.co.id"
+    ],
+    "content_reviews": "Pesanannya kurang",
+    "date_of_experience": ""
+  }
+}

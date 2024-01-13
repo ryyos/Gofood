@@ -1,0 +1,72 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/richeese-factory-pekayon-fb7c3452-2cba-464a-9e24-23840a40a179",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Cepat saji",
+    "Ayam & bebek",
+    "Aneka nasi",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:20:23.240256",
+  "crawling_time_epoch": 1705155623,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Richeese_Factory_Pekayon/json/f729f3e1-1933-4e6f-aef3-a480c34eb82e.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Richeese_Factory_Pekayon/json/f729f3e1-1933-4e6f-aef3-a480c34eb82e.json",
+  "reviews_name": "Richeese Factory, Pekayon",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.97
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "fb7c3452-2cba-464a-9e24-23840a40a179",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.7,
+      "total": 32095
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 2029,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 1477,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 1469,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "f729f3e1-1933-4e6f-aef3-a480c34eb82e",
+    "username_reviews": "fajry",
+    "initialName": "F",
+    "image_reviews": null,
+    "created_time": "2022-01-15T20:12:09.79348+07:00",
+    "created_time_epoch": 1642277529,
+    "reviews_rating": 3,
+    "orders": {
+      "orderedAt": "2022-01-15T12:53:37.953632Z",
+      "items": [
+        {
+          "id": "ba157368-12a8-4bfc-b3be-cde4dd236ce4",
+          "name": "Special Price Combo 1 Fire Chicken_3"
+        },
+        {
+          "id": "ba157368-12a8-4bfc-b3be-cde4dd236ce4",
+          "name": "Special Price Combo 1 Fire Chicken_3"
+        }
+      ]
+    },
+    "tags_review": [
+      "CANNED_RESPONSE_PICKUP_EXP",
+      "gofood.co.id"
+    ],
+    "content_reviews": "enak, tapi masa pickup kita harus tetap mengantri lagi, sama aja beli ditempat -_-",
+    "date_of_experience": ""
+  }
+}

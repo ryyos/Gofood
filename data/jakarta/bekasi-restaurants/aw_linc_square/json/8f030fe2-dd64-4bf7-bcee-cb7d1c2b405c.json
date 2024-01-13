@@ -1,0 +1,74 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/a-w-linc-square-d4fe7a94-86cd-4883-b279-07bdd7002ad9",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Cepat saji",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:20:11.107220",
+  "crawling_time_epoch": 1705155611,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/AW_Linc_Square/json/8f030fe2-dd64-4bf7-bcee-cb7d1c2b405c.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/AW_Linc_Square/json/8f030fe2-dd64-4bf7-bcee-cb7d1c2b405c.json",
+  "reviews_name": "A&W, Linc Square",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.94
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "d4fe7a94-86cd-4883-b279-07bdd7002ad9",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.8,
+      "total": 7181
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 499,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 403,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 365,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "8f030fe2-dd64-4bf7-bcee-cb7d1c2b405c",
+    "username_reviews": "A*****",
+    "initialName": "A",
+    "image_reviews": null,
+    "created_time": "2021-08-07T19:55:09.177878+07:00",
+    "created_time_epoch": 1628366109,
+    "reviews_rating": 5,
+    "orders": {
+      "orderedAt": "2021-08-07T10:47:55.045117Z",
+      "items": [
+        {
+          "id": "c7e461b8-846b-491f-8e1f-abaaa8d22a2e",
+          "name": "Waffle Regular - Ice Cream"
+        },
+        {
+          "id": "8acd0bc1-b9db-47f9-a6f1-549f303bd361",
+          "name": "OREO Waffle Regular"
+        }
+      ]
+    },
+    "tags_review": [
+      "CANNED_RESPONSE_FRESHNESS",
+      "CANNED_RESPONSE_TASTE",
+      "CANNED_RESPONSE_PORTION",
+      "CANNED_RESPONSE_PACKAGING",
+      "CANNED_RESPONSE_VALUE",
+      "gofood.co.id"
+    ],
+    "content_reviews": "Memang waffle yang paling enak punyanya A&W! Ditambah es krim stoberi dan oreo jadi segerrr. Packaging aman dan es krimnya nggak meleleh👍🏻",
+    "date_of_experience": ""
+  }
+}

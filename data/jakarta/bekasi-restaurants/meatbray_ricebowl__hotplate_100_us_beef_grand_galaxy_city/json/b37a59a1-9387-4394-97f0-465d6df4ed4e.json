@@ -1,0 +1,76 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/meatbray-ricebowl-hotplate-100-us-beef-grand-galaxy-city-eecfae26-b0cc-4063-b0ef-c260539281f7",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Aneka nasi",
+    "Cepat saji",
+    "Jepang",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:20:09.646388",
+  "crawling_time_epoch": 1705155609,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Meatbray_Ricebowl__Hotplate_100_US_Beef_Grand_Galaxy_City/json/b37a59a1-9387-4394-97f0-465d6df4ed4e.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Meatbray_Ricebowl__Hotplate_100_US_Beef_Grand_Galaxy_City/json/b37a59a1-9387-4394-97f0-465d6df4ed4e.json",
+  "reviews_name": "Meatbray Ricebowl & Hotplate 100% US Beef, Grand Galaxy City",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.77
+  },
+  "range_prices": "16k-40k",
+  "restaurant_id": "eecfae26-b0cc-4063-b0ef-c260539281f7",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.7,
+      "total": 526
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 67,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 51,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 45,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "b37a59a1-9387-4394-97f0-465d6df4ed4e",
+    "username_reviews": "B**** C******",
+    "initialName": "BC",
+    "image_reviews": null,
+    "created_time": "2020-03-11T19:03:50.639+07:00",
+    "created_time_epoch": 1583953430,
+    "reviews_rating": 2,
+    "orders": {
+      "orderedAt": "2020-03-11T09:53:29.323352Z",
+      "items": [
+        {
+          "id": "47469370-3313-4761-86ee-dceb819c55c0",
+          "name": "Hotplate Original French Fries"
+        },
+        {
+          "id": "1798c071-7db2-43e9-8ceb-b254be17077f",
+          "name": "Hotplate Teriyaki"
+        },
+        {
+          "id": "9979ccc2-bbe6-4df6-b1d5-5368041db166",
+          "name": "Bayam Crispy"
+        }
+      ]
+    },
+    "tags_review": [
+      "CANNED_RESPONSE_TASTE",
+      "gofood.co.id"
+    ],
+    "content_reviews": "buat rasa makanan ga tau gua doang. bagi gua rasanya terlalu asin dan minyaknya terlalu ( khusunya kentangnya yg luar biasa berminyak )( dagingnya lebih banyak minyak dari pada sausnya)  buat harga okelah tapi  porsi lumayan.",
+    "date_of_experience": ""
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/ayam-geprek-ayam-com-kemang-pratama-acb48dbc-474f-44f8-a2c9-9310a1dc6f56",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Ayam & bebek",
+    "Aneka nasi",
+    "Cepat saji",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:19:06.874520",
+  "crawling_time_epoch": 1705155546,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Ayam_Geprek_Ayamcom_Kemang_Pratama/json/6b5464e7-5939-4724-b31c-77b0e68ef4ee.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Ayam_Geprek_Ayamcom_Kemang_Pratama/json/6b5464e7-5939-4724-b31c-77b0e68ef4ee.json",
+  "reviews_name": "Ayam Geprek Ayam.com, Kemang Pratama",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.49
+  },
+  "range_prices": "16k-40k",
+  "restaurant_id": "acb48dbc-474f-44f8-a2c9-9310a1dc6f56",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.8,
+      "total": 2048
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 292,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 238,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 224,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "6b5464e7-5939-4724-b31c-77b0e68ef4ee",
+    "username_reviews": "Rahma Ekawati",
+    "initialName": "RE",
+    "image_reviews": null,
+    "created_time": "2023-12-08T18:44:39.618609+07:00",
+    "created_time_epoch": 1702061079,
+    "reviews_rating": 3,
+    "orders": {
+      "orderedAt": "2023-12-08T06:20:58.209118Z",
+      "items": [
+        {
+          "id": "464fd777-57c8-4fd7-8340-04a7ee4f23f1",
+          "name": "Mie + Ayam Geprek Jumbo Moza"
+        },
+        {
+          "id": "82d7d252-3708-4bd4-9c96-f405c1519a8a",
+          "name": "Nasi Putih"
+        }
+      ]
+    },
+    "tags_review": [
+      "gofood.co.id"
+    ],
+    "content_reviews": "baru kali ini orderan saya salah.. Saya pesan mie goreng + ayam geprek jumbo mozza, yg dtg mie goreng + ayam geprek jumbo tanpa mozzarellanya.. Lain kali lebih teliti lg membaca orderan pelanggan, kalo ky gini pelanggan yg rugi!! ",
+    "date_of_experience": ""
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/bang-raden-gerobak-kopi-grand-galaxy-city-11ac8186-f8f3-4965-9a75-13c2dfc2581d",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Minuman",
+    "Kopi",
+    "Sweets",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:21:18.616977",
+  "crawling_time_epoch": 1705155678,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Bang_Raden_Gerobak_Kopi_Grand_Galaxy_City/json/88d3de37-05a9-4af6-8b21-0a13f688f20f.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Bang_Raden_Gerobak_Kopi_Grand_Galaxy_City/json/88d3de37-05a9-4af6-8b21-0a13f688f20f.json",
+  "reviews_name": "Bang Raden Gerobak Kopi, Grand Galaxy City",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 1
+  },
+  "range_prices": "16k-40k",
+  "restaurant_id": "11ac8186-f8f3-4965-9a75-13c2dfc2581d",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.8,
+      "total": 3944
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 461,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 337,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 315,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "88d3de37-05a9-4af6-8b21-0a13f688f20f",
+    "username_reviews": "H****",
+    "initialName": "H",
+    "image_reviews": null,
+    "created_time": "2021-08-29T19:14:57.63796+07:00",
+    "created_time_epoch": 1630264497,
+    "reviews_rating": 3,
+    "orders": {
+      "orderedAt": "2021-08-14T07:25:10.279761Z",
+      "items": [
+        {
+          "id": "23098d87-4a5b-4fdf-a9e8-62cf4381452c",
+          "name": "Raspberry Milk"
+        },
+        {
+          "id": "840b6b2c-1126-4a32-b068-7a4d6150a34f",
+          "name": "WFH 01"
+        },
+        {
+          "id": "cda9c14c-8f43-44fc-a4e8-56dbabe74efb",
+          "name": "Kopi Rakyat ( Best Seller )"
+        }
+      ]
+    },
+    "tags_review": [
+      "gofood.co.id"
+    ],
+    "content_reviews": "tumben bgt beli kopi rakyat encer bgt, rasanya manis bgt ga berasa kopinya😔 pdhl kopi rakyat fav bgt ",
+    "date_of_experience": ""
+  }
+}

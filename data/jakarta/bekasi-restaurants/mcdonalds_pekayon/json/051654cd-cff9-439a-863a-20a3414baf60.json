@@ -1,0 +1,73 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/mcdonald-s-pekayon-50150204-8f6d-4372-8458-668f1be126e8",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Cepat saji",
+    "Sweets",
+    "Jajanan",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:17:21.424093",
+  "crawling_time_epoch": 1705155441,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/McDonalds_Pekayon/json/051654cd-cff9-439a-863a-20a3414baf60.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/McDonalds_Pekayon/json/051654cd-cff9-439a-863a-20a3414baf60.json",
+  "reviews_name": "McDonald's, Pekayon",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.46
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "50150204-8f6d-4372-8458-668f1be126e8",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.8,
+      "total": 70397
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 4555,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 3695,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 3669,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "051654cd-cff9-439a-863a-20a3414baf60",
+    "username_reviews": "R*** N**** S*******",
+    "initialName": "RS",
+    "image_reviews": null,
+    "created_time": "2023-06-25T10:10:01.255266+07:00",
+    "created_time_epoch": 1687687801,
+    "reviews_rating": 1,
+    "orders": {
+      "orderedAt": "2023-06-25T01:27:52.781424Z",
+      "items": [
+        {
+          "id": "b6593629-08b4-4179-b13c-21b452519d46",
+          "name": "PaNas Special Krispy, Large"
+        },
+        {
+          "id": "d5196f16-1cca-452b-ae5d-f4d33adfc8a5",
+          "name": "PaNas Special Spicy, Medium"
+        }
+      ]
+    },
+    "tags_review": [
+      "CANNED_RESPONSE_VALUE",
+      "CANNED_RESPONSE_ORDER",
+      "gofood.co.id"
+    ],
+    "content_reviews": "tidak ada konfirmasi ",
+    "date_of_experience": ""
+  }
+}

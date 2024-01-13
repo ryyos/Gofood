@@ -1,0 +1,66 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/kfc-kemang-pratama-ef8c2c3e-61d6-4bd4-b9fa-10cfd6358dcf",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Cepat saji",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:19:21.062803",
+  "crawling_time_epoch": 1705155561,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/KFC_Kemang_Pratama/json/aaf43292-db04-4a9b-a15c-5477e3eaff52.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/KFC_Kemang_Pratama/json/aaf43292-db04-4a9b-a15c-5477e3eaff52.json",
+  "reviews_name": "KFC, Kemang Pratama",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.53
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "ef8c2c3e-61d6-4bd4-b9fa-10cfd6358dcf",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.8,
+      "total": 24067
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 2021,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 1696,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 1631,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "aaf43292-db04-4a9b-a15c-5477e3eaff52",
+    "username_reviews": "K*** S*******",
+    "initialName": "KS",
+    "image_reviews": null,
+    "created_time": "2020-11-18T17:54:38.804+07:00",
+    "created_time_epoch": 1605722078,
+    "reviews_rating": 2,
+    "orders": {
+      "orderedAt": "2020-11-15T13:15:27.202668Z",
+      "items": [
+        {
+          "id": "c17667f6-c69e-45be-9f28-9bd4d06f35eb",
+          "name": "Hot and Crispy Chicken"
+        }
+      ]
+    },
+    "tags_review": [
+      "",
+      "gofood.co.id"
+    ],
+    "content_reviews": "pesen dada atas knp datunya dikasih paha?",
+    "date_of_experience": ""
+  }
+}

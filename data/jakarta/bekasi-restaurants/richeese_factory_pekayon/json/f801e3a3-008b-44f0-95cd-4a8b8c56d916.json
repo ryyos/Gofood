@@ -1,0 +1,67 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/richeese-factory-pekayon-fb7c3452-2cba-464a-9e24-23840a40a179",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Cepat saji",
+    "Ayam & bebek",
+    "Aneka nasi",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:20:23.240256",
+  "crawling_time_epoch": 1705155623,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Richeese_Factory_Pekayon/json/f801e3a3-008b-44f0-95cd-4a8b8c56d916.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Richeese_Factory_Pekayon/json/f801e3a3-008b-44f0-95cd-4a8b8c56d916.json",
+  "reviews_name": "Richeese Factory, Pekayon",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.97
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "fb7c3452-2cba-464a-9e24-23840a40a179",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.7,
+      "total": 32095
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 2029,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 1477,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 1469,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "f801e3a3-008b-44f0-95cd-4a8b8c56d916",
+    "username_reviews": "Kristoforus",
+    "initialName": "K",
+    "image_reviews": null,
+    "created_time": "2022-09-09T15:07:38.716221+07:00",
+    "created_time_epoch": 1662736058,
+    "reviews_rating": 5,
+    "orders": {
+      "orderedAt": "2022-09-09T07:11:26.943929Z",
+      "items": [
+        {
+          "id": "83c21747-8913-4bff-8c2f-89888879a49e",
+          "name": "Combo Truffle Fire Chicken"
+        }
+      ]
+    },
+    "tags_review": [
+      "gofood.co.id"
+    ],
+    "content_reviews": "saos kurang hehehe ",
+    "date_of_experience": ""
+  }
+}

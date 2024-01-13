@@ -1,0 +1,75 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/mcdonald-s-pekayon-50150204-8f6d-4372-8458-668f1be126e8",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Cepat saji",
+    "Sweets",
+    "Jajanan",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:17:21.424093",
+  "crawling_time_epoch": 1705155441,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/McDonalds_Pekayon/json/90f45221-8d5e-4476-8cf0-4de7a1ee4117.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/McDonalds_Pekayon/json/90f45221-8d5e-4476-8cf0-4de7a1ee4117.json",
+  "reviews_name": "McDonald's, Pekayon",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.46
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "50150204-8f6d-4372-8458-668f1be126e8",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.8,
+      "total": 70397
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 4555,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 3695,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 3669,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "90f45221-8d5e-4476-8cf0-4de7a1ee4117",
+    "username_reviews": "Rifqo Muhammad Putra",
+    "initialName": "RP",
+    "image_reviews": null,
+    "created_time": "2022-05-04T21:40:09.076625+07:00",
+    "created_time_epoch": 1651700409,
+    "reviews_rating": 3,
+    "orders": {
+      "orderedAt": "2022-04-29T15:36:16.945657Z",
+      "items": [
+        {
+          "id": "5c1c3f27-537b-480f-8f65-359233244057",
+          "name": "Cheeseburger Deluxe"
+        },
+        {
+          "id": "5dad0cf1-1f37-4721-9ab1-dd1a345baec7",
+          "name": "Mixed Berries McFlurry with Froot Loops"
+        },
+        {
+          "id": "f5788be9-4c6d-426d-8aea-6fa1ee630eb4",
+          "name": "Iced Coffee Jelly"
+        }
+      ]
+    },
+    "tags_review": [
+      "gofood.co.id"
+    ],
+    "content_reviews": "Varian Froot Loops-nya enak, tidak terlalu manis, hanya saja toppingnya kurang banyak. Cheeseburger Deluxe-nya juga tidak sesuai dengan penampilan di gambar. Tipis, isinya sedikit, seadanya sekali. Selebihnya oke, memuaskan.",
+    "date_of_experience": ""
+  }
+}

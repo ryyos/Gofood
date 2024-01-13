@@ -1,0 +1,67 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/sate-madura-cak-ari-bekasi-selatan-65c0efa7-65ff-4868-95e5-a4ec690c6c14",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Sate",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:19:50.904999",
+  "crawling_time_epoch": 1705155590,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Sate_Madura_Cak_Ari_Bekasi_Selatan/json/63990716-10ad-4233-bd8c-8607e49c9866.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Sate_Madura_Cak_Ari_Bekasi_Selatan/json/63990716-10ad-4233-bd8c-8607e49c9866.json",
+  "reviews_name": "Sate Madura Cak Ari, Bekasi Selatan",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.69
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "65c0efa7-65ff-4868-95e5-a4ec690c6c14",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.7,
+      "total": 6478
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 827,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 589,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 535,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "63990716-10ad-4233-bd8c-8607e49c9866",
+    "username_reviews": "Johannes",
+    "initialName": "J",
+    "image_reviews": null,
+    "created_time": "2023-08-18T22:47:41.672233+07:00",
+    "created_time_epoch": 1692398861,
+    "reviews_rating": 5,
+    "orders": {
+      "orderedAt": "2023-08-18T09:27:37.323207Z",
+      "items": [
+        {
+          "id": "f2aea19b-05e9-4774-9a04-b798e3879604",
+          "name": "Sate Ayam"
+        }
+      ]
+    },
+    "tags_review": [
+      "CANNED_RESPONSE_TASTE",
+      "CANNED_RESPONSE_PORTION",
+      "gofood.co.id"
+    ],
+    "content_reviews": "rasanya mantap👍👍",
+    "date_of_experience": ""
+  }
+}

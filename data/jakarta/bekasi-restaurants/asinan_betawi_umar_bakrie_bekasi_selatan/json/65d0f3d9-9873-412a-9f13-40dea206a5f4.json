@@ -1,0 +1,81 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/asinan-betawi-umar-bakrie-bekasi-selatan-6256964a-a97c-4657-ab38-68cdba4e3d50",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Cepat saji",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:17:16.823868",
+  "crawling_time_epoch": 1705155436,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Asinan_Betawi_Umar_Bakrie_Bekasi_Selatan/json/65d0f3d9-9873-412a-9f13-40dea206a5f4.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Asinan_Betawi_Umar_Bakrie_Bekasi_Selatan/json/65d0f3d9-9873-412a-9f13-40dea206a5f4.json",
+  "reviews_name": "Asinan Betawi Umar Bakrie, Bekasi Selatan",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.39
+  },
+  "range_prices": "16k-40k",
+  "restaurant_id": "6256964a-a97c-4657-ab38-68cdba4e3d50",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.8,
+      "total": 1319
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 186,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 162,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 149,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "65d0f3d9-9873-412a-9f13-40dea206a5f4",
+    "username_reviews": "D****",
+    "initialName": "D",
+    "image_reviews": null,
+    "created_time": "2021-04-01T13:21:30.774795+07:00",
+    "created_time_epoch": 1617283290,
+    "reviews_rating": 5,
+    "orders": {
+      "orderedAt": "2021-04-01T05:37:46.574222Z",
+      "items": [
+        {
+          "id": "3b50b38a-4085-47c4-aab8-a78e771f705f",
+          "name": "Asinan Sayur tanpa kol penor"
+        },
+        {
+          "id": "5ca61997-6b07-4af9-8399-2e075224ae3c",
+          "name": "Kerupuk Mie kacang Tanah"
+        },
+        {
+          "id": "ce0bb1d1-af6e-4c61-948e-0e215f17d284",
+          "name": "krupuk  mie bulat"
+        },
+        {
+          "id": "944d4a24-5f10-4d86-835b-88138e64bd94",
+          "name": "Bumbu sambal kacang Pe Nor"
+        },
+        {
+          "id": "913aba9a-2bda-4f74-bd09-5b65b8953fb3",
+          "name": "Singkong Goreng + Keju( K S )"
+        }
+      ]
+    },
+    "tags_review": [
+      "gofood.co.id"
+    ],
+    "content_reviews": "singkong keju jgn dipotong kecil2..",
+    "date_of_experience": ""
+  }
+}

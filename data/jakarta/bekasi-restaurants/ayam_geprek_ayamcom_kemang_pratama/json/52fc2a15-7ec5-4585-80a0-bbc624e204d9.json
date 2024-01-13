@@ -1,0 +1,71 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/ayam-geprek-ayam-com-kemang-pratama-acb48dbc-474f-44f8-a2c9-9310a1dc6f56",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Ayam & bebek",
+    "Aneka nasi",
+    "Cepat saji",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:19:06.874520",
+  "crawling_time_epoch": 1705155546,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Ayam_Geprek_Ayamcom_Kemang_Pratama/json/52fc2a15-7ec5-4585-80a0-bbc624e204d9.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Ayam_Geprek_Ayamcom_Kemang_Pratama/json/52fc2a15-7ec5-4585-80a0-bbc624e204d9.json",
+  "reviews_name": "Ayam Geprek Ayam.com, Kemang Pratama",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.49
+  },
+  "range_prices": "16k-40k",
+  "restaurant_id": "acb48dbc-474f-44f8-a2c9-9310a1dc6f56",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.8,
+      "total": 2048
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 292,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 238,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 224,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "52fc2a15-7ec5-4585-80a0-bbc624e204d9",
+    "username_reviews": "Nina",
+    "initialName": "N",
+    "image_reviews": null,
+    "created_time": "2022-05-04T19:48:01.321539+07:00",
+    "created_time_epoch": 1651693681,
+    "reviews_rating": 3,
+    "orders": {
+      "orderedAt": "2022-05-04T11:35:02.730093Z",
+      "items": [
+        {
+          "id": "0293293b-a91f-47e2-b364-6aad1ee88e42",
+          "name": "Ayam Geprek Jumbo"
+        },
+        {
+          "id": "82d7d252-3708-4bd4-9c96-f405c1519a8a",
+          "name": "Nasi Putih"
+        }
+      ]
+    },
+    "tags_review": [
+      "gofood.co.id"
+    ],
+    "content_reviews": "orderan saya kurang 1 pack ayam nya.saya pesan 5 yg datang 4",
+    "date_of_experience": ""
+  }
+}

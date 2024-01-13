@@ -1,0 +1,69 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/dobel-martabak-bude-pekayon-c516bbfe-5583-4fbc-9605-9cd02cd220b0",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Martabak",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:18:42.021929",
+  "crawling_time_epoch": 1705155522,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Dobel_Martabak_Bude_Pekayon/json/74f64ead-209a-4b7c-9a84-adbc324442cd.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Dobel_Martabak_Bude_Pekayon/json/74f64ead-209a-4b7c-9a84-adbc324442cd.json",
+  "reviews_name": "Dobel Martabak Bude, Pekayon",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.46
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "c516bbfe-5583-4fbc-9605-9cd02cd220b0",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.6,
+      "total": 2907
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 366,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 264,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 253,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "74f64ead-209a-4b7c-9a84-adbc324442cd",
+    "username_reviews": "N**",
+    "initialName": "N",
+    "image_reviews": null,
+    "created_time": "2022-08-28T20:19:01.109768+07:00",
+    "created_time_epoch": 1661717941,
+    "reviews_rating": 3,
+    "orders": {
+      "orderedAt": "2022-08-28T12:52:27.498275Z",
+      "items": [
+        {
+          "id": "418e9bca-b072-4838-8ac7-06b3362a914f",
+          "name": "Martabak Telor Bebek Istimewa"
+        },
+        {
+          "id": "d5158c92-bf82-45ee-8b58-5929833a33aa",
+          "name": "Kacang ( Biasa )"
+        }
+      ]
+    },
+    "tags_review": [
+      "gofood.co.id"
+    ],
+    "content_reviews": "pesennya kacang yg dikirim coklat",
+    "date_of_experience": ""
+  }
+}

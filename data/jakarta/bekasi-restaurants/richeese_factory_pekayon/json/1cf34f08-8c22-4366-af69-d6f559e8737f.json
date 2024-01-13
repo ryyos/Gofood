@@ -1,0 +1,75 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/richeese-factory-pekayon-fb7c3452-2cba-464a-9e24-23840a40a179",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Cepat saji",
+    "Ayam & bebek",
+    "Aneka nasi",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:20:23.240256",
+  "crawling_time_epoch": 1705155623,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Richeese_Factory_Pekayon/json/1cf34f08-8c22-4366-af69-d6f559e8737f.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Richeese_Factory_Pekayon/json/1cf34f08-8c22-4366-af69-d6f559e8737f.json",
+  "reviews_name": "Richeese Factory, Pekayon",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.97
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "fb7c3452-2cba-464a-9e24-23840a40a179",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.7,
+      "total": 32095
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 2029,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 1477,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 1469,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "1cf34f08-8c22-4366-af69-d6f559e8737f",
+    "username_reviews": "R*****",
+    "initialName": "R",
+    "image_reviews": null,
+    "created_time": "2020-09-23T14:27:32.431+07:00",
+    "created_time_epoch": 1600871252,
+    "reviews_rating": 5,
+    "orders": {
+      "orderedAt": "2020-09-19T12:28:41.482915Z",
+      "items": [
+        {
+          "id": "dfd0e3e6-aa68-47a9-bbc2-73b1fc7b59da",
+          "name": "Combo Mala Chicken"
+        },
+        {
+          "id": "4c73b639-a6a7-462f-94db-702985be6288",
+          "name": "Paket New Hemat Chicken"
+        }
+      ]
+    },
+    "tags_review": [
+      "CANNED_RESPONSE_FRESHNESS",
+      "CANNED_RESPONSE_PORTION",
+      "CANNED_RESPONSE_HYGIENE",
+      "CANNED_RESPONSE_PACKAGING",
+      "gofood.co.id"
+    ],
+    "content_reviews": "Si mala chicken tak se hot yg kubayangkan",
+    "date_of_experience": ""
+  }
+}

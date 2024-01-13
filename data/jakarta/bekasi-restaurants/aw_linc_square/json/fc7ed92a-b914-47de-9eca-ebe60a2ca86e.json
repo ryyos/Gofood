@@ -1,0 +1,75 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/a-w-linc-square-d4fe7a94-86cd-4883-b279-07bdd7002ad9",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Cepat saji",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:20:11.107220",
+  "crawling_time_epoch": 1705155611,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/AW_Linc_Square/json/fc7ed92a-b914-47de-9eca-ebe60a2ca86e.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/AW_Linc_Square/json/fc7ed92a-b914-47de-9eca-ebe60a2ca86e.json",
+  "reviews_name": "A&W, Linc Square",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.94
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "d4fe7a94-86cd-4883-b279-07bdd7002ad9",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.8,
+      "total": 7181
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 499,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 403,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 365,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "fc7ed92a-b914-47de-9eca-ebe60a2ca86e",
+    "username_reviews": "fitria ze",
+    "initialName": "FZ",
+    "image_reviews": null,
+    "created_time": "2022-08-10T16:14:42.366812+07:00",
+    "created_time_epoch": 1660148082,
+    "reviews_rating": 5,
+    "orders": {
+      "orderedAt": "2022-08-10T04:15:47.571473Z",
+      "items": [
+        {
+          "id": "5d7dea3f-e283-4631-8329-fe731848e961",
+          "name": "Spicy Aroma Chicken"
+        },
+        {
+          "id": "317d52c3-58be-4c68-a8c2-54954ad2cb1f",
+          "name": "RB"
+        }
+      ]
+    },
+    "tags_review": [
+      "CANNED_RESPONSE_FRESHNESS",
+      "CANNED_RESPONSE_TASTE",
+      "CANNED_RESPONSE_PORTION",
+      "CANNED_RESPONSE_HYGIENE",
+      "CANNED_RESPONSE_PACKAGING",
+      "CANNED_RESPONSE_VALUE",
+      "gofood.co.id"
+    ],
+    "content_reviews": "favorit bgt. thanks chef!",
+    "date_of_experience": ""
+  }
+}

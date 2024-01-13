@@ -1,0 +1,74 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/mcdonald-s-pekayon-50150204-8f6d-4372-8458-668f1be126e8",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Cepat saji",
+    "Sweets",
+    "Jajanan",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:17:21.424093",
+  "crawling_time_epoch": 1705155441,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/McDonalds_Pekayon/json/3ec2c517-46d9-4907-b068-7a460091029a.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/McDonalds_Pekayon/json/3ec2c517-46d9-4907-b068-7a460091029a.json",
+  "reviews_name": "McDonald's, Pekayon",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.46
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "50150204-8f6d-4372-8458-668f1be126e8",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.8,
+      "total": 70397
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 4555,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 3695,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 3669,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "3ec2c517-46d9-4907-b068-7a460091029a",
+    "username_reviews": "Alvin Wijaya",
+    "initialName": "AW",
+    "image_reviews": null,
+    "created_time": "2023-07-07T19:48:20.859241+07:00",
+    "created_time_epoch": 1688759300,
+    "reviews_rating": 5,
+    "orders": {
+      "orderedAt": "2023-07-06T16:20:10.459451Z",
+      "items": [
+        {
+          "id": "f255ed63-b63c-4fa2-8341-7a898839ea2b",
+          "name": "1pc Spicy Chicken"
+        }
+      ]
+    },
+    "tags_review": [
+      "CANNED_RESPONSE_FRESHNESS",
+      "CANNED_RESPONSE_TASTE",
+      "CANNED_RESPONSE_PORTION",
+      "CANNED_RESPONSE_HYGIENE",
+      "CANNED_RESPONSE_PACKAGING",
+      "CANNED_RESPONSE_VALUE",
+      "CANNED_RESPONSE_CUTLERY",
+      "gofood.co.id"
+    ],
+    "content_reviews": "👍🏼 manajakajajajjajsjaa",
+    "date_of_experience": ""
+  }
+}

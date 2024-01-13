@@ -1,0 +1,77 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/sate-madura-cak-ari-bekasi-selatan-65c0efa7-65ff-4868-95e5-a4ec690c6c14",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Sate",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:19:50.904999",
+  "crawling_time_epoch": 1705155590,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Sate_Madura_Cak_Ari_Bekasi_Selatan/json/f93f8d23-2a43-4283-b343-f25f58a3c584.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Sate_Madura_Cak_Ari_Bekasi_Selatan/json/f93f8d23-2a43-4283-b343-f25f58a3c584.json",
+  "reviews_name": "Sate Madura Cak Ari, Bekasi Selatan",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.69
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "65c0efa7-65ff-4868-95e5-a4ec690c6c14",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.7,
+      "total": 6478
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 827,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 589,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 535,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "f93f8d23-2a43-4283-b343-f25f58a3c584",
+    "username_reviews": "Aajannis",
+    "initialName": "A",
+    "image_reviews": null,
+    "created_time": "2022-07-02T19:21:18.44616+07:00",
+    "created_time_epoch": 1656789678,
+    "reviews_rating": 5,
+    "orders": {
+      "orderedAt": "2022-07-01T09:46:30.763303Z",
+      "items": [
+        {
+          "id": "75435b03-4dfe-490d-8291-79be0e049099",
+          "name": "Paket Sate Ayam"
+        },
+        {
+          "id": "924aafba-8190-4bb2-a833-713f344d0b93",
+          "name": "Sate Kambing+lontong"
+        },
+        {
+          "id": "d75caa08-3692-4d43-bda5-dfb94a3a92d0",
+          "name": "Sop"
+        },
+        {
+          "id": "f2aea19b-05e9-4774-9a04-b798e3879604",
+          "name": "Sate Ayam"
+        }
+      ]
+    },
+    "tags_review": [
+      "gofood.co.id"
+    ],
+    "content_reviews": "Uenak. Jos gandos! ",
+    "date_of_experience": ""
+  }
+}

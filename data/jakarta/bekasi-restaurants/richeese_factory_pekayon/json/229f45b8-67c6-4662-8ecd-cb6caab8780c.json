@@ -1,0 +1,77 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/richeese-factory-pekayon-fb7c3452-2cba-464a-9e24-23840a40a179",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Cepat saji",
+    "Ayam & bebek",
+    "Aneka nasi",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:20:23.240256",
+  "crawling_time_epoch": 1705155623,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Richeese_Factory_Pekayon/json/229f45b8-67c6-4662-8ecd-cb6caab8780c.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Richeese_Factory_Pekayon/json/229f45b8-67c6-4662-8ecd-cb6caab8780c.json",
+  "reviews_name": "Richeese Factory, Pekayon",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.97
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "fb7c3452-2cba-464a-9e24-23840a40a179",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.7,
+      "total": 32095
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 2029,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 1477,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 1469,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "229f45b8-67c6-4662-8ecd-cb6caab8780c",
+    "username_reviews": "P**** S******",
+    "initialName": "PS",
+    "image_reviews": null,
+    "created_time": "2021-03-30T08:51:59.87107+07:00",
+    "created_time_epoch": 1617094319,
+    "reviews_rating": 5,
+    "orders": {
+      "orderedAt": "2021-03-29T04:29:10.529217Z",
+      "items": [
+        {
+          "id": "2fb64133-69f5-4592-a6f3-c04c584a7f08",
+          "name": "Combo 2 Fire Drum Stick"
+        },
+        {
+          "id": "48a52081-e041-4f8e-853a-c1c27d0b00ae",
+          "name": "Potato Pom Pom Ala Carte"
+        }
+      ]
+    },
+    "tags_review": [
+      "CANNED_RESPONSE_FRESHNESS",
+      "CANNED_RESPONSE_TASTE",
+      "CANNED_RESPONSE_PORTION",
+      "CANNED_RESPONSE_HYGIENE",
+      "CANNED_RESPONSE_PACKAGING",
+      "CANNED_RESPONSE_VALUE",
+      "gofood.co.id"
+    ],
+    "content_reviews": "i love it so much",
+    "date_of_experience": ""
+  }
+}

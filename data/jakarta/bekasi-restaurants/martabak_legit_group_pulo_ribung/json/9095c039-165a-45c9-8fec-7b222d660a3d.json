@@ -1,0 +1,66 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/martabak-legit-group-pulo-ribung-e7bc6ee0-6632-451a-b5cf-adb7af7c3da9",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Jajanan",
+    "Martabak",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:20:03.652928",
+  "crawling_time_epoch": 1705155603,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Martabak_Legit_Group_Pulo_Ribung/json/9095c039-165a-45c9-8fec-7b222d660a3d.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Martabak_Legit_Group_Pulo_Ribung/json/9095c039-165a-45c9-8fec-7b222d660a3d.json",
+  "reviews_name": "Martabak Legit Group, Pulo Ribung",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.71
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "e7bc6ee0-6632-451a-b5cf-adb7af7c3da9",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.5,
+      "total": 1731
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 174,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 137,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 126,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "9095c039-165a-45c9-8fec-7b222d660a3d",
+    "username_reviews": "Nisa",
+    "initialName": "N",
+    "image_reviews": null,
+    "created_time": "2023-12-06T22:51:50.217413+07:00",
+    "created_time_epoch": 1701903110,
+    "reviews_rating": 5,
+    "orders": {
+      "orderedAt": "2023-12-06T15:03:15.514793Z",
+      "items": [
+        {
+          "id": "dc4a879e-599e-4ed9-9151-cc774ed820a6",
+          "name": "Martabak Manis Tiramisu Keju"
+        }
+      ]
+    },
+    "tags_review": [
+      "gofood.co.id"
+    ],
+    "content_reviews": "Terima kasih ya pesanan saya srsuai NOTE.\nMartabak yg enak di Galaxy....sukses terus ya...",
+    "date_of_experience": ""
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/asinan-betawi-umar-bakrie-bekasi-selatan-6256964a-a97c-4657-ab38-68cdba4e3d50",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Cepat saji",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:17:16.823868",
+  "crawling_time_epoch": 1705155436,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Asinan_Betawi_Umar_Bakrie_Bekasi_Selatan/json/de836fdb-a70b-439e-b079-9342cf642741.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Asinan_Betawi_Umar_Bakrie_Bekasi_Selatan/json/de836fdb-a70b-439e-b079-9342cf642741.json",
+  "reviews_name": "Asinan Betawi Umar Bakrie, Bekasi Selatan",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.39
+  },
+  "range_prices": "16k-40k",
+  "restaurant_id": "6256964a-a97c-4657-ab38-68cdba4e3d50",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.8,
+      "total": 1319
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 186,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 162,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 149,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "de836fdb-a70b-439e-b079-9342cf642741",
+    "username_reviews": "B***** V**********",
+    "initialName": "BV",
+    "image_reviews": null,
+    "created_time": "2019-09-11T18:28:52.68+07:00",
+    "created_time_epoch": 1568226532,
+    "reviews_rating": 2,
+    "orders": {
+      "orderedAt": "2019-09-10T17:49:52.912901Z",
+      "items": [
+        {
+          "id": "afc9856e-8cac-4f72-bf20-0f6528e87d88",
+          "name": "Asinan Buah Pedas Normal"
+        }
+      ]
+    },
+    "tags_review": [
+      "",
+      "gofood.co.id"
+    ],
+    "content_reviews": "dondong nya benyek bgt.dan terlalu asem",
+    "date_of_experience": ""
+  }
+}

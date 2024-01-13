@@ -1,0 +1,76 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/ayam-geprek-ayam-com-kemang-pratama-acb48dbc-474f-44f8-a2c9-9310a1dc6f56",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Ayam & bebek",
+    "Aneka nasi",
+    "Cepat saji",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:19:06.874520",
+  "crawling_time_epoch": 1705155546,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Ayam_Geprek_Ayamcom_Kemang_Pratama/json/df0b2f8a-ed1b-4a37-8427-c8c6fb16aae1.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Ayam_Geprek_Ayamcom_Kemang_Pratama/json/df0b2f8a-ed1b-4a37-8427-c8c6fb16aae1.json",
+  "reviews_name": "Ayam Geprek Ayam.com, Kemang Pratama",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.49
+  },
+  "range_prices": "16k-40k",
+  "restaurant_id": "acb48dbc-474f-44f8-a2c9-9310a1dc6f56",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.8,
+      "total": 2048
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 292,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 238,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 224,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "df0b2f8a-ed1b-4a37-8427-c8c6fb16aae1",
+    "username_reviews": "L***",
+    "initialName": "L",
+    "image_reviews": null,
+    "created_time": "2019-11-09T22:10:33.539+07:00",
+    "created_time_epoch": 1573337433,
+    "reviews_rating": 3,
+    "orders": {
+      "orderedAt": "2019-11-09T09:30:58.052473Z",
+      "items": [
+        {
+          "id": "abe8dd4d-93ff-4295-9329-ae17979b19eb",
+          "name": "Ayam Geprek Sayap"
+        },
+        {
+          "id": "e761b058-fd1d-47f0-b294-9eeb16c997cc",
+          "name": "Tahu Geprek"
+        },
+        {
+          "id": "50b00e54-fefd-4f01-985c-d633b7e08cf7",
+          "name": "Tempe"
+        }
+      ]
+    },
+    "tags_review": [
+      "CANNED_RESPONSE_TASTE",
+      "gofood.co.id"
+    ],
+    "content_reviews": "ayamnya ga garing. cenderung keasinan. sambel dkit bgt, walopun pedasnya pas. wangi bawang putih. enak tp biasa aja.",
+    "date_of_experience": ""
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/richeese-factory-pekayon-fb7c3452-2cba-464a-9e24-23840a40a179",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Cepat saji",
+    "Ayam & bebek",
+    "Aneka nasi",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:20:23.240256",
+  "crawling_time_epoch": 1705155623,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Richeese_Factory_Pekayon/json/684ec6c2-0c0c-47c4-baa4-c5a70414bf68.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Richeese_Factory_Pekayon/json/684ec6c2-0c0c-47c4-baa4-c5a70414bf68.json",
+  "reviews_name": "Richeese Factory, Pekayon",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.97
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "fb7c3452-2cba-464a-9e24-23840a40a179",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.7,
+      "total": 32095
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 2029,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 1477,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 1469,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "684ec6c2-0c0c-47c4-baa4-c5a70414bf68",
+    "username_reviews": "F***** P****** K*****",
+    "initialName": "FK",
+    "image_reviews": null,
+    "created_time": "2022-03-06T19:57:49.411509+07:00",
+    "created_time_epoch": 1646596669,
+    "reviews_rating": 1,
+    "orders": {
+      "orderedAt": "2022-03-06T12:22:50.509295Z",
+      "items": [
+        {
+          "id": "8c52e0d3-1361-4d90-a6e1-39428eb56315",
+          "name": "Fire Flying Chicken 8 pcs"
+        }
+      ]
+    },
+    "tags_review": [
+      "CANNED_RESPONSE_PICKUP_EXP",
+      "CANNED_RESPONSE_ORDER",
+      "gofood.co.id"
+    ],
+    "content_reviews": "Order pickup sama aja kayak order biasa pesen langsung di resto",
+    "date_of_experience": ""
+  }
+}

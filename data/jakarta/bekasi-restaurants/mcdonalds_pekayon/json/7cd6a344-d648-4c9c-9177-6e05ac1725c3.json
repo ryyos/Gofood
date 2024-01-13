@@ -1,0 +1,85 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/mcdonald-s-pekayon-50150204-8f6d-4372-8458-668f1be126e8",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Cepat saji",
+    "Sweets",
+    "Jajanan",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:17:21.424093",
+  "crawling_time_epoch": 1705155441,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/McDonalds_Pekayon/json/7cd6a344-d648-4c9c-9177-6e05ac1725c3.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/McDonalds_Pekayon/json/7cd6a344-d648-4c9c-9177-6e05ac1725c3.json",
+  "reviews_name": "McDonald's, Pekayon",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.46
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "50150204-8f6d-4372-8458-668f1be126e8",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.8,
+      "total": 70397
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 4555,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 3695,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 3669,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "7cd6a344-d648-4c9c-9177-6e05ac1725c3",
+    "username_reviews": "N*** N*****",
+    "initialName": "NN",
+    "image_reviews": null,
+    "created_time": "2022-01-11T20:51:24.067966+07:00",
+    "created_time_epoch": 1641934284,
+    "reviews_rating": 2,
+    "orders": {
+      "orderedAt": "2022-01-11T12:48:46.94996Z",
+      "items": [
+        {
+          "id": "9215414a-c3fe-4d72-a109-9a4bf1194a3f",
+          "name": "Hemat Seru - 2pcs Mini Cuts Spicy Chicken + Reg. Rice + Iced Coffee + McFlurry Oreo"
+        },
+        {
+          "id": "d6420611-fe88-4cd9-905b-b5b0d4939cdb",
+          "name": "McFlurry feat. Cadbury with OREO"
+        },
+        {
+          "id": "9a1cf6b9-0bfa-4729-bd88-ff1295cbaf16",
+          "name": "Beef Prosperity Burger Medium, French Fries"
+        },
+        {
+          "id": "e3b48d0d-d1b2-4ccd-b0dc-1c6d973f0be3",
+          "name": "Happy Meal Beef Burger"
+        },
+        {
+          "id": "501098b3-0982-4259-a1b5-f48ffb5be52d",
+          "name": "PaMer 5 Mix"
+        }
+      ]
+    },
+    "tags_review": [
+      "CANNED_RESPONSE_PACKAGING",
+      "CANNED_RESPONSE_ORDER",
+      "gofood.co.id"
+    ],
+    "content_reviews": "Ada menu paket yang ketinggalan,,ga kebawa sama drivernya, si bapk driver nawarin mau balik k resto, tp saya tolak, kasihan krn hujan,,Masa hanya krn perkara pesanan banyak dan load orderan tinggi, akurasi pesanan jadi buruk atau menurun.",
+    "date_of_experience": ""
+  }
+}

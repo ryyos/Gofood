@@ -1,0 +1,72 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/mcdonald-s-pekayon-50150204-8f6d-4372-8458-668f1be126e8",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Cepat saji",
+    "Sweets",
+    "Jajanan",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:17:21.424093",
+  "crawling_time_epoch": 1705155441,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/McDonalds_Pekayon/json/788a762d-f3cf-43cf-9ba6-343b0a7cd57a.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/McDonalds_Pekayon/json/788a762d-f3cf-43cf-9ba6-343b0a7cd57a.json",
+  "reviews_name": "McDonald's, Pekayon",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.46
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "50150204-8f6d-4372-8458-668f1be126e8",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.8,
+      "total": 70397
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 4555,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 3695,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 3669,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "788a762d-f3cf-43cf-9ba6-343b0a7cd57a",
+    "username_reviews": "D***",
+    "initialName": "D",
+    "image_reviews": null,
+    "created_time": "2021-07-19T16:36:23.742772+07:00",
+    "created_time_epoch": 1626712583,
+    "reviews_rating": 3,
+    "orders": {
+      "orderedAt": "2021-07-19T09:10:19.505132Z",
+      "items": [
+        {
+          "id": "b0c30b98-de9d-4937-9fdd-8de992e70d3f",
+          "name": "1pc Krispy Chicken"
+        },
+        {
+          "id": "851b40d2-398e-4be8-a955-5fc623f05800",
+          "name": "Iced Coffee Jelly Float"
+        }
+      ]
+    },
+    "tags_review": [
+      "CANNED_RESPONSE_PACKAGING",
+      "gofood.co.id"
+    ],
+    "content_reviews": "saya beli iced coffe jelly float ternyata gelas cup nya bocor. mohon lain kali lebih teliti ya, terutama dalam mengemas minuman",
+    "date_of_experience": ""
+  }
+}

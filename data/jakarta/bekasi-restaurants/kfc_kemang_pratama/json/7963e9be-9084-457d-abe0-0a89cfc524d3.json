@@ -1,0 +1,69 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/kfc-kemang-pratama-ef8c2c3e-61d6-4bd4-b9fa-10cfd6358dcf",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Cepat saji",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:19:21.062803",
+  "crawling_time_epoch": 1705155561,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/KFC_Kemang_Pratama/json/7963e9be-9084-457d-abe0-0a89cfc524d3.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/KFC_Kemang_Pratama/json/7963e9be-9084-457d-abe0-0a89cfc524d3.json",
+  "reviews_name": "KFC, Kemang Pratama",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.53
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "ef8c2c3e-61d6-4bd4-b9fa-10cfd6358dcf",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.8,
+      "total": 24067
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 2021,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 1696,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 1631,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "7963e9be-9084-457d-abe0-0a89cfc524d3",
+    "username_reviews": "P*****",
+    "initialName": "P",
+    "image_reviews": null,
+    "created_time": "2021-08-24T13:17:21.005567+07:00",
+    "created_time_epoch": 1629811041,
+    "reviews_rating": 1,
+    "orders": {
+      "orderedAt": "2021-08-24T05:26:51.52843Z",
+      "items": [
+        {
+          "id": "0bfddc65-7073-4dc0-bd84-b106545196db",
+          "name": "Crazy Deal 5"
+        },
+        {
+          "id": "16f882a2-755a-46cc-83e1-640edbab49d9",
+          "name": "French Fries Large"
+        }
+      ]
+    },
+    "tags_review": [
+      "gofood.co.id"
+    ],
+    "content_reviews": "i asked for ORIGINAL RECIPE (OR) Chickens. The receipt in the application stated that. the hard copy receipt from the restaurant stated that. But I got the HCC chicken. disappointed",
+    "date_of_experience": ""
+  }
+}

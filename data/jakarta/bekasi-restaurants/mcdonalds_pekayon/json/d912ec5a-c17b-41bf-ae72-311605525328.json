@@ -1,0 +1,76 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/mcdonald-s-pekayon-50150204-8f6d-4372-8458-668f1be126e8",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Cepat saji",
+    "Sweets",
+    "Jajanan",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:17:21.424093",
+  "crawling_time_epoch": 1705155441,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/McDonalds_Pekayon/json/d912ec5a-c17b-41bf-ae72-311605525328.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/McDonalds_Pekayon/json/d912ec5a-c17b-41bf-ae72-311605525328.json",
+  "reviews_name": "McDonald's, Pekayon",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.46
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "50150204-8f6d-4372-8458-668f1be126e8",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.8,
+      "total": 70397
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 4555,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 3695,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 3669,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "d912ec5a-c17b-41bf-ae72-311605525328",
+    "username_reviews": "S*****",
+    "initialName": "S",
+    "image_reviews": null,
+    "created_time": "2023-08-06T02:47:14.922354+07:00",
+    "created_time_epoch": 1691290034,
+    "reviews_rating": 2,
+    "orders": {
+      "orderedAt": "2023-08-05T19:08:00.786131Z",
+      "items": [
+        {
+          "id": "f255ed63-b63c-4fa2-8341-7a898839ea2b",
+          "name": "1pc Spicy Chicken"
+        },
+        {
+          "id": "6a3b84a8-b604-4aa5-b4c6-9b02d5532ce2",
+          "name": "Paket Hemat McSpicy, Medium"
+        },
+        {
+          "id": "5e5b6a81-8fb2-42af-b93c-abe4d26fbe4f",
+          "name": "PaNas 2  Krispy with Fries, Medium"
+        }
+      ]
+    },
+    "tags_review": [
+      "CANNED_RESPONSE_ORDER",
+      "gofood.co.id"
+    ],
+    "content_reviews": "pesen ayam krispy 2 biji yg dtg cm minuman sm kentang doang ",
+    "date_of_experience": ""
+  }
+}

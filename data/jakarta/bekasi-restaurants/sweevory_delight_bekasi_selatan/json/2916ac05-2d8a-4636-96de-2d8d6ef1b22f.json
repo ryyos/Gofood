@@ -1,0 +1,72 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/sweevory-delight-bekasi-selatan-f3a625e8-9183-4159-9717-85a0a64c6808",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Minuman",
+    "Roti",
+    "Kopi",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:21:22.495121",
+  "crawling_time_epoch": 1705155682,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Sweevory_Delight_Bekasi_Selatan/json/2916ac05-2d8a-4636-96de-2d8d6ef1b22f.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Sweevory_Delight_Bekasi_Selatan/json/2916ac05-2d8a-4636-96de-2d8d6ef1b22f.json",
+  "reviews_name": "Sweevory Delight, Bekasi Selatan",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 1.02
+  },
+  "range_prices": "16k-40k",
+  "restaurant_id": "f3a625e8-9183-4159-9717-85a0a64c6808",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.4,
+      "total": 81
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 34,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 14,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 12,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "2916ac05-2d8a-4636-96de-2d8d6ef1b22f",
+    "username_reviews": "Nasywaa 😎",
+    "initialName": "N",
+    "image_reviews": null,
+    "created_time": "2022-04-18T15:48:03.971082+07:00",
+    "created_time_epoch": 1650296883,
+    "reviews_rating": 5,
+    "orders": {
+      "orderedAt": "2022-04-16T10:13:14.349967Z",
+      "items": [
+        {
+          "id": "a047b310-963c-4cd0-b0c4-a179c32cddfb",
+          "name": "Taru Gyudon"
+        },
+        {
+          "id": "c4f265e8-dd61-421f-9690-5a1e3bd3c063",
+          "name": "Salmon Kani Mentai Shirataki Noodle"
+        }
+      ]
+    },
+    "tags_review": [
+      "CANNED_RESPONSE_TASTE",
+      "gofood.co.id"
+    ],
+    "content_reviews": "enak guys udh beli disini brp kali ya🤔\npokoknya mantap dah",
+    "date_of_experience": ""
+  }
+}

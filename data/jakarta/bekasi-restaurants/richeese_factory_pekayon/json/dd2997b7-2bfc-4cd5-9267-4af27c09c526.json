@@ -1,0 +1,81 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/richeese-factory-pekayon-fb7c3452-2cba-464a-9e24-23840a40a179",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Cepat saji",
+    "Ayam & bebek",
+    "Aneka nasi",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:20:23.240256",
+  "crawling_time_epoch": 1705155623,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Richeese_Factory_Pekayon/json/dd2997b7-2bfc-4cd5-9267-4af27c09c526.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Richeese_Factory_Pekayon/json/dd2997b7-2bfc-4cd5-9267-4af27c09c526.json",
+  "reviews_name": "Richeese Factory, Pekayon",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.97
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "fb7c3452-2cba-464a-9e24-23840a40a179",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.7,
+      "total": 32095
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 2029,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 1477,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 1469,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "dd2997b7-2bfc-4cd5-9267-4af27c09c526",
+    "username_reviews": "Dwi Astuti",
+    "initialName": "DA",
+    "image_reviews": null,
+    "created_time": "2021-12-10T15:39:44.206613+07:00",
+    "created_time_epoch": 1639150784,
+    "reviews_rating": 5,
+    "orders": {
+      "orderedAt": "2021-12-10T08:14:21.304735Z",
+      "items": [
+        {
+          "id": "dc559c5b-ed1e-4158-ab9e-f0ac684a1467",
+          "name": "Fire Flying Chicken"
+        },
+        {
+          "id": "b26efe77-2d23-4ef2-8760-5d41d8d7c14e",
+          "name": "Fire Wedges"
+        },
+        {
+          "id": "2076db60-ee73-40e6-8bad-f8ffc50d4c04",
+          "name": "Pink Lava 1L"
+        }
+      ]
+    },
+    "tags_review": [
+      "CANNED_RESPONSE_FRESHNESS",
+      "CANNED_RESPONSE_TASTE",
+      "CANNED_RESPONSE_PORTION",
+      "CANNED_RESPONSE_HYGIENE",
+      "CANNED_RESPONSE_PACKAGING",
+      "CANNED_RESPONSE_VALUE",
+      "gofood.co.id"
+    ],
+    "content_reviews": "enak sekaliiii dan guriihh",
+    "date_of_experience": ""
+  }
+}

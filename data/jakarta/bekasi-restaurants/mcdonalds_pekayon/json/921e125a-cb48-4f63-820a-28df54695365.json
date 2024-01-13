@@ -1,0 +1,76 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/mcdonald-s-pekayon-50150204-8f6d-4372-8458-668f1be126e8",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Cepat saji",
+    "Sweets",
+    "Jajanan",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:17:21.424093",
+  "crawling_time_epoch": 1705155441,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/McDonalds_Pekayon/json/921e125a-cb48-4f63-820a-28df54695365.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/McDonalds_Pekayon/json/921e125a-cb48-4f63-820a-28df54695365.json",
+  "reviews_name": "McDonald's, Pekayon",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.46
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "50150204-8f6d-4372-8458-668f1be126e8",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.8,
+      "total": 70397
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 4555,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 3695,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 3669,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "921e125a-cb48-4f63-820a-28df54695365",
+    "username_reviews": "C**** K******",
+    "initialName": "CK",
+    "image_reviews": null,
+    "created_time": "2020-05-26T13:40:18.943+07:00",
+    "created_time_epoch": 1590500418,
+    "reviews_rating": 4,
+    "orders": {
+      "orderedAt": "2020-05-26T02:32:14.179849Z",
+      "items": [
+        {
+          "id": "7fcd275d-e620-4622-aba2-ac130980029a",
+          "name": "Chicken  Rice with Cheese Krispy"
+        },
+        {
+          "id": "d57f516a-5da7-4449-a075-1b04f4e0e77d",
+          "name": "Hot Coffee + Hashbrown"
+        },
+        {
+          "id": "2483ee49-f756-4958-85a1-2d7c891ac5a2",
+          "name": "Choco Strawberry Pie + Strawberry Sundae"
+        }
+      ]
+    },
+    "tags_review": [
+      "",
+      "gofood.co.id"
+    ],
+    "content_reviews": "saya order paket hashbrown dengan kopi tapi kopi nya tidak ada pada saat makanan tiba.  tolong diperhatikan lagi pesanannya.",
+    "date_of_experience": ""
+  }
+}

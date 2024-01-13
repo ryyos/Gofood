@@ -1,0 +1,66 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/asinan-betawi-umar-bakrie-bekasi-selatan-6256964a-a97c-4657-ab38-68cdba4e3d50",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Cepat saji",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:17:16.823868",
+  "crawling_time_epoch": 1705155436,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Asinan_Betawi_Umar_Bakrie_Bekasi_Selatan/json/8a9eb5c6-b56c-497a-b2de-131975757b2d.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Asinan_Betawi_Umar_Bakrie_Bekasi_Selatan/json/8a9eb5c6-b56c-497a-b2de-131975757b2d.json",
+  "reviews_name": "Asinan Betawi Umar Bakrie, Bekasi Selatan",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.39
+  },
+  "range_prices": "16k-40k",
+  "restaurant_id": "6256964a-a97c-4657-ab38-68cdba4e3d50",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.8,
+      "total": 1319
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 186,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 162,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 149,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "8a9eb5c6-b56c-497a-b2de-131975757b2d",
+    "username_reviews": "N*****",
+    "initialName": "N",
+    "image_reviews": null,
+    "created_time": "2019-10-12T16:02:16.916+07:00",
+    "created_time_epoch": 1570896136,
+    "reviews_rating": 2,
+    "orders": {
+      "orderedAt": "2019-10-12T07:42:54.805904Z",
+      "items": [
+        {
+          "id": "4fd4acb2-e73a-4326-9dcf-37a73895fab2",
+          "name": "Asinan Buah + Kacang Tanah ( Pedas Banget )"
+        }
+      ]
+    },
+    "tags_review": [
+      "CANNED_RESPONSE_TASTE",
+      "gofood.co.id"
+    ],
+    "content_reviews": "Rasa asinan tidak enak seperti biasa nya, warna kuah kemerahan seperti pakai saos, kurang manis dan asin.",
+    "date_of_experience": ""
+  }
+}

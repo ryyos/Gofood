@@ -1,0 +1,76 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/domino-s-pizza-kemang-pratama-00fb7fae-fbe1-4b63-ad17-dc7094c64f9c",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Pizza & pasta",
+    "Cepat saji",
+    "Jajanan",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:18:48.067806",
+  "crawling_time_epoch": 1705155528,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Dominos_Pizza_Kemang_Pratama/json/ef79ab13-efe6-4e1b-a666-7af34efc4cb3.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Dominos_Pizza_Kemang_Pratama/json/ef79ab13-efe6-4e1b-a666-7af34efc4cb3.json",
+  "reviews_name": "Domino's Pizza, Kemang Pratama",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.47
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "00fb7fae-fbe1-4b63-ad17-dc7094c64f9c",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.7,
+      "total": 11582
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 1426,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 1210,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 1158,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "ef79ab13-efe6-4e1b-a666-7af34efc4cb3",
+    "username_reviews": "H***",
+    "initialName": "H",
+    "image_reviews": null,
+    "created_time": "2020-02-17T00:29:08.618+07:00",
+    "created_time_epoch": 1581899348,
+    "reviews_rating": 1,
+    "orders": {
+      "orderedAt": "2020-02-16T16:43:01.745736Z",
+      "items": [
+        {
+          "id": "3e97984e-d5da-4482-84e5-2dbb7a8a74f5",
+          "name": "Beef Pepper Spaghetti"
+        },
+        {
+          "id": "75b31735-3d2c-4a32-b32b-5bb9307a4b23",
+          "name": "Chicken Wings 5 pcs"
+        },
+        {
+          "id": "d4cc6526-5acc-48f2-be8a-0f7d35a56e38",
+          "name": "Spicy Tuna Mac' n Cheese"
+        }
+      ]
+    },
+    "tags_review": [
+      "",
+      "gofood.co.id"
+    ],
+    "content_reviews": "menu yang saya order berbeda dengan yg diberikan saya oesan spegethy di kasih spagethynya diganti macaroni tanpa confirm dan spagethy spicy tuna di ganti mac and chesse sangat kecewa gak akan pesan di domino kemang pratama lagi penipuan jadinya mengubah tanpa confirmasi",
+    "date_of_experience": ""
+  }
+}

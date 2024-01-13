@@ -1,0 +1,71 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/richeese-factory-pekayon-fb7c3452-2cba-464a-9e24-23840a40a179",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Cepat saji",
+    "Ayam & bebek",
+    "Aneka nasi",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:20:23.240256",
+  "crawling_time_epoch": 1705155623,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Richeese_Factory_Pekayon/json/c033ccf4-fd6e-4d97-b28c-84c54a865ebe.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Richeese_Factory_Pekayon/json/c033ccf4-fd6e-4d97-b28c-84c54a865ebe.json",
+  "reviews_name": "Richeese Factory, Pekayon",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.97
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "fb7c3452-2cba-464a-9e24-23840a40a179",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.7,
+      "total": 32095
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 2029,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 1477,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 1469,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "c033ccf4-fd6e-4d97-b28c-84c54a865ebe",
+    "username_reviews": "S***** S******* J***",
+    "initialName": "SJ",
+    "image_reviews": null,
+    "created_time": "2022-05-06T02:14:43.321871+07:00",
+    "created_time_epoch": 1651803283,
+    "reviews_rating": 5,
+    "orders": {
+      "orderedAt": "2022-05-05T06:09:41.116166Z",
+      "items": [
+        {
+          "id": "c520ca7c-edf7-4085-91b6-5f4a7b0bbf15",
+          "name": "Richeese Fire Wings 6 Pcs"
+        },
+        {
+          "id": "c2b9f7c2-1b89-4190-936d-e854cd594919",
+          "name": "Richicken 1 Pcs"
+        }
+      ]
+    },
+    "tags_review": [
+      "gofood.co.id"
+    ],
+    "content_reviews": "puas cepat ramah",
+    "date_of_experience": ""
+  }
+}

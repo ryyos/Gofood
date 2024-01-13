@@ -1,0 +1,69 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/a-w-linc-square-d4fe7a94-86cd-4883-b279-07bdd7002ad9",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Cepat saji",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:20:11.107220",
+  "crawling_time_epoch": 1705155611,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/AW_Linc_Square/json/d85199a7-c8e2-4d7d-8adc-7e5ae98938e6.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/AW_Linc_Square/json/d85199a7-c8e2-4d7d-8adc-7e5ae98938e6.json",
+  "reviews_name": "A&W, Linc Square",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.94
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "d4fe7a94-86cd-4883-b279-07bdd7002ad9",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.8,
+      "total": 7181
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 499,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 403,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 365,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "d85199a7-c8e2-4d7d-8adc-7e5ae98938e6",
+    "username_reviews": "Tri Astuti",
+    "initialName": "TA",
+    "image_reviews": null,
+    "created_time": "2022-02-28T12:28:44.620061+07:00",
+    "created_time_epoch": 1646051324,
+    "reviews_rating": 3,
+    "orders": {
+      "orderedAt": "2022-02-28T04:12:40.324705Z",
+      "items": [
+        {
+          "id": "f4023e00-8339-48d1-a343-e48b668f067f",
+          "name": "AWESOME - 2 Aroma Chicken, Rice  & Chic Chunks"
+        },
+        {
+          "id": "85048d36-e137-4548-ae45-b18958c5bd05",
+          "name": "HHU 3 - Aroma Chicken, Rice & Beef"
+        }
+      ]
+    },
+    "tags_review": [
+      "gofood.co.id"
+    ],
+    "content_reviews": "nasinya kurang 1, harusnya 3 malah cuma di kasih 2 🙄😪",
+    "date_of_experience": ""
+  }
+}

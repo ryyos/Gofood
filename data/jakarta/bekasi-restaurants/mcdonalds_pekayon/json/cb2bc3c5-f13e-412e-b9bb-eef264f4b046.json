@@ -1,0 +1,67 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/mcdonald-s-pekayon-50150204-8f6d-4372-8458-668f1be126e8",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Cepat saji",
+    "Sweets",
+    "Jajanan",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:17:21.424093",
+  "crawling_time_epoch": 1705155441,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/McDonalds_Pekayon/json/cb2bc3c5-f13e-412e-b9bb-eef264f4b046.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/McDonalds_Pekayon/json/cb2bc3c5-f13e-412e-b9bb-eef264f4b046.json",
+  "reviews_name": "McDonald's, Pekayon",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.46
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "50150204-8f6d-4372-8458-668f1be126e8",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.8,
+      "total": 70397
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 4555,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 3695,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 3669,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "cb2bc3c5-f13e-412e-b9bb-eef264f4b046",
+    "username_reviews": "Erna S",
+    "initialName": "ES",
+    "image_reviews": null,
+    "created_time": "2022-04-22T01:48:31.939747+07:00",
+    "created_time_epoch": 1650592111,
+    "reviews_rating": 3,
+    "orders": {
+      "orderedAt": "2022-04-21T17:55:46.611558Z",
+      "items": [
+        {
+          "id": "07550b8c-3cd0-4a75-81b2-6174820f898f",
+          "name": "PaNas Spesial Ayam Spicy Lengkuas McD Sambal Bajak"
+        }
+      ]
+    },
+    "tags_review": [
+      "gofood.co.id"
+    ],
+    "content_reviews": "Nasinya terlalu lembek (mendekati bubur padat) \nitu cocok untuk batita dan orang sakit. \nJadi masak nasinya jangan kebanyakan air ya. ",
+    "date_of_experience": ""
+  }
+}

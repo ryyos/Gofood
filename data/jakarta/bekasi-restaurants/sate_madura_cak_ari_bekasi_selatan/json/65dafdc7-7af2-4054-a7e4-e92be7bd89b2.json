@@ -1,0 +1,77 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/sate-madura-cak-ari-bekasi-selatan-65c0efa7-65ff-4868-95e5-a4ec690c6c14",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Sate",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:19:50.904999",
+  "crawling_time_epoch": 1705155590,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Sate_Madura_Cak_Ari_Bekasi_Selatan/json/65dafdc7-7af2-4054-a7e4-e92be7bd89b2.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Sate_Madura_Cak_Ari_Bekasi_Selatan/json/65dafdc7-7af2-4054-a7e4-e92be7bd89b2.json",
+  "reviews_name": "Sate Madura Cak Ari, Bekasi Selatan",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.69
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "65c0efa7-65ff-4868-95e5-a4ec690c6c14",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.7,
+      "total": 6478
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 827,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 589,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 535,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "65dafdc7-7af2-4054-a7e4-e92be7bd89b2",
+    "username_reviews": "Maryati",
+    "initialName": "M",
+    "image_reviews": null,
+    "created_time": "2023-12-01T13:55:36.114282+07:00",
+    "created_time_epoch": 1701438936,
+    "reviews_rating": 5,
+    "orders": {
+      "orderedAt": "2023-12-01T05:22:06.324473Z",
+      "items": [
+        {
+          "id": "7b78b7b7-738c-4cf7-9a51-66be58583e60",
+          "name": "Sate Ayam Tnpa Lemak"
+        },
+        {
+          "id": "d75caa08-3692-4d43-bda5-dfb94a3a92d0",
+          "name": "Sop"
+        },
+        {
+          "id": "4dea2afc-9afa-4c36-a3f8-da81e48e3de9",
+          "name": "Lontong"
+        },
+        {
+          "id": "8348419b-fb19-48c6-9ea6-ea47d7c5f81c",
+          "name": "Jeruk Hangett"
+        }
+      ]
+    },
+    "tags_review": [
+      "gofood.co.id"
+    ],
+    "content_reviews": "Sate ayam tanpa kulit nya enaak..bumbu kacang n sambal nya di pisah ❤️\nSop nya jg enak..dagingnya empuk..mantap pokoknya 🤗👍",
+    "date_of_experience": ""
+  }
+}

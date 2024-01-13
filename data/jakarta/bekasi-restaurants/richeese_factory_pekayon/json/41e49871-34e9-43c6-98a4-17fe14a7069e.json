@@ -1,0 +1,68 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/richeese-factory-pekayon-fb7c3452-2cba-464a-9e24-23840a40a179",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Cepat saji",
+    "Ayam & bebek",
+    "Aneka nasi",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:20:23.240256",
+  "crawling_time_epoch": 1705155623,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Richeese_Factory_Pekayon/json/41e49871-34e9-43c6-98a4-17fe14a7069e.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Richeese_Factory_Pekayon/json/41e49871-34e9-43c6-98a4-17fe14a7069e.json",
+  "reviews_name": "Richeese Factory, Pekayon",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.97
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "fb7c3452-2cba-464a-9e24-23840a40a179",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.7,
+      "total": 32095
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 2029,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 1477,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 1469,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "41e49871-34e9-43c6-98a4-17fe14a7069e",
+    "username_reviews": "E*** L****",
+    "initialName": "EL",
+    "image_reviews": null,
+    "created_time": "2021-01-21T18:31:30.168+07:00",
+    "created_time_epoch": 1611253890,
+    "reviews_rating": 5,
+    "orders": {
+      "orderedAt": "2021-01-21T10:43:59.695425Z",
+      "items": [
+        {
+          "id": "e6cb900a-d9ed-4de5-9b43-cb42cbe7ff0a",
+          "name": "Combo 3 Fire Chicken Bites with Fries"
+        }
+      ]
+    },
+    "tags_review": [
+      "",
+      "gofood.co.id"
+    ],
+    "content_reviews": "enak bgt..tp xo level 1 pedes nya kaya level 5 ya",
+    "date_of_experience": ""
+  }
+}

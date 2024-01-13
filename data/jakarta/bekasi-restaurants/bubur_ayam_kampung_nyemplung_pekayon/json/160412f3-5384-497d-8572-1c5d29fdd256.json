@@ -1,0 +1,78 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/bubur-ayam-kampung-nyemplung-pekayon-decd86af-75d6-466d-9d74-c66a45850297",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Aneka nasi",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:20:19.392522",
+  "crawling_time_epoch": 1705155619,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Bubur_Ayam_Kampung_Nyemplung_Pekayon/json/160412f3-5384-497d-8572-1c5d29fdd256.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Bubur_Ayam_Kampung_Nyemplung_Pekayon/json/160412f3-5384-497d-8572-1c5d29fdd256.json",
+  "reviews_name": "Bubur Ayam Kampung Nyemplung, Pekayon",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.96
+  },
+  "range_prices": "<16k",
+  "restaurant_id": "decd86af-75d6-466d-9d74-c66a45850297",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.7,
+      "total": 2066
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 191,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 138,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 137,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "160412f3-5384-497d-8572-1c5d29fdd256",
+    "username_reviews": "A****",
+    "initialName": "A",
+    "image_reviews": null,
+    "created_time": "2020-12-09T14:31:14.29+07:00",
+    "created_time_epoch": 1607524274,
+    "reviews_rating": 4,
+    "orders": {
+      "orderedAt": "2020-12-08T12:56:10.200398Z",
+      "items": [
+        {
+          "id": "acd27756-2354-4749-bb23-b894457444fd",
+          "name": "Bubur Ayam Kampung + Telor"
+        },
+        {
+          "id": "d42d4b3a-3b8e-4b6f-9c42-cbd06cd377aa",
+          "name": "Sate Telor Puyuh"
+        },
+        {
+          "id": "a9bf1225-8687-445b-b401-46fc11210d8b",
+          "name": "Sate Ati Ampela"
+        },
+        {
+          "id": "85330725-9457-40e2-8beb-348068289837",
+          "name": "Kerupuk"
+        }
+      ]
+    },
+    "tags_review": [
+      "CANNED_RESPONSE_VALUE",
+      "gofood.co.id"
+    ],
+    "content_reviews": "di gambar kerupuknya bulat, pas datang kerupuk biasa.",
+    "date_of_experience": ""
+  }
+}

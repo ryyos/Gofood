@@ -1,0 +1,67 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/kfc-kemang-pratama-ef8c2c3e-61d6-4bd4-b9fa-10cfd6358dcf",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Cepat saji",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:19:21.062803",
+  "crawling_time_epoch": 1705155561,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/KFC_Kemang_Pratama/json/44e55ec0-f28d-49f7-8bbe-d6a1c6935213.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/KFC_Kemang_Pratama/json/44e55ec0-f28d-49f7-8bbe-d6a1c6935213.json",
+  "reviews_name": "KFC, Kemang Pratama",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.53
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "ef8c2c3e-61d6-4bd4-b9fa-10cfd6358dcf",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.8,
+      "total": 24067
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 2021,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 1696,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 1631,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "44e55ec0-f28d-49f7-8bbe-d6a1c6935213",
+    "username_reviews": "A**** R*** P******",
+    "initialName": "AP",
+    "image_reviews": null,
+    "created_time": "2021-05-20T14:36:21.806269+07:00",
+    "created_time_epoch": 1621521381,
+    "reviews_rating": 3,
+    "orders": {
+      "orderedAt": "2021-05-20T06:51:51.614018Z",
+      "items": [
+        {
+          "id": "362c52b4-6114-4cdc-b3ec-fb8334b9ccc6",
+          "name": "Grilled Soy Sauce Chicken"
+        }
+      ]
+    },
+    "tags_review": [
+      "CANNED_RESPONSE_TASTE",
+      "CANNED_RESPONSE_VALUE",
+      "gofood.co.id"
+    ],
+    "content_reviews": "rasanya Biasa aja, lebih enak yg spicy lime, gk tau kenapa di ilangin padahal enak bgt varian itu",
+    "date_of_experience": ""
+  }
+}

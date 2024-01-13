@@ -1,0 +1,75 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/sate-madura-cak-ari-bekasi-selatan-65c0efa7-65ff-4868-95e5-a4ec690c6c14",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Sate",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:19:50.904999",
+  "crawling_time_epoch": 1705155590,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Sate_Madura_Cak_Ari_Bekasi_Selatan/json/2c8c0e1a-c309-4a55-b977-2c75fffec087.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Sate_Madura_Cak_Ari_Bekasi_Selatan/json/2c8c0e1a-c309-4a55-b977-2c75fffec087.json",
+  "reviews_name": "Sate Madura Cak Ari, Bekasi Selatan",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.69
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "65c0efa7-65ff-4868-95e5-a4ec690c6c14",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.7,
+      "total": 6478
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 827,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 589,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 535,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "2c8c0e1a-c309-4a55-b977-2c75fffec087",
+    "username_reviews": "A* P******",
+    "initialName": "AP",
+    "image_reviews": null,
+    "created_time": "2020-09-19T12:53:29.771+07:00",
+    "created_time_epoch": 1600520009,
+    "reviews_rating": 5,
+    "orders": {
+      "orderedAt": "2020-09-15T11:11:18.407688Z",
+      "items": [
+        {
+          "id": "0b5d8b87-a7c3-4dbe-8003-1d514ee3559a",
+          "name": "Sate Kambing + Nasi Putih Free Nescafe/Milo UHT"
+        },
+        {
+          "id": "9a7eb24b-b70b-440a-b0f8-83547d23e979",
+          "name": "Sate Ayam 10 tusuk + Nasi + Nescafe UHT"
+        }
+      ]
+    },
+    "tags_review": [
+      "CANNED_RESPONSE_FRESHNESS",
+      "CANNED_RESPONSE_TASTE",
+      "CANNED_RESPONSE_PORTION",
+      "CANNED_RESPONSE_HYGIENE",
+      "CANNED_RESPONSE_PACKAGING",
+      "CANNED_RESPONSE_VALUE",
+      "gofood.co.id"
+    ],
+    "content_reviews": "enak pak bu satenya, bikin jadi iron man 😂",
+    "date_of_experience": ""
+  }
+}

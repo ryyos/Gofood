@@ -1,0 +1,76 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/mcdonald-s-pekayon-50150204-8f6d-4372-8458-668f1be126e8",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Cepat saji",
+    "Sweets",
+    "Jajanan",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:17:21.424093",
+  "crawling_time_epoch": 1705155441,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/McDonalds_Pekayon/json/7666551d-4295-4d39-b415-ded473b90a6b.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/McDonalds_Pekayon/json/7666551d-4295-4d39-b415-ded473b90a6b.json",
+  "reviews_name": "McDonald's, Pekayon",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.46
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "50150204-8f6d-4372-8458-668f1be126e8",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.8,
+      "total": 70397
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 4555,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 3695,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 3669,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "7666551d-4295-4d39-b415-ded473b90a6b",
+    "username_reviews": "freddy",
+    "initialName": "F",
+    "image_reviews": null,
+    "created_time": "2022-04-29T22:17:27.852821+07:00",
+    "created_time_epoch": 1651270647,
+    "reviews_rating": 1,
+    "orders": {
+      "orderedAt": "2022-04-28T03:35:42.875407Z",
+      "items": [
+        {
+          "id": "72d68b48-6832-43e1-b0b8-871b95f2cda6",
+          "name": "Chicken McMuffin"
+        },
+        {
+          "id": "d4d2e0a1-099c-4d22-b543-cc558bbc8985",
+          "name": "White Choco Strawberry Pastry Pie"
+        },
+        {
+          "id": "7503e7a3-dc2c-4eea-81d6-302a04736423",
+          "name": "Choco Sundae"
+        }
+      ]
+    },
+    "tags_review": [
+      "CANNED_RESPONSE_ORDER",
+      "gofood.co.id"
+    ],
+    "content_reviews": "pesan Sundae coklat dengan NOTE : SUNDAE PLAIN TANPA COKLAT.  YANG TIBA TETAP SAJA SUNDAE COKLAT !!",
+    "date_of_experience": ""
+  }
+}

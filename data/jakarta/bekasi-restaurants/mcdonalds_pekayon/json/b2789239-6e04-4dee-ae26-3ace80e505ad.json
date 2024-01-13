@@ -1,0 +1,81 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/mcdonald-s-pekayon-50150204-8f6d-4372-8458-668f1be126e8",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Cepat saji",
+    "Sweets",
+    "Jajanan",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:17:21.424093",
+  "crawling_time_epoch": 1705155441,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/McDonalds_Pekayon/json/b2789239-6e04-4dee-ae26-3ace80e505ad.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/McDonalds_Pekayon/json/b2789239-6e04-4dee-ae26-3ace80e505ad.json",
+  "reviews_name": "McDonald's, Pekayon",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.46
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "50150204-8f6d-4372-8458-668f1be126e8",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.8,
+      "total": 70397
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 4555,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 3695,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 3669,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "b2789239-6e04-4dee-ae26-3ace80e505ad",
+    "username_reviews": "imam",
+    "initialName": "I",
+    "image_reviews": null,
+    "created_time": "2021-12-14T18:26:52.638776+07:00",
+    "created_time_epoch": 1639506412,
+    "reviews_rating": 5,
+    "orders": {
+      "orderedAt": "2021-12-10T05:47:35.622134Z",
+      "items": [
+        {
+          "id": "496cf802-13c6-49cf-a497-8fe268784dab",
+          "name": "PaNas 2  Spicy, Medium"
+        },
+        {
+          "id": "4ebbb602-75f8-4c7a-bdce-d88b1396a522",
+          "name": "Strawberry Sundae"
+        },
+        {
+          "id": "f0be764a-a3de-47dc-9689-020d391cc7b1",
+          "name": "Cheese Burger With Egg"
+        }
+      ]
+    },
+    "tags_review": [
+      "CANNED_RESPONSE_PORTION",
+      "CANNED_RESPONSE_TASTE",
+      "CANNED_RESPONSE_VALUE",
+      "CANNED_RESPONSE_PACKAGING",
+      "CANNED_RESPONSE_HYGIENE",
+      "CANNED_RESPONSE_FRESHNESS",
+      "gofood.co.id"
+    ],
+    "content_reviews": "enak sekali masakan nya dan pengantaran makanan nya sangat cepat serta kurir makanan nya sangat ramah 🙏",
+    "date_of_experience": ""
+  }
+}

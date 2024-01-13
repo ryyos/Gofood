@@ -1,0 +1,75 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/mcdonald-s-pekayon-50150204-8f6d-4372-8458-668f1be126e8",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Cepat saji",
+    "Sweets",
+    "Jajanan",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:17:21.424093",
+  "crawling_time_epoch": 1705155441,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/McDonalds_Pekayon/json/94c494c4-eea7-4ce4-8e1c-b7e2aca0aab0.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/McDonalds_Pekayon/json/94c494c4-eea7-4ce4-8e1c-b7e2aca0aab0.json",
+  "reviews_name": "McDonald's, Pekayon",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.46
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "50150204-8f6d-4372-8458-668f1be126e8",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.8,
+      "total": 70397
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 4555,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 3695,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 3669,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "94c494c4-eea7-4ce4-8e1c-b7e2aca0aab0",
+    "username_reviews": "F******",
+    "initialName": "F",
+    "image_reviews": null,
+    "created_time": "2021-07-11T09:16:03.001116+07:00",
+    "created_time_epoch": 1625994963,
+    "reviews_rating": 4,
+    "orders": {
+      "orderedAt": "2021-07-11T01:44:01.987396Z",
+      "items": [
+        {
+          "id": "49a3ec9f-9657-46ad-9df2-37d13138601d",
+          "name": "2x Nasi Uduk McD ALC"
+        },
+        {
+          "id": "d275f38c-0556-48ef-a960-75d783d8ef74",
+          "name": "PaNas Spesial Medium"
+        },
+        {
+          "id": "d275f38c-0556-48ef-a960-75d783d8ef74",
+          "name": "PaNas Spesial Medium"
+        }
+      ]
+    },
+    "tags_review": [
+      "gofood.co.id"
+    ],
+    "content_reviews": "Lupa lagi dikasih garem. Malah dikasih lada -_-",
+    "date_of_experience": ""
+  }
+}

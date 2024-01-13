@@ -1,0 +1,70 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/pizza-hut-kemang-pratama-619b40c5-b111-4004-a05e-2cf6526de384",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Barat",
+    "Jajanan",
+    "Ayam & bebek",
+    "Pizza & pasta",
+    "Cepat saji",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:20:55.807619",
+  "crawling_time_epoch": 1705155655,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Pizza_Hut_Kemang_Pratama/json/88cad720-08b1-4d6b-9467-f2d07e8d364d.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Pizza_Hut_Kemang_Pratama/json/88cad720-08b1-4d6b-9467-f2d07e8d364d.json",
+  "reviews_name": "Pizza Hut, Kemang Pratama",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.99
+  },
+  "range_prices": ">100k",
+  "restaurant_id": "619b40c5-b111-4004-a05e-2cf6526de384",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.8,
+      "total": 12460
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 997,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 804,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 735,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "88cad720-08b1-4d6b-9467-f2d07e8d364d",
+    "username_reviews": "E***** M*****",
+    "initialName": "EM",
+    "image_reviews": null,
+    "created_time": "2020-02-26T18:24:57.219+07:00",
+    "created_time_epoch": 1582741497,
+    "reviews_rating": 1,
+    "orders": {
+      "orderedAt": "2020-02-25T13:01:34.512087Z",
+      "items": [
+        {
+          "id": "fb5933ec-4e63-4e05-8b5d-a7e0201c0ba2",
+          "name": "Stuffed Crust Cheese Large Frankfurter BBQ"
+        }
+      ]
+    },
+    "tags_review": [
+      "CANNED_RESPONSE_PORTION",
+      "gofood.co.id"
+    ],
+    "content_reviews": "Pesannya yg large di kasih medium, di struk tulisannya large dan bayarnya juga large",
+    "date_of_experience": ""
+  }
+}

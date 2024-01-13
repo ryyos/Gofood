@@ -1,0 +1,88 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/mcdonald-s-pekayon-50150204-8f6d-4372-8458-668f1be126e8",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Cepat saji",
+    "Sweets",
+    "Jajanan",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:17:21.424093",
+  "crawling_time_epoch": 1705155441,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/McDonalds_Pekayon/json/64a758b8-d5f9-4ca2-8bd3-967d520a81ea.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/McDonalds_Pekayon/json/64a758b8-d5f9-4ca2-8bd3-967d520a81ea.json",
+  "reviews_name": "McDonald's, Pekayon",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.46
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "50150204-8f6d-4372-8458-668f1be126e8",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.8,
+      "total": 70397
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 4555,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 3695,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 3669,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "64a758b8-d5f9-4ca2-8bd3-967d520a81ea",
+    "username_reviews": "E*** S***",
+    "initialName": "ES",
+    "image_reviews": null,
+    "created_time": "2020-05-28T08:28:10.4+07:00",
+    "created_time_epoch": 1590654490,
+    "reviews_rating": 3,
+    "orders": {
+      "orderedAt": "2020-05-26T11:48:50.38774Z",
+      "items": [
+        {
+          "id": "2f5fb061-12e5-459b-ade8-ecf3b89f2668",
+          "name": "PaNas 2 Spicy with Fries Medium"
+        },
+        {
+          "id": "78f86867-d412-415c-add2-33d5aca3a714",
+          "name": "Fish Fillet Burger Meal Large"
+        },
+        {
+          "id": "3ce5f531-03aa-47f5-b562-18f3e638482d",
+          "name": "Honey Garlic Chicken Rice McD"
+        },
+        {
+          "id": "b0c30b98-de9d-4937-9fdd-8de992e70d3f",
+          "name": "1pc Krispy Chicken"
+        },
+        {
+          "id": "5c1c3f27-537b-480f-8f65-359233244057",
+          "name": "Cheeseburger Deluxe"
+        },
+        {
+          "id": "e70ed2a1-f3a4-4ba5-ba49-0d31a197be60",
+          "name": "Milo Medium"
+        }
+      ]
+    },
+    "tags_review": [
+      "",
+      "gofood.co.id"
+    ],
+    "content_reviews": "minta ayam sayap dapatnya lain",
+    "date_of_experience": ""
+  }
+}

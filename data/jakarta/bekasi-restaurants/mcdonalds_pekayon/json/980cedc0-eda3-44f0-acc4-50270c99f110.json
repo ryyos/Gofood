@@ -1,0 +1,83 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/mcdonald-s-pekayon-50150204-8f6d-4372-8458-668f1be126e8",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Cepat saji",
+    "Sweets",
+    "Jajanan",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:17:21.424093",
+  "crawling_time_epoch": 1705155441,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/McDonalds_Pekayon/json/980cedc0-eda3-44f0-acc4-50270c99f110.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/McDonalds_Pekayon/json/980cedc0-eda3-44f0-acc4-50270c99f110.json",
+  "reviews_name": "McDonald's, Pekayon",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.46
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "50150204-8f6d-4372-8458-668f1be126e8",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.8,
+      "total": 70397
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 4555,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 3695,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 3669,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "980cedc0-eda3-44f0-acc4-50270c99f110",
+    "username_reviews": "J***",
+    "initialName": "J",
+    "image_reviews": null,
+    "created_time": "2021-08-03T12:27:54.620819+07:00",
+    "created_time_epoch": 1627993674,
+    "reviews_rating": 5,
+    "orders": {
+      "orderedAt": "2021-06-21T06:28:53.948869Z",
+      "items": [
+        {
+          "id": "20f1ed18-0364-4bec-8826-17af4044b9cc",
+          "name": "Big Mac"
+        },
+        {
+          "id": "9b30d483-cffe-4e49-9d39-1f44ed35c0ed",
+          "name": "McNuggets  9pcs"
+        },
+        {
+          "id": "6c3d7c2c-b606-4029-b221-fde767b155b8",
+          "name": "Matcha McFlurry with Matcha Cookies"
+        },
+        {
+          "id": "1d8bf63b-cc9e-49d1-babf-6be224aff38f",
+          "name": "Fish Fillet Burger"
+        },
+        {
+          "id": "4c106b3b-c88b-426d-aac1-bc906404d0fa",
+          "name": "McFlurry Feat. Oreo"
+        }
+      ]
+    },
+    "tags_review": [
+      "gofood.co.id"
+    ],
+    "content_reviews": "Was tried their new variant ice cream; matcha. The taste is so yummy and matcha-tasted. But can’t wait to get their new variants ",
+    "date_of_experience": ""
+  }
+}

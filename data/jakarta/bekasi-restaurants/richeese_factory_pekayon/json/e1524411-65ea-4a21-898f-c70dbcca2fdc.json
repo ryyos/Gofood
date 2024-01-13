@@ -1,0 +1,87 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/richeese-factory-pekayon-fb7c3452-2cba-464a-9e24-23840a40a179",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Cepat saji",
+    "Ayam & bebek",
+    "Aneka nasi",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:20:23.240256",
+  "crawling_time_epoch": 1705155623,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Richeese_Factory_Pekayon/json/e1524411-65ea-4a21-898f-c70dbcca2fdc.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Richeese_Factory_Pekayon/json/e1524411-65ea-4a21-898f-c70dbcca2fdc.json",
+  "reviews_name": "Richeese Factory, Pekayon",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.97
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "fb7c3452-2cba-464a-9e24-23840a40a179",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.7,
+      "total": 32095
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 2029,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 1477,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 1469,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "e1524411-65ea-4a21-898f-c70dbcca2fdc",
+    "username_reviews": "anggi putri",
+    "initialName": "AP",
+    "image_reviews": null,
+    "created_time": "2023-12-31T19:07:59.448838+07:00",
+    "created_time_epoch": 1704049679,
+    "reviews_rating": 3,
+    "orders": {
+      "orderedAt": "2023-12-31T11:03:26.433053Z",
+      "items": [
+        {
+          "id": "c520ca7c-edf7-4085-91b6-5f4a7b0bbf15",
+          "name": "Richeese Fire Wings 6 Pcs"
+        },
+        {
+          "id": "c520ca7c-edf7-4085-91b6-5f4a7b0bbf15",
+          "name": "Richeese Fire Wings 6 Pcs"
+        },
+        {
+          "id": "c520ca7c-edf7-4085-91b6-5f4a7b0bbf15",
+          "name": "Richeese Fire Wings 6 Pcs"
+        },
+        {
+          "id": "b26efe77-2d23-4ef2-8760-5d41d8d7c14e",
+          "name": "Fire Wedges"
+        },
+        {
+          "id": "b173bcb0-80d7-41ba-abf1-b11755c76684",
+          "name": "BBQ Sauce Lev 0 - Lev 5"
+        },
+        {
+          "id": "b173bcb0-80d7-41ba-abf1-b11755c76684",
+          "name": "BBQ Sauce Lev 0 - Lev 5"
+        }
+      ]
+    },
+    "tags_review": [
+      "gofood.co.id"
+    ],
+    "content_reviews": "sering banget minta saos keju lebih tapi jarang banget dikaasi..  padahal kalk ada di menu sayya  mau beli juga gpp... kesel bgt jadinya mau makaaan malah bete",
+    "date_of_experience": ""
+  }
+}

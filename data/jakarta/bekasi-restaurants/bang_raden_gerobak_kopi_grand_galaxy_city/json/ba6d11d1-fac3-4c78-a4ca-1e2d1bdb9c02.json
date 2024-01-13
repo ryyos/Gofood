@@ -1,0 +1,78 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/bang-raden-gerobak-kopi-grand-galaxy-city-11ac8186-f8f3-4965-9a75-13c2dfc2581d",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Minuman",
+    "Kopi",
+    "Sweets",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:21:18.616977",
+  "crawling_time_epoch": 1705155678,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Bang_Raden_Gerobak_Kopi_Grand_Galaxy_City/json/ba6d11d1-fac3-4c78-a4ca-1e2d1bdb9c02.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Bang_Raden_Gerobak_Kopi_Grand_Galaxy_City/json/ba6d11d1-fac3-4c78-a4ca-1e2d1bdb9c02.json",
+  "reviews_name": "Bang Raden Gerobak Kopi, Grand Galaxy City",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 1
+  },
+  "range_prices": "16k-40k",
+  "restaurant_id": "11ac8186-f8f3-4965-9a75-13c2dfc2581d",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.8,
+      "total": 3944
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 461,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 337,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 315,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "ba6d11d1-fac3-4c78-a4ca-1e2d1bdb9c02",
+    "username_reviews": "R****** D*****",
+    "initialName": "RD",
+    "image_reviews": null,
+    "created_time": "2023-12-28T22:31:19.213482+07:00",
+    "created_time_epoch": 1703802679,
+    "reviews_rating": 5,
+    "orders": {
+      "orderedAt": "2023-12-28T14:35:02.944651Z",
+      "items": [
+        {
+          "id": "6a53c768-e2ad-43e5-a7fd-5c6dc0237212",
+          "name": "Kopi Rakyat Large"
+        },
+        {
+          "id": "d6127621-6d82-469f-aad0-eaeacf3dadab",
+          "name": "Rice Bowl Katsu Sambal Matah"
+        }
+      ]
+    },
+    "tags_review": [
+      "CANNED_RESPONSE_FRESHNESS",
+      "CANNED_RESPONSE_TASTE",
+      "CANNED_RESPONSE_PORTION",
+      "CANNED_RESPONSE_HYGIENE",
+      "CANNED_RESPONSE_PACKAGING",
+      "CANNED_RESPONSE_VALUE",
+      "CANNED_RESPONSE_CUTLERY",
+      "gofood.co.id"
+    ],
+    "content_reviews": "Sebenernya suka picky kalo makan katsu, apalagi aku sukanya yang pakai potongan dada. Pas tau BRDN katsunya pakai potongan fillet dada, auto pesen!! Ini udah ke-2xnya aku makan dan tetep suka, mau di agus salim dan di galaxy konsisten soal rasa. Terima kasih! 🫶🏻",
+    "date_of_experience": ""
+  }
+}

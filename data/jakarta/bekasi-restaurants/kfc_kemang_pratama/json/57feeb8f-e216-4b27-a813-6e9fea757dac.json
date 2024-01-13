@@ -1,0 +1,90 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/kfc-kemang-pratama-ef8c2c3e-61d6-4bd4-b9fa-10cfd6358dcf",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Cepat saji",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:19:21.062803",
+  "crawling_time_epoch": 1705155561,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/KFC_Kemang_Pratama/json/57feeb8f-e216-4b27-a813-6e9fea757dac.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/KFC_Kemang_Pratama/json/57feeb8f-e216-4b27-a813-6e9fea757dac.json",
+  "reviews_name": "KFC, Kemang Pratama",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.53
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "ef8c2c3e-61d6-4bd4-b9fa-10cfd6358dcf",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.8,
+      "total": 24067
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 2021,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 1696,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 1631,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "57feeb8f-e216-4b27-a813-6e9fea757dac",
+    "username_reviews": "D**************",
+    "initialName": "D",
+    "image_reviews": null,
+    "created_time": "2020-10-08T17:25:55.752+07:00",
+    "created_time_epoch": 1602177955,
+    "reviews_rating": 3,
+    "orders": {
+      "orderedAt": "2020-10-06T11:09:24.605965Z",
+      "items": [
+        {
+          "id": "7b40069a-7d27-426d-bcfe-2a0eec22f15d",
+          "name": "OMJ Praktis Twisty"
+        },
+        {
+          "id": "92eb1298-2884-4779-9d6a-6c6af1218e73",
+          "name": "Super Besar 2 OR"
+        },
+        {
+          "id": "fda1e9b3-d021-4b74-a9c1-37ef0cdbb6e1",
+          "name": "SB2 OR IchiOcha"
+        },
+        {
+          "id": "7729e9cf-af91-41d3-a9da-cd9e36f97d5e",
+          "name": "OMJ Praktis Fish Fillet"
+        },
+        {
+          "id": "e53bc702-ec0d-4b4b-81d9-8d6ce8b98265",
+          "name": "Kfc Soup"
+        },
+        {
+          "id": "65baa509-e5db-443b-aa5a-08df71df340f",
+          "name": "Zuper Box OR"
+        },
+        {
+          "id": "d758d8c2-efd1-4281-80ec-97a8fa8c71d9",
+          "name": "Personal Snack Bucket 3 BBQ"
+        }
+      ]
+    },
+    "tags_review": [
+      "",
+      "gofood.co.id"
+    ],
+    "content_reviews": "kacau ga teliti, pesan di kfc kemang. zuper box or cuma ada nya burger sm minum ga ada ayam sm nasi, yang super besar 2 OR ga ada cola nya.🤦🏻‍♂, SB OR 2 ayam nya cm satu,",
+    "date_of_experience": ""
+  }
+}

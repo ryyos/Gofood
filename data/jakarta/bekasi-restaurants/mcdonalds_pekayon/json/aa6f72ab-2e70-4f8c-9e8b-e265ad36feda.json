@@ -1,0 +1,75 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/mcdonald-s-pekayon-50150204-8f6d-4372-8458-668f1be126e8",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Cepat saji",
+    "Sweets",
+    "Jajanan",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:17:21.424093",
+  "crawling_time_epoch": 1705155441,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/McDonalds_Pekayon/json/aa6f72ab-2e70-4f8c-9e8b-e265ad36feda.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/McDonalds_Pekayon/json/aa6f72ab-2e70-4f8c-9e8b-e265ad36feda.json",
+  "reviews_name": "McDonald's, Pekayon",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.46
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "50150204-8f6d-4372-8458-668f1be126e8",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.8,
+      "total": 70397
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 4555,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 3695,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 3669,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "aa6f72ab-2e70-4f8c-9e8b-e265ad36feda",
+    "username_reviews": "F******",
+    "initialName": "F",
+    "image_reviews": null,
+    "created_time": "2021-08-31T09:01:18.228891+07:00",
+    "created_time_epoch": 1630400478,
+    "reviews_rating": 2,
+    "orders": {
+      "orderedAt": "2021-08-31T00:19:52.179767Z",
+      "items": [
+        {
+          "id": "2d7643f0-e79e-467b-b8a5-9bba40d0ac50",
+          "name": "PaNas Special Krispy, Medium"
+        },
+        {
+          "id": "b85d66ff-edfc-45a3-bf9f-d0c0e1643666",
+          "name": "Breakfast Wrap"
+        },
+        {
+          "id": "b5856cb9-a727-4dca-9efa-bb8d81e5a879",
+          "name": "Paket Hemat Chicken McMuffin"
+        }
+      ]
+    },
+    "tags_review": [
+      "gofood.co.id"
+    ],
+    "content_reviews": "Sedih, padahal bayar lebih buat extra mcchicken sauce tapi gaada. Dikasih saus sambel cuma 1. Kecewa",
+    "date_of_experience": ""
+  }
+}

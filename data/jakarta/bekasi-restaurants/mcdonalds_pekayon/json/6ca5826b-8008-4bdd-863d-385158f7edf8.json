@@ -1,0 +1,72 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/mcdonald-s-pekayon-50150204-8f6d-4372-8458-668f1be126e8",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Cepat saji",
+    "Sweets",
+    "Jajanan",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:17:21.424093",
+  "crawling_time_epoch": 1705155441,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/McDonalds_Pekayon/json/6ca5826b-8008-4bdd-863d-385158f7edf8.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/McDonalds_Pekayon/json/6ca5826b-8008-4bdd-863d-385158f7edf8.json",
+  "reviews_name": "McDonald's, Pekayon",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.46
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "50150204-8f6d-4372-8458-668f1be126e8",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.8,
+      "total": 70397
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 4555,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 3695,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 3669,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "6ca5826b-8008-4bdd-863d-385158f7edf8",
+    "username_reviews": "R****",
+    "initialName": "R",
+    "image_reviews": null,
+    "created_time": "2020-03-18T03:54:53.627+07:00",
+    "created_time_epoch": 1584503693,
+    "reviews_rating": 1,
+    "orders": {
+      "orderedAt": "2020-03-17T19:10:25.977434Z",
+      "items": [
+        {
+          "id": "a9e74835-2430-4e3b-9c44-34946a0b343e",
+          "name": "PaNas Spesial Ayam Spicy McD Thai Sweet Chili"
+        },
+        {
+          "id": "a067db1c-7000-4045-a93e-b727f1cfa477",
+          "name": "Double Cheeseburger Meal Large"
+        }
+      ]
+    },
+    "tags_review": [
+      "CANNED_RESPONSE_PORTION",
+      "gofood.co.id"
+    ],
+    "content_reviews": "telurnya ga ada",
+    "date_of_experience": ""
+  }
+}

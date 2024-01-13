@@ -1,0 +1,72 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/bang-raden-gerobak-kopi-grand-galaxy-city-11ac8186-f8f3-4965-9a75-13c2dfc2581d",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Minuman",
+    "Kopi",
+    "Sweets",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:21:18.616977",
+  "crawling_time_epoch": 1705155678,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Bang_Raden_Gerobak_Kopi_Grand_Galaxy_City/json/95e58ea9-89c0-4288-beb6-d81cde7bdc84.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Bang_Raden_Gerobak_Kopi_Grand_Galaxy_City/json/95e58ea9-89c0-4288-beb6-d81cde7bdc84.json",
+  "reviews_name": "Bang Raden Gerobak Kopi, Grand Galaxy City",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 1
+  },
+  "range_prices": "16k-40k",
+  "restaurant_id": "11ac8186-f8f3-4965-9a75-13c2dfc2581d",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.8,
+      "total": 3944
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 461,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 337,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 315,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "95e58ea9-89c0-4288-beb6-d81cde7bdc84",
+    "username_reviews": "M******",
+    "initialName": "M",
+    "image_reviews": null,
+    "created_time": "2023-05-31T22:02:47.941209+07:00",
+    "created_time_epoch": 1685570567,
+    "reviews_rating": 2,
+    "orders": {
+      "orderedAt": "2023-05-31T14:14:16.738151Z",
+      "items": [
+        {
+          "id": "953642fa-83e1-4670-9afc-f84492c59dc3",
+          "name": "Spaghetti Aglio Olio"
+        },
+        {
+          "id": "4be92f34-154b-470a-b445-ceac1ed1d7cd",
+          "name": "Kopi Sultan ( Best Seller )"
+        }
+      ]
+    },
+    "tags_review": [
+      "CANNED_RESPONSE_TASTE",
+      "gofood.co.id"
+    ],
+    "content_reviews": "Baru kali ini aglio olio nya berasa ketumpahan lada, kepedesan sampe ga bisa dimakan dan rusak rasanya. Sorry banget kali ini bintang 2.",
+    "date_of_experience": ""
+  }
+}

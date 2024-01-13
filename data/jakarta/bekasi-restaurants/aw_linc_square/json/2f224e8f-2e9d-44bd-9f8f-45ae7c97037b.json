@@ -1,0 +1,75 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/a-w-linc-square-d4fe7a94-86cd-4883-b279-07bdd7002ad9",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Cepat saji",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:20:11.107220",
+  "crawling_time_epoch": 1705155611,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/AW_Linc_Square/json/2f224e8f-2e9d-44bd-9f8f-45ae7c97037b.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/AW_Linc_Square/json/2f224e8f-2e9d-44bd-9f8f-45ae7c97037b.json",
+  "reviews_name": "A&W, Linc Square",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.94
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "d4fe7a94-86cd-4883-b279-07bdd7002ad9",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.8,
+      "total": 7181
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 499,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 403,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 365,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "2f224e8f-2e9d-44bd-9f8f-45ae7c97037b",
+    "username_reviews": "F**",
+    "initialName": "F",
+    "image_reviews": null,
+    "created_time": "2020-03-03T17:50:30.015+07:00",
+    "created_time_epoch": 1583257830,
+    "reviews_rating": 2,
+    "orders": {
+      "orderedAt": "2020-03-03T10:08:43.790589Z",
+      "items": [
+        {
+          "id": "78cc10c6-cd5a-4ed3-833e-78d33b6a80dc",
+          "name": "Zesty Chicken & Potato Jumbo"
+        },
+        {
+          "id": "231e89bd-e5e0-4b8a-bed4-9d7fb2ec9e22",
+          "name": "Mineral Water 330ml"
+        },
+        {
+          "id": "448f162f-0856-4f0c-a64c-3f1042021ba7",
+          "name": "Zesty Chicken Bites Jumbo"
+        }
+      ]
+    },
+    "tags_review": [
+      "CANNED_RESPONSE_PORTION",
+      "CANNED_RESPONSE_VALUE",
+      "gofood.co.id"
+    ],
+    "content_reviews": "the portion is too small for that price :/",
+    "date_of_experience": ""
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/mcdonald-s-pekayon-50150204-8f6d-4372-8458-668f1be126e8",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Cepat saji",
+    "Sweets",
+    "Jajanan",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:17:21.424093",
+  "crawling_time_epoch": 1705155441,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/McDonalds_Pekayon/json/44fd0ffe-34bb-4b21-bd86-b2f496962d89.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/McDonalds_Pekayon/json/44fd0ffe-34bb-4b21-bd86-b2f496962d89.json",
+  "reviews_name": "McDonald's, Pekayon",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.46
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "50150204-8f6d-4372-8458-668f1be126e8",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.8,
+      "total": 70397
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 4555,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 3695,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 3669,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "44fd0ffe-34bb-4b21-bd86-b2f496962d89",
+    "username_reviews": "T****",
+    "initialName": "T",
+    "image_reviews": null,
+    "created_time": "2022-09-06T18:40:44.177782+07:00",
+    "created_time_epoch": 1662489644,
+    "reviews_rating": 1,
+    "orders": {
+      "orderedAt": "2022-09-06T10:31:21.948811Z",
+      "items": [
+        {
+          "id": "421662a5-42c3-4782-b1cd-44fcad21bab9",
+          "name": "Happy Meal Ayam McD"
+        },
+        {
+          "id": "7503e7a3-dc2c-4eea-81d6-302a04736423",
+          "name": "Choco Sundae"
+        },
+        {
+          "id": "2bc001b6-1f78-4836-ba3c-9ba948f008d4",
+          "name": "French Fries Large"
+        }
+      ]
+    },
+    "tags_review": [
+      "gofood.co.id"
+    ],
+    "content_reviews": "pesen fries yg large tapi isinya pendek pendek eh udah gitu ga garing. meleyot semua kayak digorengnya pagi. sedih bgt sih asli. happy meal kok mainannya sonic ya? bukan dptnya tomica?",
+    "date_of_experience": ""
+  }
+}

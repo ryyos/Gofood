@@ -1,0 +1,69 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/mbok-centil-ayam-kampung-serundeng-galaxy-6d00f1a4-66b1-41c9-aec4-b7d49a404c6c",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Ayam & bebek",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:21:12.432830",
+  "crawling_time_epoch": 1705155672,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Mbok_Centil_Ayam_Kampung_Serundeng_Galaxy/json/8cb341f5-4b1a-4bab-bce7-65823056f744.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Mbok_Centil_Ayam_Kampung_Serundeng_Galaxy/json/8cb341f5-4b1a-4bab-bce7-65823056f744.json",
+  "reviews_name": "Mbok Centil Ayam Kampung Serundeng, Galaxy",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 1
+  },
+  "range_prices": "16k-40k",
+  "restaurant_id": "6d00f1a4-66b1-41c9-aec4-b7d49a404c6c",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.8,
+      "total": 2864
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 317,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 199,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 198,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "8cb341f5-4b1a-4bab-bce7-65823056f744",
+    "username_reviews": "A***** L*******",
+    "initialName": "AL",
+    "image_reviews": null,
+    "created_time": "2021-05-11T08:40:35.754749+07:00",
+    "created_time_epoch": 1620722435,
+    "reviews_rating": 3,
+    "orders": {
+      "orderedAt": "2021-05-10T12:19:15.684834Z",
+      "items": [
+        {
+          "id": "d21d29e4-a348-4f8a-ad60-23d08d58d930",
+          "name": "Ayam Kampung Bakar"
+        }
+      ]
+    },
+    "tags_review": [
+      "CANNED_RESPONSE_FRESHNESS",
+      "CANNED_RESPONSE_TASTE",
+      "CANNED_RESPONSE_HYGIENE",
+      "CANNED_RESPONSE_PACKAGING",
+      "gofood.co.id"
+    ],
+    "content_reviews": "rasa oke banget, tapi ayamnya kok ga kaya ayam kampung? kaya ayam negri. Yah semoga jujur sih, tapi bapak saya jadi ga berani makan karna takut ayam negri, soalnya dia ada alergi",
+    "date_of_experience": ""
+  }
+}

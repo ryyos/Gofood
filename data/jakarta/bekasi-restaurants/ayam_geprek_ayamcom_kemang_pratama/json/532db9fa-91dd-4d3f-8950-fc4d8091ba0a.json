@@ -1,0 +1,71 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/ayam-geprek-ayam-com-kemang-pratama-acb48dbc-474f-44f8-a2c9-9310a1dc6f56",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Ayam & bebek",
+    "Aneka nasi",
+    "Cepat saji",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:19:06.874520",
+  "crawling_time_epoch": 1705155546,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Ayam_Geprek_Ayamcom_Kemang_Pratama/json/532db9fa-91dd-4d3f-8950-fc4d8091ba0a.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Ayam_Geprek_Ayamcom_Kemang_Pratama/json/532db9fa-91dd-4d3f-8950-fc4d8091ba0a.json",
+  "reviews_name": "Ayam Geprek Ayam.com, Kemang Pratama",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.49
+  },
+  "range_prices": "16k-40k",
+  "restaurant_id": "acb48dbc-474f-44f8-a2c9-9310a1dc6f56",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.8,
+      "total": 2048
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 292,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 238,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 224,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "532db9fa-91dd-4d3f-8950-fc4d8091ba0a",
+    "username_reviews": "M*** H**** R********",
+    "initialName": "MR",
+    "image_reviews": null,
+    "created_time": "2021-07-08T19:17:49.949065+07:00",
+    "created_time_epoch": 1625771869,
+    "reviews_rating": 3,
+    "orders": {
+      "orderedAt": "2021-07-08T11:24:20.251743Z",
+      "items": [
+        {
+          "id": "0293293b-a91f-47e2-b364-6aad1ee88e42",
+          "name": "Ayam Geprek Jumbo"
+        },
+        {
+          "id": "ebb06aee-844f-4231-b47d-4e29b3c384fc",
+          "name": "Telur Dadar"
+        }
+      ]
+    },
+    "tags_review": [
+      "gofood.co.id"
+    ],
+    "content_reviews": "Gada rasa pedesnya sama bumbu Geprek nya terlalu halus",
+    "date_of_experience": ""
+  }
+}

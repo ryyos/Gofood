@@ -1,0 +1,66 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/a-w-linc-square-d4fe7a94-86cd-4883-b279-07bdd7002ad9",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Cepat saji",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:20:11.107220",
+  "crawling_time_epoch": 1705155611,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/AW_Linc_Square/json/01c2ace7-4992-4561-affa-a9076d218e32.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/AW_Linc_Square/json/01c2ace7-4992-4561-affa-a9076d218e32.json",
+  "reviews_name": "A&W, Linc Square",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.94
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "d4fe7a94-86cd-4883-b279-07bdd7002ad9",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.8,
+      "total": 7181
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 499,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 403,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 365,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "01c2ace7-4992-4561-affa-a9076d218e32",
+    "username_reviews": "Ratri Pravitasari",
+    "initialName": "RP",
+    "image_reviews": null,
+    "created_time": "2021-12-17T18:36:10.232768+07:00",
+    "created_time_epoch": 1639766170,
+    "reviews_rating": 2,
+    "orders": {
+      "orderedAt": "2021-12-17T10:18:15.870526Z",
+      "items": [
+        {
+          "id": "2e311df3-6f97-4c3a-92df-e4081f9491c9",
+          "name": "SUPER - 5 Aroma Chicken, Fries, Rice & RB"
+        }
+      ]
+    },
+    "tags_review": [
+      "CANNED_RESPONSE_FRESHNESS",
+      "gofood.co.id"
+    ],
+    "content_reviews": "Kentangnya kyk digoreng lagi, berminyak",
+    "date_of_experience": ""
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/mcdonald-s-pekayon-50150204-8f6d-4372-8458-668f1be126e8",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Cepat saji",
+    "Sweets",
+    "Jajanan",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:17:21.424093",
+  "crawling_time_epoch": 1705155441,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/McDonalds_Pekayon/json/11e7c346-1634-4819-b581-a3b6ed5073f3.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/McDonalds_Pekayon/json/11e7c346-1634-4819-b581-a3b6ed5073f3.json",
+  "reviews_name": "McDonald's, Pekayon",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.46
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "50150204-8f6d-4372-8458-668f1be126e8",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.8,
+      "total": 70397
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 4555,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 3695,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 3669,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "11e7c346-1634-4819-b581-a3b6ed5073f3",
+    "username_reviews": "M***********",
+    "initialName": "M",
+    "image_reviews": null,
+    "created_time": "2021-03-24T23:08:03.146281+07:00",
+    "created_time_epoch": 1616627283,
+    "reviews_rating": 3,
+    "orders": {
+      "orderedAt": "2021-03-24T10:54:05.219077Z",
+      "items": [
+        {
+          "id": "e606e122-ac61-422f-a8fd-8d912b4d72a6",
+          "name": "Paket Hemat Mini Cuts Spicy Chicken"
+        }
+      ]
+    },
+    "tags_review": [
+      "gofood.co.id"
+    ],
+    "content_reviews": "gada rasa pedes nya. dan kegedan tulang",
+    "date_of_experience": ""
+  }
+}

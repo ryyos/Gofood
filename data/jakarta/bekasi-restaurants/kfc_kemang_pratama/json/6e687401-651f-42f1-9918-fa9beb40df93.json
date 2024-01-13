@@ -1,0 +1,78 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/kfc-kemang-pratama-ef8c2c3e-61d6-4bd4-b9fa-10cfd6358dcf",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Cepat saji",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:19:21.062803",
+  "crawling_time_epoch": 1705155561,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/KFC_Kemang_Pratama/json/6e687401-651f-42f1-9918-fa9beb40df93.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/KFC_Kemang_Pratama/json/6e687401-651f-42f1-9918-fa9beb40df93.json",
+  "reviews_name": "KFC, Kemang Pratama",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.53
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "ef8c2c3e-61d6-4bd4-b9fa-10cfd6358dcf",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.8,
+      "total": 24067
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 2021,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 1696,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 1631,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "6e687401-651f-42f1-9918-fa9beb40df93",
+    "username_reviews": "A***",
+    "initialName": "A",
+    "image_reviews": null,
+    "created_time": "2021-01-04T21:02:53.047+07:00",
+    "created_time_epoch": 1609794173,
+    "reviews_rating": 3,
+    "orders": {
+      "orderedAt": "2021-01-02T04:38:10.774868Z",
+      "items": [
+        {
+          "id": "14f438bd-bca6-4862-b611-57f8f949dad6",
+          "name": "OMJ Praktis Oriental Bento"
+        },
+        {
+          "id": "47133fb4-67a2-49a8-84a8-def9a8f56af2",
+          "name": "Deluxe Burger"
+        },
+        {
+          "id": "da047079-68bf-45e0-b079-1dc906711e6b",
+          "name": "Mocha Boba"
+        },
+        {
+          "id": "082b4a89-e785-4c13-85ee-f6a51fe37b1a",
+          "name": "Spaghetti Deluxe"
+        }
+      ]
+    },
+    "tags_review": [
+      "CANNED_RESPONSE_TASTE",
+      "gofood.co.id"
+    ],
+    "content_reviews": "Spagetinya gak bgt pokoknya",
+    "date_of_experience": ""
+  }
+}

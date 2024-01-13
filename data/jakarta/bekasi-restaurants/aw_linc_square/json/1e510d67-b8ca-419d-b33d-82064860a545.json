@@ -1,0 +1,71 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/a-w-linc-square-d4fe7a94-86cd-4883-b279-07bdd7002ad9",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Cepat saji",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:20:11.107220",
+  "crawling_time_epoch": 1705155611,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/AW_Linc_Square/json/1e510d67-b8ca-419d-b33d-82064860a545.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/AW_Linc_Square/json/1e510d67-b8ca-419d-b33d-82064860a545.json",
+  "reviews_name": "A&W, Linc Square",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.94
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "d4fe7a94-86cd-4883-b279-07bdd7002ad9",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.8,
+      "total": 7181
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 499,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 403,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 365,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "1e510d67-b8ca-419d-b33d-82064860a545",
+    "username_reviews": "D***",
+    "initialName": "D",
+    "image_reviews": null,
+    "created_time": "2021-06-06T11:44:19.152338+07:00",
+    "created_time_epoch": 1622979859,
+    "reviews_rating": 5,
+    "orders": {
+      "orderedAt": "2021-06-06T03:54:51.823177Z",
+      "items": [
+        {
+          "id": "0b2e4ae4-2c54-4fca-8f77-407793b50c6d",
+          "name": "Golden Aroma Chicken"
+        },
+        {
+          "id": "5d7dea3f-e283-4631-8329-fe731848e961",
+          "name": "Spicy Aroma Chicken"
+        }
+      ]
+    },
+    "tags_review": [
+      "CANNED_RESPONSE_FRESHNESS",
+      "CANNED_RESPONSE_TASTE",
+      "gofood.co.id"
+    ],
+    "content_reviews": "Pesanan Sesuai dgn note ... Happy 👏👏",
+    "date_of_experience": ""
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/bubur-ayam-kampung-nyemplung-pekayon-decd86af-75d6-466d-9d74-c66a45850297",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Aneka nasi",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:20:19.392522",
+  "crawling_time_epoch": 1705155619,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Bubur_Ayam_Kampung_Nyemplung_Pekayon/json/5efbe21f-a9f9-4f9e-bedf-f1e76bf482fe.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Bubur_Ayam_Kampung_Nyemplung_Pekayon/json/5efbe21f-a9f9-4f9e-bedf-f1e76bf482fe.json",
+  "reviews_name": "Bubur Ayam Kampung Nyemplung, Pekayon",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.96
+  },
+  "range_prices": "<16k",
+  "restaurant_id": "decd86af-75d6-466d-9d74-c66a45850297",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.7,
+      "total": 2066
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 191,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 138,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 137,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "5efbe21f-a9f9-4f9e-bedf-f1e76bf482fe",
+    "username_reviews": "Dana",
+    "initialName": "D",
+    "image_reviews": null,
+    "created_time": "2023-09-24T08:31:26.300296+07:00",
+    "created_time_epoch": 1695544286,
+    "reviews_rating": 4,
+    "orders": {
+      "orderedAt": "2023-09-24T00:33:59.218308Z",
+      "items": [
+        {
+          "id": "acd27756-2354-4749-bb23-b894457444fd",
+          "name": "Bubur Ayam Kampung + Telor"
+        }
+      ]
+    },
+    "tags_review": [
+      "CANNED_RESPONSE_PORTION",
+      "CANNED_RESPONSE_TASTE",
+      "CANNED_RESPONSE_HYGIENE",
+      "CANNED_RESPONSE_FRESHNESS",
+      "CANNED_RESPONSE_PRICE",
+      "CANNED_RESPONSE_PACKAGING",
+      "CANNED_RESPONSE_VALUE",
+      "CANNED_RESPONSE_CUTLERY_INCORRECT",
+      "gofood.co.id"
+    ],
+    "content_reviews": "Sudah dikasih keterangan minta alat makan tapi tidak disertakan.. agak repot jadinya, karena sedang di rumah sakit.",
+    "date_of_experience": ""
+  }
+}

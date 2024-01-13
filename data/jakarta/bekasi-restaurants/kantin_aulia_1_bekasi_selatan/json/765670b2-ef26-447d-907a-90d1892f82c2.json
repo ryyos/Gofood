@@ -1,0 +1,83 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/kantin-aulia-1-bekasi-selatan-976b3452-1361-44b7-8f1a-c144e43cca54",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Ayam & bebek",
+    "Aneka nasi",
+    "Cepat saji",
+    "Sweets",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:17:15.302870",
+  "crawling_time_epoch": 1705155435,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Kantin_Aulia_1_Bekasi_Selatan/json/765670b2-ef26-447d-907a-90d1892f82c2.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Kantin_Aulia_1_Bekasi_Selatan/json/765670b2-ef26-447d-907a-90d1892f82c2.json",
+  "reviews_name": "Kantin Aulia 1, Bekasi Selatan",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.36
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "976b3452-1361-44b7-8f1a-c144e43cca54",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.8,
+      "total": 811
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 56,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 52,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 51,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "765670b2-ef26-447d-907a-90d1892f82c2",
+    "username_reviews": "Nindita febriyanti",
+    "initialName": "NF",
+    "image_reviews": null,
+    "created_time": "2023-08-06T15:13:55.158838+07:00",
+    "created_time_epoch": 1691334835,
+    "reviews_rating": 5,
+    "orders": {
+      "orderedAt": "2023-08-05T04:16:49.19997Z",
+      "items": [
+        {
+          "id": "ce841e8f-760c-4b8d-a53e-64cd2278b00b",
+          "name": "Spaghety Melted"
+        },
+        {
+          "id": "8bf5fa94-aa4b-414b-bf87-26b66b4ca559",
+          "name": "Spaghety Carbonara"
+        },
+        {
+          "id": "f08fc332-d3cd-4b77-ab2f-c7ddffded3fb",
+          "name": "Nasi Goreng Teriyaki"
+        }
+      ]
+    },
+    "tags_review": [
+      "CANNED_RESPONSE_FRESHNESS",
+      "CANNED_RESPONSE_TASTE",
+      "CANNED_RESPONSE_PORTION",
+      "CANNED_RESPONSE_PACKAGING",
+      "CANNED_RESPONSE_HYGIENE",
+      "CANNED_RESPONSE_VALUE",
+      "CANNED_RESPONSE_CUTLERY",
+      "gofood.co.id"
+    ],
+    "content_reviews": "Suka. Tapi spageti carbonaranya terlalu banyak lada hitam",
+    "date_of_experience": ""
+  }
+}

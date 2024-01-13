@@ -1,0 +1,69 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/asinan-betawi-umar-bakrie-bekasi-selatan-6256964a-a97c-4657-ab38-68cdba4e3d50",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Cepat saji",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:17:16.823868",
+  "crawling_time_epoch": 1705155436,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Asinan_Betawi_Umar_Bakrie_Bekasi_Selatan/json/1251c279-9a0f-4ff2-850d-7fa11320fbcb.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Asinan_Betawi_Umar_Bakrie_Bekasi_Selatan/json/1251c279-9a0f-4ff2-850d-7fa11320fbcb.json",
+  "reviews_name": "Asinan Betawi Umar Bakrie, Bekasi Selatan",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.39
+  },
+  "range_prices": "16k-40k",
+  "restaurant_id": "6256964a-a97c-4657-ab38-68cdba4e3d50",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.8,
+      "total": 1319
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 186,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 162,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 149,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "1251c279-9a0f-4ff2-850d-7fa11320fbcb",
+    "username_reviews": "L*****",
+    "initialName": "L",
+    "image_reviews": null,
+    "created_time": "2020-11-04T18:40:36.486+07:00",
+    "created_time_epoch": 1604515236,
+    "reviews_rating": 5,
+    "orders": {
+      "orderedAt": "2020-11-04T10:13:20.516099Z",
+      "items": [
+        {
+          "id": "c143ada9-cfce-4094-a5ed-4589ff14f43a",
+          "name": "Asinan Buah Expe"
+        }
+      ]
+    },
+    "tags_review": [
+      "CANNED_RESPONSE_FRESHNESS",
+      "CANNED_RESPONSE_TASTE",
+      "CANNED_RESPONSE_PORTION",
+      "CANNED_RESPONSE_HYGIENE",
+      "gofood.co.id"
+    ],
+    "content_reviews": "enak banget.. sumpah. seger. makasi yaa udh menuhin kepengenan bumil 🥰",
+    "date_of_experience": ""
+  }
+}

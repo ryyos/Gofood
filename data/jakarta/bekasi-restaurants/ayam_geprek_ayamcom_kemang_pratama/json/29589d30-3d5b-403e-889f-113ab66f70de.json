@@ -1,0 +1,71 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/ayam-geprek-ayam-com-kemang-pratama-acb48dbc-474f-44f8-a2c9-9310a1dc6f56",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Ayam & bebek",
+    "Aneka nasi",
+    "Cepat saji",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:19:06.874520",
+  "crawling_time_epoch": 1705155546,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Ayam_Geprek_Ayamcom_Kemang_Pratama/json/29589d30-3d5b-403e-889f-113ab66f70de.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Ayam_Geprek_Ayamcom_Kemang_Pratama/json/29589d30-3d5b-403e-889f-113ab66f70de.json",
+  "reviews_name": "Ayam Geprek Ayam.com, Kemang Pratama",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.49
+  },
+  "range_prices": "16k-40k",
+  "restaurant_id": "acb48dbc-474f-44f8-a2c9-9310a1dc6f56",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.8,
+      "total": 2048
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 292,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 238,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 224,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "29589d30-3d5b-403e-889f-113ab66f70de",
+    "username_reviews": "yanti",
+    "initialName": "Y",
+    "image_reviews": null,
+    "created_time": "2022-11-04T18:12:55.69085+07:00",
+    "created_time_epoch": 1667585575,
+    "reviews_rating": 5,
+    "orders": {
+      "orderedAt": "2022-11-03T10:40:54.96677Z",
+      "items": [
+        {
+          "id": "2caedbbe-bbe7-48ab-a2e5-db45dcacdc3b",
+          "name": "Ayam Crispy Paha Atas"
+        },
+        {
+          "id": "323cfd9f-512e-4dc3-b54c-b0a30dfa4a44",
+          "name": "Ayam Crispy Dada"
+        }
+      ]
+    },
+    "tags_review": [
+      "gofood.co.id"
+    ],
+    "content_reviews": "packaging dipesan kotak diantar pakai steroform, padahal kotaknya bayar",
+    "date_of_experience": ""
+  }
+}

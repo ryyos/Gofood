@@ -1,0 +1,69 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/nasi-goreng-riski-bekasi-9196fe69-72e5-4826-b4fe-bf6bfbafabe4",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Aneka nasi",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:19:03.233848",
+  "crawling_time_epoch": 1705155543,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Nasi_Goreng_Riski_Bekasi/json/cdd0576a-0544-40bb-958b-9fc9d0da3556.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Nasi_Goreng_Riski_Bekasi/json/cdd0576a-0544-40bb-958b-9fc9d0da3556.json",
+  "reviews_name": "Nasi Goreng Riski, Bekasi",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.48
+  },
+  "range_prices": "16k-40k",
+  "restaurant_id": "9196fe69-72e5-4826-b4fe-bf6bfbafabe4",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.7,
+      "total": 1717
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 306,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 295,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 240,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "cdd0576a-0544-40bb-958b-9fc9d0da3556",
+    "username_reviews": "Bizar",
+    "initialName": "B",
+    "image_reviews": null,
+    "created_time": "2021-12-30T20:46:36.944877+07:00",
+    "created_time_epoch": 1640897196,
+    "reviews_rating": 4,
+    "orders": {
+      "orderedAt": "2021-12-28T14:22:36.252369Z",
+      "items": [
+        {
+          "id": "aad7d121-58b9-4d5d-9da1-7d6c09266d63",
+          "name": "Nasi Goreng Biasa"
+        },
+        {
+          "id": "e0109b30-4147-41e6-a78d-a6ae981c1c39",
+          "name": "Tambah Telor Ceplok"
+        }
+      ]
+    },
+    "tags_review": [
+      "gofood.co.id"
+    ],
+    "content_reviews": "Sambal cair & dikit ngasihnya",
+    "date_of_experience": ""
+  }
+}

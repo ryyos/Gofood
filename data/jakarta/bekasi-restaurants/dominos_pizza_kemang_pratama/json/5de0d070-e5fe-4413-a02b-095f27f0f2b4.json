@@ -1,0 +1,67 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/domino-s-pizza-kemang-pratama-00fb7fae-fbe1-4b63-ad17-dc7094c64f9c",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Pizza & pasta",
+    "Cepat saji",
+    "Jajanan",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:18:48.067806",
+  "crawling_time_epoch": 1705155528,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Dominos_Pizza_Kemang_Pratama/json/5de0d070-e5fe-4413-a02b-095f27f0f2b4.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Dominos_Pizza_Kemang_Pratama/json/5de0d070-e5fe-4413-a02b-095f27f0f2b4.json",
+  "reviews_name": "Domino's Pizza, Kemang Pratama",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.47
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "00fb7fae-fbe1-4b63-ad17-dc7094c64f9c",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.7,
+      "total": 11582
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 1426,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 1210,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 1158,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "5de0d070-e5fe-4413-a02b-095f27f0f2b4",
+    "username_reviews": "S**** F****",
+    "initialName": "SF",
+    "image_reviews": null,
+    "created_time": "2021-08-02T18:54:56.463015+07:00",
+    "created_time_epoch": 1627930496,
+    "reviews_rating": 5,
+    "orders": {
+      "orderedAt": "2021-07-10T11:22:43.701315Z",
+      "items": [
+        {
+          "id": "c9e4aff6-0c21-429f-b121-60dc07f9d931",
+          "name": "Mac’N Truffle Alfredo Beef"
+        }
+      ]
+    },
+    "tags_review": [
+      "gofood.co.id"
+    ],
+    "content_reviews": "enak pastinya mantap",
+    "date_of_experience": ""
+  }
+}

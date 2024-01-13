@@ -1,0 +1,69 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/a-w-linc-square-d4fe7a94-86cd-4883-b279-07bdd7002ad9",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Cepat saji",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:20:11.107220",
+  "crawling_time_epoch": 1705155611,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/AW_Linc_Square/json/04f584dd-a9ca-4b5e-937c-feb033bcb0f6.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/AW_Linc_Square/json/04f584dd-a9ca-4b5e-937c-feb033bcb0f6.json",
+  "reviews_name": "A&W, Linc Square",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.94
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "d4fe7a94-86cd-4883-b279-07bdd7002ad9",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.8,
+      "total": 7181
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 499,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 403,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 365,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "04f584dd-a9ca-4b5e-937c-feb033bcb0f6",
+    "username_reviews": "Bp Tardi",
+    "initialName": "BT",
+    "image_reviews": null,
+    "created_time": "2022-10-15T13:12:18.471697+07:00",
+    "created_time_epoch": 1665839538,
+    "reviews_rating": 5,
+    "orders": {
+      "orderedAt": "2022-10-15T05:48:16.180259Z",
+      "items": [
+        {
+          "id": "3b9bea0b-8383-4f6e-9426-1e79e9bdd569",
+          "name": "AWESOME - 3 Aroma Chicken & Rice"
+        },
+        {
+          "id": "a67ef369-7bcb-45de-86a8-5323f16e78c3",
+          "name": "A&W Tote Bag"
+        }
+      ]
+    },
+    "tags_review": [
+      "gofood.co.id"
+    ],
+    "content_reviews": "naaah....gituu dong, kantongnya di ikat jd lbih aman g meragukan.\nSekelas A&W masa dr dlu pesen gofood kantongnya g diikat.",
+    "date_of_experience": ""
+  }
+}

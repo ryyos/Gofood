@@ -1,0 +1,63 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/bang-raden-gerobak-kopi-grand-galaxy-city-11ac8186-f8f3-4965-9a75-13c2dfc2581d",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Minuman",
+    "Kopi",
+    "Sweets",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:21:18.616977",
+  "crawling_time_epoch": 1705155678,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Bang_Raden_Gerobak_Kopi_Grand_Galaxy_City/json/0f45ae63-7468-4b89-9342-082240eb579a.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Bang_Raden_Gerobak_Kopi_Grand_Galaxy_City/json/0f45ae63-7468-4b89-9342-082240eb579a.json",
+  "reviews_name": "Bang Raden Gerobak Kopi, Grand Galaxy City",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 1
+  },
+  "range_prices": "16k-40k",
+  "restaurant_id": "11ac8186-f8f3-4965-9a75-13c2dfc2581d",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.8,
+      "total": 3944
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 461,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 337,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 315,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "0f45ae63-7468-4b89-9342-082240eb579a",
+    "username_reviews": "M****",
+    "initialName": "M",
+    "image_reviews": null,
+    "created_time": "2019-04-02T16:31:58.804701+07:00",
+    "created_time_epoch": 1554222718,
+    "reviews_rating": 3,
+    "orders": {
+      "orderedAt": "2019-03-31T14:16:32.756921Z",
+      "items": []
+    },
+    "tags_review": [
+      "",
+      "gofood.co.id"
+    ],
+    "content_reviews": "Biasaaaaaa ajah",
+    "date_of_experience": ""
+  }
+}

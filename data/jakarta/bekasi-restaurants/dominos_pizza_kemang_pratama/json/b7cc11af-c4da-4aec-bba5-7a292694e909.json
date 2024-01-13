@@ -1,0 +1,75 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/domino-s-pizza-kemang-pratama-00fb7fae-fbe1-4b63-ad17-dc7094c64f9c",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Pizza & pasta",
+    "Cepat saji",
+    "Jajanan",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:18:48.067806",
+  "crawling_time_epoch": 1705155528,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Dominos_Pizza_Kemang_Pratama/json/b7cc11af-c4da-4aec-bba5-7a292694e909.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Dominos_Pizza_Kemang_Pratama/json/b7cc11af-c4da-4aec-bba5-7a292694e909.json",
+  "reviews_name": "Domino's Pizza, Kemang Pratama",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.47
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "00fb7fae-fbe1-4b63-ad17-dc7094c64f9c",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.7,
+      "total": 11582
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 1426,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 1210,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 1158,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "b7cc11af-c4da-4aec-bba5-7a292694e909",
+    "username_reviews": "R****",
+    "initialName": "R",
+    "image_reviews": null,
+    "created_time": "2022-06-30T18:18:09.778777+07:00",
+    "created_time_epoch": 1656613089,
+    "reviews_rating": 5,
+    "orders": {
+      "orderedAt": "2022-06-30T10:40:49.807838Z",
+      "items": [
+        {
+          "id": "df3d693c-2460-4994-807e-8d57a82c0d19",
+          "name": "85 Pairs - Save 35% for 2 Pizza"
+        },
+        {
+          "id": "36d77304-0268-438b-b769-f0d66d321cc9",
+          "name": "Cheese Bread (8 Pieces)"
+        }
+      ]
+    },
+    "tags_review": [
+      "CANNED_RESPONSE_TASTE",
+      "CANNED_RESPONSE_PORTION",
+      "CANNED_RESPONSE_PACKAGING",
+      "CANNED_RESPONSE_VALUE",
+      "gofood.co.id"
+    ],
+    "content_reviews": "perfect as always",
+    "date_of_experience": ""
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/mcdonald-s-pekayon-50150204-8f6d-4372-8458-668f1be126e8",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Cepat saji",
+    "Sweets",
+    "Jajanan",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:17:21.424093",
+  "crawling_time_epoch": 1705155441,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/McDonalds_Pekayon/json/034197a8-64a4-45d0-ab2f-9c21a1f4af68.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/McDonalds_Pekayon/json/034197a8-64a4-45d0-ab2f-9c21a1f4af68.json",
+  "reviews_name": "McDonald's, Pekayon",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.46
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "50150204-8f6d-4372-8458-668f1be126e8",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.8,
+      "total": 70397
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 4555,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 3695,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 3669,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "034197a8-64a4-45d0-ab2f-9c21a1f4af68",
+    "username_reviews": "N******",
+    "initialName": "N",
+    "image_reviews": null,
+    "created_time": "2020-06-27T15:24:41.248+07:00",
+    "created_time_epoch": 1593271481,
+    "reviews_rating": 5,
+    "orders": {
+      "orderedAt": "2020-06-27T07:37:21.100833Z",
+      "items": [
+        {
+          "id": "4e0f6004-b878-4234-9944-c93688fe71df",
+          "name": "Chicken Burger"
+        },
+        {
+          "id": "4c106b3b-c88b-426d-aac1-bc906404d0fa",
+          "name": "McFlurry Feat. Oreo"
+        },
+        {
+          "id": "13101a77-0b03-46b5-b376-d62847fea68c",
+          "name": "Beef Burger"
+        }
+      ]
+    },
+    "tags_review": [
+      "",
+      "gofood.co.id"
+    ],
+    "content_reviews": "saosnya jangan pelit ya hehe",
+    "date_of_experience": ""
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/pizza-hut-kemang-pratama-619b40c5-b111-4004-a05e-2cf6526de384",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Barat",
+    "Jajanan",
+    "Ayam & bebek",
+    "Pizza & pasta",
+    "Cepat saji",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:20:55.807619",
+  "crawling_time_epoch": 1705155655,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Pizza_Hut_Kemang_Pratama/json/4cb2f93d-a9d4-4fba-9f44-709ee8a4b89f.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Pizza_Hut_Kemang_Pratama/json/4cb2f93d-a9d4-4fba-9f44-709ee8a4b89f.json",
+  "reviews_name": "Pizza Hut, Kemang Pratama",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.99
+  },
+  "range_prices": ">100k",
+  "restaurant_id": "619b40c5-b111-4004-a05e-2cf6526de384",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.8,
+      "total": 12460
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 997,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 804,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 735,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "4cb2f93d-a9d4-4fba-9f44-709ee8a4b89f",
+    "username_reviews": "M.3.L.L.Y",
+    "initialName": "M",
+    "image_reviews": null,
+    "created_time": "2022-12-06T20:47:30.398803+07:00",
+    "created_time_epoch": 1670359650,
+    "reviews_rating": 5,
+    "orders": {
+      "orderedAt": "2022-12-03T06:14:15.953994Z",
+      "items": [
+        {
+          "id": "97136bad-f7a4-4884-aa62-fa1f4ebc3872",
+          "name": "My Box Plus Pasta/Rice"
+        }
+      ]
+    },
+    "tags_review": [
+      "CANNED_RESPONSE_TASTE",
+      "gofood.co.id"
+    ],
+    "content_reviews": "enak bgt pokoknya suka ",
+    "date_of_experience": ""
+  }
+}

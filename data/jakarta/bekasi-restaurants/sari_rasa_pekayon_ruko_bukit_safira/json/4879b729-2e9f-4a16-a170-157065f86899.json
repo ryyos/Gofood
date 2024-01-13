@@ -1,0 +1,75 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/sari-rasa-pekayon-ruko-bukit-safira-1457b34a-58b8-4ac5-b2b1-f64b5c9c967f",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Sate",
+    "Ayam & bebek",
+    "Aneka nasi",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:19:47.200172",
+  "crawling_time_epoch": 1705155587,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Sari_Rasa_Pekayon_Ruko_Bukit_Safira/json/4879b729-2e9f-4a16-a170-157065f86899.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Sari_Rasa_Pekayon_Ruko_Bukit_Safira/json/4879b729-2e9f-4a16-a170-157065f86899.json",
+  "reviews_name": "Sari Rasa Pekayon, Ruko Bukit Safira",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.6
+  },
+  "range_prices": "16k-40k",
+  "restaurant_id": "1457b34a-58b8-4ac5-b2b1-f64b5c9c967f",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.8,
+      "total": 1979
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 216,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 169,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 164,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "4879b729-2e9f-4a16-a170-157065f86899",
+    "username_reviews": "I**** M**** S***",
+    "initialName": "IS",
+    "image_reviews": null,
+    "created_time": "2019-11-07T13:29:10.951+07:00",
+    "created_time_epoch": 1573133350,
+    "reviews_rating": 5,
+    "orders": {
+      "orderedAt": "2019-11-07T05:42:33.990555Z",
+      "items": [
+        {
+          "id": "b995ad62-3d9a-4e67-96d9-f3b899f94f84",
+          "name": "Pepes Mas"
+        },
+        {
+          "id": "c8b4df5e-e0e4-4228-bc65-22b662824ba8",
+          "name": "Tempe Goreng"
+        }
+      ]
+    },
+    "tags_review": [
+      "CANNED_RESPONSE_FRESHNESS",
+      "CANNED_RESPONSE_TASTE",
+      "CANNED_RESPONSE_HYGIENE",
+      "CANNED_RESPONSE_PACKAGING",
+      "gofood.co.id"
+    ],
+    "content_reviews": "pepes masnya mantapppp!!!!! berasaa bangettt...",
+    "date_of_experience": ""
+  }
+}

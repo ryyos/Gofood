@@ -1,0 +1,72 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/mcdonald-s-pekayon-50150204-8f6d-4372-8458-668f1be126e8",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Cepat saji",
+    "Sweets",
+    "Jajanan",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:17:21.424093",
+  "crawling_time_epoch": 1705155441,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/McDonalds_Pekayon/json/0e65a2f6-a6e0-481a-aec0-8a6bee2bf9a7.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/McDonalds_Pekayon/json/0e65a2f6-a6e0-481a-aec0-8a6bee2bf9a7.json",
+  "reviews_name": "McDonald's, Pekayon",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.46
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "50150204-8f6d-4372-8458-668f1be126e8",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.8,
+      "total": 70397
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 4555,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 3695,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 3669,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "0e65a2f6-a6e0-481a-aec0-8a6bee2bf9a7",
+    "username_reviews": "R**** J*********",
+    "initialName": "RJ",
+    "image_reviews": null,
+    "created_time": "2020-05-16T02:09:02.334+07:00",
+    "created_time_epoch": 1589594942,
+    "reviews_rating": 3,
+    "orders": {
+      "orderedAt": "2020-05-15T18:15:23.251088Z",
+      "items": [
+        {
+          "id": "7fcd275d-e620-4622-aba2-ac130980029a",
+          "name": "Chicken  Rice with Cheese Krispy"
+        },
+        {
+          "id": "3bbe8f66-918a-4768-a250-14771d03d142",
+          "name": "Beef Burger Deluxe Medium"
+        }
+      ]
+    },
+    "tags_review": [
+      "",
+      "gofood.co.id"
+    ],
+    "content_reviews": "ayam ga sesuai pesanan",
+    "date_of_experience": ""
+  }
+}

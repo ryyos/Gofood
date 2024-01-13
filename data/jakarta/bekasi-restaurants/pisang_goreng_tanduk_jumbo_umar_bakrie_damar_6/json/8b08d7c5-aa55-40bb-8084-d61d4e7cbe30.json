@@ -1,0 +1,71 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/pisang-goreng-tanduk-jumbo-umar-bakrie-damar-6-fb7fecd4-9337-4d02-907a-2e1ddefdbd03",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Cepat saji",
+    "Jajanan",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:17:09.085002",
+  "crawling_time_epoch": 1705155429,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Pisang_Goreng_Tanduk_Jumbo_Umar_Bakrie_Damar_6/json/8b08d7c5-aa55-40bb-8084-d61d4e7cbe30.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Pisang_Goreng_Tanduk_Jumbo_Umar_Bakrie_Damar_6/json/8b08d7c5-aa55-40bb-8084-d61d4e7cbe30.json",
+  "reviews_name": "Pisang Goreng Tanduk Jumbo Umar Bakrie, Damar 6",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.36
+  },
+  "range_prices": "16k-40k",
+  "restaurant_id": "fb7fecd4-9337-4d02-907a-2e1ddefdbd03",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.7,
+      "total": 2037
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 218,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 175,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 172,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "8b08d7c5-aa55-40bb-8084-d61d4e7cbe30",
+    "username_reviews": "Ningsih",
+    "initialName": "N",
+    "image_reviews": null,
+    "created_time": "2022-09-17T18:54:20.386023+07:00",
+    "created_time_epoch": 1663440860,
+    "reviews_rating": 2,
+    "orders": {
+      "orderedAt": "2022-09-17T09:24:28.317286Z",
+      "items": [
+        {
+          "id": "aac0a317-8ccc-4a7c-af4f-af803f197c26",
+          "name": "pisgor tanduk p d  isi 4 + sambal roa 30 gram"
+        },
+        {
+          "id": "05f12b06-57b5-4730-8b87-59eec5e3ec63",
+          "name": "Sukun Goreng Krispi Isi 3 Pcs"
+        }
+      ]
+    },
+    "tags_review": [
+      "CANNED_RESPONSE_TASTE",
+      "gofood.co.id"
+    ],
+    "content_reviews": "Kayaknya tergantung selera masing2 kali ya. Kalau menurut saya pisangnya kematangan. Jd saat dimakan sdh lembek, utk bahan pusgor mending oakai pisang yg masih belum matang benar.  Utk sukun gorengnya fail banget. Irisannya terlalu tebal, jd gak krispy 😓",
+    "date_of_experience": ""
+  }
+}

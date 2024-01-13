@@ -1,0 +1,74 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/nasi-goreng-riski-bekasi-9196fe69-72e5-4826-b4fe-bf6bfbafabe4",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Aneka nasi",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:19:03.233848",
+  "crawling_time_epoch": 1705155543,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Nasi_Goreng_Riski_Bekasi/json/4505c0ae-a2a7-4469-9756-a13645abcaa3.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Nasi_Goreng_Riski_Bekasi/json/4505c0ae-a2a7-4469-9756-a13645abcaa3.json",
+  "reviews_name": "Nasi Goreng Riski, Bekasi",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.48
+  },
+  "range_prices": "16k-40k",
+  "restaurant_id": "9196fe69-72e5-4826-b4fe-bf6bfbafabe4",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.7,
+      "total": 1717
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 306,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 295,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 240,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "4505c0ae-a2a7-4469-9756-a13645abcaa3",
+    "username_reviews": "R**** P",
+    "initialName": "RP",
+    "image_reviews": null,
+    "created_time": "2020-01-06T21:55:14.925+07:00",
+    "created_time_epoch": 1578347714,
+    "reviews_rating": 1,
+    "orders": {
+      "orderedAt": "2020-01-06T14:00:08.133141Z",
+      "items": [
+        {
+          "id": "4e5969d0-2549-43e4-b410-d9b129f467b0",
+          "name": "Mie Goreng"
+        },
+        {
+          "id": "f5d8957e-e29b-4161-b734-3f2fcc870b89",
+          "name": "Bihun Goreng"
+        },
+        {
+          "id": "f946f104-9c01-420a-a452-efa79a08c572",
+          "name": "Tambah Telor Dadar"
+        }
+      ]
+    },
+    "tags_review": [
+      "CANNED_RESPONSE_TASTE",
+      "gofood.co.id"
+    ],
+    "content_reviews": "bihunnya lupa ga dibumbuin jadi hambar hiks",
+    "date_of_experience": ""
+  }
+}

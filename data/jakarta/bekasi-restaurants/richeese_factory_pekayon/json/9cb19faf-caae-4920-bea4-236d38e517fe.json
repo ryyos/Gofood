@@ -1,0 +1,80 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/richeese-factory-pekayon-fb7c3452-2cba-464a-9e24-23840a40a179",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Cepat saji",
+    "Ayam & bebek",
+    "Aneka nasi",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:20:23.240256",
+  "crawling_time_epoch": 1705155623,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Richeese_Factory_Pekayon/json/9cb19faf-caae-4920-bea4-236d38e517fe.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Richeese_Factory_Pekayon/json/9cb19faf-caae-4920-bea4-236d38e517fe.json",
+  "reviews_name": "Richeese Factory, Pekayon",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.97
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "fb7c3452-2cba-464a-9e24-23840a40a179",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.7,
+      "total": 32095
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 2029,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 1477,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 1469,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "9cb19faf-caae-4920-bea4-236d38e517fe",
+    "username_reviews": "M******",
+    "initialName": "M",
+    "image_reviews": null,
+    "created_time": "2019-10-16T20:56:42.134+07:00",
+    "created_time_epoch": 1571259402,
+    "reviews_rating": 4,
+    "orders": {
+      "orderedAt": "2019-10-16T12:06:31.078325Z",
+      "items": [
+        {
+          "id": "661b0feb-094d-4df4-a6da-0465cfcf4cf5",
+          "name": "Fire Chicken 4 Pcs"
+        },
+        {
+          "id": "48a52081-e041-4f8e-853a-c1c27d0b00ae",
+          "name": "Potato Pom Pom Ala Carte"
+        },
+        {
+          "id": "2a172676-841c-4899-885f-121375c6a57f",
+          "name": "Richeese Black Chicken"
+        },
+        {
+          "id": "6a356371-ec1b-4f97-94a3-fc1de8793f15",
+          "name": "Milk Chocolate Cake"
+        }
+      ]
+    },
+    "tags_review": [
+      "CANNED_RESPONSE_PORTION",
+      "gofood.co.id"
+    ],
+    "content_reviews": "eskrim dan pompomnya kecil sekali. ayam richickennya terlalu coklat",
+    "date_of_experience": ""
+  }
+}

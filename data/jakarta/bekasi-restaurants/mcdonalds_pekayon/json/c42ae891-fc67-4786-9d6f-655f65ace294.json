@@ -1,0 +1,72 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/mcdonald-s-pekayon-50150204-8f6d-4372-8458-668f1be126e8",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Cepat saji",
+    "Sweets",
+    "Jajanan",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:17:21.424093",
+  "crawling_time_epoch": 1705155441,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/McDonalds_Pekayon/json/c42ae891-fc67-4786-9d6f-655f65ace294.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/McDonalds_Pekayon/json/c42ae891-fc67-4786-9d6f-655f65ace294.json",
+  "reviews_name": "McDonald's, Pekayon",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.46
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "50150204-8f6d-4372-8458-668f1be126e8",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.8,
+      "total": 70397
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 4555,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 3695,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 3669,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "c42ae891-fc67-4786-9d6f-655f65ace294",
+    "username_reviews": "M***** P***",
+    "initialName": "MP",
+    "image_reviews": null,
+    "created_time": "2022-10-14T20:18:31.207469+07:00",
+    "created_time_epoch": 1665778711,
+    "reviews_rating": 5,
+    "orders": {
+      "orderedAt": "2022-10-14T12:38:34.327738Z",
+      "items": [
+        {
+          "id": "47ecbfc3-8a44-4f72-aabf-9f4a59ade361",
+          "name": "Cheeseburger"
+        },
+        {
+          "id": "dbe94a4d-c3c0-4aef-95c4-7a23532deafa",
+          "name": "Paket Hemat Double Cheeseburger, Large"
+        }
+      ]
+    },
+    "tags_review": [
+      "CANNED_RESPONSE_TASTE",
+      "gofood.co.id"
+    ],
+    "content_reviews": "excellent food ",
+    "date_of_experience": ""
+  }
+}

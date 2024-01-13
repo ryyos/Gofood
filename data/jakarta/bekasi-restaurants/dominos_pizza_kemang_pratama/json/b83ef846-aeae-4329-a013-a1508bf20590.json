@@ -1,0 +1,71 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/domino-s-pizza-kemang-pratama-00fb7fae-fbe1-4b63-ad17-dc7094c64f9c",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Pizza & pasta",
+    "Cepat saji",
+    "Jajanan",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:18:48.067806",
+  "crawling_time_epoch": 1705155528,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Dominos_Pizza_Kemang_Pratama/json/b83ef846-aeae-4329-a013-a1508bf20590.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Dominos_Pizza_Kemang_Pratama/json/b83ef846-aeae-4329-a013-a1508bf20590.json",
+  "reviews_name": "Domino's Pizza, Kemang Pratama",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.47
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "00fb7fae-fbe1-4b63-ad17-dc7094c64f9c",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.7,
+      "total": 11582
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 1426,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 1210,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 1158,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "b83ef846-aeae-4329-a013-a1508bf20590",
+    "username_reviews": "T****",
+    "initialName": "T",
+    "image_reviews": null,
+    "created_time": "2020-07-09T21:42:25.891+07:00",
+    "created_time_epoch": 1594330945,
+    "reviews_rating": 1,
+    "orders": {
+      "orderedAt": "2020-07-09T13:52:55.62643Z",
+      "items": [
+        {
+          "id": "e22f72ba-4256-467d-8b6f-b47df3e30d2d",
+          "name": "Alfredo Chicken Mushroom Truffle (EXTRA LARGE Hand Tossed)"
+        }
+      ]
+    },
+    "tags_review": [
+      "CANNED_RESPONSE_FRESHNESS",
+      "CANNED_RESPONSE_TASTE",
+      "CANNED_RESPONSE_PRICE",
+      "CANNED_RESPONSE_VALUE",
+      "gofood.co.id"
+    ],
+    "content_reviews": "Kering. Saus truffle mushroomnya cuma sedikit. Isi sedikit. Keju nya gakerasa sama sekali. Pokoknya kering bgt. Bener2 ga sesuai gambar dan deskripsi. Kecewa banget. Untuk 117 ribu, ini mah gak sesuai. Porsi gede iya. Tapi gak enak.",
+    "date_of_experience": ""
+  }
+}

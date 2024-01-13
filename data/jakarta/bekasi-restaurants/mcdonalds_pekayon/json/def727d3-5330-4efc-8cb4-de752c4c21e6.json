@@ -1,0 +1,75 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/mcdonald-s-pekayon-50150204-8f6d-4372-8458-668f1be126e8",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Cepat saji",
+    "Sweets",
+    "Jajanan",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:17:21.424093",
+  "crawling_time_epoch": 1705155441,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/McDonalds_Pekayon/json/def727d3-5330-4efc-8cb4-de752c4c21e6.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/McDonalds_Pekayon/json/def727d3-5330-4efc-8cb4-de752c4c21e6.json",
+  "reviews_name": "McDonald's, Pekayon",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.46
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "50150204-8f6d-4372-8458-668f1be126e8",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.8,
+      "total": 70397
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 4555,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 3695,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 3669,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "def727d3-5330-4efc-8cb4-de752c4c21e6",
+    "username_reviews": "diah",
+    "initialName": "D",
+    "image_reviews": null,
+    "created_time": "2022-06-03T20:05:40.709258+07:00",
+    "created_time_epoch": 1654286740,
+    "reviews_rating": 1,
+    "orders": {
+      "orderedAt": "2022-06-03T12:29:44.807824Z",
+      "items": [
+        {
+          "id": "de119452-8b28-4d70-8c73-4ab8ecc364bf",
+          "name": "Share Box with Spicy Seaweed Cruncy Bubbles + Cajun Garlic Sauce"
+        },
+        {
+          "id": "a8970d96-d1f8-447e-b1d7-9ecee94637a1",
+          "name": "Iced Coffee Sea Salt Caramel Float"
+        },
+        {
+          "id": "4c106b3b-c88b-426d-aac1-bc906404d0fa",
+          "name": "McFlurry Feat. Oreo"
+        }
+      ]
+    },
+    "tags_review": [
+      "gofood.co.id"
+    ],
+    "content_reviews": "Tumpah semuanya ya Allah smpe ga jdi mkn ",
+    "date_of_experience": ""
+  }
+}

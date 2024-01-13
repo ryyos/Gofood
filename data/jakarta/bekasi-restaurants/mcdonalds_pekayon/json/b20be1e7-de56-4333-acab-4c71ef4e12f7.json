@@ -1,0 +1,67 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/mcdonald-s-pekayon-50150204-8f6d-4372-8458-668f1be126e8",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Cepat saji",
+    "Sweets",
+    "Jajanan",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:17:21.424093",
+  "crawling_time_epoch": 1705155441,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/McDonalds_Pekayon/json/b20be1e7-de56-4333-acab-4c71ef4e12f7.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/McDonalds_Pekayon/json/b20be1e7-de56-4333-acab-4c71ef4e12f7.json",
+  "reviews_name": "McDonald's, Pekayon",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.46
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "50150204-8f6d-4372-8458-668f1be126e8",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.8,
+      "total": 70397
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 4555,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 3695,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 3669,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "b20be1e7-de56-4333-acab-4c71ef4e12f7",
+    "username_reviews": "ais",
+    "initialName": "A",
+    "image_reviews": null,
+    "created_time": "2023-02-14T20:43:53.60152+07:00",
+    "created_time_epoch": 1676407433,
+    "reviews_rating": 5,
+    "orders": {
+      "orderedAt": "2023-02-14T12:58:36.463813Z",
+      "items": [
+        {
+          "id": "ab1a82ce-e22a-4790-b692-5c5e03174754",
+          "name": "Family Time Happy Meal Beef Burger dan Mainan, Krispy"
+        }
+      ]
+    },
+    "tags_review": [
+      "gofood.co.id"
+    ],
+    "content_reviews": "pesanannya sesuai dan playanan mmuaskan",
+    "date_of_experience": ""
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/richeese-factory-pekayon-fb7c3452-2cba-464a-9e24-23840a40a179",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Cepat saji",
+    "Ayam & bebek",
+    "Aneka nasi",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:20:23.240256",
+  "crawling_time_epoch": 1705155623,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Richeese_Factory_Pekayon/json/0351a740-c782-4f19-8cc3-f935e8ee91b4.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Richeese_Factory_Pekayon/json/0351a740-c782-4f19-8cc3-f935e8ee91b4.json",
+  "reviews_name": "Richeese Factory, Pekayon",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.97
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "fb7c3452-2cba-464a-9e24-23840a40a179",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.7,
+      "total": 32095
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 2029,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 1477,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 1469,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "0351a740-c782-4f19-8cc3-f935e8ee91b4",
+    "username_reviews": "(***** F********",
+    "initialName": "F",
+    "image_reviews": null,
+    "created_time": "2019-11-07T01:45:22.229+07:00",
+    "created_time_epoch": 1573091122,
+    "reviews_rating": 1,
+    "orders": {
+      "orderedAt": "2019-11-06T18:01:37.79197Z",
+      "items": [
+        {
+          "id": "4141083f-15b3-4173-9e5d-3f4b56647c5b",
+          "name": "Fire Chicken 1 Pcs"
+        },
+        {
+          "id": "184ca9ee-286e-457c-b663-c4819b12aec6",
+          "name": "Combo Duo Fire Chicken"
+        }
+      ]
+    },
+    "tags_review": [
+      "CANNED_RESPONSE_FRESHNESS",
+      "CANNED_RESPONSE_PORTION",
+      "CANNED_RESPONSE_PACKAGING",
+      "CANNED_RESPONSE_VALUE",
+      "gofood.co.id"
+    ],
+    "content_reviews": "Alot mampus, mau gigit bahaya bisa2 gigi patah",
+    "date_of_experience": ""
+  }
+}

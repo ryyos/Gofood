@@ -1,0 +1,72 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/pisang-goreng-tanduk-jumbo-umar-bakrie-damar-6-fb7fecd4-9337-4d02-907a-2e1ddefdbd03",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Cepat saji",
+    "Jajanan",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:17:09.085002",
+  "crawling_time_epoch": 1705155429,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Pisang_Goreng_Tanduk_Jumbo_Umar_Bakrie_Damar_6/json/3638e1ce-6854-47ac-b1e7-e76ca98d2dbb.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Pisang_Goreng_Tanduk_Jumbo_Umar_Bakrie_Damar_6/json/3638e1ce-6854-47ac-b1e7-e76ca98d2dbb.json",
+  "reviews_name": "Pisang Goreng Tanduk Jumbo Umar Bakrie, Damar 6",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.36
+  },
+  "range_prices": "16k-40k",
+  "restaurant_id": "fb7fecd4-9337-4d02-907a-2e1ddefdbd03",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.7,
+      "total": 2037
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 218,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 175,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 172,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "3638e1ce-6854-47ac-b1e7-e76ca98d2dbb",
+    "username_reviews": "Novalia",
+    "initialName": "N",
+    "image_reviews": null,
+    "created_time": "2022-10-30T17:48:19.863366+07:00",
+    "created_time_epoch": 1667152099,
+    "reviews_rating": 3,
+    "orders": {
+      "orderedAt": "2022-10-30T09:41:59.49561Z",
+      "items": [
+        {
+          "id": "68688576-c876-496b-a9fc-68030399a3e9",
+          "name": "Pisgor tanduk Spesial Mengkal isi 10 pcs"
+        },
+        {
+          "id": "a269670f-9b86-425a-b60f-e91d5229e363",
+          "name": "Gorengan serba Dua isi 10 Pcs"
+        }
+      ]
+    },
+    "tags_review": [
+      "CANNED_RESPONSE_TASTE",
+      "CANNED_RESPONSE_ORDER",
+      "gofood.co.id"
+    ],
+    "content_reviews": "Harga sedikit mahal, rasa lumayan enak.....",
+    "date_of_experience": ""
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/mcdonald-s-pekayon-50150204-8f6d-4372-8458-668f1be126e8",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Cepat saji",
+    "Sweets",
+    "Jajanan",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:17:21.424093",
+  "crawling_time_epoch": 1705155441,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/McDonalds_Pekayon/json/bb985bb5-bf22-454b-8788-251f384a77ec.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/McDonalds_Pekayon/json/bb985bb5-bf22-454b-8788-251f384a77ec.json",
+  "reviews_name": "McDonald's, Pekayon",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.46
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "50150204-8f6d-4372-8458-668f1be126e8",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.8,
+      "total": 70397
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 4555,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 3695,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 3669,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "bb985bb5-bf22-454b-8788-251f384a77ec",
+    "username_reviews": "rizki",
+    "initialName": "R",
+    "image_reviews": null,
+    "created_time": "2023-05-25T22:12:59.662266+07:00",
+    "created_time_epoch": 1685052779,
+    "reviews_rating": 5,
+    "orders": {
+      "orderedAt": "2023-05-25T14:13:44.18652Z",
+      "items": [
+        {
+          "id": "2d7643f0-e79e-467b-b8a5-9bba40d0ac50",
+          "name": "PaNas Special Krispy, Medium"
+        },
+        {
+          "id": "d5196f16-1cca-452b-ae5d-f4d33adfc8a5",
+          "name": "PaNas Special Spicy, Medium"
+        },
+        {
+          "id": "546d5c72-ad65-495e-84a3-b2096db17c90",
+          "name": "Paket Hemat Big Mac, Medium"
+        },
+        {
+          "id": "96d35d0f-96ba-4a33-9f9c-bfa18282317e",
+          "name": "French Fries Medium"
+        },
+        {
+          "id": "4ebbb602-75f8-4c7a-bdce-d88b1396a522",
+          "name": "Strawberry Sundae"
+        }
+      ]
+    },
+    "tags_review": [
+      "gofood.co.id"
+    ],
+    "content_reviews": "As always 👍👍👍👍👍👍",
+    "date_of_experience": ""
+  }
+}

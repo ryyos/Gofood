@@ -1,0 +1,71 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/martabak-legit-group-pulo-ribung-e7bc6ee0-6632-451a-b5cf-adb7af7c3da9",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Jajanan",
+    "Martabak",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:20:03.652928",
+  "crawling_time_epoch": 1705155603,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Martabak_Legit_Group_Pulo_Ribung/json/0ec22fd8-87e6-4474-b740-e52849e5a42c.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Martabak_Legit_Group_Pulo_Ribung/json/0ec22fd8-87e6-4474-b740-e52849e5a42c.json",
+  "reviews_name": "Martabak Legit Group, Pulo Ribung",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.71
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "e7bc6ee0-6632-451a-b5cf-adb7af7c3da9",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.5,
+      "total": 1731
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 174,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 137,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 126,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "0ec22fd8-87e6-4474-b740-e52849e5a42c",
+    "username_reviews": "D******* P**** D****",
+    "initialName": "DD",
+    "image_reviews": null,
+    "created_time": "2019-12-06T22:13:01.735+07:00",
+    "created_time_epoch": 1575670381,
+    "reviews_rating": 1,
+    "orders": {
+      "orderedAt": "2019-12-06T14:24:42.969962Z",
+      "items": [
+        {
+          "id": "13b49f39-53a8-4ce1-8f6f-1405e96f6fbf",
+          "name": "Martabak Manis Original Keju Coklat"
+        },
+        {
+          "id": "7862d8db-59b5-404b-b26c-c31b5b88a3d2",
+          "name": "Martabak Asin 3 Telur Ayam, Sapi"
+        }
+      ]
+    },
+    "tags_review": [
+      "CANNED_RESPONSE_VALUE",
+      "gofood.co.id"
+    ],
+    "content_reviews": "untuk martabak telurnya berantakan gosong dan ga di kasih acar dan kuahnya bener\" kecewa ga LG pesen dsini",
+    "date_of_experience": ""
+  }
+}

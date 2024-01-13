@@ -1,0 +1,75 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/richeese-factory-pekayon-fb7c3452-2cba-464a-9e24-23840a40a179",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Cepat saji",
+    "Ayam & bebek",
+    "Aneka nasi",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:20:23.240256",
+  "crawling_time_epoch": 1705155623,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Richeese_Factory_Pekayon/json/abb8df65-a6e4-4185-8e58-59b91a568436.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Richeese_Factory_Pekayon/json/abb8df65-a6e4-4185-8e58-59b91a568436.json",
+  "reviews_name": "Richeese Factory, Pekayon",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.97
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "fb7c3452-2cba-464a-9e24-23840a40a179",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.7,
+      "total": 32095
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 2029,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 1477,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 1469,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "abb8df65-a6e4-4185-8e58-59b91a568436",
+    "username_reviews": "dewi",
+    "initialName": "D",
+    "image_reviews": null,
+    "created_time": "2022-05-06T16:33:55.358267+07:00",
+    "created_time_epoch": 1651854835,
+    "reviews_rating": 1,
+    "orders": {
+      "orderedAt": "2022-05-05T06:11:38.569756Z",
+      "items": [
+        {
+          "id": "4141083f-15b3-4173-9e5d-3f4b56647c5b",
+          "name": "Fire Chicken 1 Pcs"
+        },
+        {
+          "id": "6185a1b7-6493-463a-b80b-d9b765c32889",
+          "name": "French Fries"
+        },
+        {
+          "id": "034dae5a-1a56-4c6d-9d89-62145d90e1ad",
+          "name": "Combo Big Four"
+        }
+      ]
+    },
+    "tags_review": [
+      "gofood.co.id"
+    ],
+    "content_reviews": "gak dikasih saus keju sama sekali\npadahal pesen richeese pengen saus kejunya",
+    "date_of_experience": ""
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/domino-s-pizza-kemang-pratama-00fb7fae-fbe1-4b63-ad17-dc7094c64f9c",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Pizza & pasta",
+    "Cepat saji",
+    "Jajanan",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:18:48.067806",
+  "crawling_time_epoch": 1705155528,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Dominos_Pizza_Kemang_Pratama/json/697285bb-7a7c-46ee-a0d2-6f972769378b.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Dominos_Pizza_Kemang_Pratama/json/697285bb-7a7c-46ee-a0d2-6f972769378b.json",
+  "reviews_name": "Domino's Pizza, Kemang Pratama",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.47
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "00fb7fae-fbe1-4b63-ad17-dc7094c64f9c",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.7,
+      "total": 11582
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 1426,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 1210,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 1158,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "697285bb-7a7c-46ee-a0d2-6f972769378b",
+    "username_reviews": "I** M****",
+    "initialName": "IM",
+    "image_reviews": null,
+    "created_time": "2023-02-25T12:34:14.652536+07:00",
+    "created_time_epoch": 1677328454,
+    "reviews_rating": 4,
+    "orders": {
+      "orderedAt": "2023-02-25T04:56:49.324393Z",
+      "items": [
+        {
+          "id": "b48a57b5-48ce-4df4-aff7-c60b0261e11e",
+          "name": "4 Pizza Mania for 62K"
+        }
+      ]
+    },
+    "tags_review": [
+      "CANNED_RESPONSE_PACKAGING",
+      "gofood.co.id"
+    ],
+    "content_reviews": "Tidak dikasih eco bagnya, padahal sudah klik dan bayar. Datangnya pakai tali rafia",
+    "date_of_experience": ""
+  }
+}

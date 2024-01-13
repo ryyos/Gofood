@@ -1,0 +1,83 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/mcdonald-s-pekayon-50150204-8f6d-4372-8458-668f1be126e8",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Cepat saji",
+    "Sweets",
+    "Jajanan",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:17:21.424093",
+  "crawling_time_epoch": 1705155441,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/McDonalds_Pekayon/json/ff3f1ea1-39fc-4dec-9f9c-8eba07d9530f.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/McDonalds_Pekayon/json/ff3f1ea1-39fc-4dec-9f9c-8eba07d9530f.json",
+  "reviews_name": "McDonald's, Pekayon",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.46
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "50150204-8f6d-4372-8458-668f1be126e8",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.8,
+      "total": 70397
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 4555,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 3695,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 3669,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "ff3f1ea1-39fc-4dec-9f9c-8eba07d9530f",
+    "username_reviews": "Rully",
+    "initialName": "R",
+    "image_reviews": null,
+    "created_time": "2022-10-15T21:24:38.033207+07:00",
+    "created_time_epoch": 1665869078,
+    "reviews_rating": 4,
+    "orders": {
+      "orderedAt": "2022-10-12T14:17:11.770311Z",
+      "items": [
+        {
+          "id": "2d7643f0-e79e-467b-b8a5-9bba40d0ac50",
+          "name": "PaNas Special Krispy, Medium"
+        },
+        {
+          "id": "47ecbfc3-8a44-4f72-aabf-9f4a59ade361",
+          "name": "Cheeseburger"
+        },
+        {
+          "id": "dbbf2462-b216-4471-847c-44951029eeba",
+          "name": "McNuggets 6 pcs"
+        },
+        {
+          "id": "4c106b3b-c88b-426d-aac1-bc906404d0fa",
+          "name": "McFlurry Feat. Oreo"
+        },
+        {
+          "id": "7503e7a3-dc2c-4eea-81d6-302a04736423",
+          "name": "Choco Sundae"
+        }
+      ]
+    },
+    "tags_review": [
+      "gofood.co.id"
+    ],
+    "content_reviews": "ada yg tidak sesuai request, minta sundae polos tanpa toping tapi di kasih sundae coklat, padahal sdh di buat note nya....semoga bisa menjadi perhatian",
+    "date_of_experience": ""
+  }
+}

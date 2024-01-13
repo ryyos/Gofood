@@ -1,0 +1,91 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/richeese-factory-pekayon-fb7c3452-2cba-464a-9e24-23840a40a179",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Cepat saji",
+    "Ayam & bebek",
+    "Aneka nasi",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:20:23.240256",
+  "crawling_time_epoch": 1705155623,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Richeese_Factory_Pekayon/json/33747eb3-76bb-4aa7-8518-fcb329fe2a72.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Richeese_Factory_Pekayon/json/33747eb3-76bb-4aa7-8518-fcb329fe2a72.json",
+  "reviews_name": "Richeese Factory, Pekayon",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.97
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "fb7c3452-2cba-464a-9e24-23840a40a179",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.7,
+      "total": 32095
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 2029,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 1477,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 1469,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "33747eb3-76bb-4aa7-8518-fcb329fe2a72",
+    "username_reviews": "D****** A**",
+    "initialName": "DA",
+    "image_reviews": null,
+    "created_time": "2020-11-04T15:34:52.844+07:00",
+    "created_time_epoch": 1604504092,
+    "reviews_rating": 5,
+    "orders": {
+      "orderedAt": "2020-11-04T04:54:51.686843Z",
+      "items": [
+        {
+          "id": "2076db60-ee73-40e6-8bad-f8ffc50d4c04",
+          "name": "Pink Lava 1L"
+        },
+        {
+          "id": "ff3620e3-b4c4-4257-a137-3aec0c18172f",
+          "name": "Paket New Hemat Fire Chicken"
+        },
+        {
+          "id": "4c73b639-a6a7-462f-94db-702985be6288",
+          "name": "Paket New Hemat Chicken"
+        },
+        {
+          "id": "4c73b639-a6a7-462f-94db-702985be6288",
+          "name": "Paket New Hemat Chicken"
+        },
+        {
+          "id": "4b3aad46-139c-4aa4-944e-378b0f2bc797",
+          "name": "Rich Burger Original"
+        },
+        {
+          "id": "48a52081-e041-4f8e-853a-c1c27d0b00ae",
+          "name": "Potato Pom Pom Ala Carte"
+        }
+      ]
+    },
+    "tags_review": [
+      "CANNED_RESPONSE_FRESHNESS",
+      "CANNED_RESPONSE_TASTE",
+      "CANNED_RESPONSE_HYGIENE",
+      "CANNED_RESPONSE_VALUE",
+      "gofood.co.id"
+    ],
+    "content_reviews": "keren banget buat pegawai nya yang bernama agus junaedi, bertanggung jawab bangettt",
+    "date_of_experience": ""
+  }
+}

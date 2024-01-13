@@ -1,0 +1,75 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/a-w-linc-square-d4fe7a94-86cd-4883-b279-07bdd7002ad9",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Cepat saji",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:20:11.107220",
+  "crawling_time_epoch": 1705155611,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/AW_Linc_Square/json/f896ca09-4b46-499f-b740-682bebe9deba.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/AW_Linc_Square/json/f896ca09-4b46-499f-b740-682bebe9deba.json",
+  "reviews_name": "A&W, Linc Square",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.94
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "d4fe7a94-86cd-4883-b279-07bdd7002ad9",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.8,
+      "total": 7181
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 499,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 403,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 365,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "f896ca09-4b46-499f-b740-682bebe9deba",
+    "username_reviews": "E*** H******",
+    "initialName": "EH",
+    "image_reviews": null,
+    "created_time": "2021-11-08T19:57:52.365175+07:00",
+    "created_time_epoch": 1636401472,
+    "reviews_rating": 5,
+    "orders": {
+      "orderedAt": "2021-11-08T11:32:04.533746Z",
+      "items": [
+        {
+          "id": "b58c4792-e214-4408-98ab-0a118f6393eb",
+          "name": "Good Family - Duo Aroma Chicken"
+        },
+        {
+          "id": "5393f07c-b295-41b9-a51a-94634f984ebe",
+          "name": "SUPER - RB Float"
+        }
+      ]
+    },
+    "tags_review": [
+      "CANNED_RESPONSE_FRESHNESS",
+      "CANNED_RESPONSE_TASTE",
+      "CANNED_RESPONSE_PORTION",
+      "CANNED_RESPONSE_HYGIENE",
+      "CANNED_RESPONSE_PACKAGING",
+      "CANNED_RESPONSE_VALUE",
+      "gofood.co.id"
+    ],
+    "content_reviews": "terima kasih untuk pengantarannya dengan cepat",
+    "date_of_experience": ""
+  }
+}

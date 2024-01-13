@@ -1,0 +1,70 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/pisang-goreng-tanduk-jumbo-umar-bakrie-damar-6-fb7fecd4-9337-4d02-907a-2e1ddefdbd03",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Cepat saji",
+    "Jajanan",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:17:09.085002",
+  "crawling_time_epoch": 1705155429,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Pisang_Goreng_Tanduk_Jumbo_Umar_Bakrie_Damar_6/json/c0b471fa-dc1d-44da-9e3a-f69200e2c494.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Pisang_Goreng_Tanduk_Jumbo_Umar_Bakrie_Damar_6/json/c0b471fa-dc1d-44da-9e3a-f69200e2c494.json",
+  "reviews_name": "Pisang Goreng Tanduk Jumbo Umar Bakrie, Damar 6",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.36
+  },
+  "range_prices": "16k-40k",
+  "restaurant_id": "fb7fecd4-9337-4d02-907a-2e1ddefdbd03",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.7,
+      "total": 2037
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 218,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 175,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 172,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "c0b471fa-dc1d-44da-9e3a-f69200e2c494",
+    "username_reviews": "Ratna",
+    "initialName": "R",
+    "image_reviews": null,
+    "created_time": "2022-11-23T13:12:47.262526+07:00",
+    "created_time_epoch": 1669209167,
+    "reviews_rating": 3,
+    "orders": {
+      "orderedAt": "2022-11-19T07:45:17.404535Z",
+      "items": [
+        {
+          "id": "109ac72c-d884-4172-853a-317783a2d9ba",
+          "name": "Tape Goreng Krispi Isi 5 Pcs"
+        },
+        {
+          "id": "86a8de9b-7ecd-4cbc-8687-c36ba223c0f2",
+          "name": "Pisgor t sepesial mengkal isi 5 Pcs"
+        }
+      ]
+    },
+    "tags_review": [
+      "gofood.co.id"
+    ],
+    "content_reviews": "pisangnya manis sepet",
+    "date_of_experience": ""
+  }
+}

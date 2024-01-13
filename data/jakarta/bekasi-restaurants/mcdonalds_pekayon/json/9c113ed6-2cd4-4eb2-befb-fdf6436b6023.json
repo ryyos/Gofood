@@ -1,0 +1,68 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/mcdonald-s-pekayon-50150204-8f6d-4372-8458-668f1be126e8",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Cepat saji",
+    "Sweets",
+    "Jajanan",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:17:21.424093",
+  "crawling_time_epoch": 1705155441,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/McDonalds_Pekayon/json/9c113ed6-2cd4-4eb2-befb-fdf6436b6023.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/McDonalds_Pekayon/json/9c113ed6-2cd4-4eb2-befb-fdf6436b6023.json",
+  "reviews_name": "McDonald's, Pekayon",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.46
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "50150204-8f6d-4372-8458-668f1be126e8",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.8,
+      "total": 70397
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 4555,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 3695,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 3669,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "9c113ed6-2cd4-4eb2-befb-fdf6436b6023",
+    "username_reviews": "S*** T****",
+    "initialName": "ST",
+    "image_reviews": null,
+    "created_time": "2020-01-24T19:27:54.49+07:00",
+    "created_time_epoch": 1579894074,
+    "reviews_rating": 4,
+    "orders": {
+      "orderedAt": "2020-01-24T06:17:30.865013Z",
+      "items": [
+        {
+          "id": "427901b9-5411-4e40-9310-4f31af4e4574",
+          "name": "Cheeseburger Meal Medium"
+        }
+      ]
+    },
+    "tags_review": [
+      "",
+      "gofood.co.id"
+    ],
+    "content_reviews": "krn sudah go resto...minuman tdk bisa diganti ya",
+    "date_of_experience": ""
+  }
+}

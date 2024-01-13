@@ -1,0 +1,72 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/bang-raden-gerobak-kopi-grand-galaxy-city-11ac8186-f8f3-4965-9a75-13c2dfc2581d",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Minuman",
+    "Kopi",
+    "Sweets",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:21:18.616977",
+  "crawling_time_epoch": 1705155678,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Bang_Raden_Gerobak_Kopi_Grand_Galaxy_City/json/eb51ebc5-7727-4163-9cae-f013ca6b34f2.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Bang_Raden_Gerobak_Kopi_Grand_Galaxy_City/json/eb51ebc5-7727-4163-9cae-f013ca6b34f2.json",
+  "reviews_name": "Bang Raden Gerobak Kopi, Grand Galaxy City",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 1
+  },
+  "range_prices": "16k-40k",
+  "restaurant_id": "11ac8186-f8f3-4965-9a75-13c2dfc2581d",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.8,
+      "total": 3944
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 461,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 337,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 315,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "eb51ebc5-7727-4163-9cae-f013ca6b34f2",
+    "username_reviews": "Y*****",
+    "initialName": "Y",
+    "image_reviews": null,
+    "created_time": "2020-08-18T12:33:58.86+07:00",
+    "created_time_epoch": 1597754038,
+    "reviews_rating": 5,
+    "orders": {
+      "orderedAt": "2020-08-14T10:07:11.012599Z",
+      "items": [
+        {
+          "id": "4be92f34-154b-470a-b445-ceac1ed1d7cd",
+          "name": "Kopi Sultan ( Best Seller )"
+        },
+        {
+          "id": "c51ce3da-c46d-41b3-919e-ae6acbe6af1c",
+          "name": "Ice Chocolate Hazelnut"
+        }
+      ]
+    },
+    "tags_review": [
+      "",
+      "gofood.co.id"
+    ],
+    "content_reviews": "tolong es batunya dibnyakib",
+    "date_of_experience": ""
+  }
+}

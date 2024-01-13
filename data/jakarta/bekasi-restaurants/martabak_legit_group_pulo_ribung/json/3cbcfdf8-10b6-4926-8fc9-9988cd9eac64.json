@@ -1,0 +1,75 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/martabak-legit-group-pulo-ribung-e7bc6ee0-6632-451a-b5cf-adb7af7c3da9",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Jajanan",
+    "Martabak",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:20:03.652928",
+  "crawling_time_epoch": 1705155603,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Martabak_Legit_Group_Pulo_Ribung/json/3cbcfdf8-10b6-4926-8fc9-9988cd9eac64.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Martabak_Legit_Group_Pulo_Ribung/json/3cbcfdf8-10b6-4926-8fc9-9988cd9eac64.json",
+  "reviews_name": "Martabak Legit Group, Pulo Ribung",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.71
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "e7bc6ee0-6632-451a-b5cf-adb7af7c3da9",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.5,
+      "total": 1731
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 174,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 137,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 126,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "3cbcfdf8-10b6-4926-8fc9-9988cd9eac64",
+    "username_reviews": "nora",
+    "initialName": "N",
+    "image_reviews": null,
+    "created_time": "2023-09-14T16:13:42.614506+07:00",
+    "created_time_epoch": 1694708022,
+    "reviews_rating": 5,
+    "orders": {
+      "orderedAt": "2023-09-13T13:37:01.47195Z",
+      "items": [
+        {
+          "id": "071d0dff-07e1-425f-bdc8-246511b607fd",
+          "name": "Harpelnas 1"
+        },
+        {
+          "id": "f27af821-cdf8-4ef7-a53c-f9239045321c",
+          "name": "Martabak Manis Keju Kismis"
+        }
+      ]
+    },
+    "tags_review": [
+      "CANNED_RESPONSE_PORTION",
+      "CANNED_RESPONSE_VALUE",
+      "CANNED_RESPONSE_PACKAGING",
+      "CANNED_RESPONSE_HYGIENE",
+      "CANNED_RESPONSE_TASTE",
+      "gofood.co.id"
+    ],
+    "content_reviews": "the best👍👍👍👍👍👍😊😊😊👍👍",
+    "date_of_experience": ""
+  }
+}

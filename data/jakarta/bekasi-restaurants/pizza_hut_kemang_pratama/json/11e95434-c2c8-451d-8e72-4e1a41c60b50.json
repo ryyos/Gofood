@@ -1,0 +1,70 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/pizza-hut-kemang-pratama-619b40c5-b111-4004-a05e-2cf6526de384",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Barat",
+    "Jajanan",
+    "Ayam & bebek",
+    "Pizza & pasta",
+    "Cepat saji",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:20:55.807619",
+  "crawling_time_epoch": 1705155655,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Pizza_Hut_Kemang_Pratama/json/11e95434-c2c8-451d-8e72-4e1a41c60b50.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Pizza_Hut_Kemang_Pratama/json/11e95434-c2c8-451d-8e72-4e1a41c60b50.json",
+  "reviews_name": "Pizza Hut, Kemang Pratama",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.99
+  },
+  "range_prices": ">100k",
+  "restaurant_id": "619b40c5-b111-4004-a05e-2cf6526de384",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.8,
+      "total": 12460
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 997,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 804,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 735,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "11e95434-c2c8-451d-8e72-4e1a41c60b50",
+    "username_reviews": "D** S*******",
+    "initialName": "DS",
+    "image_reviews": null,
+    "created_time": "2021-11-22T20:46:42.920229+07:00",
+    "created_time_epoch": 1637614002,
+    "reviews_rating": 5,
+    "orders": {
+      "orderedAt": "2021-11-22T12:56:19.341471Z",
+      "items": [
+        {
+          "id": "8ad5a829-e21e-418d-9caf-e07c0b9e0495",
+          "name": "Double Box Regular Upgrade Stuffed Crust With Crispy Cheese"
+        }
+      ]
+    },
+    "tags_review": [
+      "CANNED_RESPONSE_FRESHNESS",
+      "gofood.co.id"
+    ],
+    "content_reviews": "mantap sesuai pesanan",
+    "date_of_experience": ""
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/kfc-kemang-pratama-ef8c2c3e-61d6-4bd4-b9fa-10cfd6358dcf",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Cepat saji",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:19:21.062803",
+  "crawling_time_epoch": 1705155561,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/KFC_Kemang_Pratama/json/ec190c88-4eb1-4a8a-90cf-74af196cb5d6.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/KFC_Kemang_Pratama/json/ec190c88-4eb1-4a8a-90cf-74af196cb5d6.json",
+  "reviews_name": "KFC, Kemang Pratama",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.53
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "ef8c2c3e-61d6-4bd4-b9fa-10cfd6358dcf",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.8,
+      "total": 24067
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 2021,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 1696,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 1631,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "ec190c88-4eb1-4a8a-90cf-74af196cb5d6",
+    "username_reviews": "Y****",
+    "initialName": "Y",
+    "image_reviews": null,
+    "created_time": "2021-07-22T16:24:23.199296+07:00",
+    "created_time_epoch": 1626971063,
+    "reviews_rating": 3,
+    "orders": {
+      "orderedAt": "2021-07-22T08:12:38.464699Z",
+      "items": [
+        {
+          "id": "b36fdbf2-0147-4da1-8009-34502ff57963",
+          "name": "The Best Thursday HCC"
+        },
+        {
+          "id": "a7e8a5bb-bf64-4db7-94de-d23ddcc845cf",
+          "name": "Krunchy Burger"
+        },
+        {
+          "id": "a2db9c01-b40a-40de-8ed0-d0ddd6013b1d",
+          "name": "Colonel Burger"
+        }
+      ]
+    },
+    "tags_review": [
+      "gofood.co.id"
+    ],
+    "content_reviews": "Burger sy 2 tidak dianter ya..sy pesen ayam 1 bucket dan burger 2 tp yg dtg hanya ayam 1 bucket saja",
+    "date_of_experience": ""
+  }
+}

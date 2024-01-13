@@ -1,0 +1,65 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/bubur-ayam-kampung-nyemplung-pekayon-decd86af-75d6-466d-9d74-c66a45850297",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Aneka nasi",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:20:19.392522",
+  "crawling_time_epoch": 1705155619,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Bubur_Ayam_Kampung_Nyemplung_Pekayon/json/10b0223c-b639-49f9-ad92-e20b6a83056f.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Bubur_Ayam_Kampung_Nyemplung_Pekayon/json/10b0223c-b639-49f9-ad92-e20b6a83056f.json",
+  "reviews_name": "Bubur Ayam Kampung Nyemplung, Pekayon",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.96
+  },
+  "range_prices": "<16k",
+  "restaurant_id": "decd86af-75d6-466d-9d74-c66a45850297",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.7,
+      "total": 2066
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 191,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 138,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 137,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "10b0223c-b639-49f9-ad92-e20b6a83056f",
+    "username_reviews": "V*** A*",
+    "initialName": "VA",
+    "image_reviews": null,
+    "created_time": "2023-01-04T17:25:28.089025+07:00",
+    "created_time_epoch": 1672853128,
+    "reviews_rating": 3,
+    "orders": {
+      "orderedAt": "2023-01-04T10:05:10.311227Z",
+      "items": [
+        {
+          "id": "acd27756-2354-4749-bb23-b894457444fd",
+          "name": "Bubur Ayam Kampung + Telor"
+        }
+      ]
+    },
+    "tags_review": [
+      "gofood.co.id"
+    ],
+    "content_reviews": "Pesanan tidak sesuai. Tidak ada telurnya, pdhal order yg plus telur",
+    "date_of_experience": ""
+  }
+}

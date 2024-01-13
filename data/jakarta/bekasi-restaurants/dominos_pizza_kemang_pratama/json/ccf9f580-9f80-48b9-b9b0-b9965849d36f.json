@@ -1,0 +1,67 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/domino-s-pizza-kemang-pratama-00fb7fae-fbe1-4b63-ad17-dc7094c64f9c",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Pizza & pasta",
+    "Cepat saji",
+    "Jajanan",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:18:48.067806",
+  "crawling_time_epoch": 1705155528,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Dominos_Pizza_Kemang_Pratama/json/ccf9f580-9f80-48b9-b9b0-b9965849d36f.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Dominos_Pizza_Kemang_Pratama/json/ccf9f580-9f80-48b9-b9b0-b9965849d36f.json",
+  "reviews_name": "Domino's Pizza, Kemang Pratama",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.47
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "00fb7fae-fbe1-4b63-ad17-dc7094c64f9c",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.7,
+      "total": 11582
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 1426,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 1210,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 1158,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "ccf9f580-9f80-48b9-b9b0-b9965849d36f",
+    "username_reviews": "susanti",
+    "initialName": "S",
+    "image_reviews": null,
+    "created_time": "2023-05-03T21:37:01.195109+07:00",
+    "created_time_epoch": 1683149821,
+    "reviews_rating": 3,
+    "orders": {
+      "orderedAt": "2023-05-03T12:49:48.257106Z",
+      "items": [
+        {
+          "id": "10255375-5d18-47d0-8e79-887315db4ebf",
+          "name": "PAPI DUO PLUS"
+        }
+      ]
+    },
+    "tags_review": [
+      "gofood.co.id"
+    ],
+    "content_reviews": "aplikasi sempat error jadi menu yang diorder harus diganti. untuk ikan tunanya termasuk sedikit sih dibanding brand sebelah. ",
+    "date_of_experience": ""
+  }
+}

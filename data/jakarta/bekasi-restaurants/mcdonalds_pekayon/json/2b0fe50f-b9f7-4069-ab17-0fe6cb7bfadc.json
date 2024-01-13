@@ -1,0 +1,75 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/mcdonald-s-pekayon-50150204-8f6d-4372-8458-668f1be126e8",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Cepat saji",
+    "Sweets",
+    "Jajanan",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:17:21.424093",
+  "crawling_time_epoch": 1705155441,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/McDonalds_Pekayon/json/2b0fe50f-b9f7-4069-ab17-0fe6cb7bfadc.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/McDonalds_Pekayon/json/2b0fe50f-b9f7-4069-ab17-0fe6cb7bfadc.json",
+  "reviews_name": "McDonald's, Pekayon",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.46
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "50150204-8f6d-4372-8458-668f1be126e8",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.8,
+      "total": 70397
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 4555,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 3695,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 3669,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "2b0fe50f-b9f7-4069-ab17-0fe6cb7bfadc",
+    "username_reviews": "edy hermawan",
+    "initialName": "EH",
+    "image_reviews": null,
+    "created_time": "2022-02-01T20:38:48.019679+07:00",
+    "created_time_epoch": 1643747928,
+    "reviews_rating": 1,
+    "orders": {
+      "orderedAt": "2022-02-01T12:44:58.148825Z",
+      "items": [
+        {
+          "id": "987577d9-b311-4cdf-85c1-edc045674334",
+          "name": "PaHeBat Cheeseburger, Medium"
+        },
+        {
+          "id": "2d7643f0-e79e-467b-b8a5-9bba40d0ac50",
+          "name": "PaNas Special Krispy, Medium"
+        },
+        {
+          "id": "52f31e95-2180-4387-abf4-de8e2b3eb898",
+          "name": "Beef Burger"
+        }
+      ]
+    },
+    "tags_review": [
+      "gofood.co.id"
+    ],
+    "content_reviews": "minuman saya mana...saya order pakai paket minuman yg dateng cuma makananya kecewa saya",
+    "date_of_experience": ""
+  }
+}

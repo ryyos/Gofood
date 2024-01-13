@@ -1,0 +1,71 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/domino-s-pizza-kemang-pratama-00fb7fae-fbe1-4b63-ad17-dc7094c64f9c",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Pizza & pasta",
+    "Cepat saji",
+    "Jajanan",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:18:48.067806",
+  "crawling_time_epoch": 1705155528,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Dominos_Pizza_Kemang_Pratama/json/83597e67-98cf-49af-9c24-606eea1406e4.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Dominos_Pizza_Kemang_Pratama/json/83597e67-98cf-49af-9c24-606eea1406e4.json",
+  "reviews_name": "Domino's Pizza, Kemang Pratama",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.47
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "00fb7fae-fbe1-4b63-ad17-dc7094c64f9c",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.7,
+      "total": 11582
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 1426,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 1210,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 1158,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "83597e67-98cf-49af-9c24-606eea1406e4",
+    "username_reviews": "M.3.L.L.Y",
+    "initialName": "M",
+    "image_reviews": null,
+    "created_time": "2023-01-25T13:40:16.3121+07:00",
+    "created_time_epoch": 1674654016,
+    "reviews_rating": 5,
+    "orders": {
+      "orderedAt": "2022-12-31T03:32:53.809191Z",
+      "items": [
+        {
+          "id": "7da592da-4134-4894-ae64-44ab49d6f6ee",
+          "name": "2023 2nd Pizza -  Thin Crust"
+        },
+        {
+          "id": "7da592da-4134-4894-ae64-44ab49d6f6ee",
+          "name": "2023 2nd Pizza -  Thin Crust"
+        }
+      ]
+    },
+    "tags_review": [
+      "gofood.co.id"
+    ],
+    "content_reviews": "enak bgt pokoknya deh ",
+    "date_of_experience": ""
+  }
+}

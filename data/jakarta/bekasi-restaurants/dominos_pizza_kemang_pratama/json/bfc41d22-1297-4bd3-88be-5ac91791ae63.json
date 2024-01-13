@@ -1,0 +1,78 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/domino-s-pizza-kemang-pratama-00fb7fae-fbe1-4b63-ad17-dc7094c64f9c",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Pizza & pasta",
+    "Cepat saji",
+    "Jajanan",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:18:48.067806",
+  "crawling_time_epoch": 1705155528,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Dominos_Pizza_Kemang_Pratama/json/bfc41d22-1297-4bd3-88be-5ac91791ae63.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Dominos_Pizza_Kemang_Pratama/json/bfc41d22-1297-4bd3-88be-5ac91791ae63.json",
+  "reviews_name": "Domino's Pizza, Kemang Pratama",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.47
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "00fb7fae-fbe1-4b63-ad17-dc7094c64f9c",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.7,
+      "total": 11582
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 1426,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 1210,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 1158,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "bfc41d22-1297-4bd3-88be-5ac91791ae63",
+    "username_reviews": "A****",
+    "initialName": "A",
+    "image_reviews": null,
+    "created_time": "2021-09-02T11:45:36.129468+07:00",
+    "created_time_epoch": 1630583136,
+    "reviews_rating": 2,
+    "orders": {
+      "orderedAt": "2021-08-30T11:45:57.975282Z",
+      "items": [
+        {
+          "id": "16b49526-e68f-4219-9be0-fc4a5661e708",
+          "name": "Fun Deal!"
+        },
+        {
+          "id": "bc34b506-67f9-4bdf-b35f-3b0acf5b61b1",
+          "name": "Cheesy Calzone Sticks"
+        },
+        {
+          "id": "bed41677-602c-47bd-b6f1-364052bc7bfb",
+          "name": "Best Ever Value Deal Rice"
+        }
+      ]
+    },
+    "tags_review": [
+      "CANNED_RESPONSE_PRICE",
+      "CANNED_RESPONSE_PACKAGING",
+      "CANNED_RESPONSE_VALUE",
+      "gofood.co.id"
+    ],
+    "content_reviews": "Taste quite ok, pricing average. But annoyed by an item that was not delivered. Domino's Staff need to recheck before sending out orders.",
+    "date_of_experience": ""
+  }
+}

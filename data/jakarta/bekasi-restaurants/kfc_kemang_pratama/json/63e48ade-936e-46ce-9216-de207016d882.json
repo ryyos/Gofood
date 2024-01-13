@@ -1,0 +1,78 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/kfc-kemang-pratama-ef8c2c3e-61d6-4bd4-b9fa-10cfd6358dcf",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Cepat saji",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:19:21.062803",
+  "crawling_time_epoch": 1705155561,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/KFC_Kemang_Pratama/json/63e48ade-936e-46ce-9216-de207016d882.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/KFC_Kemang_Pratama/json/63e48ade-936e-46ce-9216-de207016d882.json",
+  "reviews_name": "KFC, Kemang Pratama",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.53
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "ef8c2c3e-61d6-4bd4-b9fa-10cfd6358dcf",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.8,
+      "total": 24067
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 2021,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 1696,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 1631,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "63e48ade-936e-46ce-9216-de207016d882",
+    "username_reviews": "A**** C****",
+    "initialName": "AC",
+    "image_reviews": null,
+    "created_time": "2020-01-11T11:20:00.308+07:00",
+    "created_time_epoch": 1578741600,
+    "reviews_rating": 3,
+    "orders": {
+      "orderedAt": "2020-01-09T04:31:27.051081Z",
+      "items": [
+        {
+          "id": "1dc9a935-444a-4504-86ba-65e1d14842fb",
+          "name": "Chicken Skin"
+        },
+        {
+          "id": "cf5e6e09-87c2-49fc-8567-f9099329fd52",
+          "name": "Pudding"
+        },
+        {
+          "id": "39cae3e3-d2e3-4196-aee8-14c096f49b4b",
+          "name": "Spaghetti Supreme"
+        },
+        {
+          "id": "e7579e3a-6ee0-42af-b405-5f7840a4141a",
+          "name": "Kombo Winger HCC"
+        }
+      ]
+    },
+    "tags_review": [
+      "CANNED_RESPONSE_PRICE",
+      "gofood.co.id"
+    ],
+    "content_reviews": "chicken skin gak ada, diganti crispy strips, lalu crispy strips saya ada di struk tapi nggak ada barangnya. saya kena php.",
+    "date_of_experience": ""
+  }
+}

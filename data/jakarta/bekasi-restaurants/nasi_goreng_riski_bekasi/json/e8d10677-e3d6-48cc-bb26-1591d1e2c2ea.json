@@ -1,0 +1,70 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/nasi-goreng-riski-bekasi-9196fe69-72e5-4826-b4fe-bf6bfbafabe4",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Aneka nasi",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:19:03.233848",
+  "crawling_time_epoch": 1705155543,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Nasi_Goreng_Riski_Bekasi/json/e8d10677-e3d6-48cc-bb26-1591d1e2c2ea.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Nasi_Goreng_Riski_Bekasi/json/e8d10677-e3d6-48cc-bb26-1591d1e2c2ea.json",
+  "reviews_name": "Nasi Goreng Riski, Bekasi",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.48
+  },
+  "range_prices": "16k-40k",
+  "restaurant_id": "9196fe69-72e5-4826-b4fe-bf6bfbafabe4",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.7,
+      "total": 1717
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 306,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 295,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 240,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "e8d10677-e3d6-48cc-bb26-1591d1e2c2ea",
+    "username_reviews": "V******* E*****",
+    "initialName": "VE",
+    "image_reviews": null,
+    "created_time": "2019-12-10T18:04:39.958+07:00",
+    "created_time_epoch": 1576001079,
+    "reviews_rating": 5,
+    "orders": {
+      "orderedAt": "2019-12-09T12:10:45.617172Z",
+      "items": [
+        {
+          "id": "c7a8ebce-d207-4e46-9109-fd2ede7e8d35",
+          "name": "Nasi Goreng Bakso"
+        },
+        {
+          "id": "6b232bd5-15da-41b1-a28c-e970c9513273",
+          "name": "Kwetiau Rebus"
+        }
+      ]
+    },
+    "tags_review": [
+      "",
+      "gofood.co.id"
+    ],
+    "content_reviews": "selalu ga pernah kecewa klo order di nasgor riski, rasanya ok, porsinya ok. mantap",
+    "date_of_experience": ""
+  }
+}

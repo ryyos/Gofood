@@ -1,0 +1,68 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/dobel-martabak-bude-pekayon-c516bbfe-5583-4fbc-9605-9cd02cd220b0",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Martabak",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:18:42.021929",
+  "crawling_time_epoch": 1705155522,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Dobel_Martabak_Bude_Pekayon/json/71593c67-1003-4912-a8a7-9ec3dcca5779.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Dobel_Martabak_Bude_Pekayon/json/71593c67-1003-4912-a8a7-9ec3dcca5779.json",
+  "reviews_name": "Dobel Martabak Bude, Pekayon",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.46
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "c516bbfe-5583-4fbc-9605-9cd02cd220b0",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.6,
+      "total": 2907
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 366,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 264,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 253,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "71593c67-1003-4912-a8a7-9ec3dcca5779",
+    "username_reviews": "valentina levina",
+    "initialName": "VL",
+    "image_reviews": null,
+    "created_time": "2023-09-13T16:43:24.338879+07:00",
+    "created_time_epoch": 1694623404,
+    "reviews_rating": 3,
+    "orders": {
+      "orderedAt": "2023-09-12T13:27:22.69666Z",
+      "items": [
+        {
+          "id": "d5158c92-bf82-45ee-8b58-5929833a33aa",
+          "name": "Kacang ( Biasa )"
+        }
+      ]
+    },
+    "tags_review": [
+      "CANNED_RESPONSE_TASTE",
+      "CANNED_RESPONSE_PORTION",
+      "CANNED_RESPONSE_VALUE",
+      "gofood.co.id"
+    ],
+    "content_reviews": "oooh ini 👉 YGG NAMANYA MARTABAK MANIS (martabak Bude PkynJy tsb) ❗❗ Martabak manis Bude PkynJy MERAAAAAKYAT u/UMUM SEMUA 🧐🧐🧐",
+    "date_of_experience": ""
+  }
+}

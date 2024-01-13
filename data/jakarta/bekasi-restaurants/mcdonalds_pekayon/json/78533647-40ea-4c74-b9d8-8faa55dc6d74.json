@@ -1,0 +1,76 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/mcdonald-s-pekayon-50150204-8f6d-4372-8458-668f1be126e8",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Cepat saji",
+    "Sweets",
+    "Jajanan",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:17:21.424093",
+  "crawling_time_epoch": 1705155441,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/McDonalds_Pekayon/json/78533647-40ea-4c74-b9d8-8faa55dc6d74.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/McDonalds_Pekayon/json/78533647-40ea-4c74-b9d8-8faa55dc6d74.json",
+  "reviews_name": "McDonald's, Pekayon",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.46
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "50150204-8f6d-4372-8458-668f1be126e8",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.8,
+      "total": 70397
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 4555,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 3695,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 3669,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "78533647-40ea-4c74-b9d8-8faa55dc6d74",
+    "username_reviews": "siti amalia",
+    "initialName": "SA",
+    "image_reviews": null,
+    "created_time": "2023-07-15T09:25:39.480056+07:00",
+    "created_time_epoch": 1689413139,
+    "reviews_rating": 2,
+    "orders": {
+      "orderedAt": "2023-07-15T01:34:29.563275Z",
+      "items": [
+        {
+          "id": "4f90c3e7-d1ad-48b7-9cbf-8a33ce9d2bf7",
+          "name": "Paket Hemat Sausage McMuffin"
+        },
+        {
+          "id": "b85d66ff-edfc-45a3-bf9f-d0c0e1643666",
+          "name": "Breakfast Wrap"
+        },
+        {
+          "id": "a6b0eb08-17da-48aa-ae2c-85882e299049",
+          "name": "McD Chicken Porridge"
+        }
+      ]
+    },
+    "tags_review": [
+      "CANNED_RESPONSE_ORDER",
+      "gofood.co.id"
+    ],
+    "content_reviews": "pesan capucino yg dikirim ice coffee👎",
+    "date_of_experience": ""
+  }
+}

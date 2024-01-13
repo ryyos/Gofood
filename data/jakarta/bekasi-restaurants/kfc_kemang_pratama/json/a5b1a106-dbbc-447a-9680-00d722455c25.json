@@ -1,0 +1,70 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/kfc-kemang-pratama-ef8c2c3e-61d6-4bd4-b9fa-10cfd6358dcf",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Cepat saji",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:19:21.062803",
+  "crawling_time_epoch": 1705155561,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/KFC_Kemang_Pratama/json/a5b1a106-dbbc-447a-9680-00d722455c25.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/KFC_Kemang_Pratama/json/a5b1a106-dbbc-447a-9680-00d722455c25.json",
+  "reviews_name": "KFC, Kemang Pratama",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.53
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "ef8c2c3e-61d6-4bd4-b9fa-10cfd6358dcf",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.8,
+      "total": 24067
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 2021,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 1696,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 1631,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "a5b1a106-dbbc-447a-9680-00d722455c25",
+    "username_reviews": "I**",
+    "initialName": "I",
+    "image_reviews": null,
+    "created_time": "2019-11-08T19:32:30.889+07:00",
+    "created_time_epoch": 1573241550,
+    "reviews_rating": 1,
+    "orders": {
+      "orderedAt": "2019-11-08T11:46:20.703623Z",
+      "items": [
+        {
+          "id": "7b39abab-456e-4a09-a2a7-dfcfd91fb552",
+          "name": "Signature Box HCC"
+        },
+        {
+          "id": "b69627c9-28fe-4985-8ec0-818af87fbccf",
+          "name": "Zuper Box HCC"
+        }
+      ]
+    },
+    "tags_review": [
+      "CANNED_RESPONSE_PORTION",
+      "gofood.co.id"
+    ],
+    "content_reviews": "ukuran ayam nya terlalu kecil dan tidak panas",
+    "date_of_experience": ""
+  }
+}

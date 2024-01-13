@@ -1,0 +1,75 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/ayam-geprek-ayam-com-kemang-pratama-acb48dbc-474f-44f8-a2c9-9310a1dc6f56",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Ayam & bebek",
+    "Aneka nasi",
+    "Cepat saji",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:19:06.874520",
+  "crawling_time_epoch": 1705155546,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Ayam_Geprek_Ayamcom_Kemang_Pratama/json/e6e7bcaa-f6f3-4a70-8196-daaf39138c78.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Ayam_Geprek_Ayamcom_Kemang_Pratama/json/e6e7bcaa-f6f3-4a70-8196-daaf39138c78.json",
+  "reviews_name": "Ayam Geprek Ayam.com, Kemang Pratama",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.49
+  },
+  "range_prices": "16k-40k",
+  "restaurant_id": "acb48dbc-474f-44f8-a2c9-9310a1dc6f56",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.8,
+      "total": 2048
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 292,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 238,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 224,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "e6e7bcaa-f6f3-4a70-8196-daaf39138c78",
+    "username_reviews": "N***",
+    "initialName": "N",
+    "image_reviews": null,
+    "created_time": "2023-06-04T17:39:24.020901+07:00",
+    "created_time_epoch": 1685900364,
+    "reviews_rating": 5,
+    "orders": {
+      "orderedAt": "2023-06-04T10:18:04.752878Z",
+      "items": [
+        {
+          "id": "0293293b-a91f-47e2-b364-6aad1ee88e42",
+          "name": "Ayam Geprek Jumbo"
+        }
+      ]
+    },
+    "tags_review": [
+      "CANNED_RESPONSE_FRESHNESS",
+      "CANNED_RESPONSE_TASTE",
+      "CANNED_RESPONSE_PORTION",
+      "CANNED_RESPONSE_HYGIENE",
+      "CANNED_RESPONSE_PACKAGING",
+      "CANNED_RESPONSE_VALUE",
+      "CANNED_RESPONSE_CUTLERY",
+      "CANNED_RESPONSE_PICKUP_EXP",
+      "gofood.co.id"
+    ],
+    "content_reviews": "Auto kalap makannya. Rasanya enak dan dagingnya juicy",
+    "date_of_experience": ""
+  }
+}

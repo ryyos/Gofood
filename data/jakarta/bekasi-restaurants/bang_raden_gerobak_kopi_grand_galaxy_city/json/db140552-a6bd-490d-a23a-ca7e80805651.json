@@ -1,0 +1,71 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/bang-raden-gerobak-kopi-grand-galaxy-city-11ac8186-f8f3-4965-9a75-13c2dfc2581d",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Minuman",
+    "Kopi",
+    "Sweets",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:21:18.616977",
+  "crawling_time_epoch": 1705155678,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Bang_Raden_Gerobak_Kopi_Grand_Galaxy_City/json/db140552-a6bd-490d-a23a-ca7e80805651.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Bang_Raden_Gerobak_Kopi_Grand_Galaxy_City/json/db140552-a6bd-490d-a23a-ca7e80805651.json",
+  "reviews_name": "Bang Raden Gerobak Kopi, Grand Galaxy City",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 1
+  },
+  "range_prices": "16k-40k",
+  "restaurant_id": "11ac8186-f8f3-4965-9a75-13c2dfc2581d",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.8,
+      "total": 3944
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 461,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 337,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 315,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "db140552-a6bd-490d-a23a-ca7e80805651",
+    "username_reviews": "P**** G******",
+    "initialName": "PG",
+    "image_reviews": null,
+    "created_time": "2021-02-23T16:21:37.686162+07:00",
+    "created_time_epoch": 1614097297,
+    "reviews_rating": 2,
+    "orders": {
+      "orderedAt": "2021-02-19T13:47:24.92348Z",
+      "items": [
+        {
+          "id": "35efa9c4-0c7d-4f03-80c2-4c1f66795187",
+          "name": "Kopi Kow"
+        },
+        {
+          "id": "192ed81f-be12-44ae-a26c-7611d1d7ba8d",
+          "name": "Kopi Wangi (New Menu)"
+        }
+      ]
+    },
+    "tags_review": [
+      "gofood.co.id"
+    ],
+    "content_reviews": "dikirimnya salah quantitynya, tidak teliti",
+    "date_of_experience": ""
+  }
+}

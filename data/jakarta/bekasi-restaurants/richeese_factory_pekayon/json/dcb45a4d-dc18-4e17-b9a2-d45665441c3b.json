@@ -1,0 +1,68 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/richeese-factory-pekayon-fb7c3452-2cba-464a-9e24-23840a40a179",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Cepat saji",
+    "Ayam & bebek",
+    "Aneka nasi",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:20:23.240256",
+  "crawling_time_epoch": 1705155623,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Richeese_Factory_Pekayon/json/dcb45a4d-dc18-4e17-b9a2-d45665441c3b.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Richeese_Factory_Pekayon/json/dcb45a4d-dc18-4e17-b9a2-d45665441c3b.json",
+  "reviews_name": "Richeese Factory, Pekayon",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.97
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "fb7c3452-2cba-464a-9e24-23840a40a179",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.7,
+      "total": 32095
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 2029,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 1477,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 1469,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "dcb45a4d-dc18-4e17-b9a2-d45665441c3b",
+    "username_reviews": "A*** A*******",
+    "initialName": "AA",
+    "image_reviews": null,
+    "created_time": "2019-11-27T19:15:17.057+07:00",
+    "created_time_epoch": 1574882117,
+    "reviews_rating": 3,
+    "orders": {
+      "orderedAt": "2019-11-24T09:55:42.4553Z",
+      "items": [
+        {
+          "id": "ab2368df-1e84-4b1d-9eda-7cdb802e0a5f",
+          "name": "Fire Chicken 8 Pcs"
+        }
+      ]
+    },
+    "tags_review": [
+      "",
+      "gofood.co.id"
+    ],
+    "content_reviews": "packaging sebaiknya jangan dari kertas, karena ayamnya berbumbu basah dan masih panas jadi ayamnya pada tumpah",
+    "date_of_experience": ""
+  }
+}

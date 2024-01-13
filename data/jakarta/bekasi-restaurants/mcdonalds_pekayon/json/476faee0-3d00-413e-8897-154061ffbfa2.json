@@ -1,0 +1,79 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/mcdonald-s-pekayon-50150204-8f6d-4372-8458-668f1be126e8",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Cepat saji",
+    "Sweets",
+    "Jajanan",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:17:21.424093",
+  "crawling_time_epoch": 1705155441,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/McDonalds_Pekayon/json/476faee0-3d00-413e-8897-154061ffbfa2.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/McDonalds_Pekayon/json/476faee0-3d00-413e-8897-154061ffbfa2.json",
+  "reviews_name": "McDonald's, Pekayon",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.46
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "50150204-8f6d-4372-8458-668f1be126e8",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.8,
+      "total": 70397
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 4555,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 3695,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 3669,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "476faee0-3d00-413e-8897-154061ffbfa2",
+    "username_reviews": "F******",
+    "initialName": "F",
+    "image_reviews": null,
+    "created_time": "2021-07-31T08:40:59.490222+07:00",
+    "created_time_epoch": 1627720859,
+    "reviews_rating": 3,
+    "orders": {
+      "orderedAt": "2021-07-31T00:50:30.462413Z",
+      "items": [
+        {
+          "id": "a6b0eb08-17da-48aa-ae2c-85882e299049",
+          "name": "McD Chicken Porridge"
+        },
+        {
+          "id": "b85d66ff-edfc-45a3-bf9f-d0c0e1643666",
+          "name": "Breakfast Wrap"
+        },
+        {
+          "id": "4cc3eaaf-a806-46bf-94c2-0b0d62ffb58c",
+          "name": "PaNas Spesial Large"
+        },
+        {
+          "id": "bc5e364b-2a52-4997-96e2-1f3efdaa269e",
+          "name": "Chicken McMuffin Extra Value Meal"
+        }
+      ]
+    },
+    "tags_review": [
+      "gofood.co.id"
+    ],
+    "content_reviews": "Lupa mulu kasih garem",
+    "date_of_experience": ""
+  }
+}

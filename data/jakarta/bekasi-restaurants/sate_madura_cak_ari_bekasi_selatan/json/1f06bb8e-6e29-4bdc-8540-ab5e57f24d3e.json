@@ -1,0 +1,79 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/sate-madura-cak-ari-bekasi-selatan-65c0efa7-65ff-4868-95e5-a4ec690c6c14",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Sate",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:19:50.904999",
+  "crawling_time_epoch": 1705155590,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Sate_Madura_Cak_Ari_Bekasi_Selatan/json/1f06bb8e-6e29-4bdc-8540-ab5e57f24d3e.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Sate_Madura_Cak_Ari_Bekasi_Selatan/json/1f06bb8e-6e29-4bdc-8540-ab5e57f24d3e.json",
+  "reviews_name": "Sate Madura Cak Ari, Bekasi Selatan",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.69
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "65c0efa7-65ff-4868-95e5-a4ec690c6c14",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.7,
+      "total": 6478
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 827,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 589,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 535,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "1f06bb8e-6e29-4bdc-8540-ab5e57f24d3e",
+    "username_reviews": "putri ramadhani",
+    "initialName": "PR",
+    "image_reviews": null,
+    "created_time": "2023-02-15T19:13:41.659243+07:00",
+    "created_time_epoch": 1676488421,
+    "reviews_rating": 5,
+    "orders": {
+      "orderedAt": "2023-02-11T16:06:45.624512Z",
+      "items": [
+        {
+          "id": "d85b69c1-ba52-4618-91f2-75effccaf55f",
+          "name": "Sate Kambing"
+        },
+        {
+          "id": "f2aea19b-05e9-4774-9a04-b798e3879604",
+          "name": "Sate Ayam"
+        },
+        {
+          "id": "4dea2afc-9afa-4c36-a3f8-da81e48e3de9",
+          "name": "Lontong"
+        }
+      ]
+    },
+    "tags_review": [
+      "CANNED_RESPONSE_FRESHNESS",
+      "CANNED_RESPONSE_TASTE",
+      "CANNED_RESPONSE_HYGIENE",
+      "CANNED_RESPONSE_PACKAGING",
+      "CANNED_RESPONSE_VALUE",
+      "CANNED_RESPONSE_CUTLERY",
+      "gofood.co.id"
+    ],
+    "content_reviews": "Enak banget satenya,,,aq tu ga doyan sate kambing karna suka bau amis gt,tapi ini ga bau banget jd masih bisa d nikmati❤️",
+    "date_of_experience": ""
+  }
+}

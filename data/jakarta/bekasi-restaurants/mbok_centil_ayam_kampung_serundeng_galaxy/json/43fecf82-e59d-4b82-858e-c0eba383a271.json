@@ -1,0 +1,80 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/mbok-centil-ayam-kampung-serundeng-galaxy-6d00f1a4-66b1-41c9-aec4-b7d49a404c6c",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Ayam & bebek",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:21:12.432830",
+  "crawling_time_epoch": 1705155672,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Mbok_Centil_Ayam_Kampung_Serundeng_Galaxy/json/43fecf82-e59d-4b82-858e-c0eba383a271.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Mbok_Centil_Ayam_Kampung_Serundeng_Galaxy/json/43fecf82-e59d-4b82-858e-c0eba383a271.json",
+  "reviews_name": "Mbok Centil Ayam Kampung Serundeng, Galaxy",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 1
+  },
+  "range_prices": "16k-40k",
+  "restaurant_id": "6d00f1a4-66b1-41c9-aec4-b7d49a404c6c",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.8,
+      "total": 2864
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 317,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 199,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 198,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "43fecf82-e59d-4b82-858e-c0eba383a271",
+    "username_reviews": "ade",
+    "initialName": "A",
+    "image_reviews": null,
+    "created_time": "2022-09-07T19:30:54.536442+07:00",
+    "created_time_epoch": 1662579054,
+    "reviews_rating": 5,
+    "orders": {
+      "orderedAt": "2022-08-30T06:41:15.045725Z",
+      "items": [
+        {
+          "id": "ddb6f17a-0550-469e-abc4-437c7be31262",
+          "name": "Garang Asam Ayam Kampung"
+        },
+        {
+          "id": "2227aa65-28df-4324-bfbf-86d0450f71d9",
+          "name": "Paket Centil"
+        },
+        {
+          "id": "e9c1aa03-394e-4026-82ce-67a1ae52957f",
+          "name": "Paket Ikan Centil"
+        }
+      ]
+    },
+    "tags_review": [
+      "CANNED_RESPONSE_FRESHNESS",
+      "CANNED_RESPONSE_TASTE",
+      "CANNED_RESPONSE_PORTION",
+      "CANNED_RESPONSE_HYGIENE",
+      "CANNED_RESPONSE_PACKAGING",
+      "CANNED_RESPONSE_VALUE",
+      "CANNED_RESPONSE_CUTLERY",
+      "gofood.co.id"
+    ],
+    "content_reviews": "resto langganan",
+    "date_of_experience": ""
+  }
+}

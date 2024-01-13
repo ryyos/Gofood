@@ -1,0 +1,71 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/richeese-factory-pekayon-fb7c3452-2cba-464a-9e24-23840a40a179",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Cepat saji",
+    "Ayam & bebek",
+    "Aneka nasi",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:20:23.240256",
+  "crawling_time_epoch": 1705155623,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Richeese_Factory_Pekayon/json/3fb34923-d8bd-4eda-84cb-db2862fe194f.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Richeese_Factory_Pekayon/json/3fb34923-d8bd-4eda-84cb-db2862fe194f.json",
+  "reviews_name": "Richeese Factory, Pekayon",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.97
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "fb7c3452-2cba-464a-9e24-23840a40a179",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.7,
+      "total": 32095
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 2029,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 1477,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 1469,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "3fb34923-d8bd-4eda-84cb-db2862fe194f",
+    "username_reviews": "Meylisa Edogawa",
+    "initialName": "ME",
+    "image_reviews": null,
+    "created_time": "2022-02-25T19:31:38.464634+07:00",
+    "created_time_epoch": 1645817498,
+    "reviews_rating": 4,
+    "orders": {
+      "orderedAt": "2022-02-17T11:31:17.49705Z",
+      "items": [
+        {
+          "id": "7a1f43ba-0efc-4322-8033-cbaca5558088",
+          "name": "Combo Anniv Flying"
+        },
+        {
+          "id": "b173bcb0-80d7-41ba-abf1-b11755c76684",
+          "name": "BBQ Sauce Lev 0 - Lev 5"
+        }
+      ]
+    },
+    "tags_review": [
+      "gofood.co.id"
+    ],
+    "content_reviews": "aga banjir minyak 😂🙏",
+    "date_of_experience": ""
+  }
+}

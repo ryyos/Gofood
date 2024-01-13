@@ -1,0 +1,72 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/sari-rasa-pekayon-ruko-bukit-safira-1457b34a-58b8-4ac5-b2b1-f64b5c9c967f",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Sate",
+    "Ayam & bebek",
+    "Aneka nasi",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:19:47.200172",
+  "crawling_time_epoch": 1705155587,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Sari_Rasa_Pekayon_Ruko_Bukit_Safira/json/8463232e-d9f9-449d-aa19-61aa8d4de2a9.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Sari_Rasa_Pekayon_Ruko_Bukit_Safira/json/8463232e-d9f9-449d-aa19-61aa8d4de2a9.json",
+  "reviews_name": "Sari Rasa Pekayon, Ruko Bukit Safira",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.6
+  },
+  "range_prices": "16k-40k",
+  "restaurant_id": "1457b34a-58b8-4ac5-b2b1-f64b5c9c967f",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.8,
+      "total": 1979
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 216,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 169,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 164,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "8463232e-d9f9-449d-aa19-61aa8d4de2a9",
+    "username_reviews": "F****",
+    "initialName": "F",
+    "image_reviews": null,
+    "created_time": "2023-04-01T19:14:59.09829+07:00",
+    "created_time_epoch": 1680376499,
+    "reviews_rating": 2,
+    "orders": {
+      "orderedAt": "2023-04-01T06:31:09.653709Z",
+      "items": [
+        {
+          "id": "bdae77f5-cf16-49d2-aeef-e4af0f47a86c",
+          "name": "Sate Maranggi Ayam (10 Tusuk)"
+        },
+        {
+          "id": "5882800e-6b4b-4f66-9b14-fa961138b156",
+          "name": "Gurame Bakar"
+        }
+      ]
+    },
+    "tags_review": [
+      "CANNED_RESPONSE_ORDER",
+      "gofood.co.id"
+    ],
+    "content_reviews": "pesan sate maranggi ayam\ndikasihnya 2 potong ayam goreng",
+    "date_of_experience": ""
+  }
+}

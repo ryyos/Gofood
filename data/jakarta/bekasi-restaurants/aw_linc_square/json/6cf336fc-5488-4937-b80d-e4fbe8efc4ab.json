@@ -1,0 +1,90 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/a-w-linc-square-d4fe7a94-86cd-4883-b279-07bdd7002ad9",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Cepat saji",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:20:11.107220",
+  "crawling_time_epoch": 1705155611,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/AW_Linc_Square/json/6cf336fc-5488-4937-b80d-e4fbe8efc4ab.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/AW_Linc_Square/json/6cf336fc-5488-4937-b80d-e4fbe8efc4ab.json",
+  "reviews_name": "A&W, Linc Square",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.94
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "d4fe7a94-86cd-4883-b279-07bdd7002ad9",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.8,
+      "total": 7181
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 499,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 403,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 365,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "6cf336fc-5488-4937-b80d-e4fbe8efc4ab",
+    "username_reviews": "M******* I**** J******",
+    "initialName": "MJ",
+    "image_reviews": null,
+    "created_time": "2020-01-07T15:21:13.022+07:00",
+    "created_time_epoch": 1578410473,
+    "reviews_rating": 5,
+    "orders": {
+      "orderedAt": "2020-01-07T07:05:14.947406Z",
+      "items": [
+        {
+          "id": "dac1f0d2-babb-4987-b29d-72528d410bbb",
+          "name": "Hari-Hari Untung - Golden Aroma Chicken"
+        },
+        {
+          "id": "65d98a88-d88b-4aeb-a4fa-4ac589f19d16",
+          "name": "Rice White"
+        },
+        {
+          "id": "23b243e3-731c-4a10-94c5-2bf073b14308",
+          "name": "Cheese Sauce"
+        },
+        {
+          "id": "079d9fd5-0b61-4baf-aba7-9682360058a8",
+          "name": "Upsize Drink"
+        },
+        {
+          "id": "0b2e4ae4-2c54-4fca-8f77-407793b50c6d",
+          "name": "Golden Aroma Chicken"
+        },
+        {
+          "id": "7badc061-f001-4d13-a22f-b99e55955217",
+          "name": "Mango Chicken Pocket"
+        }
+      ]
+    },
+    "tags_review": [
+      "CANNED_RESPONSE_FRESHNESS",
+      "CANNED_RESPONSE_PORTION",
+      "CANNED_RESPONSE_HYGIENE",
+      "CANNED_RESPONSE_PACKAGING",
+      "CANNED_RESPONSE_VALUE",
+      "gofood.co.id"
+    ],
+    "content_reviews": "saus keju-nya rasanya agak aneh dan terlalu manis.",
+    "date_of_experience": ""
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/meatbray-ricebowl-hotplate-100-us-beef-grand-galaxy-city-eecfae26-b0cc-4063-b0ef-c260539281f7",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Aneka nasi",
+    "Cepat saji",
+    "Jepang",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:20:09.646388",
+  "crawling_time_epoch": 1705155609,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Meatbray_Ricebowl__Hotplate_100_US_Beef_Grand_Galaxy_City/json/6e12e5d2-610f-496c-bedb-5f89362ca873.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Meatbray_Ricebowl__Hotplate_100_US_Beef_Grand_Galaxy_City/json/6e12e5d2-610f-496c-bedb-5f89362ca873.json",
+  "reviews_name": "Meatbray Ricebowl & Hotplate 100% US Beef, Grand Galaxy City",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.77
+  },
+  "range_prices": "16k-40k",
+  "restaurant_id": "eecfae26-b0cc-4063-b0ef-c260539281f7",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.7,
+      "total": 526
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 67,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 51,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 45,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "6e12e5d2-610f-496c-bedb-5f89362ca873",
+    "username_reviews": "M******",
+    "initialName": "M",
+    "image_reviews": null,
+    "created_time": "2021-12-19T20:58:01.192705+07:00",
+    "created_time_epoch": 1639947481,
+    "reviews_rating": 5,
+    "orders": {
+      "orderedAt": "2021-12-19T13:10:39.455519Z",
+      "items": [
+        {
+          "id": "af06ea01-a369-4b60-b829-e37ca856e966",
+          "name": "Hotplate Spicy Barbeque"
+        },
+        {
+          "id": "c240f56c-3a56-491c-9652-f9d6e5cab3f7",
+          "name": "Ricebowl Teriyaki Jumbo"
+        }
+      ]
+    },
+    "tags_review": [
+      "gofood.co.id"
+    ],
+    "content_reviews": "rasa mantap betul, tapi nasinya kurang banyak wkwk",
+    "date_of_experience": ""
+  }
+}

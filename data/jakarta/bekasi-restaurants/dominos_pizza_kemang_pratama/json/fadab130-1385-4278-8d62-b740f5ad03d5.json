@@ -1,0 +1,68 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/domino-s-pizza-kemang-pratama-00fb7fae-fbe1-4b63-ad17-dc7094c64f9c",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Pizza & pasta",
+    "Cepat saji",
+    "Jajanan",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:18:48.067806",
+  "crawling_time_epoch": 1705155528,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Dominos_Pizza_Kemang_Pratama/json/fadab130-1385-4278-8d62-b740f5ad03d5.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Dominos_Pizza_Kemang_Pratama/json/fadab130-1385-4278-8d62-b740f5ad03d5.json",
+  "reviews_name": "Domino's Pizza, Kemang Pratama",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.47
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "00fb7fae-fbe1-4b63-ad17-dc7094c64f9c",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.7,
+      "total": 11582
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 1426,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 1210,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 1158,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "fadab130-1385-4278-8d62-b740f5ad03d5",
+    "username_reviews": "F****",
+    "initialName": "F",
+    "image_reviews": null,
+    "created_time": "2020-04-07T20:25:49.272+07:00",
+    "created_time_epoch": 1586291149,
+    "reviews_rating": 4,
+    "orders": {
+      "orderedAt": "2020-04-06T12:53:11.670653Z",
+      "items": [
+        {
+          "id": "ae3fa941-5d47-475b-828c-ab8b32d8702e",
+          "name": "Buy 5 Pizza Mania for 70K"
+        }
+      ]
+    },
+    "tags_review": [
+      "",
+      "gofood.co.id"
+    ],
+    "content_reviews": "Sudah bbrpa 2 - 3 x pesan \npermintaan extra saos chili nya TIDAK PERNAH DIKASIH",
+    "date_of_experience": ""
+  }
+}

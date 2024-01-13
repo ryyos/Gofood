@@ -1,0 +1,89 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/mcdonald-s-pekayon-50150204-8f6d-4372-8458-668f1be126e8",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Cepat saji",
+    "Sweets",
+    "Jajanan",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:17:21.424093",
+  "crawling_time_epoch": 1705155441,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/McDonalds_Pekayon/json/b557498b-be52-47c7-acaf-02acef347968.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/McDonalds_Pekayon/json/b557498b-be52-47c7-acaf-02acef347968.json",
+  "reviews_name": "McDonald's, Pekayon",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.46
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "50150204-8f6d-4372-8458-668f1be126e8",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.8,
+      "total": 70397
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 4555,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 3695,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 3669,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "b557498b-be52-47c7-acaf-02acef347968",
+    "username_reviews": "Z** / A***",
+    "initialName": "ZA",
+    "image_reviews": null,
+    "created_time": "2022-05-07T13:20:00.614609+07:00",
+    "created_time_epoch": 1651929600,
+    "reviews_rating": 5,
+    "orders": {
+      "orderedAt": "2022-05-06T22:36:42.144278Z",
+      "items": [
+        {
+          "id": "2e0c6e2a-0731-49ac-bc6d-2173a6f533d1",
+          "name": "PaMer 7 Ayam Spicy Lengkuas McD Sambal Bajak"
+        },
+        {
+          "id": "de8e8462-278c-4e9d-b590-cb25e9154b02",
+          "name": "PaNas 1 Spicy, Medium"
+        },
+        {
+          "id": "25c1263d-3913-4d13-9590-2d4f4ba5774e",
+          "name": "Big Breakfast (Fries)"
+        },
+        {
+          "id": "4ddf0ee1-ac74-4d7f-b518-625e1f9771d5",
+          "name": "PaNas Spesial Ayam Krispy Lengkuas McD Sambal Bajak"
+        },
+        {
+          "id": "dfa86910-172e-4291-9a92-06e21efacab6",
+          "name": "PaNas 2 Ayam Krispy Lengkuas McD Sambal Bajak"
+        }
+      ]
+    },
+    "tags_review": [
+      "CANNED_RESPONSE_FRESHNESS",
+      "CANNED_RESPONSE_TASTE",
+      "CANNED_RESPONSE_PORTION",
+      "CANNED_RESPONSE_VALUE",
+      "CANNED_RESPONSE_PACKAGING",
+      "CANNED_RESPONSE_HYGIENE",
+      "gofood.co.id"
+    ],
+    "content_reviews": "Mantap cepet gercep ",
+    "date_of_experience": ""
+  }
+}

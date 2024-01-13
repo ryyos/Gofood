@@ -1,0 +1,74 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/a-w-linc-square-d4fe7a94-86cd-4883-b279-07bdd7002ad9",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Cepat saji",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:20:11.107220",
+  "crawling_time_epoch": 1705155611,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/AW_Linc_Square/json/47f13e8a-e1ee-4ae8-a83f-18fdcb2c6fea.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/AW_Linc_Square/json/47f13e8a-e1ee-4ae8-a83f-18fdcb2c6fea.json",
+  "reviews_name": "A&W, Linc Square",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.94
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "d4fe7a94-86cd-4883-b279-07bdd7002ad9",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.8,
+      "total": 7181
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 499,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 403,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 365,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "47f13e8a-e1ee-4ae8-a83f-18fdcb2c6fea",
+    "username_reviews": "A********** P*******",
+    "initialName": "AP",
+    "image_reviews": null,
+    "created_time": "2020-03-06T10:54:57.486+07:00",
+    "created_time_epoch": 1583492097,
+    "reviews_rating": 2,
+    "orders": {
+      "orderedAt": "2020-03-06T03:19:33.023334Z",
+      "items": [
+        {
+          "id": "d9ed3384-aea4-410d-a2f9-ca76622c06ed",
+          "name": "Float"
+        },
+        {
+          "id": "4082f329-d61c-41dc-88a2-f0c1ab084823",
+          "name": "Iced Green Tea Latte 16"
+        }
+      ]
+    },
+    "tags_review": [
+      "CANNED_RESPONSE_FRESHNESS",
+      "CANNED_RESPONSE_TASTE",
+      "CANNED_RESPONSE_HYGIENE",
+      "CANNED_RESPONSE_PACKAGING",
+      "CANNED_RESPONSE_VALUE",
+      "gofood.co.id"
+    ],
+    "content_reviews": "Yg bkin premium green tea sangat asal2n rasanya gak karuan. Rasa pling bruk dri beberapa A&W yg sya coba ! Kecewa bngt",
+    "date_of_experience": ""
+  }
+}

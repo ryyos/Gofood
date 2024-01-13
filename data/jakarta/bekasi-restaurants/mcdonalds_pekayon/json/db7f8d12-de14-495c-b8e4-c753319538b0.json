@@ -1,0 +1,82 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/mcdonald-s-pekayon-50150204-8f6d-4372-8458-668f1be126e8",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Cepat saji",
+    "Sweets",
+    "Jajanan",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:17:21.424093",
+  "crawling_time_epoch": 1705155441,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/McDonalds_Pekayon/json/db7f8d12-de14-495c-b8e4-c753319538b0.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/McDonalds_Pekayon/json/db7f8d12-de14-495c-b8e4-c753319538b0.json",
+  "reviews_name": "McDonald's, Pekayon",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.46
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "50150204-8f6d-4372-8458-668f1be126e8",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.8,
+      "total": 70397
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 4555,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 3695,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 3669,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "db7f8d12-de14-495c-b8e4-c753319538b0",
+    "username_reviews": "Jasmine",
+    "initialName": "J",
+    "image_reviews": null,
+    "created_time": "2023-02-20T16:56:52.646787+07:00",
+    "created_time_epoch": 1676912212,
+    "reviews_rating": 5,
+    "orders": {
+      "orderedAt": "2023-02-20T09:05:03.227276Z",
+      "items": [
+        {
+          "id": "05182d9e-f6ee-4e58-87a6-63b537de618d",
+          "name": "Fruit Tea Blackcurrant McFlurry with Jelly"
+        },
+        {
+          "id": "dbbf2462-b216-4471-847c-44951029eeba",
+          "name": "McNuggets 6 pcs"
+        },
+        {
+          "id": "78778836-9c57-4170-9844-c43130309118",
+          "name": "PaNas Special Spicy, Large"
+        }
+      ]
+    },
+    "tags_review": [
+      "CANNED_RESPONSE_FRESHNESS",
+      "CANNED_RESPONSE_TASTE",
+      "CANNED_RESPONSE_PORTION",
+      "CANNED_RESPONSE_HYGIENE",
+      "CANNED_RESPONSE_PACKAGING",
+      "CANNED_RESPONSE_VALUE",
+      "CANNED_RESPONSE_CUTLERY",
+      "gofood.co.id"
+    ],
+    "content_reviews": "Enak bgt, makasih",
+    "date_of_experience": ""
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/mcdonald-s-pekayon-50150204-8f6d-4372-8458-668f1be126e8",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Cepat saji",
+    "Sweets",
+    "Jajanan",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:17:21.424093",
+  "crawling_time_epoch": 1705155441,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/McDonalds_Pekayon/json/2254e4a2-dcb5-452d-8778-e36fa16e04d3.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/McDonalds_Pekayon/json/2254e4a2-dcb5-452d-8778-e36fa16e04d3.json",
+  "reviews_name": "McDonald's, Pekayon",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.46
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "50150204-8f6d-4372-8458-668f1be126e8",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.8,
+      "total": 70397
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 4555,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 3695,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 3669,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "2254e4a2-dcb5-452d-8778-e36fa16e04d3",
+    "username_reviews": "S***** B",
+    "initialName": "SB",
+    "image_reviews": null,
+    "created_time": "2020-12-04T19:31:04.42+07:00",
+    "created_time_epoch": 1607110264,
+    "reviews_rating": 4,
+    "orders": {
+      "orderedAt": "2020-12-03T05:14:33.050518Z",
+      "items": [
+        {
+          "id": "c73a70bf-40d8-4f0e-a979-060ae9cd6473",
+          "name": "PaNas Spesial Thai Sweet Chili Spicy"
+        },
+        {
+          "id": "d275f38c-0556-48ef-a960-75d783d8ef74",
+          "name": "PaNas Spesial Medium"
+        },
+        {
+          "id": "2bc001b6-1f78-4836-ba3c-9ba948f008d4",
+          "name": "French Fries Large"
+        },
+        {
+          "id": "427901b9-5411-4e40-9310-4f31af4e4574",
+          "name": "Cheeseburger Meal Medium"
+        },
+        {
+          "id": "c7c6d7b3-9d70-4b63-ac5e-c76b2f7e90af",
+          "name": "McNuggets 6pcs"
+        },
+        {
+          "id": "e70ed2a1-f3a4-4ba5-ba49-0d31a197be60",
+          "name": "Milo Medium"
+        }
+      ]
+    },
+    "tags_review": [
+      "",
+      "gofood.co.id"
+    ],
+    "content_reviews": "pesan crispy mlh pedas",
+    "date_of_experience": ""
+  }
+}

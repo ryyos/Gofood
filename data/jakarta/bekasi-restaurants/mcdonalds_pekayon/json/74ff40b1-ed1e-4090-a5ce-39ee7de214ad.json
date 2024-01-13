@@ -1,0 +1,68 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/mcdonald-s-pekayon-50150204-8f6d-4372-8458-668f1be126e8",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Cepat saji",
+    "Sweets",
+    "Jajanan",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:17:21.424093",
+  "crawling_time_epoch": 1705155441,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/McDonalds_Pekayon/json/74ff40b1-ed1e-4090-a5ce-39ee7de214ad.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/McDonalds_Pekayon/json/74ff40b1-ed1e-4090-a5ce-39ee7de214ad.json",
+  "reviews_name": "McDonald's, Pekayon",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.46
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "50150204-8f6d-4372-8458-668f1be126e8",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.8,
+      "total": 70397
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 4555,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 3695,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 3669,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "74ff40b1-ed1e-4090-a5ce-39ee7de214ad",
+    "username_reviews": "F****",
+    "initialName": "F",
+    "image_reviews": null,
+    "created_time": "2020-06-11T13:38:28.612+07:00",
+    "created_time_epoch": 1591882708,
+    "reviews_rating": 2,
+    "orders": {
+      "orderedAt": "2020-06-07T05:11:00.322257Z",
+      "items": [
+        {
+          "id": "8d387ed7-fe8b-422f-a0df-fb23d713c137",
+          "name": "2 pcs Spicy Chicken McD"
+        }
+      ]
+    },
+    "tags_review": [
+      "",
+      "gofood.co.id"
+    ],
+    "content_reviews": "tidak ada sama skali saus sambal.pd hal d note nya sdh tertulis \"extra saus sambal\" .\nmeski pesan yg spicy sehrsnya hrs ada donk,cukup kecewa dgn pelayanannya Mcd",
+    "date_of_experience": ""
+  }
+}

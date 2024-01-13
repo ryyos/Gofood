@@ -1,0 +1,74 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/kfc-kemang-pratama-ef8c2c3e-61d6-4bd4-b9fa-10cfd6358dcf",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Cepat saji",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:19:21.062803",
+  "crawling_time_epoch": 1705155561,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/KFC_Kemang_Pratama/json/a1398473-3dee-4ba7-8a49-d24b44e88cb4.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/KFC_Kemang_Pratama/json/a1398473-3dee-4ba7-8a49-d24b44e88cb4.json",
+  "reviews_name": "KFC, Kemang Pratama",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.53
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "ef8c2c3e-61d6-4bd4-b9fa-10cfd6358dcf",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.8,
+      "total": 24067
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 2021,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 1696,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 1631,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "a1398473-3dee-4ba7-8a49-d24b44e88cb4",
+    "username_reviews": "A*****",
+    "initialName": "A",
+    "image_reviews": null,
+    "created_time": "2019-10-02T20:20:02.155+07:00",
+    "created_time_epoch": 1570047602,
+    "reviews_rating": 5,
+    "orders": {
+      "orderedAt": "2019-10-02T11:39:36.142244Z",
+      "items": [
+        {
+          "id": "893d59e5-b23a-4c08-a898-8cee70a5bdd8",
+          "name": "Hot Crispy Chicken"
+        },
+        {
+          "id": "ac9ba50c-47c5-4270-b81d-dc693fb66775",
+          "name": "Original Chicken"
+        },
+        {
+          "id": "9aee1511-5745-43db-8953-28e58ba5020b",
+          "name": "Perkedel"
+        }
+      ]
+    },
+    "tags_review": [
+      "",
+      "gofood.co.id"
+    ],
+    "content_reviews": "notes nya tolong diperhatikan lagi ya:(",
+    "date_of_experience": ""
+  }
+}

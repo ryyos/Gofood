@@ -1,0 +1,71 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/mcdonald-s-pekayon-50150204-8f6d-4372-8458-668f1be126e8",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Cepat saji",
+    "Sweets",
+    "Jajanan",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:17:21.424093",
+  "crawling_time_epoch": 1705155441,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/McDonalds_Pekayon/json/d2213830-227b-4847-a13e-e8c788c585b4.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/McDonalds_Pekayon/json/d2213830-227b-4847-a13e-e8c788c585b4.json",
+  "reviews_name": "McDonald's, Pekayon",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.46
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "50150204-8f6d-4372-8458-668f1be126e8",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.8,
+      "total": 70397
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 4555,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 3695,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 3669,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "d2213830-227b-4847-a13e-e8c788c585b4",
+    "username_reviews": "Jasmine",
+    "initialName": "J",
+    "image_reviews": null,
+    "created_time": "2023-05-21T17:07:09.633543+07:00",
+    "created_time_epoch": 1684688829,
+    "reviews_rating": 1,
+    "orders": {
+      "orderedAt": "2023-05-21T07:58:27.86166Z",
+      "items": [
+        {
+          "id": "fea561a5-2239-47e4-9bd3-14e91bcb2a1e",
+          "name": "PROMO - 2x PaNas 1 Krispy, Medium"
+        },
+        {
+          "id": "2bc001b6-1f78-4836-ba3c-9ba948f008d4",
+          "name": "French Fries Large"
+        }
+      ]
+    },
+    "tags_review": [
+      "gofood.co.id"
+    ],
+    "content_reviews": "Pesan frenchfries large dibilang ga ada, mau ditukar jd spicy bites. Dari harga aja selisih jauh masa nawarin yg harganya jauh lebih murah. Sedangkan saldo gopay sy sdh kepotong, di cancel ga bisa krn sdh masuk orderannya. Sekelas Mcd masa ngerusak reputasinya gara2 karyawannya begitu sih. Hadehhh",
+    "date_of_experience": ""
+  }
+}

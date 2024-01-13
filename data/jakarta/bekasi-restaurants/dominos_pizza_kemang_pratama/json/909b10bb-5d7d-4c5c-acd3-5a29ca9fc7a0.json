@@ -1,0 +1,71 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/domino-s-pizza-kemang-pratama-00fb7fae-fbe1-4b63-ad17-dc7094c64f9c",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Pizza & pasta",
+    "Cepat saji",
+    "Jajanan",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:18:48.067806",
+  "crawling_time_epoch": 1705155528,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Dominos_Pizza_Kemang_Pratama/json/909b10bb-5d7d-4c5c-acd3-5a29ca9fc7a0.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Dominos_Pizza_Kemang_Pratama/json/909b10bb-5d7d-4c5c-acd3-5a29ca9fc7a0.json",
+  "reviews_name": "Domino's Pizza, Kemang Pratama",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.47
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "00fb7fae-fbe1-4b63-ad17-dc7094c64f9c",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.7,
+      "total": 11582
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 1426,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 1210,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 1158,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "909b10bb-5d7d-4c5c-acd3-5a29ca9fc7a0",
+    "username_reviews": "Yusuf Arif",
+    "initialName": "YA",
+    "image_reviews": null,
+    "created_time": "2022-08-15T18:43:02.515674+07:00",
+    "created_time_epoch": 1660588982,
+    "reviews_rating": 5,
+    "orders": {
+      "orderedAt": "2022-08-15T11:02:58.028231Z",
+      "items": [
+        {
+          "id": "fc971de7-7999-4023-8f91-2dbf97f42551",
+          "name": "PAPI Duo Cheeseburst"
+        },
+        {
+          "id": "55f0cc89-7b7f-43c4-95cf-25ce5a845707",
+          "name": "Potato Wedges"
+        }
+      ]
+    },
+    "tags_review": [
+      "gofood.co.id"
+    ],
+    "content_reviews": "Pizza yes, but wedges no",
+    "date_of_experience": ""
+  }
+}

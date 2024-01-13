@@ -1,0 +1,69 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/kfc-kemang-pratama-ef8c2c3e-61d6-4bd4-b9fa-10cfd6358dcf",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Cepat saji",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:19:21.062803",
+  "crawling_time_epoch": 1705155561,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/KFC_Kemang_Pratama/json/623e959d-b39b-459b-88b3-795dbaa09c13.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/KFC_Kemang_Pratama/json/623e959d-b39b-459b-88b3-795dbaa09c13.json",
+  "reviews_name": "KFC, Kemang Pratama",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.53
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "ef8c2c3e-61d6-4bd4-b9fa-10cfd6358dcf",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.8,
+      "total": 24067
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 2021,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 1696,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 1631,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "623e959d-b39b-459b-88b3-795dbaa09c13",
+    "username_reviews": "A*** R******* S*******",
+    "initialName": "AS",
+    "image_reviews": null,
+    "created_time": "2021-07-23T19:47:17.346884+07:00",
+    "created_time_epoch": 1627069637,
+    "reviews_rating": 1,
+    "orders": {
+      "orderedAt": "2021-07-23T12:02:43.832769Z",
+      "items": [
+        {
+          "id": "eabaa348-fac8-448f-b838-74e224db2fb3",
+          "name": "Super Deal 3 Plus Mix HCC - OR"
+        },
+        {
+          "id": "88554a5a-b6d8-456e-aee5-34aedf89dba8",
+          "name": "Coca Cola"
+        }
+      ]
+    },
+    "tags_review": [
+      "gofood.co.id"
+    ],
+    "content_reviews": "Pesanan Super Deal 3 plus. tapi Tidak Ada Nasinya sama sekali",
+    "date_of_experience": ""
+  }
+}

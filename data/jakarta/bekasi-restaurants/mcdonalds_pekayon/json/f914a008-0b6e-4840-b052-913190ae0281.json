@@ -1,0 +1,68 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/mcdonald-s-pekayon-50150204-8f6d-4372-8458-668f1be126e8",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Cepat saji",
+    "Sweets",
+    "Jajanan",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:17:21.424093",
+  "crawling_time_epoch": 1705155441,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/McDonalds_Pekayon/json/f914a008-0b6e-4840-b052-913190ae0281.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/McDonalds_Pekayon/json/f914a008-0b6e-4840-b052-913190ae0281.json",
+  "reviews_name": "McDonald's, Pekayon",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.46
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "50150204-8f6d-4372-8458-668f1be126e8",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.8,
+      "total": 70397
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 4555,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 3695,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 3669,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "f914a008-0b6e-4840-b052-913190ae0281",
+    "username_reviews": "andien",
+    "initialName": "A",
+    "image_reviews": null,
+    "created_time": "2022-09-20T10:17:10.057142+07:00",
+    "created_time_epoch": 1663669030,
+    "reviews_rating": 4,
+    "orders": {
+      "orderedAt": "2022-09-17T10:59:54.082207Z",
+      "items": [
+        {
+          "id": "d3019cf7-d0b1-487f-8663-70763a5be3ac",
+          "name": "Paket Hemat Cheeseburger Large Colorful Bottle"
+        }
+      ]
+    },
+    "tags_review": [
+      "CANNED_RESPONSE_PORTION",
+      "gofood.co.id"
+    ],
+    "content_reviews": "Kurang royal, minta extra saus sambal tp ga dikasih. cuma dikasih 2 pcs sambal",
+    "date_of_experience": ""
+  }
+}

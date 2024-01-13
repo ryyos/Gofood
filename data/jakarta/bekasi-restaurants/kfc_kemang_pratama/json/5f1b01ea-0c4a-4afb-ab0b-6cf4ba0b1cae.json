@@ -1,0 +1,74 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/kfc-kemang-pratama-ef8c2c3e-61d6-4bd4-b9fa-10cfd6358dcf",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Cepat saji",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:19:21.062803",
+  "crawling_time_epoch": 1705155561,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/KFC_Kemang_Pratama/json/5f1b01ea-0c4a-4afb-ab0b-6cf4ba0b1cae.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/KFC_Kemang_Pratama/json/5f1b01ea-0c4a-4afb-ab0b-6cf4ba0b1cae.json",
+  "reviews_name": "KFC, Kemang Pratama",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.53
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "ef8c2c3e-61d6-4bd4-b9fa-10cfd6358dcf",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.8,
+      "total": 24067
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 2021,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 1696,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 1631,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "5f1b01ea-0c4a-4afb-ab0b-6cf4ba0b1cae",
+    "username_reviews": "M********",
+    "initialName": "M",
+    "image_reviews": null,
+    "created_time": "2020-12-23T13:36:02.593+07:00",
+    "created_time_epoch": 1608730562,
+    "reviews_rating": 2,
+    "orders": {
+      "orderedAt": "2020-12-23T05:44:48.773066Z",
+      "items": [
+        {
+          "id": "d5b0d07a-65fd-43a9-9535-47c2804bac2f",
+          "name": "Original Chicken"
+        },
+        {
+          "id": "24d34b55-2982-40c0-ab41-deed7d525e20",
+          "name": "Perkedel"
+        },
+        {
+          "id": "47133fb4-67a2-49a8-84a8-def9a8f56af2",
+          "name": "Deluxe Burger"
+        }
+      ]
+    },
+    "tags_review": [
+      "",
+      "gofood.co.id"
+    ],
+    "content_reviews": "minta bagian dada tapi di kasih bagian paha semua",
+    "date_of_experience": ""
+  }
+}

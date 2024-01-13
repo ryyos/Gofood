@@ -1,0 +1,71 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/richeese-factory-pekayon-fb7c3452-2cba-464a-9e24-23840a40a179",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Cepat saji",
+    "Ayam & bebek",
+    "Aneka nasi",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:20:23.240256",
+  "crawling_time_epoch": 1705155623,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Richeese_Factory_Pekayon/json/b18e5078-f862-4ef9-80a7-57a15e6efb6d.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Richeese_Factory_Pekayon/json/b18e5078-f862-4ef9-80a7-57a15e6efb6d.json",
+  "reviews_name": "Richeese Factory, Pekayon",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.97
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "fb7c3452-2cba-464a-9e24-23840a40a179",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.7,
+      "total": 32095
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 2029,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 1477,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 1469,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "b18e5078-f862-4ef9-80a7-57a15e6efb6d",
+    "username_reviews": "Rijal",
+    "initialName": "R",
+    "image_reviews": null,
+    "created_time": "2022-05-23T19:26:30.88922+07:00",
+    "created_time_epoch": 1653333990,
+    "reviews_rating": 2,
+    "orders": {
+      "orderedAt": "2022-05-23T11:44:44.727369Z",
+      "items": [
+        {
+          "id": "184ca9ee-286e-457c-b663-c4819b12aec6",
+          "name": "Combo Duo Fire Chicken"
+        },
+        {
+          "id": "6add1fc2-0730-43f8-be06-be6df90118f8",
+          "name": "Combo 1 Fire Chicken"
+        }
+      ]
+    },
+    "tags_review": [
+      "gofood.co.id"
+    ],
+    "content_reviews": "saya memesan 2 porsi yg satu level 4 dan yg satunya level 2 tetapi yg saya Terima level 4 semua, satu porsinya jadi gk kemakan karna terlalu pedas",
+    "date_of_experience": ""
+  }
+}

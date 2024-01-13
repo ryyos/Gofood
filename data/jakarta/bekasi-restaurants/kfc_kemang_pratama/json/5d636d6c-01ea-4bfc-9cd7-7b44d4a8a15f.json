@@ -1,0 +1,74 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/kfc-kemang-pratama-ef8c2c3e-61d6-4bd4-b9fa-10cfd6358dcf",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Cepat saji",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:19:21.062803",
+  "crawling_time_epoch": 1705155561,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/KFC_Kemang_Pratama/json/5d636d6c-01ea-4bfc-9cd7-7b44d4a8a15f.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/KFC_Kemang_Pratama/json/5d636d6c-01ea-4bfc-9cd7-7b44d4a8a15f.json",
+  "reviews_name": "KFC, Kemang Pratama",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.53
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "ef8c2c3e-61d6-4bd4-b9fa-10cfd6358dcf",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.8,
+      "total": 24067
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 2021,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 1696,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 1631,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "5d636d6c-01ea-4bfc-9cd7-7b44d4a8a15f",
+    "username_reviews": "A*********",
+    "initialName": "A",
+    "image_reviews": null,
+    "created_time": "2023-01-04T19:01:24.422584+07:00",
+    "created_time_epoch": 1672858884,
+    "reviews_rating": 5,
+    "orders": {
+      "orderedAt": "2022-12-03T12:42:51.141363Z",
+      "items": [
+        {
+          "id": "abb66b0b-70df-4b14-b5e1-cc9855dd1e8f",
+          "name": "Spaghetti deluxe"
+        },
+        {
+          "id": "35668c7f-7e4b-4a4b-aa54-01b06ce72413",
+          "name": "1 Pcs Chicken"
+        }
+      ]
+    },
+    "tags_review": [
+      "CANNED_RESPONSE_FRESHNESS",
+      "CANNED_RESPONSE_TASTE",
+      "CANNED_RESPONSE_PORTION",
+      "CANNED_RESPONSE_HYGIENE",
+      "CANNED_RESPONSE_VALUE",
+      "gofood.co.id"
+    ],
+    "content_reviews": "enak sekali gan",
+    "date_of_experience": ""
+  }
+}

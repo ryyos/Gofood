@@ -1,0 +1,76 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/mcdonald-s-pekayon-50150204-8f6d-4372-8458-668f1be126e8",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Cepat saji",
+    "Sweets",
+    "Jajanan",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:17:21.424093",
+  "crawling_time_epoch": 1705155441,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/McDonalds_Pekayon/json/e136736e-8b43-4ea8-ab45-bd67ae1de373.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/McDonalds_Pekayon/json/e136736e-8b43-4ea8-ab45-bd67ae1de373.json",
+  "reviews_name": "McDonald's, Pekayon",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.46
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "50150204-8f6d-4372-8458-668f1be126e8",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.8,
+      "total": 70397
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 4555,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 3695,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 3669,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "e136736e-8b43-4ea8-ab45-bd67ae1de373",
+    "username_reviews": "L**** J*****",
+    "initialName": "LJ",
+    "image_reviews": null,
+    "created_time": "2020-09-05T22:25:11.023+07:00",
+    "created_time_epoch": 1599344711,
+    "reviews_rating": 3,
+    "orders": {
+      "orderedAt": "2020-09-05T07:52:28.922419Z",
+      "items": [
+        {
+          "id": "b974a4c6-1dd8-483b-bbf8-ae71a7b6409c",
+          "name": "McFlurry Tehbotol Oreo"
+        },
+        {
+          "id": "d1c3fbf2-9ea4-4683-b2ae-1adbbb42f87e",
+          "name": "Spicy Chicken Bites, Chicken Fingers, RFries, Crunchy Bubble"
+        },
+        {
+          "id": "3ce5f531-03aa-47f5-b562-18f3e638482d",
+          "name": "Honey Garlic Chicken Rice McD"
+        }
+      ]
+    },
+    "tags_review": [
+      "",
+      "gofood.co.id"
+    ],
+    "content_reviews": "French friesnya d ksh yg bubuk hiks",
+    "date_of_experience": ""
+  }
+}

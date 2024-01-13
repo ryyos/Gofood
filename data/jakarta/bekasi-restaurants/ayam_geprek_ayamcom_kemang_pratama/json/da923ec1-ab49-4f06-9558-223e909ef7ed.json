@@ -1,0 +1,75 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/ayam-geprek-ayam-com-kemang-pratama-acb48dbc-474f-44f8-a2c9-9310a1dc6f56",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Ayam & bebek",
+    "Aneka nasi",
+    "Cepat saji",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:19:06.874520",
+  "crawling_time_epoch": 1705155546,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Ayam_Geprek_Ayamcom_Kemang_Pratama/json/da923ec1-ab49-4f06-9558-223e909ef7ed.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Ayam_Geprek_Ayamcom_Kemang_Pratama/json/da923ec1-ab49-4f06-9558-223e909ef7ed.json",
+  "reviews_name": "Ayam Geprek Ayam.com, Kemang Pratama",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.49
+  },
+  "range_prices": "16k-40k",
+  "restaurant_id": "acb48dbc-474f-44f8-a2c9-9310a1dc6f56",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.8,
+      "total": 2048
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 292,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 238,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 224,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "da923ec1-ab49-4f06-9558-223e909ef7ed",
+    "username_reviews": "Alan",
+    "initialName": "A",
+    "image_reviews": null,
+    "created_time": "2022-02-11T13:40:49.561917+07:00",
+    "created_time_epoch": 1644586849,
+    "reviews_rating": 4,
+    "orders": {
+      "orderedAt": "2022-02-10T11:35:17.868263Z",
+      "items": [
+        {
+          "id": "4bf95b1c-dfb8-49d6-a0fc-63854ce3aed1",
+          "name": "Mie + Ayam Geprek Jumbo"
+        },
+        {
+          "id": "ebb06aee-844f-4231-b47d-4e29b3c384fc",
+          "name": "Telur Dadar"
+        },
+        {
+          "id": "82d7d252-3708-4bd4-9c96-f405c1519a8a",
+          "name": "Nasi Putih"
+        }
+      ]
+    },
+    "tags_review": [
+      "gofood.co.id"
+    ],
+    "content_reviews": "Telur dadar nya hambar. Nggak ada rasa nya. ",
+    "date_of_experience": ""
+  }
+}

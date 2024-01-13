@@ -1,0 +1,69 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/mcdonald-s-pekayon-50150204-8f6d-4372-8458-668f1be126e8",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Cepat saji",
+    "Sweets",
+    "Jajanan",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:17:21.424093",
+  "crawling_time_epoch": 1705155441,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/McDonalds_Pekayon/json/d060f2c2-250c-4d53-b50e-6c03b4230fa1.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/McDonalds_Pekayon/json/d060f2c2-250c-4d53-b50e-6c03b4230fa1.json",
+  "reviews_name": "McDonald's, Pekayon",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.46
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "50150204-8f6d-4372-8458-668f1be126e8",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.8,
+      "total": 70397
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 4555,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 3695,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 3669,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "d060f2c2-250c-4d53-b50e-6c03b4230fa1",
+    "username_reviews": "Reyhan",
+    "initialName": "R",
+    "image_reviews": null,
+    "created_time": "2023-05-28T06:51:01.580414+07:00",
+    "created_time_epoch": 1685256661,
+    "reviews_rating": 1,
+    "orders": {
+      "orderedAt": "2023-05-27T22:24:29.392849Z",
+      "items": [
+        {
+          "id": "d038ce88-e512-4314-95e1-595acc1ab728",
+          "name": "PROMO - 2x PaNas 1 Spicy, Medium"
+        }
+      ]
+    },
+    "tags_review": [
+      "CANNED_RESPONSE_CUTLERY_INCORRECT",
+      "CANNED_RESPONSE_ORDER",
+      "gofood.co.id"
+    ],
+    "content_reviews": "SECARA MAKANAN N MINUMAN ENAK NO COMMENT DEH, TPI UDAH 2X ORDER DI MCD PEKAYON 2X DIKECEWAIN KARNA TIDAK SESUAI REQUEST, MINTANYA APA DIKASIHNYA APA, KALAU MEMANG HABIS HARUSNYA DI INFOKAN KE CUSTOMER JANGAN MAIN KASIH-KASIH AJA!!!!!!!!!!!!!!!!!!!!",
+    "date_of_experience": ""
+  }
+}

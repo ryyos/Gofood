@@ -1,0 +1,67 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/mcdonald-s-pekayon-50150204-8f6d-4372-8458-668f1be126e8",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Cepat saji",
+    "Sweets",
+    "Jajanan",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:17:21.424093",
+  "crawling_time_epoch": 1705155441,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/McDonalds_Pekayon/json/32f90df7-2ebb-4b52-8512-9661e285af3b.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/McDonalds_Pekayon/json/32f90df7-2ebb-4b52-8512-9661e285af3b.json",
+  "reviews_name": "McDonald's, Pekayon",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.46
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "50150204-8f6d-4372-8458-668f1be126e8",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.8,
+      "total": 70397
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 4555,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 3695,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 3669,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "32f90df7-2ebb-4b52-8512-9661e285af3b",
+    "username_reviews": "A***** C******",
+    "initialName": "AC",
+    "image_reviews": null,
+    "created_time": "2021-05-26T23:23:21.15366+07:00",
+    "created_time_epoch": 1622071401,
+    "reviews_rating": 2,
+    "orders": {
+      "orderedAt": "2021-05-26T15:19:13.71621Z",
+      "items": [
+        {
+          "id": "a067db1c-7000-4045-a93e-b727f1cfa477",
+          "name": "Double Cheeseburger Meal Large"
+        }
+      ]
+    },
+    "tags_review": [
+      "gofood.co.id"
+    ],
+    "content_reviews": "Kenapa lemon tea saya ga ada es nya 🙂",
+    "date_of_experience": ""
+  }
+}

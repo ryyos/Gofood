@@ -1,0 +1,80 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/mcdonald-s-pekayon-50150204-8f6d-4372-8458-668f1be126e8",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Cepat saji",
+    "Sweets",
+    "Jajanan",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:17:21.424093",
+  "crawling_time_epoch": 1705155441,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/McDonalds_Pekayon/json/19a532dd-d42e-4f97-93ed-148057a79f81.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/McDonalds_Pekayon/json/19a532dd-d42e-4f97-93ed-148057a79f81.json",
+  "reviews_name": "McDonald's, Pekayon",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.46
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "50150204-8f6d-4372-8458-668f1be126e8",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.8,
+      "total": 70397
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 4555,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 3695,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 3669,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "19a532dd-d42e-4f97-93ed-148057a79f81",
+    "username_reviews": "E***",
+    "initialName": "E",
+    "image_reviews": null,
+    "created_time": "2020-09-14T02:04:13.908+07:00",
+    "created_time_epoch": 1600049053,
+    "reviews_rating": 2,
+    "orders": {
+      "orderedAt": "2020-09-13T17:26:55.960861Z",
+      "items": [
+        {
+          "id": "4c106b3b-c88b-426d-aac1-bc906404d0fa",
+          "name": "McFlurry Feat. Oreo"
+        },
+        {
+          "id": "8fa3e5c0-f709-4ee9-902b-52e117d5bff7",
+          "name": "Iced Coffee"
+        },
+        {
+          "id": "031e2f03-9959-4ae3-851c-6bc0efbbf500",
+          "name": "Fruit Tea Lemon Large"
+        },
+        {
+          "id": "984dabb8-db93-49b4-be28-d05237977606",
+          "name": "Rica Rica Chicken Rice McD"
+        }
+      ]
+    },
+    "tags_review": [
+      "CANNED_RESPONSE_PACKAGING",
+      "gofood.co.id"
+    ],
+    "content_reviews": "Packaging ga bagus, kopi saya berantakan",
+    "date_of_experience": ""
+  }
+}

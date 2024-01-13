@@ -1,0 +1,81 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/sari-rasa-pekayon-ruko-bukit-safira-1457b34a-58b8-4ac5-b2b1-f64b5c9c967f",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Sate",
+    "Ayam & bebek",
+    "Aneka nasi",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:19:47.200172",
+  "crawling_time_epoch": 1705155587,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Sari_Rasa_Pekayon_Ruko_Bukit_Safira/json/fdff1115-f3df-48ca-bfcf-d90d1845b46e.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Sari_Rasa_Pekayon_Ruko_Bukit_Safira/json/fdff1115-f3df-48ca-bfcf-d90d1845b46e.json",
+  "reviews_name": "Sari Rasa Pekayon, Ruko Bukit Safira",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.6
+  },
+  "range_prices": "16k-40k",
+  "restaurant_id": "1457b34a-58b8-4ac5-b2b1-f64b5c9c967f",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.8,
+      "total": 1979
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 216,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 169,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 164,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "fdff1115-f3df-48ca-bfcf-d90d1845b46e",
+    "username_reviews": "Meitya Putri",
+    "initialName": "MP",
+    "image_reviews": null,
+    "created_time": "2022-05-18T15:57:10.58388+07:00",
+    "created_time_epoch": 1652889430,
+    "reviews_rating": 5,
+    "orders": {
+      "orderedAt": "2022-05-17T13:35:24.726954Z",
+      "items": [
+        {
+          "id": "f2564c06-2d10-45aa-96b9-29db74fe3753",
+          "name": "Nasi Bakar Cumi"
+        },
+        {
+          "id": "0aa72c95-f892-464f-924b-599414f0b9a7",
+          "name": "Paket Gepuk"
+        },
+        {
+          "id": "ecd52b4b-7e45-4474-9002-a1891e5a7ded",
+          "name": "Paket Ayam Penyet"
+        }
+      ]
+    },
+    "tags_review": [
+      "CANNED_RESPONSE_FRESHNESS",
+      "CANNED_RESPONSE_HYGIENE",
+      "CANNED_RESPONSE_TASTE",
+      "CANNED_RESPONSE_PORTION",
+      "CANNED_RESPONSE_PACKAGING",
+      "CANNED_RESPONSE_VALUE",
+      "gofood.co.id"
+    ],
+    "content_reviews": "enaaakk bangeeett",
+    "date_of_experience": ""
+  }
+}

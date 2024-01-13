@@ -1,0 +1,73 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/meatbray-ricebowl-hotplate-100-us-beef-grand-galaxy-city-eecfae26-b0cc-4063-b0ef-c260539281f7",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Aneka nasi",
+    "Cepat saji",
+    "Jepang",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:20:09.646388",
+  "crawling_time_epoch": 1705155609,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Meatbray_Ricebowl__Hotplate_100_US_Beef_Grand_Galaxy_City/json/69655b03-26db-489c-b025-af84dfa10da6.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Meatbray_Ricebowl__Hotplate_100_US_Beef_Grand_Galaxy_City/json/69655b03-26db-489c-b025-af84dfa10da6.json",
+  "reviews_name": "Meatbray Ricebowl & Hotplate 100% US Beef, Grand Galaxy City",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.77
+  },
+  "range_prices": "16k-40k",
+  "restaurant_id": "eecfae26-b0cc-4063-b0ef-c260539281f7",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.7,
+      "total": 526
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 67,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 51,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 45,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "69655b03-26db-489c-b025-af84dfa10da6",
+    "username_reviews": "Keysa ALesha Putri Zain",
+    "initialName": "KZ",
+    "image_reviews": null,
+    "created_time": "2022-07-08T00:35:23.578374+07:00",
+    "created_time_epoch": 1657240523,
+    "reviews_rating": 5,
+    "orders": {
+      "orderedAt": "2022-07-04T13:31:17.3287Z",
+      "items": [
+        {
+          "id": "b6f4db35-86fd-4546-bb9b-3c649d79b158",
+          "name": "Hotplate Blackpepper French Fries"
+        }
+      ]
+    },
+    "tags_review": [
+      "CANNED_RESPONSE_FRESHNESS",
+      "CANNED_RESPONSE_HYGIENE",
+      "CANNED_RESPONSE_TASTE",
+      "CANNED_RESPONSE_VALUE",
+      "CANNED_RESPONSE_PACKAGING",
+      "CANNED_RESPONSE_PORTION",
+      "gofood.co.id"
+    ],
+    "content_reviews": "fav klg aku ni\nmo makan ditempat mo aku pesen online rasa tdk berubah",
+    "date_of_experience": ""
+  }
+}

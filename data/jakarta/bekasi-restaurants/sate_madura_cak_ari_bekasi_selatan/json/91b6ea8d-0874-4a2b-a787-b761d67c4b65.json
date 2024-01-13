@@ -1,0 +1,69 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/sate-madura-cak-ari-bekasi-selatan-65c0efa7-65ff-4868-95e5-a4ec690c6c14",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Sate",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:19:50.904999",
+  "crawling_time_epoch": 1705155590,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Sate_Madura_Cak_Ari_Bekasi_Selatan/json/91b6ea8d-0874-4a2b-a787-b761d67c4b65.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Sate_Madura_Cak_Ari_Bekasi_Selatan/json/91b6ea8d-0874-4a2b-a787-b761d67c4b65.json",
+  "reviews_name": "Sate Madura Cak Ari, Bekasi Selatan",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.69
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "65c0efa7-65ff-4868-95e5-a4ec690c6c14",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.7,
+      "total": 6478
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 827,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 589,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 535,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "91b6ea8d-0874-4a2b-a787-b761d67c4b65",
+    "username_reviews": "E***",
+    "initialName": "E",
+    "image_reviews": null,
+    "created_time": "2021-11-30T20:12:52.533863+07:00",
+    "created_time_epoch": 1638303172,
+    "reviews_rating": 1,
+    "orders": {
+      "orderedAt": "2021-11-30T12:01:31.140746Z",
+      "items": [
+        {
+          "id": "08b25ceb-ddff-4ed7-bd11-ac7478b0e052",
+          "name": "Sate Ayam 15 Tusuk"
+        },
+        {
+          "id": "4dea2afc-9afa-4c36-a3f8-da81e48e3de9",
+          "name": "Lontong"
+        }
+      ]
+    },
+    "tags_review": [
+      "gofood.co.id"
+    ],
+    "content_reviews": "order 15tusuk sate tapi dikirim hanya 10tusuk, parah banget nih toko hati hati yang belanja disini",
+    "date_of_experience": ""
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/richeese-factory-pekayon-fb7c3452-2cba-464a-9e24-23840a40a179",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Cepat saji",
+    "Ayam & bebek",
+    "Aneka nasi",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:20:23.240256",
+  "crawling_time_epoch": 1705155623,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Richeese_Factory_Pekayon/json/4fd0c428-4d82-4d28-9605-ca69b3e9e793.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Richeese_Factory_Pekayon/json/4fd0c428-4d82-4d28-9605-ca69b3e9e793.json",
+  "reviews_name": "Richeese Factory, Pekayon",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.97
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "fb7c3452-2cba-464a-9e24-23840a40a179",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.7,
+      "total": 32095
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 2029,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 1477,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 1469,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "4fd0c428-4d82-4d28-9605-ca69b3e9e793",
+    "username_reviews": "ihya",
+    "initialName": "I",
+    "image_reviews": null,
+    "created_time": "2022-04-18T17:47:41.411532+07:00",
+    "created_time_epoch": 1650304061,
+    "reviews_rating": 1,
+    "orders": {
+      "orderedAt": "2022-04-18T09:32:05.810684Z",
+      "items": [
+        {
+          "id": "0fcb24eb-6e06-4ca8-abd6-1713cfc41096",
+          "name": "Combo Mabar FFC COB"
+        },
+        {
+          "id": "e3d6fbbf-cd93-4fee-a994-b979160a7316",
+          "name": "Paket New Hemat FFC Personal"
+        }
+      ]
+    },
+    "tags_review": [
+      "gofood.co.id"
+    ],
+    "content_reviews": "porsinya kurang.ayamnya cuman 5.gmn ini cara komplainnya",
+    "date_of_experience": ""
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/sari-rasa-pekayon-ruko-bukit-safira-1457b34a-58b8-4ac5-b2b1-f64b5c9c967f",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Sate",
+    "Ayam & bebek",
+    "Aneka nasi",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:19:47.200172",
+  "crawling_time_epoch": 1705155587,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Sari_Rasa_Pekayon_Ruko_Bukit_Safira/json/02b5668b-d8ac-4a00-9a52-f2abfedf81a4.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Sari_Rasa_Pekayon_Ruko_Bukit_Safira/json/02b5668b-d8ac-4a00-9a52-f2abfedf81a4.json",
+  "reviews_name": "Sari Rasa Pekayon, Ruko Bukit Safira",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.6
+  },
+  "range_prices": "16k-40k",
+  "restaurant_id": "1457b34a-58b8-4ac5-b2b1-f64b5c9c967f",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.8,
+      "total": 1979
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 216,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 169,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 164,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "02b5668b-d8ac-4a00-9a52-f2abfedf81a4",
+    "username_reviews": "A*",
+    "initialName": "A",
+    "image_reviews": null,
+    "created_time": "2021-01-10T13:09:18.103+07:00",
+    "created_time_epoch": 1610284158,
+    "reviews_rating": 5,
+    "orders": {
+      "orderedAt": "2021-01-10T04:06:37.094267Z",
+      "items": [
+        {
+          "id": "c065bcb5-2f15-4dd3-af4a-d96b2ce58ad4",
+          "name": "Sambel Merah Dadakan"
+        },
+        {
+          "id": "c8b4df5e-e0e4-4228-bc65-22b662824ba8",
+          "name": "Tempe Goreng"
+        },
+        {
+          "id": "bb4cc5c9-1987-4b80-81d1-f954f7d3dae7",
+          "name": "Pepes Teri"
+        },
+        {
+          "id": "ea23e929-a482-4302-bb6e-ba696528835c",
+          "name": "Pepes Tahu"
+        },
+        {
+          "id": "37b44ffd-9df6-41a9-8dd4-9b4d7101a0b4",
+          "name": "Jambal Goreng"
+        },
+        {
+          "id": "fe767c39-01ce-4f28-b304-dd13fb509d2f",
+          "name": "Lele Penyet"
+        },
+        {
+          "id": "547a8e3c-5403-4fc6-9ab2-6e200848f23f",
+          "name": "Lalapan"
+        }
+      ]
+    },
+    "tags_review": [
+      "CANNED_RESPONSE_FRESHNESS",
+      "gofood.co.id"
+    ],
+    "content_reviews": "lumayan enak juga rasanya. mungkin apabila porsinya di tambah dikit. lebih ma'nyos",
+    "date_of_experience": ""
+  }
+}

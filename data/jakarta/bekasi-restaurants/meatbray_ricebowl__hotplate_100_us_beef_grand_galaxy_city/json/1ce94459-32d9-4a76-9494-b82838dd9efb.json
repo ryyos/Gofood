@@ -1,0 +1,68 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/meatbray-ricebowl-hotplate-100-us-beef-grand-galaxy-city-eecfae26-b0cc-4063-b0ef-c260539281f7",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Aneka nasi",
+    "Cepat saji",
+    "Jepang",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:20:09.646388",
+  "crawling_time_epoch": 1705155609,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Meatbray_Ricebowl__Hotplate_100_US_Beef_Grand_Galaxy_City/json/1ce94459-32d9-4a76-9494-b82838dd9efb.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Meatbray_Ricebowl__Hotplate_100_US_Beef_Grand_Galaxy_City/json/1ce94459-32d9-4a76-9494-b82838dd9efb.json",
+  "reviews_name": "Meatbray Ricebowl & Hotplate 100% US Beef, Grand Galaxy City",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.77
+  },
+  "range_prices": "16k-40k",
+  "restaurant_id": "eecfae26-b0cc-4063-b0ef-c260539281f7",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.7,
+      "total": 526
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 67,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 51,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 45,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "1ce94459-32d9-4a76-9494-b82838dd9efb",
+    "username_reviews": "M*** N****",
+    "initialName": "MN",
+    "image_reviews": null,
+    "created_time": "2020-03-12T09:08:27.039+07:00",
+    "created_time_epoch": 1584004107,
+    "reviews_rating": 4,
+    "orders": {
+      "orderedAt": "2020-03-11T12:12:35.665141Z",
+      "items": [
+        {
+          "id": "cb71b466-ed32-4bb4-98a5-4a7b0d953b52",
+          "name": "Ricebowl Original Regular"
+        }
+      ]
+    },
+    "tags_review": [
+      "CANNED_RESPONSE_TASTE",
+      "gofood.co.id"
+    ],
+    "content_reviews": "gimana caranya biar kripik bayamnya nggak pahit?",
+    "date_of_experience": ""
+  }
+}

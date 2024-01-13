@@ -1,0 +1,69 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/bubur-ayam-kampung-nyemplung-pekayon-decd86af-75d6-466d-9d74-c66a45850297",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Aneka nasi",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:20:19.392522",
+  "crawling_time_epoch": 1705155619,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Bubur_Ayam_Kampung_Nyemplung_Pekayon/json/114b709c-5d47-4e8f-8cc1-8edd78d647c9.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Bubur_Ayam_Kampung_Nyemplung_Pekayon/json/114b709c-5d47-4e8f-8cc1-8edd78d647c9.json",
+  "reviews_name": "Bubur Ayam Kampung Nyemplung, Pekayon",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.96
+  },
+  "range_prices": "<16k",
+  "restaurant_id": "decd86af-75d6-466d-9d74-c66a45850297",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.7,
+      "total": 2066
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 191,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 138,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 137,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "114b709c-5d47-4e8f-8cc1-8edd78d647c9",
+    "username_reviews": "A**** B***",
+    "initialName": "AB",
+    "image_reviews": null,
+    "created_time": "2023-03-03T07:06:58.897532+07:00",
+    "created_time_epoch": 1677827218,
+    "reviews_rating": 4,
+    "orders": {
+      "orderedAt": "2023-01-28T23:42:13.39677Z",
+      "items": [
+        {
+          "id": "07f6fe10-56ab-4e8d-8ad2-e7f019b28bae",
+          "name": "Bubur 2 Porsi + 2 Sate Ati"
+        },
+        {
+          "id": "f469f731-6509-4ae3-ae33-03e1d888b8d4",
+          "name": "Sate Ampela"
+        }
+      ]
+    },
+    "tags_review": [
+      "gofood.co.id"
+    ],
+    "content_reviews": "kutang kenyang....",
+    "date_of_experience": ""
+  }
+}

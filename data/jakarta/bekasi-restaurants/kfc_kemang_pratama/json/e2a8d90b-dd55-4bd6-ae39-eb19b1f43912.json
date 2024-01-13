@@ -1,0 +1,69 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/kfc-kemang-pratama-ef8c2c3e-61d6-4bd4-b9fa-10cfd6358dcf",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Cepat saji",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:19:21.062803",
+  "crawling_time_epoch": 1705155561,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/KFC_Kemang_Pratama/json/e2a8d90b-dd55-4bd6-ae39-eb19b1f43912.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/KFC_Kemang_Pratama/json/e2a8d90b-dd55-4bd6-ae39-eb19b1f43912.json",
+  "reviews_name": "KFC, Kemang Pratama",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.53
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "ef8c2c3e-61d6-4bd4-b9fa-10cfd6358dcf",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.8,
+      "total": 24067
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 2021,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 1696,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 1631,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "e2a8d90b-dd55-4bd6-ae39-eb19b1f43912",
+    "username_reviews": "Minaria Tini",
+    "initialName": "MT",
+    "image_reviews": null,
+    "created_time": "2023-08-26T09:12:19.491841+07:00",
+    "created_time_epoch": 1693041139,
+    "reviews_rating": 1,
+    "orders": {
+      "orderedAt": "2023-08-25T11:43:08.496391Z",
+      "items": [
+        {
+          "id": "72249774-1b0f-4514-b893-d602c0276880",
+          "name": "Kombo Extra 1 pc Chicken"
+        },
+        {
+          "id": "1e248b82-35b7-4c45-9901-bc9ff11ebc92",
+          "name": "Cream Soup"
+        }
+      ]
+    },
+    "tags_review": [
+      "gofood.co.id"
+    ],
+    "content_reviews": "Corn soup encer bgt. Ayam tidak matang, tepung masih keliatan putihnya.",
+    "date_of_experience": ""
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/richeese-factory-pekayon-fb7c3452-2cba-464a-9e24-23840a40a179",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Cepat saji",
+    "Ayam & bebek",
+    "Aneka nasi",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:20:23.240256",
+  "crawling_time_epoch": 1705155623,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Richeese_Factory_Pekayon/json/5be47046-149b-4fed-91e6-134de41342aa.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Richeese_Factory_Pekayon/json/5be47046-149b-4fed-91e6-134de41342aa.json",
+  "reviews_name": "Richeese Factory, Pekayon",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.97
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "fb7c3452-2cba-464a-9e24-23840a40a179",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.7,
+      "total": 32095
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 2029,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 1477,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 1469,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "5be47046-149b-4fed-91e6-134de41342aa",
+    "username_reviews": "nadianova",
+    "initialName": "N",
+    "image_reviews": null,
+    "created_time": "2022-08-01T21:17:32.948618+07:00",
+    "created_time_epoch": 1659388652,
+    "reviews_rating": 1,
+    "orders": {
+      "orderedAt": "2022-08-01T12:56:47.184006Z",
+      "items": [
+        {
+          "id": "c2b9f7c2-1b89-4190-936d-e854cd594919",
+          "name": "Richicken 1 Pcs"
+        },
+        {
+          "id": "4141083f-15b3-4173-9e5d-3f4b56647c5b",
+          "name": "Fire Chicken 1 Pcs"
+        },
+        {
+          "id": "6185a1b7-6493-463a-b80b-d9b765c32889",
+          "name": "French Fries"
+        },
+        {
+          "id": "dbe4980b-17af-4781-bdfe-599f5b019afc",
+          "name": "Pink Lava"
+        },
+        {
+          "id": "1adc933f-462f-4424-8fa7-1a5da6762edc",
+          "name": "Pahe Richicken"
+        }
+      ]
+    },
+    "tags_review": [
+      "CANNED_RESPONSE_FRESHNESS",
+      "CANNED_RESPONSE_TASTE",
+      "CANNED_RESPONSE_PORTION",
+      "CANNED_RESPONSE_HYGIENE",
+      "CANNED_RESPONSE_PRICE",
+      "CANNED_RESPONSE_PACKAGING",
+      "CANNED_RESPONSE_VALUE",
+      "CANNED_RESPONSE_ORDER",
+      "gofood.co.id"
+    ],
+    "content_reviews": "sy note: harus paha atas jika tdk trsedia mohon cancle lsg smua pesanan sy dr resto , CUKUP JELAS?!! \nGk lm drivers tlp sy blg pesanan hbs dan driver suruh sy mengancel pesanan sy tp gak lm cm ada suara nada musik dan terputus . sy tlp balik donk , sy bicara dgn mbak Richeese nya . mbak jika tersedia lsg dicancel sj sudah di note . knp tlp sy lgi .. jwb nya sy kaget dobk dia teriak2 dgn nada tinggi jg dia malu blg \"ada tp nunggu dan itu lama \" sy blg itu artinya \" ada tp mnunggu \"bukan \"tdk ada dan suruh mengancel \" . BEDA JELAS ?!! \nSy blg gpp mbak sy nunggu . \noke mksih jwb mbak nya dgn nasa tinggi dan lbih ke marah ya . \nsy nunggu \ndan lamaaaa sekaliii sy nungu \nakhirnya dtg biasa dtg tuh ayam panas \nna ini dtg ayam nya sudah Dingin \nkatanya menunggu lama dan baru dimasak koq Ayamnya smpe rmh dingin ?? biasa gak dimasak dadak prti aja masih hangat .. hmm \nmenurut kalian knp ya koq bgitu bgt ??\nmgkn MBAAKKK nyaa LELAHH  ya \nTrmkasiihh bnykkk y smg semua sehat selalu ",
+    "date_of_experience": ""
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/asinan-betawi-umar-bakrie-bekasi-selatan-6256964a-a97c-4657-ab38-68cdba4e3d50",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Cepat saji",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:17:16.823868",
+  "crawling_time_epoch": 1705155436,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Asinan_Betawi_Umar_Bakrie_Bekasi_Selatan/json/558f7c74-68a5-40ed-807e-4d38695416e0.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Asinan_Betawi_Umar_Bakrie_Bekasi_Selatan/json/558f7c74-68a5-40ed-807e-4d38695416e0.json",
+  "reviews_name": "Asinan Betawi Umar Bakrie, Bekasi Selatan",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.39
+  },
+  "range_prices": "16k-40k",
+  "restaurant_id": "6256964a-a97c-4657-ab38-68cdba4e3d50",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.8,
+      "total": 1319
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 186,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 162,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 149,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "558f7c74-68a5-40ed-807e-4d38695416e0",
+    "username_reviews": "Z****",
+    "initialName": "Z",
+    "image_reviews": null,
+    "created_time": "2021-06-16T16:42:06.081702+07:00",
+    "created_time_epoch": 1623861726,
+    "reviews_rating": 5,
+    "orders": {
+      "orderedAt": "2021-06-16T07:59:50.404596Z",
+      "items": [
+        {
+          "id": "82973933-0720-46d8-9fb1-70151b6dad1b",
+          "name": "Asinan Sayur bumbu kacang penor"
+        },
+        {
+          "id": "7e3790bf-ead9-4a3b-b724-612e3b297f69",
+          "name": "pisgor tanduk P D isi 8 pcs"
+        },
+        {
+          "id": "ce0bb1d1-af6e-4c61-948e-0e215f17d284",
+          "name": "krupuk  mie bulat"
+        },
+        {
+          "id": "5ca61997-6b07-4af9-8399-2e075224ae3c",
+          "name": "Kerupuk Mie kacang Tanah"
+        }
+      ]
+    },
+    "tags_review": [
+      "CANNED_RESPONSE_FRESHNESS",
+      "CANNED_RESPONSE_TASTE",
+      "CANNED_RESPONSE_PORTION",
+      "CANNED_RESPONSE_HYGIENE",
+      "CANNED_RESPONSE_PACKAGING",
+      "CANNED_RESPONSE_VALUE",
+      "gofood.co.id"
+    ],
+    "content_reviews": "enak...  pokonya mantap ....",
+    "date_of_experience": ""
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/richeese-factory-pekayon-fb7c3452-2cba-464a-9e24-23840a40a179",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Cepat saji",
+    "Ayam & bebek",
+    "Aneka nasi",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:20:23.240256",
+  "crawling_time_epoch": 1705155623,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Richeese_Factory_Pekayon/json/948f938a-b0ed-414e-a741-3d2a28b2ca03.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Richeese_Factory_Pekayon/json/948f938a-b0ed-414e-a741-3d2a28b2ca03.json",
+  "reviews_name": "Richeese Factory, Pekayon",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.97
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "fb7c3452-2cba-464a-9e24-23840a40a179",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.7,
+      "total": 32095
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 2029,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 1477,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 1469,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "948f938a-b0ed-414e-a741-3d2a28b2ca03",
+    "username_reviews": "Farhan Sabillah Hermawan",
+    "initialName": "FH",
+    "image_reviews": null,
+    "created_time": "2023-04-12T18:50:46.212114+07:00",
+    "created_time_epoch": 1681325446,
+    "reviews_rating": 5,
+    "orders": {
+      "orderedAt": "2023-04-12T10:35:13.749637Z",
+      "items": [
+        {
+          "id": "971fc6f4-b47f-406b-8028-20a0101e1a07",
+          "name": "Combo 2 Richicken"
+        }
+      ]
+    },
+    "tags_review": [
+      "CANNED_RESPONSE_TASTE",
+      "gofood.co.id"
+    ],
+    "content_reviews": "Dulu jadi duta shampo lain, ehehehehee",
+    "date_of_experience": ""
+  }
+}

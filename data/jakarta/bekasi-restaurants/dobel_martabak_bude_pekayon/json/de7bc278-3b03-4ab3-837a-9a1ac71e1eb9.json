@@ -1,0 +1,75 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/dobel-martabak-bude-pekayon-c516bbfe-5583-4fbc-9605-9cd02cd220b0",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Martabak",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:18:42.021929",
+  "crawling_time_epoch": 1705155522,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Dobel_Martabak_Bude_Pekayon/json/de7bc278-3b03-4ab3-837a-9a1ac71e1eb9.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Dobel_Martabak_Bude_Pekayon/json/de7bc278-3b03-4ab3-837a-9a1ac71e1eb9.json",
+  "reviews_name": "Dobel Martabak Bude, Pekayon",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.46
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "c516bbfe-5583-4fbc-9605-9cd02cd220b0",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.6,
+      "total": 2907
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 366,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 264,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 253,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "de7bc278-3b03-4ab3-837a-9a1ac71e1eb9",
+    "username_reviews": "Yanty Hernawati",
+    "initialName": "YH",
+    "image_reviews": null,
+    "created_time": "2022-12-31T18:16:01.567874+07:00",
+    "created_time_epoch": 1672510561,
+    "reviews_rating": 5,
+    "orders": {
+      "orderedAt": "2022-12-31T10:38:02.840999Z",
+      "items": [
+        {
+          "id": "9593588e-5fa6-45b3-b55c-abf4ba38c485",
+          "name": "Martabak Telor Bebek Special"
+        },
+        {
+          "id": "7cfd609a-b430-4d7c-b1f9-4076bcc87a12",
+          "name": "Ketan + Susu (Dobel)"
+        }
+      ]
+    },
+    "tags_review": [
+      "CANNED_RESPONSE_FRESHNESS",
+      "CANNED_RESPONSE_TASTE",
+      "CANNED_RESPONSE_PORTION",
+      "CANNED_RESPONSE_HYGIENE",
+      "CANNED_RESPONSE_PACKAGING",
+      "CANNED_RESPONSE_VALUE",
+      "gofood.co.id"
+    ],
+    "content_reviews": "dah langgann .mrtbk ny enk bgt",
+    "date_of_experience": ""
+  }
+}

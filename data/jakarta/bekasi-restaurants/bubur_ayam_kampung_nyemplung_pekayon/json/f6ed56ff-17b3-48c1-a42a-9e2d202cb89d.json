@@ -1,0 +1,70 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/bubur-ayam-kampung-nyemplung-pekayon-decd86af-75d6-466d-9d74-c66a45850297",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Aneka nasi",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:20:19.392522",
+  "crawling_time_epoch": 1705155619,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Bubur_Ayam_Kampung_Nyemplung_Pekayon/json/f6ed56ff-17b3-48c1-a42a-9e2d202cb89d.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Bubur_Ayam_Kampung_Nyemplung_Pekayon/json/f6ed56ff-17b3-48c1-a42a-9e2d202cb89d.json",
+  "reviews_name": "Bubur Ayam Kampung Nyemplung, Pekayon",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.96
+  },
+  "range_prices": "<16k",
+  "restaurant_id": "decd86af-75d6-466d-9d74-c66a45850297",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.7,
+      "total": 2066
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 191,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 138,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 137,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "f6ed56ff-17b3-48c1-a42a-9e2d202cb89d",
+    "username_reviews": "Aris",
+    "initialName": "A",
+    "image_reviews": null,
+    "created_time": "2024-01-12T11:28:32.371187+07:00",
+    "created_time_epoch": 1705058912,
+    "reviews_rating": 3,
+    "orders": {
+      "orderedAt": "2024-01-12T03:49:08.395812Z",
+      "items": [
+        {
+          "id": "acd27756-2354-4749-bb23-b894457444fd",
+          "name": "Bubur Ayam Kampung + Telor"
+        },
+        {
+          "id": "11b30d80-ed78-4efe-9277-7e588b308d26",
+          "name": "Soto Ayam Nyemplung"
+        }
+      ]
+    },
+    "tags_review": [
+      "CANNED_RESPONSE_TASTE",
+      "gofood.co.id"
+    ],
+    "content_reviews": "Rasanya enak sih, tapi pesan pakai telur yg datang tanpa telur .. aku baca diulasan sering terjadi hal spt ini .. semoga ini hanya karena ketidaksengajaan ..",
+    "date_of_experience": ""
+  }
+}

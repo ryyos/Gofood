@@ -1,0 +1,72 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/mcdonald-s-pekayon-50150204-8f6d-4372-8458-668f1be126e8",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Cepat saji",
+    "Sweets",
+    "Jajanan",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:17:21.424093",
+  "crawling_time_epoch": 1705155441,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/McDonalds_Pekayon/json/ee2bf648-3640-4e90-a27e-bec9b8479fe8.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/McDonalds_Pekayon/json/ee2bf648-3640-4e90-a27e-bec9b8479fe8.json",
+  "reviews_name": "McDonald's, Pekayon",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.46
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "50150204-8f6d-4372-8458-668f1be126e8",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.8,
+      "total": 70397
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 4555,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 3695,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 3669,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "ee2bf648-3640-4e90-a27e-bec9b8479fe8",
+    "username_reviews": "Arjuna",
+    "initialName": "A",
+    "image_reviews": null,
+    "created_time": "2022-04-26T15:42:20.027373+07:00",
+    "created_time_epoch": 1650987740,
+    "reviews_rating": 2,
+    "orders": {
+      "orderedAt": "2022-04-25T16:43:47.887106Z",
+      "items": [
+        {
+          "id": "2820354d-b9e6-4c42-991f-3df89ceec44e",
+          "name": "Chicken Burger"
+        },
+        {
+          "id": "e642ebfa-5a96-4886-aa3e-b44e84a09702",
+          "name": "Share Box with Spicy Seaweed Cruncy Bubbles + Mentai Sauce"
+        }
+      ]
+    },
+    "tags_review": [
+      "CANNED_RESPONSE_ORDER",
+      "gofood.co.id"
+    ],
+    "content_reviews": "Ga sesuai, mesen extra udh bayar lebih malah ga dikasih extra patty nya.",
+    "date_of_experience": ""
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/richeese-factory-pekayon-fb7c3452-2cba-464a-9e24-23840a40a179",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Cepat saji",
+    "Ayam & bebek",
+    "Aneka nasi",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:20:23.240256",
+  "crawling_time_epoch": 1705155623,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Richeese_Factory_Pekayon/json/129fd1ce-5b7d-4266-b7ef-357c6335cbd9.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Richeese_Factory_Pekayon/json/129fd1ce-5b7d-4266-b7ef-357c6335cbd9.json",
+  "reviews_name": "Richeese Factory, Pekayon",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.97
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "fb7c3452-2cba-464a-9e24-23840a40a179",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.7,
+      "total": 32095
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 2029,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 1477,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 1469,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "129fd1ce-5b7d-4266-b7ef-357c6335cbd9",
+    "username_reviews": "E** H****",
+    "initialName": "EH",
+    "image_reviews": null,
+    "created_time": "2021-04-28T22:50:13.439534+07:00",
+    "created_time_epoch": 1619650213,
+    "reviews_rating": 5,
+    "orders": {
+      "orderedAt": "2021-04-28T14:01:39.610999Z",
+      "items": [
+        {
+          "id": "4141083f-15b3-4173-9e5d-3f4b56647c5b",
+          "name": "Fire Chicken 1 Pcs"
+        },
+        {
+          "id": "c520ca7c-edf7-4085-91b6-5f4a7b0bbf15",
+          "name": "Richeese Fire Wings 6 Pcs"
+        }
+      ]
+    },
+    "tags_review": [
+      "gofood.co.id"
+    ],
+    "content_reviews": "tumben saya psen yg lv 5 ga bgtu pedas, apa cuma perasaan sya aja ya wkwk. tapi ttap enak ko",
+    "date_of_experience": ""
+  }
+}

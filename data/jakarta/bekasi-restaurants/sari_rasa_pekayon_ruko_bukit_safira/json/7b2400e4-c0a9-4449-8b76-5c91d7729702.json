@@ -1,0 +1,77 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/sari-rasa-pekayon-ruko-bukit-safira-1457b34a-58b8-4ac5-b2b1-f64b5c9c967f",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Sate",
+    "Ayam & bebek",
+    "Aneka nasi",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:19:47.200172",
+  "crawling_time_epoch": 1705155587,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Sari_Rasa_Pekayon_Ruko_Bukit_Safira/json/7b2400e4-c0a9-4449-8b76-5c91d7729702.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Sari_Rasa_Pekayon_Ruko_Bukit_Safira/json/7b2400e4-c0a9-4449-8b76-5c91d7729702.json",
+  "reviews_name": "Sari Rasa Pekayon, Ruko Bukit Safira",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.6
+  },
+  "range_prices": "16k-40k",
+  "restaurant_id": "1457b34a-58b8-4ac5-b2b1-f64b5c9c967f",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.8,
+      "total": 1979
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 216,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 169,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 164,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "7b2400e4-c0a9-4449-8b76-5c91d7729702",
+    "username_reviews": "yuli hastuti",
+    "initialName": "YH",
+    "image_reviews": null,
+    "created_time": "2021-12-22T13:33:01.006275+07:00",
+    "created_time_epoch": 1640179981,
+    "reviews_rating": 5,
+    "orders": {
+      "orderedAt": "2021-12-18T08:07:52.084935Z",
+      "items": [
+        {
+          "id": "2c72f776-0eb1-4bdc-ba9d-a66b9841adc8",
+          "name": "Sate Maranggi Sapi (10 Tusuk)"
+        },
+        {
+          "id": "e94365fc-e4d4-41e5-9490-02948d5fdf06",
+          "name": "Bandeng Presto Sarkem"
+        }
+      ]
+    },
+    "tags_review": [
+      "CANNED_RESPONSE_FRESHNESS",
+      "CANNED_RESPONSE_TASTE",
+      "CANNED_RESPONSE_PORTION",
+      "CANNED_RESPONSE_HYGIENE",
+      "CANNED_RESPONSE_PACKAGING",
+      "CANNED_RESPONSE_VALUE",
+      "gofood.co.id"
+    ],
+    "content_reviews": "rrruarrr biazaaa..yummy n suk bgt bgt bgt..",
+    "date_of_experience": ""
+  }
+}

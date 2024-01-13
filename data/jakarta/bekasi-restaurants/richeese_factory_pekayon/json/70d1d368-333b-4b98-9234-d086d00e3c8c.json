@@ -1,0 +1,85 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/richeese-factory-pekayon-fb7c3452-2cba-464a-9e24-23840a40a179",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Cepat saji",
+    "Ayam & bebek",
+    "Aneka nasi",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:20:23.240256",
+  "crawling_time_epoch": 1705155623,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Richeese_Factory_Pekayon/json/70d1d368-333b-4b98-9234-d086d00e3c8c.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Richeese_Factory_Pekayon/json/70d1d368-333b-4b98-9234-d086d00e3c8c.json",
+  "reviews_name": "Richeese Factory, Pekayon",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.97
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "fb7c3452-2cba-464a-9e24-23840a40a179",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.7,
+      "total": 32095
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 2029,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 1477,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 1469,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "70d1d368-333b-4b98-9234-d086d00e3c8c",
+    "username_reviews": "L** R*********",
+    "initialName": "LR",
+    "image_reviews": null,
+    "created_time": "2021-08-05T12:52:33.840283+07:00",
+    "created_time_epoch": 1628167953,
+    "reviews_rating": 5,
+    "orders": {
+      "orderedAt": "2021-07-15T04:32:39.794882Z",
+      "items": [
+        {
+          "id": "4b217d8a-7cb2-47e9-9cde-a672d4f65cc6",
+          "name": "Fire Chicken Bite 3 Pcs"
+        },
+        {
+          "id": "c520ca7c-edf7-4085-91b6-5f4a7b0bbf15",
+          "name": "Richeese Fire Wings 6 Pcs"
+        },
+        {
+          "id": "6add1fc2-0730-43f8-be06-be6df90118f8",
+          "name": "Combo 1 Fire Chicken"
+        },
+        {
+          "id": "dbe4980b-17af-4781-bdfe-599f5b019afc",
+          "name": "Pink Lava (Medium)"
+        }
+      ]
+    },
+    "tags_review": [
+      "CANNED_RESPONSE_FRESHNESS",
+      "CANNED_RESPONSE_TASTE",
+      "CANNED_RESPONSE_PORTION",
+      "CANNED_RESPONSE_HYGIENE",
+      "CANNED_RESPONSE_PACKAGING",
+      "CANNED_RESPONSE_VALUE",
+      "gofood.co.id"
+    ],
+    "content_reviews": "makasih sudah membuat makanan lezat",
+    "date_of_experience": ""
+  }
+}

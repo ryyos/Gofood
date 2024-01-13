@@ -1,0 +1,78 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/sate-madura-cak-ari-bekasi-selatan-65c0efa7-65ff-4868-95e5-a4ec690c6c14",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Sate",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:19:50.904999",
+  "crawling_time_epoch": 1705155590,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Sate_Madura_Cak_Ari_Bekasi_Selatan/json/cff2ef06-287d-4760-997d-161ca771a2a1.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Sate_Madura_Cak_Ari_Bekasi_Selatan/json/cff2ef06-287d-4760-997d-161ca771a2a1.json",
+  "reviews_name": "Sate Madura Cak Ari, Bekasi Selatan",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.69
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "65c0efa7-65ff-4868-95e5-a4ec690c6c14",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.7,
+      "total": 6478
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 827,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 589,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 535,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "cff2ef06-287d-4760-997d-161ca771a2a1",
+    "username_reviews": "P*** A*****",
+    "initialName": "PA",
+    "image_reviews": null,
+    "created_time": "2023-02-20T19:27:49.310638+07:00",
+    "created_time_epoch": 1676921269,
+    "reviews_rating": 3,
+    "orders": {
+      "orderedAt": "2023-02-20T11:45:12.45026Z",
+      "items": [
+        {
+          "id": "f2aea19b-05e9-4774-9a04-b798e3879604",
+          "name": "Sate Ayam"
+        },
+        {
+          "id": "6d91bf19-4b0b-4a41-a89c-61fe4914d258",
+          "name": "Sate Kambing 15 Tusuk"
+        },
+        {
+          "id": "d75caa08-3692-4d43-bda5-dfb94a3a92d0",
+          "name": "Sop"
+        },
+        {
+          "id": "4dea2afc-9afa-4c36-a3f8-da81e48e3de9",
+          "name": "Lontong"
+        }
+      ]
+    },
+    "tags_review": [
+      "CANNED_RESPONSE_ORDER",
+      "gofood.co.id"
+    ],
+    "content_reviews": "Pesen lontong tapi lontong nya tdk ada,, padahal di nota nya ada. Tolong lebih TELITI lagi ya agar tdk merugikan konsumen. Bukan perkara hrga lontong yg tdk sberapa.. tapi profesional kerja.",
+    "date_of_experience": ""
+  }
+}

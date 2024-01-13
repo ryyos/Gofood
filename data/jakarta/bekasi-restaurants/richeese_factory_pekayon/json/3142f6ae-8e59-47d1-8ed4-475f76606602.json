@@ -1,0 +1,67 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/richeese-factory-pekayon-fb7c3452-2cba-464a-9e24-23840a40a179",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Cepat saji",
+    "Ayam & bebek",
+    "Aneka nasi",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:20:23.240256",
+  "crawling_time_epoch": 1705155623,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Richeese_Factory_Pekayon/json/3142f6ae-8e59-47d1-8ed4-475f76606602.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Richeese_Factory_Pekayon/json/3142f6ae-8e59-47d1-8ed4-475f76606602.json",
+  "reviews_name": "Richeese Factory, Pekayon",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.97
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "fb7c3452-2cba-464a-9e24-23840a40a179",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.7,
+      "total": 32095
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 2029,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 1477,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 1469,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "3142f6ae-8e59-47d1-8ed4-475f76606602",
+    "username_reviews": "annisa nayla",
+    "initialName": "AN",
+    "image_reviews": null,
+    "created_time": "2022-06-16T15:47:23.308196+07:00",
+    "created_time_epoch": 1655394443,
+    "reviews_rating": 1,
+    "orders": {
+      "orderedAt": "2022-06-16T08:31:24.125361Z",
+      "items": [
+        {
+          "id": "ba157368-12a8-4bfc-b3be-cde4dd236ce4",
+          "name": "Special Price Combo 1 Fire Chicken 10K"
+        }
+      ]
+    },
+    "tags_review": [
+      "gofood.co.id"
+    ],
+    "content_reviews": "tidak sesuai pesanan",
+    "date_of_experience": ""
+  }
+}

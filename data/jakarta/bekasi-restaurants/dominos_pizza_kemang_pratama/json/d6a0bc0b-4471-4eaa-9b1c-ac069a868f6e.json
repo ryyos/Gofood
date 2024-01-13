@@ -1,0 +1,71 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/domino-s-pizza-kemang-pratama-00fb7fae-fbe1-4b63-ad17-dc7094c64f9c",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Pizza & pasta",
+    "Cepat saji",
+    "Jajanan",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:18:48.067806",
+  "crawling_time_epoch": 1705155528,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Dominos_Pizza_Kemang_Pratama/json/d6a0bc0b-4471-4eaa-9b1c-ac069a868f6e.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Dominos_Pizza_Kemang_Pratama/json/d6a0bc0b-4471-4eaa-9b1c-ac069a868f6e.json",
+  "reviews_name": "Domino's Pizza, Kemang Pratama",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.47
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "00fb7fae-fbe1-4b63-ad17-dc7094c64f9c",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.7,
+      "total": 11582
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 1426,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 1210,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 1158,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "d6a0bc0b-4471-4eaa-9b1c-ac069a868f6e",
+    "username_reviews": "wahyudin",
+    "initialName": "W",
+    "image_reviews": null,
+    "created_time": "2022-10-22T14:14:33.489554+07:00",
+    "created_time_epoch": 1666448073,
+    "reviews_rating": 5,
+    "orders": {
+      "orderedAt": "2022-10-22T06:36:28.303227Z",
+      "items": [
+        {
+          "id": "219c952b-5152-415c-bee1-a1c47c116202",
+          "name": "Chicken Sausage"
+        },
+        {
+          "id": "39be8406-4dbd-43a1-acbd-e24225f30dd3",
+          "name": "Beef Rasher"
+        }
+      ]
+    },
+    "tags_review": [
+      "gofood.co.id"
+    ],
+    "content_reviews": "padahal sudah ada catatan tidak pakai saos. tapi masih dikasih ",
+    "date_of_experience": ""
+  }
+}

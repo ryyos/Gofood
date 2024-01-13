@@ -1,0 +1,73 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/sari-rasa-pekayon-ruko-bukit-safira-1457b34a-58b8-4ac5-b2b1-f64b5c9c967f",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Sate",
+    "Ayam & bebek",
+    "Aneka nasi",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:19:47.200172",
+  "crawling_time_epoch": 1705155587,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Sari_Rasa_Pekayon_Ruko_Bukit_Safira/json/519a2b43-3fb7-46c2-82fe-a153e7d6e32d.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Sari_Rasa_Pekayon_Ruko_Bukit_Safira/json/519a2b43-3fb7-46c2-82fe-a153e7d6e32d.json",
+  "reviews_name": "Sari Rasa Pekayon, Ruko Bukit Safira",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.6
+  },
+  "range_prices": "16k-40k",
+  "restaurant_id": "1457b34a-58b8-4ac5-b2b1-f64b5c9c967f",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.8,
+      "total": 1979
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 216,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 169,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 164,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "519a2b43-3fb7-46c2-82fe-a153e7d6e32d",
+    "username_reviews": "rian arman",
+    "initialName": "RA",
+    "image_reviews": null,
+    "created_time": "2022-10-22T12:40:49.683396+07:00",
+    "created_time_epoch": 1666442449,
+    "reviews_rating": 3,
+    "orders": {
+      "orderedAt": "2022-10-22T05:18:54.469108Z",
+      "items": [
+        {
+          "id": "9331389b-9c82-4dd1-982c-7b59d8e5249b",
+          "name": "Nasgor Teri"
+        },
+        {
+          "id": "b86d437d-a2c0-46a2-9145-3bc59aa6c8b2",
+          "name": "Es Teh Manis"
+        }
+      ]
+    },
+    "tags_review": [
+      "CANNED_RESPONSE_ORDER",
+      "CANNED_RESPONSE_CUTLERY_UNWANTED",
+      "gofood.co.id"
+    ],
+    "content_reviews": "Lupa dikasih sedotan sama sendok makan pdhl udh bilang di chat,smile",
+    "date_of_experience": ""
+  }
+}

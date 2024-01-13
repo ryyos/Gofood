@@ -1,0 +1,74 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/a-w-linc-square-d4fe7a94-86cd-4883-b279-07bdd7002ad9",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Cepat saji",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:20:11.107220",
+  "crawling_time_epoch": 1705155611,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/AW_Linc_Square/json/6533d51c-d404-49e9-9519-c0b89cb74c0b.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/AW_Linc_Square/json/6533d51c-d404-49e9-9519-c0b89cb74c0b.json",
+  "reviews_name": "A&W, Linc Square",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.94
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "d4fe7a94-86cd-4883-b279-07bdd7002ad9",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.8,
+      "total": 7181
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 499,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 403,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 365,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "6533d51c-d404-49e9-9519-c0b89cb74c0b",
+    "username_reviews": "Olive Wulan",
+    "initialName": "OW",
+    "image_reviews": null,
+    "created_time": "2023-05-10T19:19:44.755395+07:00",
+    "created_time_epoch": 1683746384,
+    "reviews_rating": 4,
+    "orders": {
+      "orderedAt": "2023-05-04T09:52:41.675088Z",
+      "items": [
+        {
+          "id": "0b2e4ae4-2c54-4fca-8f77-407793b50c6d",
+          "name": "Golden Aroma Chicken"
+        },
+        {
+          "id": "476aa598-75ba-4587-99fa-a7f2435101ad",
+          "name": "Chicken Strips (3pcs)"
+        },
+        {
+          "id": "c6e46882-2d6a-4e37-a4e3-2142999a2c62",
+          "name": "Waffle Regular - Butter"
+        }
+      ]
+    },
+    "tags_review": [
+      "CANNED_RESPONSE_TASTE",
+      "gofood.co.id"
+    ],
+    "content_reviews": " Suka ayamnya…….",
+    "date_of_experience": ""
+  }
+}

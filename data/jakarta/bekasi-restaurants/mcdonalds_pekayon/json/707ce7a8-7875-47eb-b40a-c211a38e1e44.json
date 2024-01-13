@@ -1,0 +1,76 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/mcdonald-s-pekayon-50150204-8f6d-4372-8458-668f1be126e8",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Cepat saji",
+    "Sweets",
+    "Jajanan",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:17:21.424093",
+  "crawling_time_epoch": 1705155441,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/McDonalds_Pekayon/json/707ce7a8-7875-47eb-b40a-c211a38e1e44.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/McDonalds_Pekayon/json/707ce7a8-7875-47eb-b40a-c211a38e1e44.json",
+  "reviews_name": "McDonald's, Pekayon",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.46
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "50150204-8f6d-4372-8458-668f1be126e8",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.8,
+      "total": 70397
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 4555,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 3695,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 3669,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "707ce7a8-7875-47eb-b40a-c211a38e1e44",
+    "username_reviews": "S*****",
+    "initialName": "S",
+    "image_reviews": null,
+    "created_time": "2020-09-04T00:27:45.927+07:00",
+    "created_time_epoch": 1599179265,
+    "reviews_rating": 2,
+    "orders": {
+      "orderedAt": "2020-09-03T15:50:36.236396Z",
+      "items": [
+        {
+          "id": "a80f75b1-14d0-4f4b-a89e-757b8ee05430",
+          "name": "PaNas 2 Krispy with Fries, Large"
+        },
+        {
+          "id": "c5e59f89-373d-4bc0-b3f0-e1cc7c95ac7b",
+          "name": "Large Coca Cola"
+        },
+        {
+          "id": "f255ed63-b63c-4fa2-8341-7a898839ea2b",
+          "name": "1pc Spicy Chicken"
+        }
+      ]
+    },
+    "tags_review": [
+      "",
+      "gofood.co.id"
+    ],
+    "content_reviews": "Pesenan gak sesuai permintaan di notes. Service nya bintang 2 bukan makanannya.",
+    "date_of_experience": ""
+  }
+}

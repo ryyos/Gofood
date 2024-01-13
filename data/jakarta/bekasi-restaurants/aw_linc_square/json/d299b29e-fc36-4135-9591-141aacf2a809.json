@@ -1,0 +1,71 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/a-w-linc-square-d4fe7a94-86cd-4883-b279-07bdd7002ad9",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Cepat saji",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:20:11.107220",
+  "crawling_time_epoch": 1705155611,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/AW_Linc_Square/json/d299b29e-fc36-4135-9591-141aacf2a809.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/AW_Linc_Square/json/d299b29e-fc36-4135-9591-141aacf2a809.json",
+  "reviews_name": "A&W, Linc Square",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.94
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "d4fe7a94-86cd-4883-b279-07bdd7002ad9",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.8,
+      "total": 7181
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 499,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 403,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 365,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "d299b29e-fc36-4135-9591-141aacf2a809",
+    "username_reviews": "syifa",
+    "initialName": "S",
+    "image_reviews": null,
+    "created_time": "2022-05-04T14:22:14.868363+07:00",
+    "created_time_epoch": 1651674134,
+    "reviews_rating": 1,
+    "orders": {
+      "orderedAt": "2022-04-06T12:29:01.41677Z",
+      "items": [
+        {
+          "id": "7ce4cc3e-80fd-4578-ac12-1e7524f320da",
+          "name": "Chicken Soup"
+        },
+        {
+          "id": "2e311df3-6f97-4c3a-92df-e4081f9491c9",
+          "name": "SUPER - 5 Aroma Chicken, Mozza Burger, Rice & RB"
+        }
+      ]
+    },
+    "tags_review": [
+      "CANNED_RESPONSE_TASTE",
+      "CANNED_RESPONSE_ORDER",
+      "gofood.co.id"
+    ],
+    "content_reviews": "Tidak bisa pilih jenis potongan ayam, tapi yang sy order dapat bagian dada ayam semua. Anak sy pada ga suka. Kenapa tidak Di random saja, masa Di kasih dada ayam semua ☹️☹️☹️",
+    "date_of_experience": ""
+  }
+}

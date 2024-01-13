@@ -1,0 +1,79 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/mcdonald-s-pekayon-50150204-8f6d-4372-8458-668f1be126e8",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Cepat saji",
+    "Sweets",
+    "Jajanan",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:17:21.424093",
+  "crawling_time_epoch": 1705155441,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/McDonalds_Pekayon/json/9b0eeb03-3447-4e3e-b677-23a19eced353.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/McDonalds_Pekayon/json/9b0eeb03-3447-4e3e-b677-23a19eced353.json",
+  "reviews_name": "McDonald's, Pekayon",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.46
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "50150204-8f6d-4372-8458-668f1be126e8",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.8,
+      "total": 70397
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 4555,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 3695,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 3669,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "9b0eeb03-3447-4e3e-b677-23a19eced353",
+    "username_reviews": "Sumiyati",
+    "initialName": "S",
+    "image_reviews": null,
+    "created_time": "2022-02-11T13:35:27.714158+07:00",
+    "created_time_epoch": 1644586527,
+    "reviews_rating": 1,
+    "orders": {
+      "orderedAt": "2022-02-11T06:01:32.993666Z",
+      "items": [
+        {
+          "id": "337aae60-a72d-4aea-9184-f3e746683eff",
+          "name": "McFlurry Choco"
+        },
+        {
+          "id": "7503e7a3-dc2c-4eea-81d6-302a04736423",
+          "name": "Choco Sundae"
+        },
+        {
+          "id": "4ebbb602-75f8-4c7a-bdce-d88b1396a522",
+          "name": "Strawberry Sundae"
+        },
+        {
+          "id": "1d8bf63b-cc9e-49d1-babf-6be224aff38f",
+          "name": "Fish Fillet Burger"
+        }
+      ]
+    },
+    "tags_review": [
+      "gofood.co.id"
+    ],
+    "content_reviews": "SAYA PESEN MCFURRY CHOCO\nDATENG NYA MCFLURRY OREOOO",
+    "date_of_experience": ""
+  }
+}

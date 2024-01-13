@@ -1,0 +1,70 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/a-w-linc-square-d4fe7a94-86cd-4883-b279-07bdd7002ad9",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Cepat saji",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:20:11.107220",
+  "crawling_time_epoch": 1705155611,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/AW_Linc_Square/json/551014f8-1f4d-4a78-9849-7686a93cb7c1.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/AW_Linc_Square/json/551014f8-1f4d-4a78-9849-7686a93cb7c1.json",
+  "reviews_name": "A&W, Linc Square",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.94
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "d4fe7a94-86cd-4883-b279-07bdd7002ad9",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.8,
+      "total": 7181
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 499,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 403,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 365,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "551014f8-1f4d-4a78-9849-7686a93cb7c1",
+    "username_reviews": "M*****",
+    "initialName": "M",
+    "image_reviews": null,
+    "created_time": "2022-08-26T13:14:58.456321+07:00",
+    "created_time_epoch": 1661519698,
+    "reviews_rating": 5,
+    "orders": {
+      "orderedAt": "2022-08-26T05:32:44.482186Z",
+      "items": [
+        {
+          "id": "ab1b186f-82ea-4b32-8365-30d594dd3ae8",
+          "name": "AWESOME - 6 Aroma Chicken & FREE! Mozza Burger"
+        }
+      ]
+    },
+    "tags_review": [
+      "CANNED_RESPONSE_FRESHNESS",
+      "CANNED_RESPONSE_TASTE",
+      "CANNED_RESPONSE_PORTION",
+      "CANNED_RESPONSE_HYGIENE",
+      "CANNED_RESPONSE_PACKAGING",
+      "gofood.co.id"
+    ],
+    "content_reviews": "Terimakasih dilanjutkan pelayanannya lebih baik",
+    "date_of_experience": ""
+  }
+}

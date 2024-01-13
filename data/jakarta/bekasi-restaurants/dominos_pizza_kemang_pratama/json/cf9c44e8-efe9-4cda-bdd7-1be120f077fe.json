@@ -1,0 +1,68 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/domino-s-pizza-kemang-pratama-00fb7fae-fbe1-4b63-ad17-dc7094c64f9c",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Pizza & pasta",
+    "Cepat saji",
+    "Jajanan",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:18:48.067806",
+  "crawling_time_epoch": 1705155528,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Dominos_Pizza_Kemang_Pratama/json/cf9c44e8-efe9-4cda-bdd7-1be120f077fe.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Dominos_Pizza_Kemang_Pratama/json/cf9c44e8-efe9-4cda-bdd7-1be120f077fe.json",
+  "reviews_name": "Domino's Pizza, Kemang Pratama",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.47
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "00fb7fae-fbe1-4b63-ad17-dc7094c64f9c",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.7,
+      "total": 11582
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 1426,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 1210,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 1158,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "cf9c44e8-efe9-4cda-bdd7-1be120f077fe",
+    "username_reviews": "D*** A**",
+    "initialName": "DA",
+    "image_reviews": null,
+    "created_time": "2020-05-26T17:50:55.739+07:00",
+    "created_time_epoch": 1590515455,
+    "reviews_rating": 4,
+    "orders": {
+      "orderedAt": "2020-05-24T11:22:55.787531Z",
+      "items": [
+        {
+          "id": "a9b48bbf-9ad6-4c0f-a732-d7be4ea05c40",
+          "name": "Ramadhan Deals Pizza Mania"
+        }
+      ]
+    },
+    "tags_review": [
+      "",
+      "gofood.co.id"
+    ],
+    "content_reviews": "Sering banget tidak dikasih saus.. lain kali yangan lupa ya kak",
+    "date_of_experience": ""
+  }
+}

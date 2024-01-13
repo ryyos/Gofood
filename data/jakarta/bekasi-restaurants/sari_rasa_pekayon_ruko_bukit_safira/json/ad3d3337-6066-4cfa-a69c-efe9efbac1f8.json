@@ -1,0 +1,73 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/sari-rasa-pekayon-ruko-bukit-safira-1457b34a-58b8-4ac5-b2b1-f64b5c9c967f",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Sate",
+    "Ayam & bebek",
+    "Aneka nasi",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:19:47.200172",
+  "crawling_time_epoch": 1705155587,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Sari_Rasa_Pekayon_Ruko_Bukit_Safira/json/ad3d3337-6066-4cfa-a69c-efe9efbac1f8.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Sari_Rasa_Pekayon_Ruko_Bukit_Safira/json/ad3d3337-6066-4cfa-a69c-efe9efbac1f8.json",
+  "reviews_name": "Sari Rasa Pekayon, Ruko Bukit Safira",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.6
+  },
+  "range_prices": "16k-40k",
+  "restaurant_id": "1457b34a-58b8-4ac5-b2b1-f64b5c9c967f",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.8,
+      "total": 1979
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 216,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 169,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 164,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "ad3d3337-6066-4cfa-a69c-efe9efbac1f8",
+    "username_reviews": "E**** P******",
+    "initialName": "EP",
+    "image_reviews": null,
+    "created_time": "2023-11-10T09:10:26.581018+07:00",
+    "created_time_epoch": 1699607426,
+    "reviews_rating": 4,
+    "orders": {
+      "orderedAt": "2023-11-09T04:35:17.507071Z",
+      "items": [
+        {
+          "id": "854766fb-c2a5-4877-9b53-078ca706f91c",
+          "name": "Pepes Ikan Patin"
+        },
+        {
+          "id": "566af4a5-5db9-41b9-828b-f438b70dccf5",
+          "name": "Bawal Bakar"
+        }
+      ]
+    },
+    "tags_review": [
+      "CANNED_RESPONSE_PORTION",
+      "CANNED_RESPONSE_PRICE",
+      "gofood.co.id"
+    ],
+    "content_reviews": "pepesnya dpt kepala jd dagingnya dikit tapi enak sih ga pedes sesuai buat bocil, bawalnya kecil sekali, lebih kecil dr warteg tapi rasanya manis2 pas. harga mahal kirain porsi sesuai😢",
+    "date_of_experience": ""
+  }
+}

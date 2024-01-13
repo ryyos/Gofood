@@ -1,0 +1,76 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/sari-rasa-pekayon-ruko-bukit-safira-1457b34a-58b8-4ac5-b2b1-f64b5c9c967f",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Sate",
+    "Ayam & bebek",
+    "Aneka nasi",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:19:47.200172",
+  "crawling_time_epoch": 1705155587,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Sari_Rasa_Pekayon_Ruko_Bukit_Safira/json/c6ae85f1-c152-4f15-b3ba-f4bfef92df6e.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Sari_Rasa_Pekayon_Ruko_Bukit_Safira/json/c6ae85f1-c152-4f15-b3ba-f4bfef92df6e.json",
+  "reviews_name": "Sari Rasa Pekayon, Ruko Bukit Safira",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.6
+  },
+  "range_prices": "16k-40k",
+  "restaurant_id": "1457b34a-58b8-4ac5-b2b1-f64b5c9c967f",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.8,
+      "total": 1979
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 216,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 169,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 164,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "c6ae85f1-c152-4f15-b3ba-f4bfef92df6e",
+    "username_reviews": "H****",
+    "initialName": "H",
+    "image_reviews": null,
+    "created_time": "2020-02-16T15:09:18.392+07:00",
+    "created_time_epoch": 1581865758,
+    "reviews_rating": 1,
+    "orders": {
+      "orderedAt": "2020-02-16T07:34:39.097356Z",
+      "items": [
+        {
+          "id": "c20da169-aeaf-4fce-b22e-1db4b857e855",
+          "name": "Bakwan Jagung (Isi 4)"
+        },
+        {
+          "id": "2c718c82-e93d-4a73-93a6-2988222436f1",
+          "name": "Nila Goreng"
+        },
+        {
+          "id": "695bc2b3-8e5c-4adf-9e4e-0d9c35e080c8",
+          "name": "Ayam Bakar"
+        }
+      ]
+    },
+    "tags_review": [
+      "",
+      "gofood.co.id"
+    ],
+    "content_reviews": "kualitas makanan bagus tapi pesanan yang saya terima kurang. sudah dua kali saya kecewa dgn resto ini.",
+    "date_of_experience": ""
+  }
+}

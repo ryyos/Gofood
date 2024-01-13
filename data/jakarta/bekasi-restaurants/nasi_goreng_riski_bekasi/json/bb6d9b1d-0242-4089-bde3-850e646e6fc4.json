@@ -1,0 +1,76 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/nasi-goreng-riski-bekasi-9196fe69-72e5-4826-b4fe-bf6bfbafabe4",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Aneka nasi",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:19:03.233848",
+  "crawling_time_epoch": 1705155543,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Nasi_Goreng_Riski_Bekasi/json/bb6d9b1d-0242-4089-bde3-850e646e6fc4.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Nasi_Goreng_Riski_Bekasi/json/bb6d9b1d-0242-4089-bde3-850e646e6fc4.json",
+  "reviews_name": "Nasi Goreng Riski, Bekasi",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.48
+  },
+  "range_prices": "16k-40k",
+  "restaurant_id": "9196fe69-72e5-4826-b4fe-bf6bfbafabe4",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.7,
+      "total": 1717
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 306,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 295,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 240,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "bb6d9b1d-0242-4089-bde3-850e646e6fc4",
+    "username_reviews": "D*****",
+    "initialName": "D",
+    "image_reviews": null,
+    "created_time": "2023-05-28T01:52:19.659348+07:00",
+    "created_time_epoch": 1685238739,
+    "reviews_rating": 3,
+    "orders": {
+      "orderedAt": "2023-05-27T18:16:28.857043Z",
+      "items": [
+        {
+          "id": "cf7e3e3e-7bd8-40c3-90cd-db204c99fdcf",
+          "name": "Nasi Goreng Special"
+        },
+        {
+          "id": "f946f104-9c01-420a-a452-efa79a08c572",
+          "name": "Tambah Telor Dadar"
+        },
+        {
+          "id": "54b53a97-e0d5-4810-bdff-6cd8a15f4733",
+          "name": "Mie Goreng Spesial"
+        }
+      ]
+    },
+    "tags_review": [
+      "CANNED_RESPONSE_HYGIENE",
+      "CANNED_RESPONSE_VALUE",
+      "CANNED_RESPONSE_ORDER",
+      "gofood.co.id"
+    ],
+    "content_reviews": "Sudah tulis pesan tanpa sayur.. lah isinya malah dominan sayur. Kecewa banget jadi ga kemakan . Tengah malam lapar bgt padahal",
+    "date_of_experience": ""
+  }
+}

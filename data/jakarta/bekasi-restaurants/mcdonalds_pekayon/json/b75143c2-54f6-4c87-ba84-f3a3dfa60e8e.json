@@ -1,0 +1,68 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/mcdonald-s-pekayon-50150204-8f6d-4372-8458-668f1be126e8",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Cepat saji",
+    "Sweets",
+    "Jajanan",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:17:21.424093",
+  "crawling_time_epoch": 1705155441,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/McDonalds_Pekayon/json/b75143c2-54f6-4c87-ba84-f3a3dfa60e8e.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/McDonalds_Pekayon/json/b75143c2-54f6-4c87-ba84-f3a3dfa60e8e.json",
+  "reviews_name": "McDonald's, Pekayon",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.46
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "50150204-8f6d-4372-8458-668f1be126e8",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.8,
+      "total": 70397
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 4555,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 3695,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 3669,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "b75143c2-54f6-4c87-ba84-f3a3dfa60e8e",
+    "username_reviews": "C******",
+    "initialName": "C",
+    "image_reviews": null,
+    "created_time": "2019-08-31T23:37:30.117709+07:00",
+    "created_time_epoch": 1567294650,
+    "reviews_rating": 4,
+    "orders": {
+      "orderedAt": "2019-08-31T12:12:01.054985Z",
+      "items": [
+        {
+          "id": "81824c1d-9f2a-4c23-a7a5-d187f7bdf5f8",
+          "name": "PaNas 1 Spicy Large"
+        }
+      ]
+    },
+    "tags_review": [
+      "CANNED_RESPONSE_VALUE",
+      "gofood.co.id"
+    ],
+    "content_reviews": "masak ayamnya kurang mateng, tolong diperhatikan ya walaupun rame tokonya tetep utamakan kualitas makananya, td aku pesen ayamnya belum matang rata, masih ada tepungnya juga yg belum matang",
+    "date_of_experience": ""
+  }
+}

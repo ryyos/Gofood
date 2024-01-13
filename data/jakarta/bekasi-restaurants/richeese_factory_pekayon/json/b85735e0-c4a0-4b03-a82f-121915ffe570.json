@@ -1,0 +1,77 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/richeese-factory-pekayon-fb7c3452-2cba-464a-9e24-23840a40a179",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Cepat saji",
+    "Ayam & bebek",
+    "Aneka nasi",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:20:23.240256",
+  "crawling_time_epoch": 1705155623,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Richeese_Factory_Pekayon/json/b85735e0-c4a0-4b03-a82f-121915ffe570.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Richeese_Factory_Pekayon/json/b85735e0-c4a0-4b03-a82f-121915ffe570.json",
+  "reviews_name": "Richeese Factory, Pekayon",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.97
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "fb7c3452-2cba-464a-9e24-23840a40a179",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.7,
+      "total": 32095
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 2029,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 1477,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 1469,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "b85735e0-c4a0-4b03-a82f-121915ffe570",
+    "username_reviews": "Vani Octaviany",
+    "initialName": "VO",
+    "image_reviews": null,
+    "created_time": "2022-07-22T13:38:44.113722+07:00",
+    "created_time_epoch": 1658497124,
+    "reviews_rating": 5,
+    "orders": {
+      "orderedAt": "2022-07-22T05:41:33.316552Z",
+      "items": [
+        {
+          "id": "ce73ec44-b390-4956-98fd-d6010874d452",
+          "name": "Paket New Hemat Fire Chicken"
+        },
+        {
+          "id": "67090faa-dbed-487e-94df-94be759d8f45",
+          "name": "Fruitarian Drink 1L"
+        }
+      ]
+    },
+    "tags_review": [
+      "CANNED_RESPONSE_FRESHNESS",
+      "CANNED_RESPONSE_HYGIENE",
+      "CANNED_RESPONSE_TASTE",
+      "CANNED_RESPONSE_PACKAGING",
+      "CANNED_RESPONSE_PORTION",
+      "CANNED_RESPONSE_VALUE",
+      "gofood.co.id"
+    ],
+    "content_reviews": "mantapp! rasanya nikmat driver nya juga cepat.",
+    "date_of_experience": ""
+  }
+}

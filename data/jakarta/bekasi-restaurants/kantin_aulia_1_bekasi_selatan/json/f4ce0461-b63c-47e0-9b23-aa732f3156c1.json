@@ -1,0 +1,79 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/kantin-aulia-1-bekasi-selatan-976b3452-1361-44b7-8f1a-c144e43cca54",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Ayam & bebek",
+    "Aneka nasi",
+    "Cepat saji",
+    "Sweets",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:17:15.302870",
+  "crawling_time_epoch": 1705155435,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Kantin_Aulia_1_Bekasi_Selatan/json/f4ce0461-b63c-47e0-9b23-aa732f3156c1.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Kantin_Aulia_1_Bekasi_Selatan/json/f4ce0461-b63c-47e0-9b23-aa732f3156c1.json",
+  "reviews_name": "Kantin Aulia 1, Bekasi Selatan",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.36
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "976b3452-1361-44b7-8f1a-c144e43cca54",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.8,
+      "total": 811
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 56,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 52,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 51,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "f4ce0461-b63c-47e0-9b23-aa732f3156c1",
+    "username_reviews": "J**** F*",
+    "initialName": "JF",
+    "image_reviews": null,
+    "created_time": "2020-10-14T20:18:18.268+07:00",
+    "created_time_epoch": 1602706698,
+    "reviews_rating": 5,
+    "orders": {
+      "orderedAt": "2020-10-13T05:01:30.335695Z",
+      "items": [
+        {
+          "id": "c3996524-8c12-4a7c-8e5f-817b64ef7b06",
+          "name": "Ayam Bantal  Moza +  Nasi"
+        },
+        {
+          "id": "44c59f70-c3f9-4fd9-9146-0c3179b54e5d",
+          "name": "Chicken Crunchy Asam Manis + Nasi"
+        },
+        {
+          "id": "1b1fe61a-c1a1-4717-8bc5-5c968fcc9196",
+          "name": "Chicken Roll Melted + Nasi"
+        }
+      ]
+    },
+    "tags_review": [
+      "CANNED_RESPONSE_TASTE",
+      "CANNED_RESPONSE_PORTION",
+      "CANNED_RESPONSE_VALUE",
+      "gofood.co.id"
+    ],
+    "content_reviews": "udah puluhan kaliiii mesen",
+    "date_of_experience": ""
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/pizza-hut-kemang-pratama-619b40c5-b111-4004-a05e-2cf6526de384",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Barat",
+    "Jajanan",
+    "Ayam & bebek",
+    "Pizza & pasta",
+    "Cepat saji",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:20:55.807619",
+  "crawling_time_epoch": 1705155655,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Pizza_Hut_Kemang_Pratama/json/316cad1d-ff38-4e2c-80f4-a4aba342dbf2.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Pizza_Hut_Kemang_Pratama/json/316cad1d-ff38-4e2c-80f4-a4aba342dbf2.json",
+  "reviews_name": "Pizza Hut, Kemang Pratama",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.99
+  },
+  "range_prices": ">100k",
+  "restaurant_id": "619b40c5-b111-4004-a05e-2cf6526de384",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.8,
+      "total": 12460
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 997,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 804,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 735,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "316cad1d-ff38-4e2c-80f4-a4aba342dbf2",
+    "username_reviews": "S****",
+    "initialName": "S",
+    "image_reviews": null,
+    "created_time": "2023-08-19T21:13:53.658094+07:00",
+    "created_time_epoch": 1692479633,
+    "reviews_rating": 1,
+    "orders": {
+      "orderedAt": "2023-08-19T13:14:18.862086Z",
+      "items": [
+        {
+          "id": "ac1324eb-a1ee-484d-835f-41ebc709138d",
+          "name": "My Box Plus Pizza"
+        }
+      ]
+    },
+    "tags_review": [
+      "gofood.co.id"
+    ],
+    "content_reviews": "rasanya GK kayak biasa kayak GK niat bikin. saus BBQ nya dikit ..GK ada saus sachetnya biasanya ada ...creamy chicken nya masih mentah ...",
+    "date_of_experience": ""
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/mcdonald-s-pekayon-50150204-8f6d-4372-8458-668f1be126e8",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Cepat saji",
+    "Sweets",
+    "Jajanan",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:17:21.424093",
+  "crawling_time_epoch": 1705155441,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/McDonalds_Pekayon/json/ad471360-1948-4085-9398-db9cb3c7800d.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/McDonalds_Pekayon/json/ad471360-1948-4085-9398-db9cb3c7800d.json",
+  "reviews_name": "McDonald's, Pekayon",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.46
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "50150204-8f6d-4372-8458-668f1be126e8",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.8,
+      "total": 70397
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 4555,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 3695,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 3669,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "ad471360-1948-4085-9398-db9cb3c7800d",
+    "username_reviews": "Askana",
+    "initialName": "A",
+    "image_reviews": null,
+    "created_time": "2023-07-22T23:58:10.738915+07:00",
+    "created_time_epoch": 1690070290,
+    "reviews_rating": 1,
+    "orders": {
+      "orderedAt": "2023-07-22T15:56:10.167641Z",
+      "items": [
+        {
+          "id": "51784fe7-e1e4-44e6-b7a7-6be3ae17aba9",
+          "name": "Matcha McFlurry with  Matcha Cookies"
+        },
+        {
+          "id": "f7fc70b6-af01-461d-948f-f699a26d0424",
+          "name": "Menu Receh 1+1 Chicken Snack Wrap"
+        }
+      ]
+    },
+    "tags_review": [
+      "gofood.co.id"
+    ],
+    "content_reviews": "kecewa sih. \n1. lama udah kaya pesen mie gacoan pdhl cuma pesen eskrim mactha, chicken wrap sm fants float\n2. pas sampe fanta floatnya udh leleh eskrimnya\n3. chicken wrapnya jg adem bgt, ga beraturan.\nkacau bgt ",
+    "date_of_experience": ""
+  }
+}

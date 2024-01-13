@@ -1,0 +1,71 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/sari-rasa-pekayon-ruko-bukit-safira-1457b34a-58b8-4ac5-b2b1-f64b5c9c967f",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Sate",
+    "Ayam & bebek",
+    "Aneka nasi",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:19:47.200172",
+  "crawling_time_epoch": 1705155587,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Sari_Rasa_Pekayon_Ruko_Bukit_Safira/json/7727adc6-3081-460e-8dbe-55c5e1d49756.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Sari_Rasa_Pekayon_Ruko_Bukit_Safira/json/7727adc6-3081-460e-8dbe-55c5e1d49756.json",
+  "reviews_name": "Sari Rasa Pekayon, Ruko Bukit Safira",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.6
+  },
+  "range_prices": "16k-40k",
+  "restaurant_id": "1457b34a-58b8-4ac5-b2b1-f64b5c9c967f",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.8,
+      "total": 1979
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 216,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 169,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 164,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "7727adc6-3081-460e-8dbe-55c5e1d49756",
+    "username_reviews": "A*****",
+    "initialName": "A",
+    "image_reviews": null,
+    "created_time": "2022-07-19T08:34:34.187864+07:00",
+    "created_time_epoch": 1658219674,
+    "reviews_rating": 4,
+    "orders": {
+      "orderedAt": "2022-07-18T01:53:12.73473Z",
+      "items": [
+        {
+          "id": "f2564c06-2d10-45aa-96b9-29db74fe3753",
+          "name": "Nasi Bakar Cumi"
+        },
+        {
+          "id": "5f675f90-b9a9-4629-aa9d-d7842e8bae2e",
+          "name": "Nasi Bakar Gepuk"
+        }
+      ]
+    },
+    "tags_review": [
+      "gofood.co.id"
+    ],
+    "content_reviews": "gepuk dibikin nasi bakar kurang cocok c menurut saya\ndaging geouknya juga kurang empuk\ndah nyobain yg peda juga asin bgt tp bumbunyabg berasa gurih cm asin dr peda aja\nnasi bakar cuminya so far emg plg enak c... pedes...\nsambel ijonya juga enak pedes\nyg blm d coba nasi bakar teri",
+    "date_of_experience": ""
+  }
+}

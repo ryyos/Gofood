@@ -1,0 +1,68 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/domino-s-pizza-kemang-pratama-00fb7fae-fbe1-4b63-ad17-dc7094c64f9c",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Pizza & pasta",
+    "Cepat saji",
+    "Jajanan",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:18:48.067806",
+  "crawling_time_epoch": 1705155528,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Dominos_Pizza_Kemang_Pratama/json/25fc37c1-3145-4406-96d6-08ef4b630c24.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Dominos_Pizza_Kemang_Pratama/json/25fc37c1-3145-4406-96d6-08ef4b630c24.json",
+  "reviews_name": "Domino's Pizza, Kemang Pratama",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.47
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "00fb7fae-fbe1-4b63-ad17-dc7094c64f9c",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.7,
+      "total": 11582
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 1426,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 1210,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 1158,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "25fc37c1-3145-4406-96d6-08ef4b630c24",
+    "username_reviews": "M*****",
+    "initialName": "M",
+    "image_reviews": null,
+    "created_time": "2020-11-04T16:18:18.682+07:00",
+    "created_time_epoch": 1604506698,
+    "reviews_rating": 4,
+    "orders": {
+      "orderedAt": "2020-11-04T05:20:52.041603Z",
+      "items": [
+        {
+          "id": "d7f1fa76-e5de-46e2-8bf6-bc7f420909ae",
+          "name": "Disc. 30% For 2 Pizza"
+        }
+      ]
+    },
+    "tags_review": [
+      "",
+      "gofood.co.id"
+    ],
+    "content_reviews": "sempat salah kirim pizza yg ternyata paketnya harus di catat di notes untuk pizza yg dipilih.Tetapi tidak ada instruksi untuk menulis di notes nya dan tidak ada pilihan juga di aplikasi",
+    "date_of_experience": ""
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/domino-s-pizza-kemang-pratama-00fb7fae-fbe1-4b63-ad17-dc7094c64f9c",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Pizza & pasta",
+    "Cepat saji",
+    "Jajanan",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:18:48.067806",
+  "crawling_time_epoch": 1705155528,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Dominos_Pizza_Kemang_Pratama/json/7771f99a-90fe-4829-8ce3-6c46d2f25318.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Dominos_Pizza_Kemang_Pratama/json/7771f99a-90fe-4829-8ce3-6c46d2f25318.json",
+  "reviews_name": "Domino's Pizza, Kemang Pratama",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.47
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "00fb7fae-fbe1-4b63-ad17-dc7094c64f9c",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.7,
+      "total": 11582
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 1426,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 1210,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 1158,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "7771f99a-90fe-4829-8ce3-6c46d2f25318",
+    "username_reviews": "A**** C********",
+    "initialName": "AC",
+    "image_reviews": null,
+    "created_time": "2019-11-07T07:45:06.043+07:00",
+    "created_time_epoch": 1573112706,
+    "reviews_rating": 4,
+    "orders": {
+      "orderedAt": "2019-11-06T12:05:20.966208Z",
+      "items": [
+        {
+          "id": "75271a1c-ed68-4727-9e89-c551703f0ef7",
+          "name": "Disc 25% Off For Premium Large HT"
+        },
+        {
+          "id": "dbd9f894-364b-4d1f-90bb-c15772d42f22",
+          "name": "American All Star Mozzarella Crust - Sambal/Chili Garlic (Medium)"
+        },
+        {
+          "id": "adcc62f5-4343-4579-bea4-990ebca82123",
+          "name": "Choco Bread Sticks"
+        }
+      ]
+    },
+    "tags_review": [
+      "CANNED_RESPONSE_TASTE",
+      "gofood.co.id"
+    ],
+    "content_reviews": "yang menu baru kombinasi keju itu mozarella nya kurang berasa. jadi kurang cheesy malah",
+    "date_of_experience": ""
+  }
+}

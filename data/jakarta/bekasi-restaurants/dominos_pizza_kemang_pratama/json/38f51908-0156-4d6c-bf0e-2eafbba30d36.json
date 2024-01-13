@@ -1,0 +1,71 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/domino-s-pizza-kemang-pratama-00fb7fae-fbe1-4b63-ad17-dc7094c64f9c",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Pizza & pasta",
+    "Cepat saji",
+    "Jajanan",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:18:48.067806",
+  "crawling_time_epoch": 1705155528,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Dominos_Pizza_Kemang_Pratama/json/38f51908-0156-4d6c-bf0e-2eafbba30d36.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Dominos_Pizza_Kemang_Pratama/json/38f51908-0156-4d6c-bf0e-2eafbba30d36.json",
+  "reviews_name": "Domino's Pizza, Kemang Pratama",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.47
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "00fb7fae-fbe1-4b63-ad17-dc7094c64f9c",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.7,
+      "total": 11582
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 1426,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 1210,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 1158,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "38f51908-0156-4d6c-bf0e-2eafbba30d36",
+    "username_reviews": "D****** G******",
+    "initialName": "DG",
+    "image_reviews": null,
+    "created_time": "2021-11-09T13:50:06.499526+07:00",
+    "created_time_epoch": 1636465806,
+    "reviews_rating": 4,
+    "orders": {
+      "orderedAt": "2021-11-05T12:11:57.288706Z",
+      "items": [
+        {
+          "id": "fd3eb8a0-5551-4258-bf9c-010236b427e3",
+          "name": "Beli 1 Medium Premium (HT) Gratis 2 Pizza/Pasta/Sides"
+        },
+        {
+          "id": "65693073-ca7b-47e7-9dea-8e41c71768d5",
+          "name": "Best Ever Value Deal 2 Tasty Stuffed Pockets"
+        }
+      ]
+    },
+    "tags_review": [
+      "gofood.co.id"
+    ],
+    "content_reviews": "minta saus tomat yg banyak malah gak dikasih sama sekali..tolong dicek kembali..Trmksh",
+    "date_of_experience": ""
+  }
+}

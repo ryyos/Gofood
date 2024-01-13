@@ -1,0 +1,62 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/nasi-goreng-riski-bekasi-9196fe69-72e5-4826-b4fe-bf6bfbafabe4",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Aneka nasi",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:19:03.233848",
+  "crawling_time_epoch": 1705155543,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Nasi_Goreng_Riski_Bekasi/json/aae04a96-ace4-4bc0-874b-fac81b375172.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Nasi_Goreng_Riski_Bekasi/json/aae04a96-ace4-4bc0-874b-fac81b375172.json",
+  "reviews_name": "Nasi Goreng Riski, Bekasi",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.48
+  },
+  "range_prices": "16k-40k",
+  "restaurant_id": "9196fe69-72e5-4826-b4fe-bf6bfbafabe4",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.7,
+      "total": 1717
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 306,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 295,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 240,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "aae04a96-ace4-4bc0-874b-fac81b375172",
+    "username_reviews": "Q**** H**** H**",
+    "initialName": "QH",
+    "image_reviews": null,
+    "created_time": "2019-04-19T01:19:57.513961+07:00",
+    "created_time_epoch": 1555636797,
+    "reviews_rating": 1,
+    "orders": {
+      "orderedAt": "2019-04-18T17:08:40.958264Z",
+      "items": []
+    },
+    "tags_review": [
+      "CANNED_RESPONSE_FRESHNESS",
+      "CANNED_RESPONSE_TASTE",
+      "gofood.co.id"
+    ],
+    "content_reviews": "Pertama, aku pesen ga pedes dan ini rasanya pedes akhirnya ga kemakan karna lg hamil dan larangan dokter utk makan pedes. Kedua, timunnya layu. Saran, kalo udah lelah mending tutup aja dr pd bikin pelanggan kecewa nanti ga mau beli ditempat kalian lg malah kalian yg rugi kedepannya.",
+    "date_of_experience": ""
+  }
+}

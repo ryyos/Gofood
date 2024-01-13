@@ -1,0 +1,73 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/kfc-kemang-pratama-ef8c2c3e-61d6-4bd4-b9fa-10cfd6358dcf",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Cepat saji",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:19:21.062803",
+  "crawling_time_epoch": 1705155561,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/KFC_Kemang_Pratama/json/e167e06e-3d65-4150-a881-95265697a086.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/KFC_Kemang_Pratama/json/e167e06e-3d65-4150-a881-95265697a086.json",
+  "reviews_name": "KFC, Kemang Pratama",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.53
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "ef8c2c3e-61d6-4bd4-b9fa-10cfd6358dcf",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.8,
+      "total": 24067
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 2021,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 1696,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 1631,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "e167e06e-3d65-4150-a881-95265697a086",
+    "username_reviews": "D***",
+    "initialName": "D",
+    "image_reviews": null,
+    "created_time": "2021-06-17T12:36:17.448019+07:00",
+    "created_time_epoch": 1623933377,
+    "reviews_rating": 3,
+    "orders": {
+      "orderedAt": "2021-06-17T04:24:51.96216Z",
+      "items": [
+        {
+          "id": "174098df-960f-4762-b700-cd85c88c05ea",
+          "name": "Personal Snack Bucket 4 SC"
+        },
+        {
+          "id": "d5b0d07a-65fd-43a9-9535-47c2804bac2f",
+          "name": "Original Chicken"
+        },
+        {
+          "id": "c17667f6-c69e-45be-9f28-9bd4d06f35eb",
+          "name": "Hot and Crispy Chicken"
+        }
+      ]
+    },
+    "tags_review": [
+      "gofood.co.id"
+    ],
+    "content_reviews": "Pesanan salah semua… pesanan OR 3 Crispy 2 dikasih nya OR 2 Crispy 3 ?? Snack bucket pesan yg keju dikasihnya yg grilled soy sauce… kali ini bener kecewa terpaksa datang ke store nya utk tukar ☹️☹️☹️",
+    "date_of_experience": ""
+  }
+}

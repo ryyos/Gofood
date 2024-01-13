@@ -1,0 +1,79 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/mcdonald-s-pekayon-50150204-8f6d-4372-8458-668f1be126e8",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Cepat saji",
+    "Sweets",
+    "Jajanan",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:17:21.424093",
+  "crawling_time_epoch": 1705155441,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/McDonalds_Pekayon/json/b9fe9251-ab33-4582-937d-1c2c8d5afb28.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/McDonalds_Pekayon/json/b9fe9251-ab33-4582-937d-1c2c8d5afb28.json",
+  "reviews_name": "McDonald's, Pekayon",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.46
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "50150204-8f6d-4372-8458-668f1be126e8",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.8,
+      "total": 70397
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 4555,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 3695,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 3669,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "b9fe9251-ab33-4582-937d-1c2c8d5afb28",
+    "username_reviews": "R*******",
+    "initialName": "R",
+    "image_reviews": null,
+    "created_time": "2021-08-14T08:37:21.275142+07:00",
+    "created_time_epoch": 1628930241,
+    "reviews_rating": 1,
+    "orders": {
+      "orderedAt": "2021-08-13T05:21:00.806845Z",
+      "items": [
+        {
+          "id": "805f356d-0be8-4fac-ba88-20a3dca7cc15",
+          "name": "PROMO - 3 Ayam Spicy McD + 3 reg. Rice"
+        },
+        {
+          "id": "e3b48d0d-d1b2-4ccd-b0dc-1c6d973f0be3",
+          "name": "Happy Meal Beef Burger"
+        },
+        {
+          "id": "d1c7f183-69b2-4a84-8d49-44b1414caca6",
+          "name": "Putu Ayu McFlurry Oreo"
+        },
+        {
+          "id": "e8822f07-3a0f-49fb-945f-71085413e6e2",
+          "name": "Chicken Snack Wrap"
+        }
+      ]
+    },
+    "tags_review": [
+      "gofood.co.id"
+    ],
+    "content_reviews": "ini untuk ke 2x nya dalam order saya minggu ini ada makanan yg tdk saya terima , nasinya ga ada. ini mcd perusahaan internasional tp checkernya gimana sih ga profesional amat , tolong sebelum order check out makanan dipastikan dulu ada semuanya di list order , payah amat",
+    "date_of_experience": ""
+  }
+}

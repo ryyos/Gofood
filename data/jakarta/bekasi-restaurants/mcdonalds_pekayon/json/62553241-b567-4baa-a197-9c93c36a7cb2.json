@@ -1,0 +1,84 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/mcdonald-s-pekayon-50150204-8f6d-4372-8458-668f1be126e8",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Cepat saji",
+    "Sweets",
+    "Jajanan",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:17:21.424093",
+  "crawling_time_epoch": 1705155441,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/McDonalds_Pekayon/json/62553241-b567-4baa-a197-9c93c36a7cb2.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/McDonalds_Pekayon/json/62553241-b567-4baa-a197-9c93c36a7cb2.json",
+  "reviews_name": "McDonald's, Pekayon",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.46
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "50150204-8f6d-4372-8458-668f1be126e8",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.8,
+      "total": 70397
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 4555,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 3695,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 3669,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "62553241-b567-4baa-a197-9c93c36a7cb2",
+    "username_reviews": "R****",
+    "initialName": "R",
+    "image_reviews": null,
+    "created_time": "2020-02-02T00:54:04.959+07:00",
+    "created_time_epoch": 1580604844,
+    "reviews_rating": 3,
+    "orders": {
+      "orderedAt": "2020-02-01T16:34:52.191274Z",
+      "items": [
+        {
+          "id": "d746fdb9-f33d-4f3c-aee2-12fc51500220",
+          "name": "PaNas 2 Medium"
+        },
+        {
+          "id": "36c62796-af74-4729-b852-a31db2072be3",
+          "name": "PaNas 2 with Fries Large"
+        },
+        {
+          "id": "6219eb11-936b-4503-86e6-b5b8a426219a",
+          "name": "Spicy Chicken Bites"
+        },
+        {
+          "id": "f3f75aea-081c-40b1-9e9e-1ce96f2c7b92",
+          "name": "Chicken Fingers"
+        },
+        {
+          "id": "f9222cc9-179c-4984-9d43-993c839b9835",
+          "name": "Dark Choco McFlurry With Crunch"
+        }
+      ]
+    },
+    "tags_review": [
+      "",
+      "gofood.co.id"
+    ],
+    "content_reviews": "yg di pesan dan yang diterima banyak salah dan kurang nya",
+    "date_of_experience": ""
+  }
+}

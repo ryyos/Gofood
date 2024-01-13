@@ -1,0 +1,67 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/pisang-goreng-tanduk-jumbo-umar-bakrie-damar-6-fb7fecd4-9337-4d02-907a-2e1ddefdbd03",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Cepat saji",
+    "Jajanan",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:17:09.085002",
+  "crawling_time_epoch": 1705155429,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Pisang_Goreng_Tanduk_Jumbo_Umar_Bakrie_Damar_6/json/126dcffb-3139-4c89-991c-ce40849302b2.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Pisang_Goreng_Tanduk_Jumbo_Umar_Bakrie_Damar_6/json/126dcffb-3139-4c89-991c-ce40849302b2.json",
+  "reviews_name": "Pisang Goreng Tanduk Jumbo Umar Bakrie, Damar 6",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.36
+  },
+  "range_prices": "16k-40k",
+  "restaurant_id": "fb7fecd4-9337-4d02-907a-2e1ddefdbd03",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.7,
+      "total": 2037
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 218,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 175,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 172,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "126dcffb-3139-4c89-991c-ce40849302b2",
+    "username_reviews": "E******",
+    "initialName": "E",
+    "image_reviews": null,
+    "created_time": "2019-11-06T16:27:47.195+07:00",
+    "created_time_epoch": 1573057667,
+    "reviews_rating": 3,
+    "orders": {
+      "orderedAt": "2019-11-06T08:41:38.687322Z",
+      "items": [
+        {
+          "id": "d23e7990-1d18-41ce-a916-bfda7c017077",
+          "name": "Pisang Tanduk Keju (extra)"
+        }
+      ]
+    },
+    "tags_review": [
+      "",
+      "gofood.co.id"
+    ],
+    "content_reviews": "kiraiin di goreng pake tepung lg ternyata engga. jadi engga kriuk2. seperti pisang goreng dalam ekspektasi",
+    "date_of_experience": ""
+  }
+}

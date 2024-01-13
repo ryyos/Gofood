@@ -1,0 +1,72 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/mcdonald-s-pekayon-50150204-8f6d-4372-8458-668f1be126e8",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Cepat saji",
+    "Sweets",
+    "Jajanan",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:17:21.424093",
+  "crawling_time_epoch": 1705155441,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/McDonalds_Pekayon/json/63895d9c-e362-4f1a-8605-3c5dfd57a3aa.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/McDonalds_Pekayon/json/63895d9c-e362-4f1a-8605-3c5dfd57a3aa.json",
+  "reviews_name": "McDonald's, Pekayon",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.46
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "50150204-8f6d-4372-8458-668f1be126e8",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.8,
+      "total": 70397
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 4555,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 3695,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 3669,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "63895d9c-e362-4f1a-8605-3c5dfd57a3aa",
+    "username_reviews": "S*****",
+    "initialName": "S",
+    "image_reviews": null,
+    "created_time": "2023-08-26T15:13:41.993349+07:00",
+    "created_time_epoch": 1693062821,
+    "reviews_rating": 1,
+    "orders": {
+      "orderedAt": "2023-08-25T18:38:52.577571Z",
+      "items": [
+        {
+          "id": "0b64ad69-78cf-4cb5-b0a8-7c126bf61e96",
+          "name": "PaNas Special, Spicy Med - HARGA SPECIAL"
+        },
+        {
+          "id": "8b87df95-2bdf-4da0-b6d8-90e706ac3409",
+          "name": "McNuggets 4 pcs"
+        }
+      ]
+    },
+    "tags_review": [
+      "CANNED_RESPONSE_ORDER",
+      "gofood.co.id"
+    ],
+    "content_reviews": "Saya pesan paket ayam+nasi+telur+minum, tapi nasinya tidak dikasih",
+    "date_of_experience": ""
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/a-w-linc-square-d4fe7a94-86cd-4883-b279-07bdd7002ad9",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Cepat saji",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:20:11.107220",
+  "crawling_time_epoch": 1705155611,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/AW_Linc_Square/json/082a4a4c-3084-4284-80e4-c695b3c6c952.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/AW_Linc_Square/json/082a4a4c-3084-4284-80e4-c695b3c6c952.json",
+  "reviews_name": "A&W, Linc Square",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.94
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "d4fe7a94-86cd-4883-b279-07bdd7002ad9",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.8,
+      "total": 7181
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 499,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 403,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 365,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "082a4a4c-3084-4284-80e4-c695b3c6c952",
+    "username_reviews": "V***",
+    "initialName": "V",
+    "image_reviews": null,
+    "created_time": "2023-09-19T15:20:55.529146+07:00",
+    "created_time_epoch": 1695136855,
+    "reviews_rating": 3,
+    "orders": {
+      "orderedAt": "2023-09-19T07:33:54.973112Z",
+      "items": [
+        {
+          "id": "891b6b16-5e64-4e8d-b787-2e3b9721ca1f",
+          "name": "Chunks & Curly Fries"
+        },
+        {
+          "id": "8185ada6-9bb9-4e5d-91bf-bd1d953a983e",
+          "name": "Cheese Dip"
+        },
+        {
+          "id": "8e8aa6e9-f02c-4558-a3f9-649ef1e036f3",
+          "name": "SUPER - 3 Aroma Chicken, Rice, Soup & Fries"
+        }
+      ]
+    },
+    "tags_review": [
+      "gofood.co.id"
+    ],
+    "content_reviews": "minta yg kentang curly dikasihnya yg string",
+    "date_of_experience": ""
+  }
+}

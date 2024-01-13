@@ -1,0 +1,72 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/mcdonald-s-pekayon-50150204-8f6d-4372-8458-668f1be126e8",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Cepat saji",
+    "Sweets",
+    "Jajanan",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:17:21.424093",
+  "crawling_time_epoch": 1705155441,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/McDonalds_Pekayon/json/4e4a63c4-818e-4c53-8497-415ba122ac8a.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/McDonalds_Pekayon/json/4e4a63c4-818e-4c53-8497-415ba122ac8a.json",
+  "reviews_name": "McDonald's, Pekayon",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.46
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "50150204-8f6d-4372-8458-668f1be126e8",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.8,
+      "total": 70397
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 4555,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 3695,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 3669,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "4e4a63c4-818e-4c53-8497-415ba122ac8a",
+    "username_reviews": "K*** R*******",
+    "initialName": "KR",
+    "image_reviews": null,
+    "created_time": "2019-08-28T14:22:13.480642+07:00",
+    "created_time_epoch": 1567002133,
+    "reviews_rating": 4,
+    "orders": {
+      "orderedAt": "2019-08-28T06:43:54.314036Z",
+      "items": [
+        {
+          "id": "08939902-e349-475f-8311-dcdcf011701b",
+          "name": "Paket Berdua 2"
+        },
+        {
+          "id": "0e8b1ec2-7268-4a58-bee4-1742cb855c35",
+          "name": "Iced Coffee Jelly Float"
+        }
+      ]
+    },
+    "tags_review": [
+      "CANNED_RESPONSE_PORTION",
+      "gofood.co.id"
+    ],
+    "content_reviews": "sayuran nya sedikit,kurang nyess",
+    "date_of_experience": ""
+  }
+}

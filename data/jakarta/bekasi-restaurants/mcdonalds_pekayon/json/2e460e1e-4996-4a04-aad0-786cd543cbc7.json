@@ -1,0 +1,67 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/mcdonald-s-pekayon-50150204-8f6d-4372-8458-668f1be126e8",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Cepat saji",
+    "Sweets",
+    "Jajanan",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:17:21.424093",
+  "crawling_time_epoch": 1705155441,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/McDonalds_Pekayon/json/2e460e1e-4996-4a04-aad0-786cd543cbc7.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/McDonalds_Pekayon/json/2e460e1e-4996-4a04-aad0-786cd543cbc7.json",
+  "reviews_name": "McDonald's, Pekayon",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.46
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "50150204-8f6d-4372-8458-668f1be126e8",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.8,
+      "total": 70397
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 4555,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 3695,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 3669,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "2e460e1e-4996-4a04-aad0-786cd543cbc7",
+    "username_reviews": "R***** K*****",
+    "initialName": "RK",
+    "image_reviews": null,
+    "created_time": "2022-12-27T00:41:25.927085+07:00",
+    "created_time_epoch": 1672101685,
+    "reviews_rating": 1,
+    "orders": {
+      "orderedAt": "2022-12-26T16:49:01.145748Z",
+      "items": [
+        {
+          "id": "edf3a7de-4fb4-4740-ab86-b46d33ed957e",
+          "name": "PaNas 2 with Fries Ayam Spicy McD Kimchi"
+        }
+      ]
+    },
+    "tags_review": [
+      "gofood.co.id"
+    ],
+    "content_reviews": "Lama dan tidak sesuai pesanan..",
+    "date_of_experience": ""
+  }
+}

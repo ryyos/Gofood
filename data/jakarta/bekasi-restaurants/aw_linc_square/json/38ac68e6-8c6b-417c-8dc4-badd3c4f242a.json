@@ -1,0 +1,66 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/a-w-linc-square-d4fe7a94-86cd-4883-b279-07bdd7002ad9",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Cepat saji",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:20:11.107220",
+  "crawling_time_epoch": 1705155611,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/AW_Linc_Square/json/38ac68e6-8c6b-417c-8dc4-badd3c4f242a.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/AW_Linc_Square/json/38ac68e6-8c6b-417c-8dc4-badd3c4f242a.json",
+  "reviews_name": "A&W, Linc Square",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.94
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "d4fe7a94-86cd-4883-b279-07bdd7002ad9",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.8,
+      "total": 7181
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 499,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 403,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 365,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "38ac68e6-8c6b-417c-8dc4-badd3c4f242a",
+    "username_reviews": "syifa",
+    "initialName": "S",
+    "image_reviews": null,
+    "created_time": "2022-05-04T14:25:57.43349+07:00",
+    "created_time_epoch": 1651674357,
+    "reviews_rating": 1,
+    "orders": {
+      "orderedAt": "2022-03-20T06:31:52.1753Z",
+      "items": [
+        {
+          "id": "2bbd2eb7-c0b9-46f9-a2aa-27f8c566e231",
+          "name": "Paket Gratis 2 - Chicken & Soup"
+        }
+      ]
+    },
+    "tags_review": [
+      "CANNED_RESPONSE_ORDER",
+      "gofood.co.id"
+    ],
+    "content_reviews": "Tidak bisa pilih potongan ayamnya, masa sy dapat dada ayam semua.. apa karena tidak laku ya jadi customer order online dipaksa pilih bagian tsb. Sangat2 mengecewakan, ga lagi deh order disini, mohon maaf.",
+    "date_of_experience": ""
+  }
+}

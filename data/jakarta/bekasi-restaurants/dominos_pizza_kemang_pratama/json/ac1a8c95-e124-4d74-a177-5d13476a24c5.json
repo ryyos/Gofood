@@ -1,0 +1,68 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/domino-s-pizza-kemang-pratama-00fb7fae-fbe1-4b63-ad17-dc7094c64f9c",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Pizza & pasta",
+    "Cepat saji",
+    "Jajanan",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:18:48.067806",
+  "crawling_time_epoch": 1705155528,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Dominos_Pizza_Kemang_Pratama/json/ac1a8c95-e124-4d74-a177-5d13476a24c5.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Dominos_Pizza_Kemang_Pratama/json/ac1a8c95-e124-4d74-a177-5d13476a24c5.json",
+  "reviews_name": "Domino's Pizza, Kemang Pratama",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.47
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "00fb7fae-fbe1-4b63-ad17-dc7094c64f9c",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.7,
+      "total": 11582
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 1426,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 1210,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 1158,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "ac1a8c95-e124-4d74-a177-5d13476a24c5",
+    "username_reviews": "C******",
+    "initialName": "C",
+    "image_reviews": null,
+    "created_time": "2020-03-15T15:12:26.613+07:00",
+    "created_time_epoch": 1584285146,
+    "reviews_rating": 3,
+    "orders": {
+      "orderedAt": "2020-03-13T06:45:56.792124Z",
+      "items": [
+        {
+          "id": "2521c04e-16d1-4616-aa83-bc77a027f8df",
+          "name": "PAPI DUO Upgrade to Cheese Burst"
+        }
+      ]
+    },
+    "tags_review": [
+      "",
+      "gofood.co.id"
+    ],
+    "content_reviews": "di menunya tertulis dapet cheese crust, tapi pas dateng ga ada😭😭",
+    "date_of_experience": ""
+  }
+}

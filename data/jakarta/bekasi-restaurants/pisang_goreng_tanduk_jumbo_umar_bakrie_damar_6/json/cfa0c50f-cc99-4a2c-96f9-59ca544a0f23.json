@@ -1,0 +1,68 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/pisang-goreng-tanduk-jumbo-umar-bakrie-damar-6-fb7fecd4-9337-4d02-907a-2e1ddefdbd03",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Cepat saji",
+    "Jajanan",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:17:09.085002",
+  "crawling_time_epoch": 1705155429,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Pisang_Goreng_Tanduk_Jumbo_Umar_Bakrie_Damar_6/json/cfa0c50f-cc99-4a2c-96f9-59ca544a0f23.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Pisang_Goreng_Tanduk_Jumbo_Umar_Bakrie_Damar_6/json/cfa0c50f-cc99-4a2c-96f9-59ca544a0f23.json",
+  "reviews_name": "Pisang Goreng Tanduk Jumbo Umar Bakrie, Damar 6",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.36
+  },
+  "range_prices": "16k-40k",
+  "restaurant_id": "fb7fecd4-9337-4d02-907a-2e1ddefdbd03",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.7,
+      "total": 2037
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 218,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 175,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 172,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "cfa0c50f-cc99-4a2c-96f9-59ca544a0f23",
+    "username_reviews": "A*** S*******",
+    "initialName": "AS",
+    "image_reviews": null,
+    "created_time": "2023-09-02T07:36:57.343519+07:00",
+    "created_time_epoch": 1693640217,
+    "reviews_rating": 5,
+    "orders": {
+      "orderedAt": "2023-08-26T13:52:54.477265Z",
+      "items": [
+        {
+          "id": "4c813924-df07-448a-ab0a-6cb07f4f1c33",
+          "name": "pisgor kepok isi 6 + 30 gram sambal roa"
+        }
+      ]
+    },
+    "tags_review": [
+      "CANNED_RESPONSE_FRESHNESS",
+      "CANNED_RESPONSE_TASTE",
+      "gofood.co.id"
+    ],
+    "content_reviews": "Enak banget... sisa sambel ROA-nya bisa buat bumbu Nasi Goreng dirumah 👍🏻",
+    "date_of_experience": ""
+  }
+}

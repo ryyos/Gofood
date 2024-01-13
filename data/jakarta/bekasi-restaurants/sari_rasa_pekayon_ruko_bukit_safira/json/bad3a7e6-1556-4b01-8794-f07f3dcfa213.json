@@ -1,0 +1,78 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/sari-rasa-pekayon-ruko-bukit-safira-1457b34a-58b8-4ac5-b2b1-f64b5c9c967f",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Sate",
+    "Ayam & bebek",
+    "Aneka nasi",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:19:47.200172",
+  "crawling_time_epoch": 1705155587,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Sari_Rasa_Pekayon_Ruko_Bukit_Safira/json/bad3a7e6-1556-4b01-8794-f07f3dcfa213.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Sari_Rasa_Pekayon_Ruko_Bukit_Safira/json/bad3a7e6-1556-4b01-8794-f07f3dcfa213.json",
+  "reviews_name": "Sari Rasa Pekayon, Ruko Bukit Safira",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.6
+  },
+  "range_prices": "16k-40k",
+  "restaurant_id": "1457b34a-58b8-4ac5-b2b1-f64b5c9c967f",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.8,
+      "total": 1979
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 216,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 169,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 164,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "bad3a7e6-1556-4b01-8794-f07f3dcfa213",
+    "username_reviews": "G******* P****",
+    "initialName": "GP",
+    "image_reviews": null,
+    "created_time": "2021-06-25T19:59:29.92966+07:00",
+    "created_time_epoch": 1624651169,
+    "reviews_rating": 1,
+    "orders": {
+      "orderedAt": "2021-06-25T11:50:57.353073Z",
+      "items": [
+        {
+          "id": "d02efe81-6a02-41f4-8358-8acd2f1585c1",
+          "name": "Paket Sate Maranggi Sapi"
+        },
+        {
+          "id": "776e3219-ab11-4a09-bf9b-bafeef701823",
+          "name": "Krupuk Udang"
+        },
+        {
+          "id": "855b22fe-68b9-4257-b5ec-f78959c60616",
+          "name": "Nasi Bakar Peda"
+        }
+      ]
+    },
+    "tags_review": [
+      "CANNED_RESPONSE_PORTION",
+      "CANNED_RESPONSE_PRICE",
+      "CANNED_RESPONSE_VALUE",
+      "gofood.co.id"
+    ],
+    "content_reviews": "Pesen nasi bakar peda, digambar ada pete tapi aslinya datengnya ga ada sama sekali",
+    "date_of_experience": ""
+  }
+}

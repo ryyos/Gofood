@@ -1,0 +1,74 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/mcdonald-s-pekayon-50150204-8f6d-4372-8458-668f1be126e8",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Cepat saji",
+    "Sweets",
+    "Jajanan",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:17:21.424093",
+  "crawling_time_epoch": 1705155441,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/McDonalds_Pekayon/json/2b2aab23-0c17-4502-b90e-c9840722b50a.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/McDonalds_Pekayon/json/2b2aab23-0c17-4502-b90e-c9840722b50a.json",
+  "reviews_name": "McDonald's, Pekayon",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.46
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "50150204-8f6d-4372-8458-668f1be126e8",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.8,
+      "total": 70397
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 4555,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 3695,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 3669,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "2b2aab23-0c17-4502-b90e-c9840722b50a",
+    "username_reviews": "ivan",
+    "initialName": "I",
+    "image_reviews": null,
+    "created_time": "2022-02-10T08:55:56.276974+07:00",
+    "created_time_epoch": 1644483356,
+    "reviews_rating": 1,
+    "orders": {
+      "orderedAt": "2022-02-10T01:16:50.284383Z",
+      "items": [
+        {
+          "id": "a6b0eb08-17da-48aa-ae2c-85882e299049",
+          "name": "McD Chicken Porridge"
+        },
+        {
+          "id": "d4d2e0a1-099c-4d22-b543-cc558bbc8985",
+          "name": "White Choco Strawberry Pastry Pie"
+        }
+      ]
+    },
+    "tags_review": [
+      "CANNED_RESPONSE_FRESHNESS",
+      "CANNED_RESPONSE_TASTE",
+      "CANNED_RESPONSE_VALUE",
+      "gofood.co.id"
+    ],
+    "content_reviews": "Hari ini tumben buburnya keras kayak nasi, jd hambar rasanya, nggak enak banget, jd rugi sy krn nggak pada dimakan buburnya, tolong dong kualitas makanannya dipertahankan....Thanks",
+    "date_of_experience": ""
+  }
+}

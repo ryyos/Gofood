@@ -1,0 +1,87 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/mcdonald-s-pekayon-50150204-8f6d-4372-8458-668f1be126e8",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Cepat saji",
+    "Sweets",
+    "Jajanan",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:17:21.424093",
+  "crawling_time_epoch": 1705155441,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/McDonalds_Pekayon/json/f5c83c03-b467-483b-b4e4-28e53864949f.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/McDonalds_Pekayon/json/f5c83c03-b467-483b-b4e4-28e53864949f.json",
+  "reviews_name": "McDonald's, Pekayon",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.46
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "50150204-8f6d-4372-8458-668f1be126e8",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.8,
+      "total": 70397
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 4555,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 3695,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 3669,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "f5c83c03-b467-483b-b4e4-28e53864949f",
+    "username_reviews": "D*** A********",
+    "initialName": "DA",
+    "image_reviews": null,
+    "created_time": "2022-07-07T20:18:05.102223+07:00",
+    "created_time_epoch": 1657225085,
+    "reviews_rating": 4,
+    "orders": {
+      "orderedAt": "2022-07-07T12:24:13.087375Z",
+      "items": [
+        {
+          "id": "e4139c18-4ead-44fb-8972-7a6ba3a75207",
+          "name": "Bubble Gum McFlurry with Rainbow Jelly"
+        },
+        {
+          "id": "c169e101-1afe-44cf-91bf-9f4dd5235c38",
+          "name": "Paket Hemat McChicken, Medium"
+        },
+        {
+          "id": "d4d2e0a1-099c-4d22-b543-cc558bbc8985",
+          "name": "White Choco Strawberry Pastry Pie"
+        },
+        {
+          "id": "b6e67cbc-3f24-4281-a6b3-214fc4cc3dd7",
+          "name": "Apple Pie Ala Mode Strawberry"
+        },
+        {
+          "id": "c2e9b5b9-5345-4bcd-a368-dd481461d694",
+          "name": "Paket Hemat Beef Spicy Korean Burger With Egg, Large"
+        },
+        {
+          "id": "a9d4cc11-9927-4a88-9e88-a215471c3994",
+          "name": "Apple Pie"
+        }
+      ]
+    },
+    "tags_review": [
+      "gofood.co.id"
+    ],
+    "content_reviews": "lebih lg teliti ya mas/mba burger nya kurang 1 ",
+    "date_of_experience": ""
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/dobel-martabak-bude-pekayon-c516bbfe-5583-4fbc-9605-9cd02cd220b0",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Martabak",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:18:42.021929",
+  "crawling_time_epoch": 1705155522,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Dobel_Martabak_Bude_Pekayon/json/deb9e89e-a1cd-4e75-9c5b-740c0139fd1b.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Dobel_Martabak_Bude_Pekayon/json/deb9e89e-a1cd-4e75-9c5b-740c0139fd1b.json",
+  "reviews_name": "Dobel Martabak Bude, Pekayon",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.46
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "c516bbfe-5583-4fbc-9605-9cd02cd220b0",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.6,
+      "total": 2907
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 366,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 264,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 253,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "deb9e89e-a1cd-4e75-9c5b-740c0139fd1b",
+    "username_reviews": "Syahrul Jan L",
+    "initialName": "SL",
+    "image_reviews": null,
+    "created_time": "2022-12-09T22:42:20.490539+07:00",
+    "created_time_epoch": 1670625740,
+    "reviews_rating": 5,
+    "orders": {
+      "orderedAt": "2022-12-09T11:20:16.34855Z",
+      "items": [
+        {
+          "id": "29d843cc-4b93-45a9-b2d5-9f05b1a5dbf6",
+          "name": "PAKET 5. BLak Forest Keju Sedang+isi.3 Telor Special."
+        }
+      ]
+    },
+    "tags_review": [
+      "CANNED_RESPONSE_TASTE",
+      "gofood.co.id"
+    ],
+    "content_reviews": "porsinya kurang banyak ",
+    "date_of_experience": ""
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/asinan-betawi-umar-bakrie-bekasi-selatan-6256964a-a97c-4657-ab38-68cdba4e3d50",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Cepat saji",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:17:16.823868",
+  "crawling_time_epoch": 1705155436,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Asinan_Betawi_Umar_Bakrie_Bekasi_Selatan/json/70ad168f-ed87-48e2-b6b2-b005189a9542.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Asinan_Betawi_Umar_Bakrie_Bekasi_Selatan/json/70ad168f-ed87-48e2-b6b2-b005189a9542.json",
+  "reviews_name": "Asinan Betawi Umar Bakrie, Bekasi Selatan",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.39
+  },
+  "range_prices": "16k-40k",
+  "restaurant_id": "6256964a-a97c-4657-ab38-68cdba4e3d50",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.8,
+      "total": 1319
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 186,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 162,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 149,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "70ad168f-ed87-48e2-b6b2-b005189a9542",
+    "username_reviews": "nurini",
+    "initialName": "N",
+    "image_reviews": null,
+    "created_time": "2023-06-19T23:15:12.239246+07:00",
+    "created_time_epoch": 1687216512,
+    "reviews_rating": 4,
+    "orders": {
+      "orderedAt": "2023-06-19T14:07:23.674394Z",
+      "items": [
+        {
+          "id": "30c0339f-222f-493a-a2cb-b149fbbceeb8",
+          "name": "pisgor tanduk p d isi 4 pcs"
+        },
+        {
+          "id": "e8e4dc15-1926-45b8-8839-77c68bb63844",
+          "name": "Asinan Buah + kcg tanah penor"
+        }
+      ]
+    },
+    "tags_review": [
+      "gofood.co.id"
+    ],
+    "content_reviews": "asinan lumayan enak, sayangnya pesanan yg diterima tidak sesuai dgn yg saya pesan. pesan yg pakai tambahan kacang, udah dicari-cari eh nol alias kosong",
+    "date_of_experience": ""
+  }
+}

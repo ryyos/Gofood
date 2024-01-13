@@ -1,0 +1,74 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/sate-taichan-bekasi-khas-uni-duta-25b9b3e0-fc52-40f2-8ea6-8debb71288f8",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Sate",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:19:15.113257",
+  "crawling_time_epoch": 1705155555,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Sate_Taichan_Bekasi_Khas_Uni_Duta/json/eac0bcab-681a-4a0f-a260-c7078244a3d9.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Sate_Taichan_Bekasi_Khas_Uni_Duta/json/eac0bcab-681a-4a0f-a260-c7078244a3d9.json",
+  "reviews_name": "Sate Taichan Bekasi \"Khas Uni\", Duta",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.52
+  },
+  "range_prices": "16k-40k",
+  "restaurant_id": "25b9b3e0-fc52-40f2-8ea6-8debb71288f8",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.7,
+      "total": 4176
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 304,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 196,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 186,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "eac0bcab-681a-4a0f-a260-c7078244a3d9",
+    "username_reviews": "G***",
+    "initialName": "G",
+    "image_reviews": null,
+    "created_time": "2020-05-04T14:07:05.815+07:00",
+    "created_time_epoch": 1588601225,
+    "reviews_rating": 3,
+    "orders": {
+      "orderedAt": "2020-05-02T12:38:47.313382Z",
+      "items": [
+        {
+          "id": "6979c9ec-312c-49a8-8894-54128c7bd9d6",
+          "name": "Sate Kulit 10 Tusuk"
+        },
+        {
+          "id": "512e4110-9a57-43ea-a55b-25926c20045d",
+          "name": "Sate Dada 10 Tusuk"
+        },
+        {
+          "id": "69febda6-265f-48bf-822d-f774f58eac24",
+          "name": "Extra Sambal"
+        }
+      ]
+    },
+    "tags_review": [
+      "",
+      "gofood.co.id"
+    ],
+    "content_reviews": "sate kulitnya gosong",
+    "date_of_experience": ""
+  }
+}

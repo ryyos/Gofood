@@ -1,0 +1,74 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/pizza-hut-kemang-pratama-619b40c5-b111-4004-a05e-2cf6526de384",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Barat",
+    "Jajanan",
+    "Ayam & bebek",
+    "Pizza & pasta",
+    "Cepat saji",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:20:55.807619",
+  "crawling_time_epoch": 1705155655,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Pizza_Hut_Kemang_Pratama/json/31327da6-986e-4b7c-89b9-b4cb64a9e8cb.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Pizza_Hut_Kemang_Pratama/json/31327da6-986e-4b7c-89b9-b4cb64a9e8cb.json",
+  "reviews_name": "Pizza Hut, Kemang Pratama",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.99
+  },
+  "range_prices": ">100k",
+  "restaurant_id": "619b40c5-b111-4004-a05e-2cf6526de384",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.8,
+      "total": 12460
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 997,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 804,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 735,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "31327da6-986e-4b7c-89b9-b4cb64a9e8cb",
+    "username_reviews": "T*****",
+    "initialName": "T",
+    "image_reviews": null,
+    "created_time": "2021-10-25T12:08:23.964179+07:00",
+    "created_time_epoch": 1635163703,
+    "reviews_rating": 3,
+    "orders": {
+      "orderedAt": "2021-10-25T04:17:10.01292Z",
+      "items": [
+        {
+          "id": "dd43229a-1ce9-410b-abaa-9b1d54a46df8",
+          "name": "Triple Box Stuffed Crust with Crispy Cheese"
+        },
+        {
+          "id": "72027113-83d7-4782-89ae-8a0638c662be",
+          "name": "Paket Double"
+        }
+      ]
+    },
+    "tags_review": [
+      "CANNED_RESPONSE_VALUE",
+      "gofood.co.id"
+    ],
+    "content_reviews": "rice chicken delightnya asal2an banget, lasagnanya juga",
+    "date_of_experience": ""
+  }
+}

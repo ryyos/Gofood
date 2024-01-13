@@ -1,0 +1,78 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/mcdonald-s-pekayon-50150204-8f6d-4372-8458-668f1be126e8",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Cepat saji",
+    "Sweets",
+    "Jajanan",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:17:21.424093",
+  "crawling_time_epoch": 1705155441,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/McDonalds_Pekayon/json/8be9e7af-c76f-46aa-b2cb-663cf1391077.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/McDonalds_Pekayon/json/8be9e7af-c76f-46aa-b2cb-663cf1391077.json",
+  "reviews_name": "McDonald's, Pekayon",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.46
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "50150204-8f6d-4372-8458-668f1be126e8",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.8,
+      "total": 70397
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 4555,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 3695,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 3669,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "8be9e7af-c76f-46aa-b2cb-663cf1391077",
+    "username_reviews": "R****",
+    "initialName": "R",
+    "image_reviews": null,
+    "created_time": "2023-09-04T00:07:36.179861+07:00",
+    "created_time_epoch": 1693786056,
+    "reviews_rating": 1,
+    "orders": {
+      "orderedAt": "2023-09-03T16:03:13.13628Z",
+      "items": [
+        {
+          "id": "b0c30b98-de9d-4937-9fdd-8de992e70d3f",
+          "name": "1pc Krispy Chicken"
+        },
+        {
+          "id": "2cd3ff2b-1f45-413b-81a8-4cd1c23c4edd",
+          "name": "Cheeseburger."
+        },
+        {
+          "id": "34385ab4-50fb-4552-9a1e-ff0c67ff698c",
+          "name": "Soda Asam Jawa"
+        }
+      ]
+    },
+    "tags_review": [
+      "CANNED_RESPONSE_FRESHNESS",
+      "CANNED_RESPONSE_VALUE",
+      "CANNED_RESPONSE_ORDER",
+      "gofood.co.id"
+    ],
+    "content_reviews": "Pesen ayam yang satuan (bukan yang paket) udah ditulis pesennya DADA malah yang dateng paha bawah. Padahal sengaja order yang satuan supaya dapat dada dan harga ayam satuan lebih mahal dibanding harga ayam yang paket, tapi malah ngga sesuai pesanan. Mana ayamnya rada gelap seperti bekas digoreng ulang. Kalo gw order ayam satuan langsung di resto selalu pesan dada & pasti selalu dikasih dada sesuai pesanan gw.",
+    "date_of_experience": ""
+  }
+}

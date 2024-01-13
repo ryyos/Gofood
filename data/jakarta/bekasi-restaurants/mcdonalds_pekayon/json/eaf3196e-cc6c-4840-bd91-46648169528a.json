@@ -1,0 +1,71 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/mcdonald-s-pekayon-50150204-8f6d-4372-8458-668f1be126e8",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Cepat saji",
+    "Sweets",
+    "Jajanan",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:17:21.424093",
+  "crawling_time_epoch": 1705155441,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/McDonalds_Pekayon/json/eaf3196e-cc6c-4840-bd91-46648169528a.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/McDonalds_Pekayon/json/eaf3196e-cc6c-4840-bd91-46648169528a.json",
+  "reviews_name": "McDonald's, Pekayon",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.46
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "50150204-8f6d-4372-8458-668f1be126e8",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.8,
+      "total": 70397
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 4555,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 3695,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 3669,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "eaf3196e-cc6c-4840-bd91-46648169528a",
+    "username_reviews": "B************",
+    "initialName": "B",
+    "image_reviews": null,
+    "created_time": "2021-09-19T11:42:36.394349+07:00",
+    "created_time_epoch": 1632051756,
+    "reviews_rating": 4,
+    "orders": {
+      "orderedAt": "2021-09-19T04:08:58.675935Z",
+      "items": [
+        {
+          "id": "88583146-cbb7-4b69-835a-ef19e3773259",
+          "name": "PROMO - 3 Ayam Krispy McD + 3 reg. Rice"
+        },
+        {
+          "id": "f9bf2871-3135-47d4-894c-70d40dc66d1a",
+          "name": "Chicken Burger Deluxe McFlavor Set + Colorful Bottle"
+        }
+      ]
+    },
+    "tags_review": [
+      "gofood.co.id"
+    ],
+    "content_reviews": "lemon tea dan botel minum nya tidak ada. terlupa ya? ",
+    "date_of_experience": ""
+  }
+}

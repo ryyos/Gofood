@@ -1,0 +1,76 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/richeese-factory-pekayon-fb7c3452-2cba-464a-9e24-23840a40a179",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Cepat saji",
+    "Ayam & bebek",
+    "Aneka nasi",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:20:23.240256",
+  "crawling_time_epoch": 1705155623,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Richeese_Factory_Pekayon/json/638f2eb5-2323-4b10-8df0-4a657035e653.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Richeese_Factory_Pekayon/json/638f2eb5-2323-4b10-8df0-4a657035e653.json",
+  "reviews_name": "Richeese Factory, Pekayon",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.97
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "fb7c3452-2cba-464a-9e24-23840a40a179",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.7,
+      "total": 32095
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 2029,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 1477,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 1469,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "638f2eb5-2323-4b10-8df0-4a657035e653",
+    "username_reviews": "C****",
+    "initialName": "C",
+    "image_reviews": null,
+    "created_time": "2020-03-25T12:47:31.594+07:00",
+    "created_time_epoch": 1585140451,
+    "reviews_rating": 5,
+    "orders": {
+      "orderedAt": "2020-03-23T11:32:45.94301Z",
+      "items": [
+        {
+          "id": "4141083f-15b3-4173-9e5d-3f4b56647c5b",
+          "name": "Fire Chicken 1 Pcs"
+        },
+        {
+          "id": "3f79b458-7acd-403e-8e5b-d96fd777d397",
+          "name": "Rice Ala Carte"
+        },
+        {
+          "id": "b173bcb0-80d7-41ba-abf1-b11755c76684",
+          "name": "BBQ Sauce Lev 0 - Lev 5"
+        }
+      ]
+    },
+    "tags_review": [
+      "",
+      "gofood.co.id"
+    ],
+    "content_reviews": "sering bgt beli nasi disini tapi gapernah dikasih, udh 3x kayak gt pdhl udh dibayar & dipesen dari aplikasi.",
+    "date_of_experience": ""
+  }
+}

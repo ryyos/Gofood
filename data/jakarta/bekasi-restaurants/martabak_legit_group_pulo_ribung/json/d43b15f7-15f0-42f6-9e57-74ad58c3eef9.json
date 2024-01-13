@@ -1,0 +1,70 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/martabak-legit-group-pulo-ribung-e7bc6ee0-6632-451a-b5cf-adb7af7c3da9",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Jajanan",
+    "Martabak",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:20:03.652928",
+  "crawling_time_epoch": 1705155603,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Martabak_Legit_Group_Pulo_Ribung/json/d43b15f7-15f0-42f6-9e57-74ad58c3eef9.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Martabak_Legit_Group_Pulo_Ribung/json/d43b15f7-15f0-42f6-9e57-74ad58c3eef9.json",
+  "reviews_name": "Martabak Legit Group, Pulo Ribung",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.71
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "e7bc6ee0-6632-451a-b5cf-adb7af7c3da9",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.5,
+      "total": 1731
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 174,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 137,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 126,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "d43b15f7-15f0-42f6-9e57-74ad58c3eef9",
+    "username_reviews": "S******",
+    "initialName": "S",
+    "image_reviews": null,
+    "created_time": "2023-11-01T20:17:16.033265+07:00",
+    "created_time_epoch": 1698869836,
+    "reviews_rating": 1,
+    "orders": {
+      "orderedAt": "2023-11-01T12:17:49.106133Z",
+      "items": [
+        {
+          "id": "5a24d24c-4e69-47b7-a417-347423156ff4",
+          "name": "Chillvember 1"
+        },
+        {
+          "id": "582c5189-5bae-47c1-930d-0d99e6ce2d78",
+          "name": "Martabak Manis Tiramisu Cokelat"
+        }
+      ]
+    },
+    "tags_review": [
+      "gofood.co.id"
+    ],
+    "content_reviews": "martabak rasa telor dadar, udah gitu dikasih air kobokan, apa maksudnya? tuh air kobokan buat gua cocolin ke martabak? dongo lu ya air kobokan dikasih customer, mending sebelum lu kasih ke orang, lu cobain dulu tuh air rasa apaan, lu minum tuh air segelas gua kasih duit sebulan gaji lu disitu, emosi gua udah martabak kaga enak, ga ada bedanya sama telor dadar, dikasih air kobokan pula, dongo lu semua",
+    "date_of_experience": ""
+  }
+}

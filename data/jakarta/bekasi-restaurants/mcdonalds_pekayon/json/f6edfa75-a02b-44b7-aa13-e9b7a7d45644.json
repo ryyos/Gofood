@@ -1,0 +1,71 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/mcdonald-s-pekayon-50150204-8f6d-4372-8458-668f1be126e8",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Cepat saji",
+    "Sweets",
+    "Jajanan",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:17:21.424093",
+  "crawling_time_epoch": 1705155441,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/McDonalds_Pekayon/json/f6edfa75-a02b-44b7-aa13-e9b7a7d45644.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/McDonalds_Pekayon/json/f6edfa75-a02b-44b7-aa13-e9b7a7d45644.json",
+  "reviews_name": "McDonald's, Pekayon",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.46
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "50150204-8f6d-4372-8458-668f1be126e8",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.8,
+      "total": 70397
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 4555,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 3695,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 3669,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "f6edfa75-a02b-44b7-aa13-e9b7a7d45644",
+    "username_reviews": "Muhammad Kholif",
+    "initialName": "MK",
+    "image_reviews": null,
+    "created_time": "2022-11-30T00:32:36.460077+07:00",
+    "created_time_epoch": 1669768356,
+    "reviews_rating": 1,
+    "orders": {
+      "orderedAt": "2022-11-29T16:50:14.128265Z",
+      "items": [
+        {
+          "id": "132f0bf0-259e-46d2-8d45-45294cb17f56",
+          "name": "Iced Coffee Italian Dolce with Jelly Float"
+        },
+        {
+          "id": "be9c80e6-20e1-4c61-95de-1bc4c85e76f2",
+          "name": "Choco Marshmallow Pie"
+        }
+      ]
+    },
+    "tags_review": [
+      "gofood.co.id"
+    ],
+    "content_reviews": "gimana sih mcd, saya order dari gofood sampe rumah ancur semua minuman pada tumpah rugi waktu sama uang, sampe rumah minuman tumpah semua, tolong pelayanannya ditingkatkan lagi terutama minuman dan makanan yang driver bawa, karna mudah tumpah",
+    "date_of_experience": ""
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/bang-raden-gerobak-kopi-grand-galaxy-city-11ac8186-f8f3-4965-9a75-13c2dfc2581d",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Minuman",
+    "Kopi",
+    "Sweets",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:21:18.616977",
+  "crawling_time_epoch": 1705155678,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Bang_Raden_Gerobak_Kopi_Grand_Galaxy_City/json/9b4f5545-f3c8-4db3-8ab0-eb0f6909664d.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Bang_Raden_Gerobak_Kopi_Grand_Galaxy_City/json/9b4f5545-f3c8-4db3-8ab0-eb0f6909664d.json",
+  "reviews_name": "Bang Raden Gerobak Kopi, Grand Galaxy City",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 1
+  },
+  "range_prices": "16k-40k",
+  "restaurant_id": "11ac8186-f8f3-4965-9a75-13c2dfc2581d",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.8,
+      "total": 3944
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 461,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 337,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 315,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "9b4f5545-f3c8-4db3-8ab0-eb0f6909664d",
+    "username_reviews": "O*****",
+    "initialName": "O",
+    "image_reviews": null,
+    "created_time": "2022-01-27T20:36:05.658167+07:00",
+    "created_time_epoch": 1643315765,
+    "reviews_rating": 3,
+    "orders": {
+      "orderedAt": "2022-01-27T12:56:50.925599Z",
+      "items": [
+        {
+          "id": "cda9c14c-8f43-44fc-a4e8-56dbabe74efb",
+          "name": "Kopi Rakyat ( Best Seller )"
+        },
+        {
+          "id": "f72fbe2d-8580-4978-94a4-1422709a9c01",
+          "name": "Cireng"
+        },
+        {
+          "id": "b15a5494-b0ec-4a49-8d4a-1aa0a0164bef",
+          "name": "Ice Lychee Tea"
+        }
+      ]
+    },
+    "tags_review": [
+      "gofood.co.id"
+    ],
+    "content_reviews": "lychee teanya banyak serbuk tehnya bgt",
+    "date_of_experience": ""
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/sari-rasa-pekayon-ruko-bukit-safira-1457b34a-58b8-4ac5-b2b1-f64b5c9c967f",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Sate",
+    "Ayam & bebek",
+    "Aneka nasi",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:19:47.200172",
+  "crawling_time_epoch": 1705155587,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Sari_Rasa_Pekayon_Ruko_Bukit_Safira/json/4a159f38-fc6e-420f-893d-14572ab43b1a.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Sari_Rasa_Pekayon_Ruko_Bukit_Safira/json/4a159f38-fc6e-420f-893d-14572ab43b1a.json",
+  "reviews_name": "Sari Rasa Pekayon, Ruko Bukit Safira",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.6
+  },
+  "range_prices": "16k-40k",
+  "restaurant_id": "1457b34a-58b8-4ac5-b2b1-f64b5c9c967f",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.8,
+      "total": 1979
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 216,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 169,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 164,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "4a159f38-fc6e-420f-893d-14572ab43b1a",
+    "username_reviews": "S** R***",
+    "initialName": "SR",
+    "image_reviews": null,
+    "created_time": "2021-06-11T13:03:29.331956+07:00",
+    "created_time_epoch": 1623416609,
+    "reviews_rating": 5,
+    "orders": {
+      "orderedAt": "2021-06-11T05:04:40.173085Z",
+      "items": [
+        {
+          "id": "d5bfce7e-1d02-4fa9-b86d-fd31ce6894a0",
+          "name": "Sayur Asem"
+        },
+        {
+          "id": "8a67a7cc-680f-4702-95f1-591552b1431d",
+          "name": "Nasi Putih"
+        },
+        {
+          "id": "49ec49de-872d-4110-a897-25df29c15210",
+          "name": "Udang Krismin"
+        },
+        {
+          "id": "13777c16-a411-495a-93c3-7f8a0f59fd3f",
+          "name": "Tahu Goreng"
+        },
+        {
+          "id": "708b190a-23c2-42a5-a7f3-91f0742df90e",
+          "name": "Ayam Penyet"
+        }
+      ]
+    },
+    "tags_review": [
+      "CANNED_RESPONSE_FRESHNESS",
+      "CANNED_RESPONSE_TASTE",
+      "CANNED_RESPONSE_PORTION",
+      "CANNED_RESPONSE_HYGIENE",
+      "CANNED_RESPONSE_PACKAGING",
+      "CANNED_RESPONSE_VALUE",
+      "gofood.co.id"
+    ],
+    "content_reviews": "selalu langganan di sini..makanannya fresh, sambelnya nagih..",
+    "date_of_experience": ""
+  }
+}

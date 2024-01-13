@@ -1,0 +1,75 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/richeese-factory-pekayon-fb7c3452-2cba-464a-9e24-23840a40a179",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Cepat saji",
+    "Ayam & bebek",
+    "Aneka nasi",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:20:23.240256",
+  "crawling_time_epoch": 1705155623,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Richeese_Factory_Pekayon/json/ba62b704-2f8f-470d-ae28-adb60c1a67df.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Richeese_Factory_Pekayon/json/ba62b704-2f8f-470d-ae28-adb60c1a67df.json",
+  "reviews_name": "Richeese Factory, Pekayon",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.97
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "fb7c3452-2cba-464a-9e24-23840a40a179",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.7,
+      "total": 32095
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 2029,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 1477,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 1469,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "ba62b704-2f8f-470d-ae28-adb60c1a67df",
+    "username_reviews": "amel",
+    "initialName": "A",
+    "image_reviews": null,
+    "created_time": "2023-10-28T13:01:10.11955+07:00",
+    "created_time_epoch": 1698498070,
+    "reviews_rating": 2,
+    "orders": {
+      "orderedAt": "2023-10-27T10:54:34.261759Z",
+      "items": [
+        {
+          "id": "6add1fc2-0730-43f8-be06-be6df90118f8",
+          "name": "Combo 1 Fire Chicken"
+        },
+        {
+          "id": "ec22a450-63e7-43b2-8798-d36423dad0d2",
+          "name": "Combo Cheese Crackling"
+        },
+        {
+          "id": "c8ac18bc-407e-416e-bf45-1f82be1d0ea9",
+          "name": "Combo Super Hot Deal 1"
+        }
+      ]
+    },
+    "tags_review": [
+      "gofood.co.id"
+    ],
+    "content_reviews": "Pesanan ga LENGKAP.. \ncheese carkling nya GA ADA... \nKECEWA EUY",
+    "date_of_experience": ""
+  }
+}

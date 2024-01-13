@@ -1,0 +1,75 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/mcdonald-s-pekayon-50150204-8f6d-4372-8458-668f1be126e8",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Cepat saji",
+    "Sweets",
+    "Jajanan",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:17:21.424093",
+  "crawling_time_epoch": 1705155441,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/McDonalds_Pekayon/json/6875e6c6-bad2-4412-bfc8-66f70007b9d0.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/McDonalds_Pekayon/json/6875e6c6-bad2-4412-bfc8-66f70007b9d0.json",
+  "reviews_name": "McDonald's, Pekayon",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.46
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "50150204-8f6d-4372-8458-668f1be126e8",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.8,
+      "total": 70397
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 4555,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 3695,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 3669,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "6875e6c6-bad2-4412-bfc8-66f70007b9d0",
+    "username_reviews": "S***** T******",
+    "initialName": "ST",
+    "image_reviews": null,
+    "created_time": "2023-07-26T19:39:38.186559+07:00",
+    "created_time_epoch": 1690400378,
+    "reviews_rating": 1,
+    "orders": {
+      "orderedAt": "2023-07-26T12:02:24.27126Z",
+      "items": [
+        {
+          "id": "887709f5-884b-4530-b024-9c7cd2ccce7c",
+          "name": "Paket Hemat McSpicy, Large"
+        },
+        {
+          "id": "debe1310-0dfe-4523-ba3d-5e4c9b3b5502",
+          "name": "PaMer 5 Krispy"
+        },
+        {
+          "id": "cbdd8990-cff6-4bef-a81a-57b4215552dc",
+          "name": "Paket Hemat McChicken, Large"
+        }
+      ]
+    },
+    "tags_review": [
+      "gofood.co.id"
+    ],
+    "content_reviews": "Sudah order dua kali untuk extra chicken patty tidak ada sgt kecewa",
+    "date_of_experience": ""
+  }
+}

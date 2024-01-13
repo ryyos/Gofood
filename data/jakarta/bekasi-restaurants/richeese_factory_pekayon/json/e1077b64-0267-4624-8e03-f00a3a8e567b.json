@@ -1,0 +1,68 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/richeese-factory-pekayon-fb7c3452-2cba-464a-9e24-23840a40a179",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Cepat saji",
+    "Ayam & bebek",
+    "Aneka nasi",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:20:23.240256",
+  "crawling_time_epoch": 1705155623,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Richeese_Factory_Pekayon/json/e1077b64-0267-4624-8e03-f00a3a8e567b.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Richeese_Factory_Pekayon/json/e1077b64-0267-4624-8e03-f00a3a8e567b.json",
+  "reviews_name": "Richeese Factory, Pekayon",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.97
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "fb7c3452-2cba-464a-9e24-23840a40a179",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.7,
+      "total": 32095
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 2029,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 1477,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 1469,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "e1077b64-0267-4624-8e03-f00a3a8e567b",
+    "username_reviews": "B****",
+    "initialName": "B",
+    "image_reviews": null,
+    "created_time": "2022-01-04T12:34:38.244217+07:00",
+    "created_time_epoch": 1641299678,
+    "reviews_rating": 1,
+    "orders": {
+      "orderedAt": "2022-01-04T04:44:40.425478Z",
+      "items": [
+        {
+          "id": "9c29f5f7-6753-4a01-ba3d-98630f248bc2",
+          "name": "Richicken 8 Pcs"
+        }
+      ]
+    },
+    "tags_review": [
+      "CANNED_RESPONSE_VALUE",
+      "gofood.co.id"
+    ],
+    "content_reviews": "ayam tidak lagi dapat saus BBQ, cuma dapat sambal sasa sachet. Dengan harga dan kualitas ayam goreng seperti itu, lebih baik kembali ke ayam goreng tepung depan mini market.",
+    "date_of_experience": ""
+  }
+}

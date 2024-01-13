@@ -1,0 +1,72 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/domino-s-pizza-kemang-pratama-00fb7fae-fbe1-4b63-ad17-dc7094c64f9c",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Pizza & pasta",
+    "Cepat saji",
+    "Jajanan",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:18:48.067806",
+  "crawling_time_epoch": 1705155528,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Dominos_Pizza_Kemang_Pratama/json/708b2323-5ba2-4bcf-a285-79b1c91b807b.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Dominos_Pizza_Kemang_Pratama/json/708b2323-5ba2-4bcf-a285-79b1c91b807b.json",
+  "reviews_name": "Domino's Pizza, Kemang Pratama",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.47
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "00fb7fae-fbe1-4b63-ad17-dc7094c64f9c",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.7,
+      "total": 11582
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 1426,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 1210,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 1158,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "708b2323-5ba2-4bcf-a285-79b1c91b807b",
+    "username_reviews": "C***",
+    "initialName": "C",
+    "image_reviews": null,
+    "created_time": "2023-05-14T12:37:28.645723+07:00",
+    "created_time_epoch": 1684067848,
+    "reviews_rating": 4,
+    "orders": {
+      "orderedAt": "2023-05-14T04:17:29.672025Z",
+      "items": [
+        {
+          "id": "9d9a9139-5b42-4bb3-aaf1-a69c439f601f",
+          "name": "PAPI DUO PLUS - Paket 2 Medium Premium Pizza"
+        },
+        {
+          "id": "571d94e7-a1f7-4055-94b6-902191484491",
+          "name": "Ultimate Cheese Melt - Personal"
+        }
+      ]
+    },
+    "tags_review": [
+      "CANNED_RESPONSE_FRESHNESS",
+      "gofood.co.id"
+    ],
+    "content_reviews": "Lamaaaaaaaa. Pas datang sudah gak panas pula. Pdhl jarak dari resto deket bgt. Tulisannya delayed karena rame, tapi kok udah gak panas?",
+    "date_of_experience": ""
+  }
+}

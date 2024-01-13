@@ -1,0 +1,73 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/kfc-kemang-pratama-ef8c2c3e-61d6-4bd4-b9fa-10cfd6358dcf",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Cepat saji",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:19:21.062803",
+  "crawling_time_epoch": 1705155561,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/KFC_Kemang_Pratama/json/947168ee-202c-45a2-84cc-b606e6b3efb8.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/KFC_Kemang_Pratama/json/947168ee-202c-45a2-84cc-b606e6b3efb8.json",
+  "reviews_name": "KFC, Kemang Pratama",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.53
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "ef8c2c3e-61d6-4bd4-b9fa-10cfd6358dcf",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.8,
+      "total": 24067
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 2021,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 1696,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 1631,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "947168ee-202c-45a2-84cc-b606e6b3efb8",
+    "username_reviews": "R***",
+    "initialName": "R",
+    "image_reviews": null,
+    "created_time": "2019-08-31T13:40:55.473384+07:00",
+    "created_time_epoch": 1567258855,
+    "reviews_rating": 4,
+    "orders": {
+      "orderedAt": "2019-08-31T05:45:28.107099Z",
+      "items": [
+        {
+          "id": "2ae49d0f-eae1-4080-9f28-65d35cbc3afe",
+          "name": "Crispy Box HCC"
+        },
+        {
+          "id": "09f25a91-0fb2-4b18-b4fc-12a8ec4a422a",
+          "name": "Winger HCC"
+        }
+      ]
+    },
+    "tags_review": [
+      "CANNED_RESPONSE_TASTE",
+      "CANNED_RESPONSE_PORTION",
+      "CANNED_RESPONSE_PACKAGING",
+      "CANNED_RESPONSE_VALUE",
+      "gofood.co.id"
+    ],
+    "content_reviews": "Rasanya enak, garing - sesuai pesanan, porsinya pas sesuai dengan yg diorder, bila yg dibawa soup atau minuman agak tumpah tetapi dapat ditanggulangi dgn plastik lapisan luarnya, dan semoga Kualitasnya dapat dipertahankan.",
+    "date_of_experience": ""
+  }
+}

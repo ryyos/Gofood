@@ -1,0 +1,67 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/richeese-factory-pekayon-fb7c3452-2cba-464a-9e24-23840a40a179",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Cepat saji",
+    "Ayam & bebek",
+    "Aneka nasi",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:20:23.240256",
+  "crawling_time_epoch": 1705155623,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Richeese_Factory_Pekayon/json/043ee60f-b99d-4e2c-83c0-9e47329e20e2.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Richeese_Factory_Pekayon/json/043ee60f-b99d-4e2c-83c0-9e47329e20e2.json",
+  "reviews_name": "Richeese Factory, Pekayon",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.97
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "fb7c3452-2cba-464a-9e24-23840a40a179",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.7,
+      "total": 32095
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 2029,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 1477,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 1469,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "043ee60f-b99d-4e2c-83c0-9e47329e20e2",
+    "username_reviews": "A**** A****",
+    "initialName": "AA",
+    "image_reviews": null,
+    "created_time": "2023-08-30T14:55:07.412027+07:00",
+    "created_time_epoch": 1693407307,
+    "reviews_rating": 4,
+    "orders": {
+      "orderedAt": "2023-08-30T07:19:15.2828Z",
+      "items": [
+        {
+          "id": "c8ac18bc-407e-416e-bf45-1f82be1d0ea9",
+          "name": "Combo Super Hot Deal 1"
+        }
+      ]
+    },
+    "tags_review": [
+      "gofood.co.id"
+    ],
+    "content_reviews": "ini kayak nya salah pesanan soalnya saya pesen cuma satu dikasih 5 ini jg nama pengirim nya bukan saya tapi Dewi mohon dikonfirmasi saya gk enak sama yang punya 🙏",
+    "date_of_experience": ""
+  }
+}

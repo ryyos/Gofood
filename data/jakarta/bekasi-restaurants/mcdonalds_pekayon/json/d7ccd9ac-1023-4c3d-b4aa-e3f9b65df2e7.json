@@ -1,0 +1,68 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/mcdonald-s-pekayon-50150204-8f6d-4372-8458-668f1be126e8",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Cepat saji",
+    "Sweets",
+    "Jajanan",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:17:21.424093",
+  "crawling_time_epoch": 1705155441,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/McDonalds_Pekayon/json/d7ccd9ac-1023-4c3d-b4aa-e3f9b65df2e7.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/McDonalds_Pekayon/json/d7ccd9ac-1023-4c3d-b4aa-e3f9b65df2e7.json",
+  "reviews_name": "McDonald's, Pekayon",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.46
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "50150204-8f6d-4372-8458-668f1be126e8",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.8,
+      "total": 70397
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 4555,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 3695,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 3669,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "d7ccd9ac-1023-4c3d-b4aa-e3f9b65df2e7",
+    "username_reviews": "E** B********",
+    "initialName": "EB",
+    "image_reviews": null,
+    "created_time": "2023-11-17T23:41:25.265019+07:00",
+    "created_time_epoch": 1700264485,
+    "reviews_rating": 2,
+    "orders": {
+      "orderedAt": "2023-11-17T14:42:31.39681Z",
+      "items": [
+        {
+          "id": "8d871827-62ef-4dd8-a042-8fe044d6ae0e",
+          "name": "PROMO-3 Ayam Spicy McD+ 3 Reg. Nasi+ 3 Reg. Fruit Tea Lemon"
+        }
+      ]
+    },
+    "tags_review": [
+      "CANNED_RESPONSE_VALUE",
+      "gofood.co.id"
+    ],
+    "content_reviews": "Saosnya di kasihnya ngepas banget, ga ada salt",
+    "date_of_experience": ""
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/sate-taichan-bekasi-khas-uni-duta-25b9b3e0-fc52-40f2-8ea6-8debb71288f8",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Sate",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:19:15.113257",
+  "crawling_time_epoch": 1705155555,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Sate_Taichan_Bekasi_Khas_Uni_Duta/json/e113b206-7e74-4f64-aedd-6af95298520c.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Sate_Taichan_Bekasi_Khas_Uni_Duta/json/e113b206-7e74-4f64-aedd-6af95298520c.json",
+  "reviews_name": "Sate Taichan Bekasi \"Khas Uni\", Duta",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.52
+  },
+  "range_prices": "16k-40k",
+  "restaurant_id": "25b9b3e0-fc52-40f2-8ea6-8debb71288f8",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.7,
+      "total": 4176
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 304,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 196,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 186,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "e113b206-7e74-4f64-aedd-6af95298520c",
+    "username_reviews": "F**** R*****",
+    "initialName": "FR",
+    "image_reviews": null,
+    "created_time": "2021-11-18T22:54:05.439264+07:00",
+    "created_time_epoch": 1637276045,
+    "reviews_rating": 1,
+    "orders": {
+      "orderedAt": "2021-11-18T14:36:09.81078Z",
+      "items": [
+        {
+          "id": "d933d40b-a1e2-41a0-94f9-99e78b93e516",
+          "name": "Kerupuk"
+        }
+      ]
+    },
+    "tags_review": [
+      "CANNED_RESPONSE_ORDER",
+      "gofood.co.id"
+    ],
+    "content_reviews": "Kerupuk tidak sesuai yang ada di gambar",
+    "date_of_experience": ""
+  }
+}

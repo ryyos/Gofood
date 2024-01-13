@@ -1,0 +1,75 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/mcdonald-s-pekayon-50150204-8f6d-4372-8458-668f1be126e8",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Cepat saji",
+    "Sweets",
+    "Jajanan",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:17:21.424093",
+  "crawling_time_epoch": 1705155441,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/McDonalds_Pekayon/json/c564465a-4758-4587-9e9b-b797374a0054.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/McDonalds_Pekayon/json/c564465a-4758-4587-9e9b-b797374a0054.json",
+  "reviews_name": "McDonald's, Pekayon",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.46
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "50150204-8f6d-4372-8458-668f1be126e8",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.8,
+      "total": 70397
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 4555,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 3695,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 3669,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "c564465a-4758-4587-9e9b-b797374a0054",
+    "username_reviews": "J**** G**",
+    "initialName": "JG",
+    "image_reviews": null,
+    "created_time": "2022-10-02T22:08:16.05651+07:00",
+    "created_time_epoch": 1664748496,
+    "reviews_rating": 1,
+    "orders": {
+      "orderedAt": "2022-10-02T14:26:31.829409Z",
+      "items": [
+        {
+          "id": "f11193ef-307b-4187-80a1-0120eff8c82f",
+          "name": "PaMer 7 Mix"
+        },
+        {
+          "id": "43ed7489-8a77-46e7-9b4c-d664effe491c",
+          "name": "Paket Hemat Triple Burger Cheese Large Colorful Bottle"
+        },
+        {
+          "id": "43ed7489-8a77-46e7-9b4c-d664effe491c",
+          "name": "Paket Hemat Triple Burger Cheese Large Colorful Bottle"
+        }
+      ]
+    },
+    "tags_review": [
+      "gofood.co.id"
+    ],
+    "content_reviews": "Pamer 7 nya tidak di kirim",
+    "date_of_experience": ""
+  }
+}

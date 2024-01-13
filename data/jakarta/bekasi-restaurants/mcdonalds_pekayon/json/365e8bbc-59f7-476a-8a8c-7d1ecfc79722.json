@@ -1,0 +1,72 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/mcdonald-s-pekayon-50150204-8f6d-4372-8458-668f1be126e8",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Cepat saji",
+    "Sweets",
+    "Jajanan",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:17:21.424093",
+  "crawling_time_epoch": 1705155441,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/McDonalds_Pekayon/json/365e8bbc-59f7-476a-8a8c-7d1ecfc79722.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/McDonalds_Pekayon/json/365e8bbc-59f7-476a-8a8c-7d1ecfc79722.json",
+  "reviews_name": "McDonald's, Pekayon",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.46
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "50150204-8f6d-4372-8458-668f1be126e8",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.8,
+      "total": 70397
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 4555,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 3695,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 3669,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "365e8bbc-59f7-476a-8a8c-7d1ecfc79722",
+    "username_reviews": "wimpy",
+    "initialName": "W",
+    "image_reviews": null,
+    "created_time": "2022-12-04T20:39:43.558294+07:00",
+    "created_time_epoch": 1670186383,
+    "reviews_rating": 1,
+    "orders": {
+      "orderedAt": "2022-12-03T04:59:34.011152Z",
+      "items": [
+        {
+          "id": "e738fbd8-a772-4e35-83e6-dbb0caac86c0",
+          "name": "Paket Hemat Double Cheeseburger, Medium"
+        },
+        {
+          "id": "ede981c9-dbec-4255-a1d8-92e16e8c5d8e",
+          "name": "PaNas 1 Spicy, Large"
+        }
+      ]
+    },
+    "tags_review": [
+      "CANNED_RESPONSE_ORDER",
+      "gofood.co.id"
+    ],
+    "content_reviews": "nasinya lupa dimasukkan.. trus saya hrs komplain k3mana",
+    "date_of_experience": ""
+  }
+}

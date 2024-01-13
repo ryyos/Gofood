@@ -1,0 +1,72 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/mcdonald-s-pekayon-50150204-8f6d-4372-8458-668f1be126e8",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Cepat saji",
+    "Sweets",
+    "Jajanan",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:17:21.424093",
+  "crawling_time_epoch": 1705155441,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/McDonalds_Pekayon/json/02896f11-2b0f-472b-8dc7-f4156c971e41.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/McDonalds_Pekayon/json/02896f11-2b0f-472b-8dc7-f4156c971e41.json",
+  "reviews_name": "McDonald's, Pekayon",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.46
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "50150204-8f6d-4372-8458-668f1be126e8",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.8,
+      "total": 70397
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 4555,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 3695,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 3669,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "02896f11-2b0f-472b-8dc7-f4156c971e41",
+    "username_reviews": "F****",
+    "initialName": "F",
+    "image_reviews": null,
+    "created_time": "2021-01-27T10:43:23.106+07:00",
+    "created_time_epoch": 1611744203,
+    "reviews_rating": 1,
+    "orders": {
+      "orderedAt": "2021-01-27T01:18:27.475115Z",
+      "items": [
+        {
+          "id": "535ff0a6-5ecf-4299-bb9a-f8f8985b9c24",
+          "name": "Breakfast Wrap"
+        },
+        {
+          "id": "40a39ed2-0c6d-44da-b8dc-57de076d028e",
+          "name": "PaNas 1 Medium"
+        }
+      ]
+    },
+    "tags_review": [
+      "",
+      "gofood.co.id"
+    ],
+    "content_reviews": "beli 3 makanan, saos cuma 1. selalu kurang saosnya kl pesan mcd",
+    "date_of_experience": ""
+  }
+}

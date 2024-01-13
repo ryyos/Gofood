@@ -1,0 +1,72 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/sweevory-delight-bekasi-selatan-f3a625e8-9183-4159-9717-85a0a64c6808",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Minuman",
+    "Roti",
+    "Kopi",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:21:22.495121",
+  "crawling_time_epoch": 1705155682,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Sweevory_Delight_Bekasi_Selatan/json/f31f077d-d49b-442b-9810-935faa7d1b27.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Sweevory_Delight_Bekasi_Selatan/json/f31f077d-d49b-442b-9810-935faa7d1b27.json",
+  "reviews_name": "Sweevory Delight, Bekasi Selatan",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 1.02
+  },
+  "range_prices": "16k-40k",
+  "restaurant_id": "f3a625e8-9183-4159-9717-85a0a64c6808",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.4,
+      "total": 81
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 34,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 14,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 12,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "f31f077d-d49b-442b-9810-935faa7d1b27",
+    "username_reviews": "Nasywaa 😎",
+    "initialName": "N",
+    "image_reviews": null,
+    "created_time": "2022-03-26T18:32:56.518918+07:00",
+    "created_time_epoch": 1648319576,
+    "reviews_rating": 5,
+    "orders": {
+      "orderedAt": "2022-02-11T06:12:21.876923Z",
+      "items": [
+        {
+          "id": "a047b310-963c-4cd0-b0c4-a179c32cddfb",
+          "name": "Taru Gyudon"
+        },
+        {
+          "id": "c4f265e8-dd61-421f-9690-5a1e3bd3c063",
+          "name": "Salmon Kani Mentai Shirataki Noodle"
+        }
+      ]
+    },
+    "tags_review": [
+      "CANNED_RESPONSE_TASTE",
+      "gofood.co.id"
+    ],
+    "content_reviews": "enkkk sii, udh berkali kali beli jugaa",
+    "date_of_experience": ""
+  }
+}

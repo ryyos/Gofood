@@ -1,0 +1,95 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/mcdonald-s-pekayon-50150204-8f6d-4372-8458-668f1be126e8",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Cepat saji",
+    "Sweets",
+    "Jajanan",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:17:21.424093",
+  "crawling_time_epoch": 1705155441,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/McDonalds_Pekayon/json/ba67fa31-e0d6-4dbb-86b4-20ea71831e21.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/McDonalds_Pekayon/json/ba67fa31-e0d6-4dbb-86b4-20ea71831e21.json",
+  "reviews_name": "McDonald's, Pekayon",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.46
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "50150204-8f6d-4372-8458-668f1be126e8",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.8,
+      "total": 70397
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 4555,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 3695,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 3669,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "ba67fa31-e0d6-4dbb-86b4-20ea71831e21",
+    "username_reviews": "zaki",
+    "initialName": "Z",
+    "image_reviews": null,
+    "created_time": "2023-04-15T04:41:41.540939+07:00",
+    "created_time_epoch": 1681533701,
+    "reviews_rating": 3,
+    "orders": {
+      "orderedAt": "2023-04-13T20:24:25.175439Z",
+      "items": [
+        {
+          "id": "54969281-edf3-4b71-bb87-bf7fdec52c04",
+          "name": "Double Choco Pie"
+        },
+        {
+          "id": "c1f1124a-8937-479c-a39f-6839c2a58343",
+          "name": "PaHeBat Cheeseburger Deluxe, Medium"
+        },
+        {
+          "id": "96d35d0f-96ba-4a33-9f9c-bfa18282317e",
+          "name": "French Fries Medium"
+        },
+        {
+          "id": "8d387ed7-fe8b-422f-a0df-fb23d713c137",
+          "name": "2 pcs Spicy Chicken McD"
+        },
+        {
+          "id": "b0c30b98-de9d-4937-9fdd-8de992e70d3f",
+          "name": "1pc Krispy Chicken"
+        },
+        {
+          "id": "1eb168a1-66d6-486d-9f13-e8a08f2b5198",
+          "name": "Large Rice"
+        },
+        {
+          "id": "f7a9be2a-80b8-4db0-9a6e-9a596260f074",
+          "name": "Triple Cheeseburger"
+        },
+        {
+          "id": "566151ef-8740-427c-ad64-58cf66e25ed2",
+          "name": "Bottled Mineral Water"
+        }
+      ]
+    },
+    "tags_review": [
+      "gofood.co.id"
+    ],
+    "content_reviews": "pesan buat sahur 2 ayam spicy, 1 krispy..  yg dateng 2 krispy, 1 spicy...\npesan paket yg ada french fries + pesan lagi french fries satu lagi... yg dateng cuma 1",
+    "date_of_experience": ""
+  }
+}

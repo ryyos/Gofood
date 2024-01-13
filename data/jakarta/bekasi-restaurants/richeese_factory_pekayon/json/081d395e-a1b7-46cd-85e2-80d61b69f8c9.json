@@ -1,0 +1,68 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/richeese-factory-pekayon-fb7c3452-2cba-464a-9e24-23840a40a179",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Cepat saji",
+    "Ayam & bebek",
+    "Aneka nasi",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:20:23.240256",
+  "crawling_time_epoch": 1705155623,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Richeese_Factory_Pekayon/json/081d395e-a1b7-46cd-85e2-80d61b69f8c9.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Richeese_Factory_Pekayon/json/081d395e-a1b7-46cd-85e2-80d61b69f8c9.json",
+  "reviews_name": "Richeese Factory, Pekayon",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.97
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "fb7c3452-2cba-464a-9e24-23840a40a179",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.7,
+      "total": 32095
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 2029,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 1477,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 1469,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "081d395e-a1b7-46cd-85e2-80d61b69f8c9",
+    "username_reviews": "A**** P*******",
+    "initialName": "AP",
+    "image_reviews": null,
+    "created_time": "2019-10-07T17:02:08.528+07:00",
+    "created_time_epoch": 1570467728,
+    "reviews_rating": 5,
+    "orders": {
+      "orderedAt": "2019-10-06T14:39:45.654834Z",
+      "items": [
+        {
+          "id": "16bdd0a7-81a7-44da-a159-8a9271bd12a6",
+          "name": "Combo 3 Chicken Bite"
+        }
+      ]
+    },
+    "tags_review": [
+      "CANNED_RESPONSE_VALUE",
+      "gofood.co.id"
+    ],
+    "content_reviews": "Salam Buat Karyawan yg Bernama Avisa Ciasnita",
+    "date_of_experience": ""
+  }
+}

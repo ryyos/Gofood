@@ -1,0 +1,61 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/takoyaki-takomaru-grand-galaxy-bekasi-cde0b647-04b5-40ab-83a1-bd979bdd7638",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Jajanan",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:21:10.973250",
+  "crawling_time_epoch": 1705155670,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Takoyaki_Takomaru_Grand_Galaxy_Bekasi/json/568ee28c-0940-46fd-92fd-71366b955731.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Takoyaki_Takomaru_Grand_Galaxy_Bekasi/json/568ee28c-0940-46fd-92fd-71366b955731.json",
+  "reviews_name": "Takoyaki Takomaru, Grand Galaxy Bekasi",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 1
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "cde0b647-04b5-40ab-83a1-bd979bdd7638",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.6,
+      "total": 246
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 29,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 23,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 20,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "568ee28c-0940-46fd-92fd-71366b955731",
+    "username_reviews": "H******",
+    "initialName": "H",
+    "image_reviews": null,
+    "created_time": "2018-05-30T11:28:46.857334+07:00",
+    "created_time_epoch": 1527679726,
+    "reviews_rating": 3,
+    "orders": {
+      "orderedAt": "2018-05-29T09:32:48.197753Z",
+      "items": []
+    },
+    "tags_review": [
+      "",
+      "gofood.co.id"
+    ],
+    "content_reviews": "Citra rasa kurang",
+    "date_of_experience": ""
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/mcdonald-s-pekayon-50150204-8f6d-4372-8458-668f1be126e8",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Cepat saji",
+    "Sweets",
+    "Jajanan",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:17:21.424093",
+  "crawling_time_epoch": 1705155441,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/McDonalds_Pekayon/json/7eb2cec9-275d-4056-afa6-3b5f8ad7b1ec.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/McDonalds_Pekayon/json/7eb2cec9-275d-4056-afa6-3b5f8ad7b1ec.json",
+  "reviews_name": "McDonald's, Pekayon",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.46
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "50150204-8f6d-4372-8458-668f1be126e8",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.8,
+      "total": 70397
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 4555,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 3695,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 3669,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "7eb2cec9-275d-4056-afa6-3b5f8ad7b1ec",
+    "username_reviews": "novi",
+    "initialName": "N",
+    "image_reviews": null,
+    "created_time": "2022-05-29T08:36:39.80177+07:00",
+    "created_time_epoch": 1653813399,
+    "reviews_rating": 3,
+    "orders": {
+      "orderedAt": "2022-05-29T00:49:00.056036Z",
+      "items": [
+        {
+          "id": "813aeda4-cc00-424f-971d-a38aa9aa4e64",
+          "name": "Paket Nasi Uduk McD Ayam Suwir"
+        },
+        {
+          "id": "a6b0eb08-17da-48aa-ae2c-85882e299049",
+          "name": "McD Chicken Porridge"
+        }
+      ]
+    },
+    "tags_review": [
+      "CANNED_RESPONSE_ORDER",
+      "gofood.co.id"
+    ],
+    "content_reviews": "saya pesan semua bubur ayam daun bawang-nya di pisah kok malah disatuin daun bawang sama bubur ayam-nya ",
+    "date_of_experience": ""
+  }
+}

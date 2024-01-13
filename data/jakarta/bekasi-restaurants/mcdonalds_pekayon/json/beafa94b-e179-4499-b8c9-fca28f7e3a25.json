@@ -1,0 +1,67 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/mcdonald-s-pekayon-50150204-8f6d-4372-8458-668f1be126e8",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Cepat saji",
+    "Sweets",
+    "Jajanan",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:17:21.424093",
+  "crawling_time_epoch": 1705155441,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/McDonalds_Pekayon/json/beafa94b-e179-4499-b8c9-fca28f7e3a25.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/McDonalds_Pekayon/json/beafa94b-e179-4499-b8c9-fca28f7e3a25.json",
+  "reviews_name": "McDonald's, Pekayon",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.46
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "50150204-8f6d-4372-8458-668f1be126e8",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.8,
+      "total": 70397
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 4555,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 3695,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 3669,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "beafa94b-e179-4499-b8c9-fca28f7e3a25",
+    "username_reviews": "M** R****",
+    "initialName": "MR",
+    "image_reviews": null,
+    "created_time": "2021-10-01T20:45:34.746889+07:00",
+    "created_time_epoch": 1633121134,
+    "reviews_rating": 5,
+    "orders": {
+      "orderedAt": "2021-09-30T15:54:42.411153Z",
+      "items": [
+        {
+          "id": "9cca7113-b800-4cdf-a9f4-55079fc9fdf7",
+          "name": "2 Ayam Krispy McD + 2 Ayam Spicy McD + 2 Tehbotol Kotak"
+        }
+      ]
+    },
+    "tags_review": [
+      "gofood.co.id"
+    ],
+    "content_reviews": "tumben enak rasanya gueih",
+    "date_of_experience": ""
+  }
+}

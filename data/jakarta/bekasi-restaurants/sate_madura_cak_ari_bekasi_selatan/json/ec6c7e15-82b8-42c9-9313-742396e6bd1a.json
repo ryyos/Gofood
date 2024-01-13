@@ -1,0 +1,73 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/sate-madura-cak-ari-bekasi-selatan-65c0efa7-65ff-4868-95e5-a4ec690c6c14",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Sate",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:19:50.904999",
+  "crawling_time_epoch": 1705155590,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Sate_Madura_Cak_Ari_Bekasi_Selatan/json/ec6c7e15-82b8-42c9-9313-742396e6bd1a.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Sate_Madura_Cak_Ari_Bekasi_Selatan/json/ec6c7e15-82b8-42c9-9313-742396e6bd1a.json",
+  "reviews_name": "Sate Madura Cak Ari, Bekasi Selatan",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.69
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "65c0efa7-65ff-4868-95e5-a4ec690c6c14",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.7,
+      "total": 6478
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 827,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 589,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 535,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "ec6c7e15-82b8-42c9-9313-742396e6bd1a",
+    "username_reviews": "O***",
+    "initialName": "O",
+    "image_reviews": null,
+    "created_time": "2021-10-02T19:29:39.977541+07:00",
+    "created_time_epoch": 1633202979,
+    "reviews_rating": 1,
+    "orders": {
+      "orderedAt": "2021-10-02T11:32:43.866641Z",
+      "items": [
+        {
+          "id": "4dea2afc-9afa-4c36-a3f8-da81e48e3de9",
+          "name": "Lontong"
+        },
+        {
+          "id": "08b25ceb-ddff-4ed7-bd11-ac7478b0e052",
+          "name": "Sate Ayam 15 Tusuk"
+        },
+        {
+          "id": "c8e769f1-87d7-415f-9c12-2f62dde5e8f9",
+          "name": "Sate Kambiing"
+        }
+      ]
+    },
+    "tags_review": [
+      "gofood.co.id"
+    ],
+    "content_reviews": "Oesen 3 lontong ngga di bawain lontongnya. Padahal di struk nya ada 3 lontong. Ngga berkah say.",
+    "date_of_experience": ""
+  }
+}

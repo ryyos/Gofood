@@ -1,0 +1,71 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/mcdonald-s-pekayon-50150204-8f6d-4372-8458-668f1be126e8",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Cepat saji",
+    "Sweets",
+    "Jajanan",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:17:21.424093",
+  "crawling_time_epoch": 1705155441,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/McDonalds_Pekayon/json/c808ec6e-1697-4b3d-a5f8-e4a999da342f.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/McDonalds_Pekayon/json/c808ec6e-1697-4b3d-a5f8-e4a999da342f.json",
+  "reviews_name": "McDonald's, Pekayon",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.46
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "50150204-8f6d-4372-8458-668f1be126e8",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.8,
+      "total": 70397
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 4555,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 3695,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 3669,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "c808ec6e-1697-4b3d-a5f8-e4a999da342f",
+    "username_reviews": "J**** F******",
+    "initialName": "JF",
+    "image_reviews": null,
+    "created_time": "2021-09-23T19:49:45.889034+07:00",
+    "created_time_epoch": 1632426585,
+    "reviews_rating": 2,
+    "orders": {
+      "orderedAt": "2021-09-18T04:35:56.214424Z",
+      "items": [
+        {
+          "id": "6b0374b3-0c7b-4b0d-8a50-afa1889a5e78",
+          "name": "PROMO - 3 Ayam Spicy McD + 3 reg. Rice"
+        },
+        {
+          "id": "88583146-cbb7-4b69-835a-ef19e3773259",
+          "name": "PROMO - 3 Ayam Krispy McD + 3 reg. Rice"
+        }
+      ]
+    },
+    "tags_review": [
+      "gofood.co.id"
+    ],
+    "content_reviews": "Bisa di cek, Di pesanan saya ini saya order banyaaaaakkkk sekali ayam dan nasi! Tapi gak dikasih saus sama sekali! parah! anak2 pada kecewa pas pada mau makan",
+    "date_of_experience": ""
+  }
+}

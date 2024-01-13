@@ -1,0 +1,70 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/pizza-hut-kemang-pratama-619b40c5-b111-4004-a05e-2cf6526de384",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Barat",
+    "Jajanan",
+    "Ayam & bebek",
+    "Pizza & pasta",
+    "Cepat saji",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:20:55.807619",
+  "crawling_time_epoch": 1705155655,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Pizza_Hut_Kemang_Pratama/json/dd3ab2fc-813c-45d1-a3aa-6407ebb78453.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Pizza_Hut_Kemang_Pratama/json/dd3ab2fc-813c-45d1-a3aa-6407ebb78453.json",
+  "reviews_name": "Pizza Hut, Kemang Pratama",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.99
+  },
+  "range_prices": ">100k",
+  "restaurant_id": "619b40c5-b111-4004-a05e-2cf6526de384",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.8,
+      "total": 12460
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 997,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 804,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 735,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "dd3ab2fc-813c-45d1-a3aa-6407ebb78453",
+    "username_reviews": "D****",
+    "initialName": "D",
+    "image_reviews": null,
+    "created_time": "2020-11-13T19:13:33.012+07:00",
+    "created_time_epoch": 1605294813,
+    "reviews_rating": 3,
+    "orders": {
+      "orderedAt": "2020-11-13T08:27:20.66252Z",
+      "items": [
+        {
+          "id": "4f00e106-f5e6-4975-88e6-3a4450ab9e70",
+          "name": "Regular PAN Pizza"
+        }
+      ]
+    },
+    "tags_review": [
+      "",
+      "gofood.co.id"
+    ],
+    "content_reviews": "mohon duperhatikan untuk penyimpanan saos jangan diatas pizza langgsung, tadi saya menemukan bungkusan saos diatas pizza sudah berlumuran saos dari toping pizza. Biasanya saos disimpan dipinggiran box pizza, kenapa sekarang dimasukan ke dalam box bareng pizza???😔",
+    "date_of_experience": ""
+  }
+}

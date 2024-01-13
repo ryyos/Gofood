@@ -1,0 +1,76 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/mcdonald-s-pekayon-50150204-8f6d-4372-8458-668f1be126e8",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Cepat saji",
+    "Sweets",
+    "Jajanan",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:17:21.424093",
+  "crawling_time_epoch": 1705155441,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/McDonalds_Pekayon/json/f8f1906b-b9f8-4b14-a7e7-054dc22501a5.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/McDonalds_Pekayon/json/f8f1906b-b9f8-4b14-a7e7-054dc22501a5.json",
+  "reviews_name": "McDonald's, Pekayon",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.46
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "50150204-8f6d-4372-8458-668f1be126e8",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.8,
+      "total": 70397
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 4555,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 3695,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 3669,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "f8f1906b-b9f8-4b14-a7e7-054dc22501a5",
+    "username_reviews": "S*******",
+    "initialName": "S",
+    "image_reviews": null,
+    "created_time": "2020-09-07T16:53:09.868+07:00",
+    "created_time_epoch": 1599497589,
+    "reviews_rating": 1,
+    "orders": {
+      "orderedAt": "2020-09-06T17:34:28.942574Z",
+      "items": [
+        {
+          "id": "f56e49c4-a2d2-4927-bf60-b3d8951c1c67",
+          "name": "PaNas 1 Large"
+        },
+        {
+          "id": "0b0cf33f-48f8-48e5-9446-e32edae71735",
+          "name": "PaNas Spesial Spicy Large"
+        },
+        {
+          "id": "6219eb11-936b-4503-86e6-b5b8a426219a",
+          "name": "Spicy Chicken Bites"
+        }
+      ]
+    },
+    "tags_review": [
+      "CANNED_RESPONSE_PORTION",
+      "gofood.co.id"
+    ],
+    "content_reviews": "Pelit amat MCD ama saos,cuma dpet 2sachet orderan  2pket nasi ayam,",
+    "date_of_experience": ""
+  }
+}

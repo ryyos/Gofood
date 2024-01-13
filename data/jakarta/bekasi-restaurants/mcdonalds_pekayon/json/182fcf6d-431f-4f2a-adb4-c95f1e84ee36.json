@@ -1,0 +1,83 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/mcdonald-s-pekayon-50150204-8f6d-4372-8458-668f1be126e8",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Cepat saji",
+    "Sweets",
+    "Jajanan",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:17:21.424093",
+  "crawling_time_epoch": 1705155441,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/McDonalds_Pekayon/json/182fcf6d-431f-4f2a-adb4-c95f1e84ee36.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/McDonalds_Pekayon/json/182fcf6d-431f-4f2a-adb4-c95f1e84ee36.json",
+  "reviews_name": "McDonald's, Pekayon",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.46
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "50150204-8f6d-4372-8458-668f1be126e8",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.8,
+      "total": 70397
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 4555,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 3695,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 3669,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "182fcf6d-431f-4f2a-adb4-c95f1e84ee36",
+    "username_reviews": "E*** - M*** C*******",
+    "initialName": "EC",
+    "image_reviews": null,
+    "created_time": "2022-04-24T14:00:22.939073+07:00",
+    "created_time_epoch": 1650808822,
+    "reviews_rating": 4,
+    "orders": {
+      "orderedAt": "2022-04-24T06:23:50.043563Z",
+      "items": [
+        {
+          "id": "421662a5-42c3-4782-b1cd-44fcad21bab9",
+          "name": "Happy Meal Ayam McD"
+        },
+        {
+          "id": "6146f9f6-c1ef-4af7-8bf7-b0f768e12ef1",
+          "name": "Mixed Berries McFlurry with OREO"
+        },
+        {
+          "id": "4c106b3b-c88b-426d-aac1-bc906404d0fa",
+          "name": "McFlurry Feat. Oreo"
+        },
+        {
+          "id": "0f939f48-9594-45d5-8894-74ecf007cf36",
+          "name": "Rica Rica Chicken Rice McD"
+        },
+        {
+          "id": "d4d2e0a1-099c-4d22-b543-cc558bbc8985",
+          "name": "White Choco Strawberry Pastry Pie"
+        }
+      ]
+    },
+    "tags_review": [
+      "gofood.co.id"
+    ],
+    "content_reviews": "kenapa setiap pesan online ga pernah dikasih saos tomat untuk happy meal?? padahal sudah berkali\" di note tetap saja ga dikasih. ",
+    "date_of_experience": ""
+  }
+}

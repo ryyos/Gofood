@@ -1,0 +1,71 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/mcdonald-s-pekayon-50150204-8f6d-4372-8458-668f1be126e8",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Cepat saji",
+    "Sweets",
+    "Jajanan",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:17:21.424093",
+  "crawling_time_epoch": 1705155441,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/McDonalds_Pekayon/json/dffbd9a9-b1bc-4202-a00f-2aa6f40a782b.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/McDonalds_Pekayon/json/dffbd9a9-b1bc-4202-a00f-2aa6f40a782b.json",
+  "reviews_name": "McDonald's, Pekayon",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.46
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "50150204-8f6d-4372-8458-668f1be126e8",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.8,
+      "total": 70397
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 4555,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 3695,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 3669,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "dffbd9a9-b1bc-4202-a00f-2aa6f40a782b",
+    "username_reviews": "A********",
+    "initialName": "A",
+    "image_reviews": null,
+    "created_time": "2022-10-30T13:09:58.740864+07:00",
+    "created_time_epoch": 1667135398,
+    "reviews_rating": 2,
+    "orders": {
+      "orderedAt": "2022-10-30T05:05:06.430311Z",
+      "items": [
+        {
+          "id": "27562a6a-40bd-4c16-a270-42cb32437f0d",
+          "name": "PaNas 1 Krispy, Large"
+        },
+        {
+          "id": "08e25971-4d76-4e1f-9542-949628938320",
+          "name": "PaNas 1 Ayam Spicy McD Kimchi"
+        }
+      ]
+    },
+    "tags_review": [
+      "gofood.co.id"
+    ],
+    "content_reviews": "pesannya yang large (dada/paha atas)harga beda \nhanya dapet paha bawah semua ",
+    "date_of_experience": ""
+  }
+}

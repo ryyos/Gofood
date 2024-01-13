@@ -1,0 +1,70 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/bubur-ayam-kampung-nyemplung-pekayon-decd86af-75d6-466d-9d74-c66a45850297",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Aneka nasi",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:20:19.392522",
+  "crawling_time_epoch": 1705155619,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Bubur_Ayam_Kampung_Nyemplung_Pekayon/json/fb785785-067d-4c68-a27d-fb968db3d6e7.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Bubur_Ayam_Kampung_Nyemplung_Pekayon/json/fb785785-067d-4c68-a27d-fb968db3d6e7.json",
+  "reviews_name": "Bubur Ayam Kampung Nyemplung, Pekayon",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.96
+  },
+  "range_prices": "<16k",
+  "restaurant_id": "decd86af-75d6-466d-9d74-c66a45850297",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.7,
+      "total": 2066
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 191,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 138,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 137,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "fb785785-067d-4c68-a27d-fb968db3d6e7",
+    "username_reviews": "P********",
+    "initialName": "P",
+    "image_reviews": null,
+    "created_time": "2020-03-17T13:24:12.951+07:00",
+    "created_time_epoch": 1584451452,
+    "reviews_rating": 2,
+    "orders": {
+      "orderedAt": "2020-03-15T12:08:12.14129Z",
+      "items": [
+        {
+          "id": "d8519448-d0cd-43f4-a597-1e25b7cb83a3",
+          "name": "Bubur Ayam Kampung 1 Porsi"
+        },
+        {
+          "id": "a9bf1225-8687-445b-b401-46fc11210d8b",
+          "name": "Sate Ati Ampela"
+        }
+      ]
+    },
+    "tags_review": [
+      "",
+      "gofood.co.id"
+    ],
+    "content_reviews": "Saya dapet gak ada ayam nya",
+    "date_of_experience": ""
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/domino-s-pizza-kemang-pratama-00fb7fae-fbe1-4b63-ad17-dc7094c64f9c",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Pizza & pasta",
+    "Cepat saji",
+    "Jajanan",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:18:48.067806",
+  "crawling_time_epoch": 1705155528,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Dominos_Pizza_Kemang_Pratama/json/d982b1ad-69c4-4d7e-895d-dc1e9cd42c9e.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Dominos_Pizza_Kemang_Pratama/json/d982b1ad-69c4-4d7e-895d-dc1e9cd42c9e.json",
+  "reviews_name": "Domino's Pizza, Kemang Pratama",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.47
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "00fb7fae-fbe1-4b63-ad17-dc7094c64f9c",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.7,
+      "total": 11582
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 1426,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 1210,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 1158,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "d982b1ad-69c4-4d7e-895d-dc1e9cd42c9e",
+    "username_reviews": "N**** R********",
+    "initialName": "NR",
+    "image_reviews": null,
+    "created_time": "2022-05-04T12:22:03.564772+07:00",
+    "created_time_epoch": 1651666923,
+    "reviews_rating": 5,
+    "orders": {
+      "orderedAt": "2022-05-04T04:01:37.662649Z",
+      "items": [
+        {
+          "id": "22534f3e-09a0-4604-9e8f-0ecc453d8cc1",
+          "name": "Buy 1 Medium HT Premium Pizza Get Disc 50% for 2nd Pizza"
+        }
+      ]
+    },
+    "tags_review": [
+      "CANNED_RESPONSE_TASTE",
+      "CANNED_RESPONSE_PORTION",
+      "CANNED_RESPONSE_HYGIENE",
+      "CANNED_RESPONSE_PACKAGING",
+      "CANNED_RESPONSE_VALUE",
+      "gofood.co.id"
+    ],
+    "content_reviews": "makanannya sgt enakkk 👍🏻👍🏻👍🏻",
+    "date_of_experience": ""
+  }
+}

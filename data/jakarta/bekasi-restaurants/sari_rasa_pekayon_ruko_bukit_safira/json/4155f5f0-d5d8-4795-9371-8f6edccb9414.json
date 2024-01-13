@@ -1,0 +1,76 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/sari-rasa-pekayon-ruko-bukit-safira-1457b34a-58b8-4ac5-b2b1-f64b5c9c967f",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Sate",
+    "Ayam & bebek",
+    "Aneka nasi",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:19:47.200172",
+  "crawling_time_epoch": 1705155587,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Sari_Rasa_Pekayon_Ruko_Bukit_Safira/json/4155f5f0-d5d8-4795-9371-8f6edccb9414.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Sari_Rasa_Pekayon_Ruko_Bukit_Safira/json/4155f5f0-d5d8-4795-9371-8f6edccb9414.json",
+  "reviews_name": "Sari Rasa Pekayon, Ruko Bukit Safira",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.6
+  },
+  "range_prices": "16k-40k",
+  "restaurant_id": "1457b34a-58b8-4ac5-b2b1-f64b5c9c967f",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.8,
+      "total": 1979
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 216,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 169,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 164,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "4155f5f0-d5d8-4795-9371-8f6edccb9414",
+    "username_reviews": "P***",
+    "initialName": "P",
+    "image_reviews": null,
+    "created_time": "2019-09-30T09:53:41.905+07:00",
+    "created_time_epoch": 1569837221,
+    "reviews_rating": 5,
+    "orders": {
+      "orderedAt": "2019-09-30T01:59:42.742286Z",
+      "items": [
+        {
+          "id": "ea23e929-a482-4302-bb6e-ba696528835c",
+          "name": "Pepes Tahu"
+        },
+        {
+          "id": "bb4cc5c9-1987-4b80-81d1-f954f7d3dae7",
+          "name": "Pepes Teri"
+        },
+        {
+          "id": "d5bfce7e-1d02-4fa9-b86d-fd31ce6894a0",
+          "name": "Sayur Asem"
+        }
+      ]
+    },
+    "tags_review": [
+      "",
+      "gofood.co.id"
+    ],
+    "content_reviews": "sayang porsi pepes ny sdikit bgt",
+    "date_of_experience": ""
+  }
+}

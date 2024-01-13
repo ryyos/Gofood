@@ -1,0 +1,67 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/richeese-factory-pekayon-fb7c3452-2cba-464a-9e24-23840a40a179",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Cepat saji",
+    "Ayam & bebek",
+    "Aneka nasi",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:20:23.240256",
+  "crawling_time_epoch": 1705155623,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Richeese_Factory_Pekayon/json/8f15ce7e-73f6-41a0-874d-610558c89f82.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Richeese_Factory_Pekayon/json/8f15ce7e-73f6-41a0-874d-610558c89f82.json",
+  "reviews_name": "Richeese Factory, Pekayon",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.97
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "fb7c3452-2cba-464a-9e24-23840a40a179",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.7,
+      "total": 32095
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 2029,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 1477,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 1469,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "8f15ce7e-73f6-41a0-874d-610558c89f82",
+    "username_reviews": "Zahriska Dewani",
+    "initialName": "ZD",
+    "image_reviews": null,
+    "created_time": "2023-08-26T17:44:38.909537+07:00",
+    "created_time_epoch": 1693071878,
+    "reviews_rating": 1,
+    "orders": {
+      "orderedAt": "2023-08-26T10:07:56.881308Z",
+      "items": [
+        {
+          "id": "2965ea18-8a91-4a08-a8c7-37a0b385a053",
+          "name": "Combo 4 Fire Wings"
+        }
+      ]
+    },
+    "tags_review": [
+      "gofood.co.id"
+    ],
+    "content_reviews": "SAOS KEJUNYA GA ADA !!! ",
+    "date_of_experience": ""
+  }
+}

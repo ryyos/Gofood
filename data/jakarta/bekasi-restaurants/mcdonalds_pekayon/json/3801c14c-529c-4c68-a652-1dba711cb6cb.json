@@ -1,0 +1,80 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/mcdonald-s-pekayon-50150204-8f6d-4372-8458-668f1be126e8",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Cepat saji",
+    "Sweets",
+    "Jajanan",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:17:21.424093",
+  "crawling_time_epoch": 1705155441,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/McDonalds_Pekayon/json/3801c14c-529c-4c68-a652-1dba711cb6cb.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/McDonalds_Pekayon/json/3801c14c-529c-4c68-a652-1dba711cb6cb.json",
+  "reviews_name": "McDonald's, Pekayon",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.46
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "50150204-8f6d-4372-8458-668f1be126e8",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.8,
+      "total": 70397
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 4555,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 3695,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 3669,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "3801c14c-529c-4c68-a652-1dba711cb6cb",
+    "username_reviews": "C****",
+    "initialName": "C",
+    "image_reviews": null,
+    "created_time": "2020-07-10T15:28:42.496+07:00",
+    "created_time_epoch": 1594394922,
+    "reviews_rating": 3,
+    "orders": {
+      "orderedAt": "2020-07-09T15:18:11.008792Z",
+      "items": [
+        {
+          "id": "337aae60-a72d-4aea-9184-f3e746683eff",
+          "name": "McFlurry Choco"
+        },
+        {
+          "id": "4c106b3b-c88b-426d-aac1-bc906404d0fa",
+          "name": "McFlurry Feat. Oreo"
+        },
+        {
+          "id": "031e2f03-9959-4ae3-851c-6bc0efbbf500",
+          "name": "Fruit Tea Lemon Large"
+        },
+        {
+          "id": "ae0e890b-cefc-4bf0-83ca-a48700c54f2d",
+          "name": "Choco Strawberry Pie"
+        }
+      ]
+    },
+    "tags_review": [
+      "CANNED_RESPONSE_PACKAGING",
+      "gofood.co.id"
+    ],
+    "content_reviews": "Pakai plastik merah ?",
+    "date_of_experience": ""
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/sate-taichan-bekasi-khas-uni-duta-25b9b3e0-fc52-40f2-8ea6-8debb71288f8",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Sate",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:19:15.113257",
+  "crawling_time_epoch": 1705155555,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Sate_Taichan_Bekasi_Khas_Uni_Duta/json/6ddcffd8-2ed8-46c7-b8ad-c447d271822d.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Sate_Taichan_Bekasi_Khas_Uni_Duta/json/6ddcffd8-2ed8-46c7-b8ad-c447d271822d.json",
+  "reviews_name": "Sate Taichan Bekasi \"Khas Uni\", Duta",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.52
+  },
+  "range_prices": "16k-40k",
+  "restaurant_id": "25b9b3e0-fc52-40f2-8ea6-8debb71288f8",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.7,
+      "total": 4176
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 304,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 196,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 186,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "6ddcffd8-2ed8-46c7-b8ad-c447d271822d",
+    "username_reviews": "A****",
+    "initialName": "A",
+    "image_reviews": null,
+    "created_time": "2020-01-09T19:41:05.668+07:00",
+    "created_time_epoch": 1578598865,
+    "reviews_rating": 1,
+    "orders": {
+      "orderedAt": "2020-01-09T11:49:53.455376Z",
+      "items": [
+        {
+          "id": "6979c9ec-312c-49a8-8894-54128c7bd9d6",
+          "name": "Sate Kulit 10 Tusuk"
+        },
+        {
+          "id": "512e4110-9a57-43ea-a55b-25926c20045d",
+          "name": "Sate Dada 10 Tusuk"
+        },
+        {
+          "id": "69febda6-265f-48bf-822d-f774f58eac24",
+          "name": "Extra Sambal"
+        },
+        {
+          "id": "4c430e7b-0623-4723-89d9-a3d21a2d1ee6",
+          "name": "Sate Dakul"
+        }
+      ]
+    },
+    "tags_review": [
+      "CANNED_RESPONSE_FRESHNESS",
+      "CANNED_RESPONSE_VALUE",
+      "gofood.co.id"
+    ],
+    "content_reviews": "Untuk sate daging yg campur dengan kulit sate nya sudah bau apabila ada yg pesan lagi coba untuk di cek kesegaran daging nya lagi dan sambal nya terlalu encer . Tks Dum",
+    "date_of_experience": ""
+  }
+}

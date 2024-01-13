@@ -1,0 +1,71 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/mcdonald-s-pekayon-50150204-8f6d-4372-8458-668f1be126e8",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Cepat saji",
+    "Sweets",
+    "Jajanan",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:17:21.424093",
+  "crawling_time_epoch": 1705155441,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/McDonalds_Pekayon/json/ccc45e69-dfcc-45b3-9252-cb8536ee99ae.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/McDonalds_Pekayon/json/ccc45e69-dfcc-45b3-9252-cb8536ee99ae.json",
+  "reviews_name": "McDonald's, Pekayon",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.46
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "50150204-8f6d-4372-8458-668f1be126e8",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.8,
+      "total": 70397
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 4555,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 3695,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 3669,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "ccc45e69-dfcc-45b3-9252-cb8536ee99ae",
+    "username_reviews": "Iwan Safuan",
+    "initialName": "IS",
+    "image_reviews": null,
+    "created_time": "2023-02-03T17:29:16.422691+07:00",
+    "created_time_epoch": 1675445356,
+    "reviews_rating": 5,
+    "orders": {
+      "orderedAt": "2023-01-29T10:46:38.509862Z",
+      "items": [
+        {
+          "id": "54465247-7ab2-4562-a120-eaa01308a856",
+          "name": "Paket Hemat Big Mac, Large"
+        },
+        {
+          "id": "30cc5e3b-8194-40a3-9d33-096138fca476",
+          "name": "Paket Hemat Fish Fillet Burger, Large"
+        }
+      ]
+    },
+    "tags_review": [
+      "gofood.co.id"
+    ],
+    "content_reviews": "mantap ayam grgnya",
+    "date_of_experience": ""
+  }
+}

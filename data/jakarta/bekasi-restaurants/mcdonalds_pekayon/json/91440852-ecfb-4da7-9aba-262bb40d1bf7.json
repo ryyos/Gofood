@@ -1,0 +1,76 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/mcdonald-s-pekayon-50150204-8f6d-4372-8458-668f1be126e8",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Cepat saji",
+    "Sweets",
+    "Jajanan",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:17:21.424093",
+  "crawling_time_epoch": 1705155441,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/McDonalds_Pekayon/json/91440852-ecfb-4da7-9aba-262bb40d1bf7.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/McDonalds_Pekayon/json/91440852-ecfb-4da7-9aba-262bb40d1bf7.json",
+  "reviews_name": "McDonald's, Pekayon",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.46
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "50150204-8f6d-4372-8458-668f1be126e8",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.8,
+      "total": 70397
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 4555,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 3695,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 3669,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "91440852-ecfb-4da7-9aba-262bb40d1bf7",
+    "username_reviews": "M******* F****",
+    "initialName": "MF",
+    "image_reviews": null,
+    "created_time": "2019-10-29T02:06:04.156+07:00",
+    "created_time_epoch": 1572314764,
+    "reviews_rating": 4,
+    "orders": {
+      "orderedAt": "2019-10-28T18:30:36.618995Z",
+      "items": [
+        {
+          "id": "0fdf0647-884c-487b-a3e6-39fbba972c6b",
+          "name": "Chicken Fingers"
+        },
+        {
+          "id": "6cee3bf3-e664-49e5-b1f5-2238ae4b095b",
+          "name": "French Fries (Large)"
+        },
+        {
+          "id": "6c8e03a5-21fa-4777-8604-1e91ec4df598",
+          "name": "Coca Cola (Large)"
+        }
+      ]
+    },
+    "tags_review": [
+      "CANNED_RESPONSE_PORTION",
+      "gofood.co.id"
+    ],
+    "content_reviews": "porsinya kurang banyak",
+    "date_of_experience": ""
+  }
+}

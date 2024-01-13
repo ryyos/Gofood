@@ -1,0 +1,74 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/kfc-kemang-pratama-ef8c2c3e-61d6-4bd4-b9fa-10cfd6358dcf",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Cepat saji",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:19:21.062803",
+  "crawling_time_epoch": 1705155561,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/KFC_Kemang_Pratama/json/e43b5e89-acec-4521-8e35-212b4a502dfb.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/KFC_Kemang_Pratama/json/e43b5e89-acec-4521-8e35-212b4a502dfb.json",
+  "reviews_name": "KFC, Kemang Pratama",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.53
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "ef8c2c3e-61d6-4bd4-b9fa-10cfd6358dcf",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.8,
+      "total": 24067
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 2021,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 1696,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 1631,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "e43b5e89-acec-4521-8e35-212b4a502dfb",
+    "username_reviews": "A*** W*****",
+    "initialName": "AW",
+    "image_reviews": null,
+    "created_time": "2020-11-18T18:55:53.379+07:00",
+    "created_time_epoch": 1605725753,
+    "reviews_rating": 1,
+    "orders": {
+      "orderedAt": "2020-11-18T04:20:10.87727Z",
+      "items": [
+        {
+          "id": "47133fb4-67a2-49a8-84a8-def9a8f56af2",
+          "name": "Deluxe Burger"
+        },
+        {
+          "id": "3caca42e-6f36-47e4-87c8-cab0368ea571",
+          "name": "Colonel Burger"
+        },
+        {
+          "id": "f47dbbc0-364d-4adf-93d7-eb7e7326009f",
+          "name": "Half Price 7 OR"
+        }
+      ]
+    },
+    "tags_review": [
+      "",
+      "gofood.co.id"
+    ],
+    "content_reviews": "Sy pelanggan KFC puluhan tahun..kecewa dg pelayanan daring Hari ini..makasih",
+    "date_of_experience": ""
+  }
+}

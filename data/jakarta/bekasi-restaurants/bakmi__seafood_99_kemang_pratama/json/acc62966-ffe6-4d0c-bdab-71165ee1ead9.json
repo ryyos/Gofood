@@ -1,0 +1,72 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/bakmi-seafood-99-kemang-pratama-84e91552-6c93-4753-b7d8-ef64336203d3",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Aneka nasi",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:19:45.539552",
+  "crawling_time_epoch": 1705155585,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Bakmi__Seafood_99_Kemang_Pratama/json/acc62966-ffe6-4d0c-bdab-71165ee1ead9.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Bakmi__Seafood_99_Kemang_Pratama/json/acc62966-ffe6-4d0c-bdab-71165ee1ead9.json",
+  "reviews_name": "Bakmi & Seafood 99, Kemang Pratama",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.53
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "84e91552-6c93-4753-b7d8-ef64336203d3",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.8,
+      "total": 1843
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 147,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 112,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 105,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "acc62966-ffe6-4d0c-bdab-71165ee1ead9",
+    "username_reviews": "Yully A. Mustafa",
+    "initialName": "YM",
+    "image_reviews": null,
+    "created_time": "2023-09-02T21:04:26.493836+07:00",
+    "created_time_epoch": 1693688666,
+    "reviews_rating": 5,
+    "orders": {
+      "orderedAt": "2023-09-02T13:00:55.55186Z",
+      "items": [
+        {
+          "id": "df78f9d6-9247-412d-b884-d563a16d831b",
+          "name": "Nasi Goreng Seafood"
+        }
+      ]
+    },
+    "tags_review": [
+      "CANNED_RESPONSE_FRESHNESS",
+      "CANNED_RESPONSE_TASTE",
+      "CANNED_RESPONSE_PORTION",
+      "CANNED_RESPONSE_PACKAGING",
+      "CANNED_RESPONSE_CUTLERY",
+      "CANNED_RESPONSE_VALUE",
+      "CANNED_RESPONSE_HYGIENE",
+      "gofood.co.id"
+    ],
+    "content_reviews": "sambalnya suka ketinggalan...",
+    "date_of_experience": ""
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/mcdonald-s-pekayon-50150204-8f6d-4372-8458-668f1be126e8",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Cepat saji",
+    "Sweets",
+    "Jajanan",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:17:21.424093",
+  "crawling_time_epoch": 1705155441,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/McDonalds_Pekayon/json/f51c4241-0dbe-4fcc-96ba-355ca31cbc5e.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/McDonalds_Pekayon/json/f51c4241-0dbe-4fcc-96ba-355ca31cbc5e.json",
+  "reviews_name": "McDonald's, Pekayon",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.46
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "50150204-8f6d-4372-8458-668f1be126e8",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.8,
+      "total": 70397
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 4555,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 3695,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 3669,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "f51c4241-0dbe-4fcc-96ba-355ca31cbc5e",
+    "username_reviews": "M****** D** K",
+    "initialName": "MK",
+    "image_reviews": null,
+    "created_time": "2023-05-01T00:12:39.072897+07:00",
+    "created_time_epoch": 1682899959,
+    "reviews_rating": 2,
+    "orders": {
+      "orderedAt": "2023-04-30T16:49:46.658106Z",
+      "items": [
+        {
+          "id": "52f31e95-2180-4387-abf4-de8e2b3eb898",
+          "name": "Beef Burger"
+        },
+        {
+          "id": "96d35d0f-96ba-4a33-9f9c-bfa18282317e",
+          "name": "French Fries Medium"
+        }
+      ]
+    },
+    "tags_review": [
+      "gofood.co.id"
+    ],
+    "content_reviews": "kentangnya ga ada",
+    "date_of_experience": ""
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/sate-taichan-bekasi-khas-uni-duta-25b9b3e0-fc52-40f2-8ea6-8debb71288f8",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Sate",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:19:15.113257",
+  "crawling_time_epoch": 1705155555,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Sate_Taichan_Bekasi_Khas_Uni_Duta/json/2349e93c-51f4-4403-8430-127965753ae8.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Sate_Taichan_Bekasi_Khas_Uni_Duta/json/2349e93c-51f4-4403-8430-127965753ae8.json",
+  "reviews_name": "Sate Taichan Bekasi \"Khas Uni\", Duta",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.52
+  },
+  "range_prices": "16k-40k",
+  "restaurant_id": "25b9b3e0-fc52-40f2-8ea6-8debb71288f8",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.7,
+      "total": 4176
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 304,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 196,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 186,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "2349e93c-51f4-4403-8430-127965753ae8",
+    "username_reviews": "N******",
+    "initialName": "N",
+    "image_reviews": null,
+    "created_time": "2021-10-10T18:53:28.526223+07:00",
+    "created_time_epoch": 1633892008,
+    "reviews_rating": 3,
+    "orders": {
+      "orderedAt": "2021-09-07T14:33:34.945847Z",
+      "items": [
+        {
+          "id": "de96353a-0536-422a-8f79-2d552ab6ef00",
+          "name": "Paket Hemat 1"
+        },
+        {
+          "id": "c59fe1d3-460b-4790-b49b-0bd18824cdc4",
+          "name": "Paket Hemat Uni 2"
+        },
+        {
+          "id": "740fa080-f4da-4b61-80de-16536b4c48c4",
+          "name": "Pilus/Cikur"
+        },
+        {
+          "id": "55763509-9751-4aa9-a7e5-e970a5f76bdd",
+          "name": "Sate Dada 5 Tusuk"
+        }
+      ]
+    },
+    "tags_review": [
+      "gofood.co.id"
+    ],
+    "content_reviews": "kenapa sate kulitnya selalu gosong ya? jadi pait banget dimakannya☹️☹️",
+    "date_of_experience": ""
+  }
+}

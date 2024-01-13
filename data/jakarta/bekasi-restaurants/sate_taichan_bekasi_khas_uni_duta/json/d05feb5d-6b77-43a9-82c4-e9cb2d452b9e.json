@@ -1,0 +1,78 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/sate-taichan-bekasi-khas-uni-duta-25b9b3e0-fc52-40f2-8ea6-8debb71288f8",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Sate",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:19:15.113257",
+  "crawling_time_epoch": 1705155555,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Sate_Taichan_Bekasi_Khas_Uni_Duta/json/d05feb5d-6b77-43a9-82c4-e9cb2d452b9e.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Sate_Taichan_Bekasi_Khas_Uni_Duta/json/d05feb5d-6b77-43a9-82c4-e9cb2d452b9e.json",
+  "reviews_name": "Sate Taichan Bekasi \"Khas Uni\", Duta",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.52
+  },
+  "range_prices": "16k-40k",
+  "restaurant_id": "25b9b3e0-fc52-40f2-8ea6-8debb71288f8",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.7,
+      "total": 4176
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 304,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 196,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 186,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "d05feb5d-6b77-43a9-82c4-e9cb2d452b9e",
+    "username_reviews": "P**** D***",
+    "initialName": "PD",
+    "image_reviews": null,
+    "created_time": "2021-02-12T21:28:56.149+07:00",
+    "created_time_epoch": 1613165336,
+    "reviews_rating": 1,
+    "orders": {
+      "orderedAt": "2021-02-12T13:33:48.584275Z",
+      "items": [
+        {
+          "id": "55763509-9751-4aa9-a7e5-e970a5f76bdd",
+          "name": "Sate Dada 5 Tusuk"
+        },
+        {
+          "id": "0e42d7d8-e3f0-4d8e-8aa7-5115cd6bc093",
+          "name": "Lontong"
+        },
+        {
+          "id": "2a4f03e4-0d10-476f-a133-363c91b58641",
+          "name": "Sate Kulit 5 Tusuk"
+        }
+      ]
+    },
+    "tags_review": [
+      "CANNED_RESPONSE_FRESHNESS",
+      "CANNED_RESPONSE_TASTE",
+      "CANNED_RESPONSE_HYGIENE",
+      "CANNED_RESPONSE_PACKAGING",
+      "CANNED_RESPONSE_VALUE",
+      "gofood.co.id"
+    ],
+    "content_reviews": "i really regret the order. the satay wasn't well cooked. the sambal wasn't suitable for taichan, it's more like sambal ayam goreng with chili paper in it. the lontong is over cooked and it's not serve on paper, but still packed on a plastic. please think again if you really mean to serve a food like this. maybe you'd better find another business or job. thanks",
+    "date_of_experience": ""
+  }
+}

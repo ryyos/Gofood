@@ -1,0 +1,69 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/pizza-hut-kemang-pratama-619b40c5-b111-4004-a05e-2cf6526de384",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Barat",
+    "Jajanan",
+    "Ayam & bebek",
+    "Pizza & pasta",
+    "Cepat saji",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:20:55.807619",
+  "crawling_time_epoch": 1705155655,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Pizza_Hut_Kemang_Pratama/json/614b1fd3-b4fb-4075-b5f1-335a0e9c8e0e.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Pizza_Hut_Kemang_Pratama/json/614b1fd3-b4fb-4075-b5f1-335a0e9c8e0e.json",
+  "reviews_name": "Pizza Hut, Kemang Pratama",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.99
+  },
+  "range_prices": ">100k",
+  "restaurant_id": "619b40c5-b111-4004-a05e-2cf6526de384",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.8,
+      "total": 12460
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 997,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 804,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 735,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "614b1fd3-b4fb-4075-b5f1-335a0e9c8e0e",
+    "username_reviews": "leni",
+    "initialName": "L",
+    "image_reviews": null,
+    "created_time": "2022-10-26T18:27:17.511935+07:00",
+    "created_time_epoch": 1666808837,
+    "reviews_rating": 4,
+    "orders": {
+      "orderedAt": "2022-10-26T07:37:17.806749Z",
+      "items": [
+        {
+          "id": "28148882-4d67-4ad3-87d4-288d590a767c",
+          "name": "L1mo Pizza"
+        }
+      ]
+    },
+    "tags_review": [
+      "gofood.co.id"
+    ],
+    "content_reviews": "ternyata tadi pesanannya kurang diantarnya. malam ini dikonfirmasi hal tersebut. trm kasih atas konfirmasinya. semoga besok diantar kekurangannya",
+    "date_of_experience": ""
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/bang-raden-gerobak-kopi-grand-galaxy-city-11ac8186-f8f3-4965-9a75-13c2dfc2581d",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Minuman",
+    "Kopi",
+    "Sweets",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:21:18.616977",
+  "crawling_time_epoch": 1705155678,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Bang_Raden_Gerobak_Kopi_Grand_Galaxy_City/json/f66c4992-434b-46a5-b017-cc03a92042d7.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Bang_Raden_Gerobak_Kopi_Grand_Galaxy_City/json/f66c4992-434b-46a5-b017-cc03a92042d7.json",
+  "reviews_name": "Bang Raden Gerobak Kopi, Grand Galaxy City",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 1
+  },
+  "range_prices": "16k-40k",
+  "restaurant_id": "11ac8186-f8f3-4965-9a75-13c2dfc2581d",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.8,
+      "total": 3944
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 461,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 337,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 315,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "f66c4992-434b-46a5-b017-cc03a92042d7",
+    "username_reviews": "Ninuk",
+    "initialName": "N",
+    "image_reviews": null,
+    "created_time": "2022-06-07T19:03:57.484578+07:00",
+    "created_time_epoch": 1654628637,
+    "reviews_rating": 5,
+    "orders": {
+      "orderedAt": "2022-06-05T04:58:53.699289Z",
+      "items": [
+        {
+          "id": "4be92f34-154b-470a-b445-ceac1ed1d7cd",
+          "name": "Kopi Sultan ( Best Seller )"
+        },
+        {
+          "id": "291b0d0f-3d94-473e-9fbb-57d064d6a4bb",
+          "name": "Ice Caramel Macchiato"
+        }
+      ]
+    },
+    "tags_review": [
+      "gofood.co.id"
+    ],
+    "content_reviews": "pesan kopi sultan, tastenya oke, tapi gelanya kekecilan di banding toko sebelah",
+    "date_of_experience": ""
+  }
+}

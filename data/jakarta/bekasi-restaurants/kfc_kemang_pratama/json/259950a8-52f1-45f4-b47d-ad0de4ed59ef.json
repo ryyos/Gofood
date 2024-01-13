@@ -1,0 +1,73 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/kfc-kemang-pratama-ef8c2c3e-61d6-4bd4-b9fa-10cfd6358dcf",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Cepat saji",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:19:21.062803",
+  "crawling_time_epoch": 1705155561,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/KFC_Kemang_Pratama/json/259950a8-52f1-45f4-b47d-ad0de4ed59ef.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/KFC_Kemang_Pratama/json/259950a8-52f1-45f4-b47d-ad0de4ed59ef.json",
+  "reviews_name": "KFC, Kemang Pratama",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.53
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "ef8c2c3e-61d6-4bd4-b9fa-10cfd6358dcf",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.8,
+      "total": 24067
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 2021,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 1696,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 1631,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "259950a8-52f1-45f4-b47d-ad0de4ed59ef",
+    "username_reviews": "T******",
+    "initialName": "T",
+    "image_reviews": null,
+    "created_time": "2022-02-11T13:14:47.743882+07:00",
+    "created_time_epoch": 1644585287,
+    "reviews_rating": 5,
+    "orders": {
+      "orderedAt": "2022-02-10T04:19:03.926144Z",
+      "items": [
+        {
+          "id": "a5f97bed-9a64-4d9e-b283-162542705517",
+          "name": "Super Besar 1"
+        },
+        {
+          "id": "24d34b55-2982-40c0-ab41-deed7d525e20",
+          "name": "Perkedel"
+        },
+        {
+          "id": "d5b0d07a-65fd-43a9-9535-47c2804bac2f",
+          "name": "Original Chicken"
+        }
+      ]
+    },
+    "tags_review": [
+      "gofood.co.id"
+    ],
+    "content_reviews": "Perkedel kentangnya kok berair ya?? Knp gt.. biasanya ga bgt",
+    "date_of_experience": ""
+  }
+}

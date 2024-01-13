@@ -1,0 +1,77 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/mcdonald-s-pekayon-50150204-8f6d-4372-8458-668f1be126e8",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Cepat saji",
+    "Sweets",
+    "Jajanan",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:17:21.424093",
+  "crawling_time_epoch": 1705155441,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/McDonalds_Pekayon/json/5d41409d-65c6-4b3c-b00e-6489681a6063.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/McDonalds_Pekayon/json/5d41409d-65c6-4b3c-b00e-6489681a6063.json",
+  "reviews_name": "McDonald's, Pekayon",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.46
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "50150204-8f6d-4372-8458-668f1be126e8",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.8,
+      "total": 70397
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 4555,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 3695,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 3669,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "5d41409d-65c6-4b3c-b00e-6489681a6063",
+    "username_reviews": "W********* A*****",
+    "initialName": "WA",
+    "image_reviews": null,
+    "created_time": "2021-08-15T16:27:31.557328+07:00",
+    "created_time_epoch": 1629044851,
+    "reviews_rating": 5,
+    "orders": {
+      "orderedAt": "2021-08-15T08:02:31.901524Z",
+      "items": [
+        {
+          "id": "805f356d-0be8-4fac-ba88-20a3dca7cc15",
+          "name": "PROMO - 3 Ayam Spicy McD + 3 reg. Rice"
+        },
+        {
+          "id": "d1c7f183-69b2-4a84-8d49-44b1414caca6",
+          "name": "Putu Ayu McFlurry Oreo"
+        }
+      ]
+    },
+    "tags_review": [
+      "CANNED_RESPONSE_FRESHNESS",
+      "CANNED_RESPONSE_TASTE",
+      "CANNED_RESPONSE_PORTION",
+      "CANNED_RESPONSE_HYGIENE",
+      "CANNED_RESPONSE_PACKAGING",
+      "CANNED_RESPONSE_VALUE",
+      "gofood.co.id"
+    ],
+    "content_reviews": "ayamnya seperti biasa enak, untuk ice cream putu ayu MCflurry oroenya sumpah ini enak banget bikin nagih.",
+    "date_of_experience": ""
+  }
+}

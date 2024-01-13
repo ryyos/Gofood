@@ -1,0 +1,74 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/mbok-centil-ayam-kampung-serundeng-galaxy-6d00f1a4-66b1-41c9-aec4-b7d49a404c6c",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Ayam & bebek",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:21:12.432830",
+  "crawling_time_epoch": 1705155672,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Mbok_Centil_Ayam_Kampung_Serundeng_Galaxy/json/f23efc04-adc2-48f1-9e4b-d4d2fe8686c0.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Mbok_Centil_Ayam_Kampung_Serundeng_Galaxy/json/f23efc04-adc2-48f1-9e4b-d4d2fe8686c0.json",
+  "reviews_name": "Mbok Centil Ayam Kampung Serundeng, Galaxy",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 1
+  },
+  "range_prices": "16k-40k",
+  "restaurant_id": "6d00f1a4-66b1-41c9-aec4-b7d49a404c6c",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.8,
+      "total": 2864
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 317,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 199,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 198,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "f23efc04-adc2-48f1-9e4b-d4d2fe8686c0",
+    "username_reviews": "G*** F*******",
+    "initialName": "GF",
+    "image_reviews": null,
+    "created_time": "2020-05-30T14:32:29.45+07:00",
+    "created_time_epoch": 1590849149,
+    "reviews_rating": 3,
+    "orders": {
+      "orderedAt": "2020-05-30T06:39:17.969713Z",
+      "items": [
+        {
+          "id": "8f5a8506-94c8-4e81-a5e8-4f04a9419e8d",
+          "name": "Mie Ayam Kampus Polos"
+        },
+        {
+          "id": "f94c5e47-5b24-4f26-8622-480b09d9271e",
+          "name": "Bakso Kuah"
+        },
+        {
+          "id": "3c745bd8-0fe2-4c55-a0b1-06f87ce4ecf6",
+          "name": "Pangsit Kuah"
+        }
+      ]
+    },
+    "tags_review": [
+      "CANNED_RESPONSE_PORTION",
+      "gofood.co.id"
+    ],
+    "content_reviews": "pangsit kuahnya isi 4pcs gk ada isinya. bakso kuahnya jg kecil2 bgt isi 5pcs. klo bs improve porsinya dibykin",
+    "date_of_experience": ""
+  }
+}

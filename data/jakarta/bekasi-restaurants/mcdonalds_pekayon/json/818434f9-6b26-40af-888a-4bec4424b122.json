@@ -1,0 +1,68 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/mcdonald-s-pekayon-50150204-8f6d-4372-8458-668f1be126e8",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Cepat saji",
+    "Sweets",
+    "Jajanan",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:17:21.424093",
+  "crawling_time_epoch": 1705155441,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/McDonalds_Pekayon/json/818434f9-6b26-40af-888a-4bec4424b122.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/McDonalds_Pekayon/json/818434f9-6b26-40af-888a-4bec4424b122.json",
+  "reviews_name": "McDonald's, Pekayon",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.46
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "50150204-8f6d-4372-8458-668f1be126e8",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.8,
+      "total": 70397
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 4555,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 3695,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 3669,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "818434f9-6b26-40af-888a-4bec4424b122",
+    "username_reviews": "aisyah",
+    "initialName": "A",
+    "image_reviews": null,
+    "created_time": "2022-09-15T10:21:12.636719+07:00",
+    "created_time_epoch": 1663237272,
+    "reviews_rating": 5,
+    "orders": {
+      "orderedAt": "2022-09-14T09:07:13.702845Z",
+      "items": [
+        {
+          "id": "fa582cd1-a3f6-47ad-b4d1-2c831ba58d45",
+          "name": "PaMer 7 Krispy"
+        }
+      ]
+    },
+    "tags_review": [
+      "CANNED_RESPONSE_PACKAGING",
+      "gofood.co.id"
+    ],
+    "content_reviews": "rasa nya sekarang ga seenak dulu. ayam nya udh ga seger   hitam dlm nya ",
+    "date_of_experience": ""
+  }
+}

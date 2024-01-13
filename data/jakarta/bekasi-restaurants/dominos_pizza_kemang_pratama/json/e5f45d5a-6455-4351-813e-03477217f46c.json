@@ -1,0 +1,80 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/domino-s-pizza-kemang-pratama-00fb7fae-fbe1-4b63-ad17-dc7094c64f9c",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Pizza & pasta",
+    "Cepat saji",
+    "Jajanan",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:18:48.067806",
+  "crawling_time_epoch": 1705155528,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Dominos_Pizza_Kemang_Pratama/json/e5f45d5a-6455-4351-813e-03477217f46c.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Dominos_Pizza_Kemang_Pratama/json/e5f45d5a-6455-4351-813e-03477217f46c.json",
+  "reviews_name": "Domino's Pizza, Kemang Pratama",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.47
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "00fb7fae-fbe1-4b63-ad17-dc7094c64f9c",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.7,
+      "total": 11582
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 1426,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 1210,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 1158,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "e5f45d5a-6455-4351-813e-03477217f46c",
+    "username_reviews": "I**** K********",
+    "initialName": "IK",
+    "image_reviews": null,
+    "created_time": "2021-09-11T20:14:57.262203+07:00",
+    "created_time_epoch": 1631391297,
+    "reviews_rating": 5,
+    "orders": {
+      "orderedAt": "2021-09-07T14:14:41.13497Z",
+      "items": [
+        {
+          "id": "e0f8fd99-ea9c-46a5-b3cc-17684315c467",
+          "name": "Paket 2 Pizza Rp 127 Ribu (PAPI DUO Double CB)"
+        },
+        {
+          "id": "5f7d0f43-39d1-42de-b0da-5bb43f3850bb",
+          "name": "Pizza Mania Beef Rasher"
+        },
+        {
+          "id": "c7500561-9670-45d4-9fab-17b1ca9fe2a8",
+          "name": "Pizza Mania Chili Chicken"
+        }
+      ]
+    },
+    "tags_review": [
+      "CANNED_RESPONSE_FRESHNESS",
+      "CANNED_RESPONSE_TASTE",
+      "CANNED_RESPONSE_PORTION",
+      "CANNED_RESPONSE_PACKAGING",
+      "CANNED_RESPONSE_VALUE",
+      "gofood.co.id"
+    ],
+    "content_reviews": "the best bgt skrg rasanya..",
+    "date_of_experience": ""
+  }
+}

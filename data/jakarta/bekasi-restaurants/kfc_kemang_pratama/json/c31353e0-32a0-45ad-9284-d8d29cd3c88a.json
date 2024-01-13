@@ -1,0 +1,77 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/kfc-kemang-pratama-ef8c2c3e-61d6-4bd4-b9fa-10cfd6358dcf",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Cepat saji",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:19:21.062803",
+  "crawling_time_epoch": 1705155561,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/KFC_Kemang_Pratama/json/c31353e0-32a0-45ad-9284-d8d29cd3c88a.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/KFC_Kemang_Pratama/json/c31353e0-32a0-45ad-9284-d8d29cd3c88a.json",
+  "reviews_name": "KFC, Kemang Pratama",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.53
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "ef8c2c3e-61d6-4bd4-b9fa-10cfd6358dcf",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.8,
+      "total": 24067
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 2021,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 1696,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 1631,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "c31353e0-32a0-45ad-9284-d8d29cd3c88a",
+    "username_reviews": "A**",
+    "initialName": "A",
+    "image_reviews": null,
+    "created_time": "2021-06-04T19:36:25.293299+07:00",
+    "created_time_epoch": 1622835385,
+    "reviews_rating": 2,
+    "orders": {
+      "orderedAt": "2021-06-04T11:37:50.656425Z",
+      "items": [
+        {
+          "id": "ce8bc0f6-3cbc-48b2-86fd-02a137e281c2",
+          "name": "Soup Vigie Ball"
+        },
+        {
+          "id": "c17667f6-c69e-45be-9f28-9bd4d06f35eb",
+          "name": "Hot and Crispy Chicken"
+        },
+        {
+          "id": "d5b0d07a-65fd-43a9-9535-47c2804bac2f",
+          "name": "Original Chicken"
+        },
+        {
+          "id": "3d0d42f5-c9f8-4c23-9c20-5d45b9d6c12d",
+          "name": "Rice"
+        }
+      ]
+    },
+    "tags_review": [
+      "gofood.co.id"
+    ],
+    "content_reviews": "tumben kualitas ayam original sangat keras seperti ayam kemarin di hangatkan lagi.... sayang sekali",
+    "date_of_experience": ""
+  }
+}

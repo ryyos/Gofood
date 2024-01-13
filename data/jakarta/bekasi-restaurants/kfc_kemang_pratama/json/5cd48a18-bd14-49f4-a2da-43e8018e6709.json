@@ -1,0 +1,74 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/kfc-kemang-pratama-ef8c2c3e-61d6-4bd4-b9fa-10cfd6358dcf",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Cepat saji",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:19:21.062803",
+  "crawling_time_epoch": 1705155561,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/KFC_Kemang_Pratama/json/5cd48a18-bd14-49f4-a2da-43e8018e6709.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/KFC_Kemang_Pratama/json/5cd48a18-bd14-49f4-a2da-43e8018e6709.json",
+  "reviews_name": "KFC, Kemang Pratama",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.53
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "ef8c2c3e-61d6-4bd4-b9fa-10cfd6358dcf",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.8,
+      "total": 24067
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 2021,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 1696,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 1631,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "5cd48a18-bd14-49f4-a2da-43e8018e6709",
+    "username_reviews": "A**** R*** P******",
+    "initialName": "AP",
+    "image_reviews": null,
+    "created_time": "2021-12-27T18:35:31.136406+07:00",
+    "created_time_epoch": 1640630131,
+    "reviews_rating": 1,
+    "orders": {
+      "orderedAt": "2021-12-27T10:52:51.70862Z",
+      "items": [
+        {
+          "id": "cd768698-dc43-4756-9009-87b23e7b1a3b",
+          "name": "Krispy Burger"
+        },
+        {
+          "id": "63d10fca-37c2-42b2-a079-08d7649c6257",
+          "name": "Crispy Box"
+        },
+        {
+          "id": "45add4a4-2a42-4ffe-9106-990294b0e009",
+          "name": "Twisty"
+        }
+      ]
+    },
+    "tags_review": [
+      "CANNED_RESPONSE_ORDER",
+      "gofood.co.id"
+    ],
+    "content_reviews": "mesen additional extra hot & cheesy chicken tp gk ad sm sekali",
+    "date_of_experience": ""
+  }
+}

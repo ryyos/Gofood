@@ -1,0 +1,67 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/martabak-legit-group-pulo-ribung-e7bc6ee0-6632-451a-b5cf-adb7af7c3da9",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Jajanan",
+    "Martabak",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:20:03.652928",
+  "crawling_time_epoch": 1705155603,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Martabak_Legit_Group_Pulo_Ribung/json/c08b28ff-8aa4-41b9-bd84-c281b0cf6068.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Martabak_Legit_Group_Pulo_Ribung/json/c08b28ff-8aa4-41b9-bd84-c281b0cf6068.json",
+  "reviews_name": "Martabak Legit Group, Pulo Ribung",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.71
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "e7bc6ee0-6632-451a-b5cf-adb7af7c3da9",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.5,
+      "total": 1731
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 174,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 137,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 126,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "c08b28ff-8aa4-41b9-bd84-c281b0cf6068",
+    "username_reviews": "dessmonica",
+    "initialName": "D",
+    "image_reviews": null,
+    "created_time": "2022-05-16T20:22:38.294374+07:00",
+    "created_time_epoch": 1652732558,
+    "reviews_rating": 5,
+    "orders": {
+      "orderedAt": "2022-05-11T10:56:13.661136Z",
+      "items": [
+        {
+          "id": "ee657b9b-1b28-462a-bd38-f8d87ecaf92e",
+          "name": "Martabak Asin Telor Bebek Daging Sapi"
+        }
+      ]
+    },
+    "tags_review": [
+      "CANNED_RESPONSE_TASTE",
+      "gofood.co.id"
+    ],
+    "content_reviews": "enak banget rasanya pas keringnya",
+    "date_of_experience": ""
+  }
+}

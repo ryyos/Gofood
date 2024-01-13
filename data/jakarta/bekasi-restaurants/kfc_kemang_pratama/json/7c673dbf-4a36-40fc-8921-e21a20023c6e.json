@@ -1,0 +1,82 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/kfc-kemang-pratama-ef8c2c3e-61d6-4bd4-b9fa-10cfd6358dcf",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Cepat saji",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:19:21.062803",
+  "crawling_time_epoch": 1705155561,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/KFC_Kemang_Pratama/json/7c673dbf-4a36-40fc-8921-e21a20023c6e.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/KFC_Kemang_Pratama/json/7c673dbf-4a36-40fc-8921-e21a20023c6e.json",
+  "reviews_name": "KFC, Kemang Pratama",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.53
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "ef8c2c3e-61d6-4bd4-b9fa-10cfd6358dcf",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.8,
+      "total": 24067
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 2021,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 1696,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 1631,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "7c673dbf-4a36-40fc-8921-e21a20023c6e",
+    "username_reviews": "L**** H******",
+    "initialName": "LH",
+    "image_reviews": null,
+    "created_time": "2022-12-01T19:21:53.372405+07:00",
+    "created_time_epoch": 1669922513,
+    "reviews_rating": 3,
+    "orders": {
+      "orderedAt": "2022-12-01T11:40:45.247757Z",
+      "items": [
+        {
+          "id": "aa068c83-4165-4fb9-9537-26f80afddecb",
+          "name": "Breakfast Combo 2"
+        },
+        {
+          "id": "3d0d42f5-c9f8-4c23-9c20-5d45b9d6c12d",
+          "name": "Rice"
+        },
+        {
+          "id": "174b1c4c-63d4-4859-a636-482e71b15f35",
+          "name": "OR Burger Single"
+        },
+        {
+          "id": "933f0a9e-5c69-437f-9dfc-6e2a1d68e1a2",
+          "name": "2 Pcs Chicken"
+        },
+        {
+          "id": "933f0a9e-5c69-437f-9dfc-6e2a1d68e1a2",
+          "name": "2 Pcs Chicken"
+        }
+      ]
+    },
+    "tags_review": [
+      "CANNED_RESPONSE_ORDER",
+      "gofood.co.id"
+    ],
+    "content_reviews": "Paha bawah habis, enggak ngomong sama sekali, semuaya diganti ke dada. Padahal kalau paha bawah habis, saya maunya paha atas, sayangnya mereka tidak ada komunikasi",
+    "date_of_experience": ""
+  }
+}

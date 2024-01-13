@@ -1,0 +1,78 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/mcdonald-s-pekayon-50150204-8f6d-4372-8458-668f1be126e8",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Cepat saji",
+    "Sweets",
+    "Jajanan",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:17:21.424093",
+  "crawling_time_epoch": 1705155441,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/McDonalds_Pekayon/json/7b44838e-09be-4fa5-bc13-0e4decf8b585.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/McDonalds_Pekayon/json/7b44838e-09be-4fa5-bc13-0e4decf8b585.json",
+  "reviews_name": "McDonald's, Pekayon",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.46
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "50150204-8f6d-4372-8458-668f1be126e8",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.8,
+      "total": 70397
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 4555,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 3695,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 3669,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "7b44838e-09be-4fa5-bc13-0e4decf8b585",
+    "username_reviews": "M Attahiyyat Rizka R",
+    "initialName": "MR",
+    "image_reviews": null,
+    "created_time": "2023-11-02T14:04:08.227427+07:00",
+    "created_time_epoch": 1698933848,
+    "reviews_rating": 5,
+    "orders": {
+      "orderedAt": "2023-11-02T06:35:49.394742Z",
+      "items": [
+        {
+          "id": "fbfd5d01-9990-494c-b500-b309d00dbd5a",
+          "name": "Tiramisu McFlurry with Cookie Crumbs"
+        },
+        {
+          "id": "b0c30b98-de9d-4937-9fdd-8de992e70d3f",
+          "name": "1pc Krispy Chicken"
+        },
+        {
+          "id": "a64f4021-f8d6-4c12-96ec-0ea9bce8212e",
+          "name": "Milo, Medium"
+        }
+      ]
+    },
+    "tags_review": [
+      "CANNED_RESPONSE_TASTE",
+      "CANNED_RESPONSE_PACKAGING",
+      "CANNED_RESPONSE_FRESHNESS",
+      "gofood.co.id"
+    ],
+    "content_reviews": "kurang banyak hohoho",
+    "date_of_experience": ""
+  }
+}

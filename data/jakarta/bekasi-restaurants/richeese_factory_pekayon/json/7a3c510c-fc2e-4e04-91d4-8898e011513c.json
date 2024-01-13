@@ -1,0 +1,75 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/richeese-factory-pekayon-fb7c3452-2cba-464a-9e24-23840a40a179",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Cepat saji",
+    "Ayam & bebek",
+    "Aneka nasi",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:20:23.240256",
+  "crawling_time_epoch": 1705155623,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Richeese_Factory_Pekayon/json/7a3c510c-fc2e-4e04-91d4-8898e011513c.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Richeese_Factory_Pekayon/json/7a3c510c-fc2e-4e04-91d4-8898e011513c.json",
+  "reviews_name": "Richeese Factory, Pekayon",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.97
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "fb7c3452-2cba-464a-9e24-23840a40a179",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.7,
+      "total": 32095
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 2029,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 1477,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 1469,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "7a3c510c-fc2e-4e04-91d4-8898e011513c",
+    "username_reviews": "N****",
+    "initialName": "N",
+    "image_reviews": null,
+    "created_time": "2022-08-14T17:32:53.773864+07:00",
+    "created_time_epoch": 1660498373,
+    "reviews_rating": 3,
+    "orders": {
+      "orderedAt": "2022-08-12T06:35:46.760109Z",
+      "items": [
+        {
+          "id": "519dd887-b0d1-40b7-84d1-8af9b1152da9",
+          "name": "Truffle Fire Chicken"
+        },
+        {
+          "id": "519dd887-b0d1-40b7-84d1-8af9b1152da9",
+          "name": "Truffle Fire Chicken"
+        },
+        {
+          "id": "37b21d0a-18d7-437e-bb8e-4394fc94f666",
+          "name": "Buy 1 Get 1 Mythical Glory Drink"
+        }
+      ]
+    },
+    "tags_review": [
+      "gofood.co.id"
+    ],
+    "content_reviews": "minumannya gak datang",
+    "date_of_experience": ""
+  }
+}

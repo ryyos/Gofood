@@ -1,8 +1,9 @@
 import requests
 import os
+import datetime as date
 
 from time import time, sleep
-from datetime import datetime
+from datetime import datetime, timezone
 from icecream import ic
 from fake_useragent import FakeUserAgent
 from typing import List
@@ -10,6 +11,7 @@ from typing import List
 from src.utils.fileIO import File
 from src.utils.logs import logger
 from src.utils.corrector import vname
+from src.utils.corrector import file_name
 
 class Gofood:
     def __init__(self) -> None:
@@ -42,6 +44,16 @@ class Gofood:
         }
         ...
 
+    def __convert_time(self, times: str) -> int:
+        dt = date.datetime.fromisoformat(times)
+        dt = dt.replace(tzinfo=timezone.utc) 
+
+        return int(dt.timestamp())
+        ...
+
+    def __retry(self, url):
+        ...
+
     def __buld_payload(self, page: str, latitude: float, longitude: float) -> dict:
         return {
             "code": "NEAR_ME",
@@ -58,51 +70,62 @@ class Gofood:
     ...
 
     def __create_card(self, city: str, pieces: dict) -> str:
-        return f'/{city}/restaurant/{vname(pieces["core"]["displayName"].lower())}-{pieces["core"]["key"].split("/")[-1]}'
+        return f'/{city}/restaurant/{vname(pieces["core"]["displayName"].lower()).replace("--", "-")}-{pieces["core"]["key"].split("/")[-1]}'
     ...
 
-    def __extract_food(self, raw_json: dict):
+    def __extract_restaurant(self, raw_json: dict):
         uid = raw_json["restaurant_id"]
 
         page = '?page=1&page_size=50'
-        response = self.__sessions.get(url=f'{self.API_REVIEW_PAGE}/{uid}/reviews{page}', headers=self.HEADER)
+        response = self.__sessions.get(url=f'{self.API_REVIEW_PAGE}{uid}/reviews{page}', headers=self.HEADER)
+
+        ic(f'{self.API_REVIEW_PAGE}{uid}/reviews{page}')
         ic(response)
 
         while True:
-            review = response.json()["data"]
 
+            review = response.json()["data"]
             for comment in review:
-                results = {
-                    "posted": comment["createdAt"],
-                    "user_id": comment["id"],
-                    "rating_given": comment["rating"],
-                    "tags": comment["tags"],
-                    "order": comment["order"],
-                    "comment": comment["text"],
+                detail_reviews = {
+                    "username_id": comment["id"],
+                    "username_reviews": comment["author"]["fullName"],
+                    "initialName": comment["author"]["initialName"],
+                    "image_reviews": comment["author"]["avatarUrl"],
+                    "created_time": comment["createdAt"],
+                    "created_time_epoch": self.__convert_time(comment["createdAt"]),
+                    "reviews_rating": comment["rating"],
+                    "orders": comment["order"],
+                    "tags_review": comment["tags"],
+                    "content_reviews": comment["text"],
+                    "date_of_experience": "",
                 }
 
 
-                results["tags"].append(self.DOMAIN)
+                detail_reviews["tags_review"].append(self.DOMAIN)
+
                 raw_json.update({
-                    "user": comment["author"],
-                    "review": results,
+                    "detail_reviews": detail_reviews,
+                    "path_data_raw": f'data/{raw_json["location_review"]}/{raw_json["location_restaurant"]["area"]}/{file_name(raw_json["reviews_name"])}/json/{detail_reviews["username_id"]}.json',
+                    "path_data_clean": f'data/{raw_json["location_review"]}/{raw_json["location_restaurant"]["area"]}/{file_name(raw_json["reviews_name"])}/json/{detail_reviews["username_id"]}.json',
                 })
 
+                if not os.path.exists(f'data/{raw_json["location_review"]}'): os.mkdir(f'data/{raw_json["location_review"]}')
+                if not os.path.exists(f'data/{raw_json["location_review"]}/{raw_json["location_restaurant"]["area"]}'): os.mkdir(f'data/{raw_json["location_review"]}/{raw_json["location_restaurant"]["area"]}')
+                if not os.path.exists(f'data/{raw_json["location_review"]}/{raw_json["location_restaurant"]["area"]}/{file_name(raw_json["reviews_name"].lower())}'): os.mkdir(f'data/{raw_json["location_review"]}/{raw_json["location_restaurant"]["area"]}/{file_name(raw_json["reviews_name"].lower())}')
+                if not os.path.exists(f'data/{raw_json["location_review"]}/{raw_json["location_restaurant"]["area"]}/{file_name(raw_json["reviews_name"].lower())}/json'): os.mkdir(f'data/{raw_json["location_review"]}/{raw_json["location_restaurant"]["area"]}/{file_name(raw_json["reviews_name"].lower())}/json')
+                
 
-                if not os.path.exists(f'data/{raw_json["city"]}'): os.mkdir(f'data/{raw_json["city"]}')
-                if not os.path.exists(f'data/{raw_json["city"]}/{raw_json["area"]}'): os.mkdir(f'data/{raw_json["city"]}/{raw_json["area"]}')
-
-                self.__file.write_json(path=f'data/{raw_json["city"]}/{raw_json["area"]}/{results["user_id"]}.json',
+                self.__file.write_json(path=f'data/{raw_json["location_review"]}/{raw_json["location_restaurant"]["area"]}/{file_name(raw_json["reviews_name"])}/json/{detail_reviews["username_id"]}.json',
                                        content=raw_json)
 
 
-            try:
-                page = response.json()["next_page"]
+            page = response.json().get("next_page", None)
+            if page:
+                sleep(2)
                 response = self.__sessions.get(url=f'{self.API_REVIEW_PAGE}/{uid}/reviews{page}', headers=self.HEADER)
-                break
+                ic('next'+ str(response))
 
-            except Exception:
-                break
+            else: break
         ...
 
     def __fetch_card_food(self, city: str, restaurant: str) -> List[str]:
@@ -116,10 +139,6 @@ class Gofood:
         cards = [card["path"] for card in response.json()["pageProps"]["outlets"]]
         while True:
 
-            ic(self.__buld_payload(page=page_token, 
-                                    latitude=latitude,
-                                    longitude=longitude
-                                    ))
             response = self.__sessions.post(url=self.FOODS_API, 
                                      headers=self.HEADER, 
                                      json=self.__buld_payload(page=page_token, 
@@ -132,7 +151,6 @@ class Gofood:
             try:
                 page_token = response.json()["nextPageToken"]
                 sleep(3)
-                ic(cards)
                 break
             except Exception:
                 break
@@ -154,35 +172,61 @@ class Gofood:
 
                 cards = self.__fetch_card_food(city=city["name"].lower(), restaurant=restaurant["path"]) # Mengambil card makanan dari restaurant
 
-                for card in cards:
-                    print(f'https://gofood.co.id/_next/data/8.10.0/id{card}/reviews.json?id={card.split("/")[-1]}')
+                for card in cards: # lokasi thread
 
                     food_review = self.__sessions.get(f'https://gofood.co.id/_next/data/8.10.0/id{card}/reviews.json?id={card.split("/")[-1]}', headers=self.HEADER)
                     ic(food_review)
+                    ic(f'https://gofood.co.id/_next/data/8.10.0/id{card}/reviews.json?id={card.split("/")[-1]}')
 
                     header_required = {
+                        "link": self.MAIN_URL+food_review.json()["pageProps"]["outletUrl"],
                         "domain": self.DOMAIN,
+                        "tags": [tag["displayName"] for tag in food_review.json()["pageProps"]["outlet"]["core"]["tags"]],
                         "crawling_time": str(datetime.now()),
                         "crawling_time_epoch": int(time()),
-                        "city": city["name"].lower(),
-                        "area": restaurant["path"].split("/")[-1],
+                        "path_data_raw": "",
+                        "path_data_clean": "",
+                        "reviews_name": food_review.json()["pageProps"]["outlet"]["core"]["displayName"],
+                        "location_review": city["name"].lower(),
 
-                        "url": self.MAIN_URL+food_review.json()["pageProps"]["outletUrl"],
-                        "ratings": food_review.json()["pageProps"]["outlet"]["ratings"],
-                        "distance_km": food_review.json()["pageProps"]["outlet"]["delivery"]["distanceKm"],
+                        "location_restaurant": {
+                            "city": city["name"].lower(),
+                            "area": restaurant["path"].split("/")[-1],
+                            "distance_km": food_review.json()["pageProps"]["outlet"]["delivery"]["distanceKm"],
+                        },
+
                         "range_prices": self.PRICE[str(food_review.json()["pageProps"]["outlet"]["priceLevel"])],
-                        "restaurant_name": food_review.json()["pageProps"]["outlet"]["core"]["displayName"],
                         "restaurant_id": food_review.json()["pageProps"]["outlet"]["uid"],
+                        "category_reviews": "food & baverage",
+                        
+                        "reviews_rating": {
+                            "total_ratings": food_review.json()["pageProps"]["outlet"]["ratings"],
+                            "detail_total_rating": [
+                                {
+                                    "score_rating": food_review.json()["pageProps"]["cannedOutlet"][0]["count"],
+                                    "category_rating": "taste",
+                                },
+                                {
+                                    "score_rating": food_review.json()["pageProps"]["cannedOutlet"][1]["count"],
+                                    "category_rating": "portion",
+                                },
+                                {
+                                    "score_rating": food_review.json()["pageProps"]["cannedOutlet"][-1]["count"],
+                                    "category_rating": "packaging",
+                                }
+                            ] if len(food_review.json()["pageProps"]["cannedOutlet"]) else None
+                        },
 
-                        "taste_rating": food_review.json()["pageProps"]["cannedOutlet"][0]["count"],
-                        "portion_rating": food_review.json()["pageProps"]["cannedOutlet"][1]["count"],
-                        "packaging_rating": food_review.json()["pageProps"]["cannedOutlet"][-1]["count"],
-                        "review": ""
+                        "range_prices": self.PRICE[str(food_review.json()["pageProps"]["outlet"]["priceLevel"])],
+                        "restaurant_id": food_review.json()["pageProps"]["outlet"]["uid"],
+                        "detail_reviews": ""
                     }
 
-                    self.__extract_food(raw_json=header_required)
+                    header_required["tags"].append(self.DOMAIN)
+                    self.__extract_restaurant(raw_json=header_required)
+                    ic("restaurant")
 
-                    break
+                    sleep(1)
 
                 break
 
@@ -197,3 +241,20 @@ class Gofood:
 
 'https://gofood.co.id/jakarta/restaurant/mcdonald-s-pekayon-50150204-8f6d-4372-8458-668f1be126e8/reviews.json?id=mcdonald-s-pekayon-50150204-8f6d-4372-8458-668f1be126e8'
 'https://gofood.co.id/_next/data/8.10.0/id/jakarta/restaurant/mcdonald-s-pekayon-50150204-8f6d-4372-8458-668f1be126e8/reviews.json?id=mcdonald-s-pekayon-50150204-8f6d-4372-8458-668f1be126e8'
+
+
+"""
+ic| response: <Response [200]>
+Traceback (most recent call last):
+  File "D:\programming\Python\project\Gofood\main.py", line 5, in <module>
+    go.main()
+  File "D:\programming\Python\project\Gofood\src\service\gofood.py", line 223, in main
+    self.__extract_restaurant(raw_json=header_required)
+  File "D:\programming\Python\project\Gofood\src\service\gofood.py", line 107, in __extract_restaurant
+    "path_data_raw": f'/data/{raw_json["city"]}/{raw_json["area"]}/{file_name(raw_json["reviews_name"].lower())}/json',
+                              ~~~~~~~~^^^^^^^^
+KeyError: 'city'
+PS D:\programming\Py"""
+
+# https://gofood.co.id/_next/data/8.10.0/id/jakarta/restaurant/a-w-linc-square-d4fe7a94-86cd-4883-b279-07bdd7002ad9/reviews.json?id=a-w-linc-square-d4fe7a94-86cd-4883-b279-07bdd7002ad9
+# https://gofood.co.id/_next/data/8.10.0/id/jakarta/restaurant/aw-linc-square-d4fe7a94-86cd-4883-b279-07bdd7002ad9/reviews.json?id=aw-linc-square-d4fe7a94-86cd-4883-b279-07bdd7002ad9

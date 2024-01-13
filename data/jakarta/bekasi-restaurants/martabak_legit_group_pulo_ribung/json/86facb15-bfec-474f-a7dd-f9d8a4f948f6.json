@@ -1,0 +1,67 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/martabak-legit-group-pulo-ribung-e7bc6ee0-6632-451a-b5cf-adb7af7c3da9",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Jajanan",
+    "Martabak",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:20:03.652928",
+  "crawling_time_epoch": 1705155603,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Martabak_Legit_Group_Pulo_Ribung/json/86facb15-bfec-474f-a7dd-f9d8a4f948f6.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Martabak_Legit_Group_Pulo_Ribung/json/86facb15-bfec-474f-a7dd-f9d8a4f948f6.json",
+  "reviews_name": "Martabak Legit Group, Pulo Ribung",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.71
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "e7bc6ee0-6632-451a-b5cf-adb7af7c3da9",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.5,
+      "total": 1731
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 174,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 137,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 126,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "86facb15-bfec-474f-a7dd-f9d8a4f948f6",
+    "username_reviews": "S*** D*** P******",
+    "initialName": "SP",
+    "image_reviews": null,
+    "created_time": "2022-10-12T19:31:55.484019+07:00",
+    "created_time_epoch": 1665603115,
+    "reviews_rating": 3,
+    "orders": {
+      "orderedAt": "2022-10-04T12:03:13.926962Z",
+      "items": [
+        {
+          "id": "13b49f39-53a8-4ce1-8f6f-1405e96f6fbf",
+          "name": "Martabak Manis Original Keju Coklat"
+        }
+      ]
+    },
+    "tags_review": [
+      "CANNED_RESPONSE_PORTION",
+      "gofood.co.id"
+    ],
+    "content_reviews": "kecewa sama porsinya yg sekarang\nudah berkali2 beli tapi porsinya makin lama makin dikit\nSaran aja mending naikin harga daripada nurunin kualitas \nthanks anyway",
+    "date_of_experience": ""
+  }
+}

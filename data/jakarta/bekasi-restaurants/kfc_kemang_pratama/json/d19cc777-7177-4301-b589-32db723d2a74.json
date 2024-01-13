@@ -1,0 +1,78 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/kfc-kemang-pratama-ef8c2c3e-61d6-4bd4-b9fa-10cfd6358dcf",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Cepat saji",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:19:21.062803",
+  "crawling_time_epoch": 1705155561,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/KFC_Kemang_Pratama/json/d19cc777-7177-4301-b589-32db723d2a74.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/KFC_Kemang_Pratama/json/d19cc777-7177-4301-b589-32db723d2a74.json",
+  "reviews_name": "KFC, Kemang Pratama",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.53
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "ef8c2c3e-61d6-4bd4-b9fa-10cfd6358dcf",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.8,
+      "total": 24067
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 2021,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 1696,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 1631,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "d19cc777-7177-4301-b589-32db723d2a74",
+    "username_reviews": "Kiki Agustin",
+    "initialName": "KA",
+    "image_reviews": null,
+    "created_time": "2023-12-06T17:31:10.459205+07:00",
+    "created_time_epoch": 1701883870,
+    "reviews_rating": 1,
+    "orders": {
+      "orderedAt": "2023-12-06T09:22:43.086439Z",
+      "items": [
+        {
+          "id": "7ea42414-f2d4-4d2b-a7e6-ad06e6245a28",
+          "name": "Chick Ball Seasoning"
+        },
+        {
+          "id": "b92d856a-c2be-4a03-af8f-96bffc48a4e7",
+          "name": "KFC Soup"
+        },
+        {
+          "id": "3d0d42f5-c9f8-4c23-9c20-5d45b9d6c12d",
+          "name": "Rice"
+        },
+        {
+          "id": "75b51bb5-0042-4021-a12d-a381781f2b14",
+          "name": "French Fries Large"
+        }
+      ]
+    },
+    "tags_review": [
+      "CANNED_RESPONSE_FRESHNESS",
+      "gofood.co.id"
+    ],
+    "content_reviews": "Chicken soup nya basi, padahal buat suapin anak kecil , untung anakku ga sakit perut",
+    "date_of_experience": ""
+  }
+}

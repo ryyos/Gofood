@@ -1,0 +1,85 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/domino-s-pizza-kemang-pratama-00fb7fae-fbe1-4b63-ad17-dc7094c64f9c",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Pizza & pasta",
+    "Cepat saji",
+    "Jajanan",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:18:48.067806",
+  "crawling_time_epoch": 1705155528,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Dominos_Pizza_Kemang_Pratama/json/39163e1a-0ded-4cbd-8375-9963c21c8c6c.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Dominos_Pizza_Kemang_Pratama/json/39163e1a-0ded-4cbd-8375-9963c21c8c6c.json",
+  "reviews_name": "Domino's Pizza, Kemang Pratama",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.47
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "00fb7fae-fbe1-4b63-ad17-dc7094c64f9c",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.7,
+      "total": 11582
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 1426,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 1210,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 1158,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "39163e1a-0ded-4cbd-8375-9963c21c8c6c",
+    "username_reviews": "R*****",
+    "initialName": "R",
+    "image_reviews": null,
+    "created_time": "2021-05-28T14:24:53.509962+07:00",
+    "created_time_epoch": 1622211893,
+    "reviews_rating": 5,
+    "orders": {
+      "orderedAt": "2021-05-28T06:17:51.219082Z",
+      "items": [
+        {
+          "id": "200b5ba7-7a48-4a7f-8298-e2c3f82e7021",
+          "name": "American Mac' n Cheese"
+        },
+        {
+          "id": "bed41677-602c-47bd-b6f1-364052bc7bfb",
+          "name": "Best Ever Value Deal Rice"
+        },
+        {
+          "id": "65693073-ca7b-47e7-9dea-8e41c71768d5",
+          "name": "Best Ever Value Deal 2 Tasty Stuffed Pockets"
+        },
+        {
+          "id": "5c3be2b3-b68c-4536-9b90-aaecc70c6d73",
+          "name": "Super Deal (Rp 13.637,- / Pizza)"
+        }
+      ]
+    },
+    "tags_review": [
+      "CANNED_RESPONSE_FRESHNESS",
+      "CANNED_RESPONSE_TASTE",
+      "CANNED_RESPONSE_PORTION",
+      "CANNED_RESPONSE_HYGIENE",
+      "CANNED_RESPONSE_PACKAGING",
+      "CANNED_RESPONSE_VALUE",
+      "gofood.co.id"
+    ],
+    "content_reviews": "dari seluruh cabang dominos, packing dan makanannya juara disini... makasih ya ",
+    "date_of_experience": ""
+  }
+}

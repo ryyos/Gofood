@@ -1,0 +1,68 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/domino-s-pizza-kemang-pratama-00fb7fae-fbe1-4b63-ad17-dc7094c64f9c",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Pizza & pasta",
+    "Cepat saji",
+    "Jajanan",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:18:48.067806",
+  "crawling_time_epoch": 1705155528,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Dominos_Pizza_Kemang_Pratama/json/b4da8a26-93c5-4406-8186-c0ea90050512.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Dominos_Pizza_Kemang_Pratama/json/b4da8a26-93c5-4406-8186-c0ea90050512.json",
+  "reviews_name": "Domino's Pizza, Kemang Pratama",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.47
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "00fb7fae-fbe1-4b63-ad17-dc7094c64f9c",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.7,
+      "total": 11582
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 1426,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 1210,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 1158,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "b4da8a26-93c5-4406-8186-c0ea90050512",
+    "username_reviews": "J****",
+    "initialName": "J",
+    "image_reviews": null,
+    "created_time": "2019-11-11T08:21:28.484+07:00",
+    "created_time_epoch": 1573460488,
+    "reviews_rating": 5,
+    "orders": {
+      "orderedAt": "2019-11-10T14:17:34.22696Z",
+      "items": [
+        {
+          "id": "12b0c7e7-890b-4a5f-878f-41c1b3e2a9af",
+          "name": "Buy Premium CB Pizza Get  Rp 1,111 For 2nd Pizza"
+        }
+      ]
+    },
+    "tags_review": [
+      "",
+      "gofood.co.id"
+    ],
+    "content_reviews": "saya minta ygvgaring tp ga dikasih",
+    "date_of_experience": ""
+  }
+}

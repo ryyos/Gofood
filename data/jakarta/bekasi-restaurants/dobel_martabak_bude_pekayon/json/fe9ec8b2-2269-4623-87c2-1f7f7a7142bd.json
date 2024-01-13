@@ -1,0 +1,75 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/dobel-martabak-bude-pekayon-c516bbfe-5583-4fbc-9605-9cd02cd220b0",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Martabak",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:18:42.021929",
+  "crawling_time_epoch": 1705155522,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Dobel_Martabak_Bude_Pekayon/json/fe9ec8b2-2269-4623-87c2-1f7f7a7142bd.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Dobel_Martabak_Bude_Pekayon/json/fe9ec8b2-2269-4623-87c2-1f7f7a7142bd.json",
+  "reviews_name": "Dobel Martabak Bude, Pekayon",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.46
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "c516bbfe-5583-4fbc-9605-9cd02cd220b0",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.6,
+      "total": 2907
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 366,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 264,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 253,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "fe9ec8b2-2269-4623-87c2-1f7f7a7142bd",
+    "username_reviews": "M**** L****",
+    "initialName": "ML",
+    "image_reviews": null,
+    "created_time": "2021-11-11T22:06:46.375848+07:00",
+    "created_time_epoch": 1636668406,
+    "reviews_rating": 5,
+    "orders": {
+      "orderedAt": "2021-11-11T14:32:15.344771Z",
+      "items": [
+        {
+          "id": "418e9bca-b072-4838-8ac7-06b3362a914f",
+          "name": "Martabak Telor Bebek Istimewa"
+        },
+        {
+          "id": "52d43ed7-7e9a-4a3b-b178-b86dc37059d6",
+          "name": "Kombinasi (dobel) + Susu"
+        }
+      ]
+    },
+    "tags_review": [
+      "CANNED_RESPONSE_FRESHNESS",
+      "CANNED_RESPONSE_TASTE",
+      "CANNED_RESPONSE_PORTION",
+      "CANNED_RESPONSE_HYGIENE",
+      "CANNED_RESPONSE_PACKAGING",
+      "CANNED_RESPONSE_VALUE",
+      "gofood.co.id"
+    ],
+    "content_reviews": "terima kasih atas jasa nya",
+    "date_of_experience": ""
+  }
+}

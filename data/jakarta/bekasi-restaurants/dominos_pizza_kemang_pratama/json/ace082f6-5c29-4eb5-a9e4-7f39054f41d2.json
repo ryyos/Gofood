@@ -1,0 +1,68 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/domino-s-pizza-kemang-pratama-00fb7fae-fbe1-4b63-ad17-dc7094c64f9c",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Pizza & pasta",
+    "Cepat saji",
+    "Jajanan",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:18:48.067806",
+  "crawling_time_epoch": 1705155528,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Dominos_Pizza_Kemang_Pratama/json/ace082f6-5c29-4eb5-a9e4-7f39054f41d2.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Dominos_Pizza_Kemang_Pratama/json/ace082f6-5c29-4eb5-a9e4-7f39054f41d2.json",
+  "reviews_name": "Domino's Pizza, Kemang Pratama",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.47
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "00fb7fae-fbe1-4b63-ad17-dc7094c64f9c",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.7,
+      "total": 11582
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 1426,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 1210,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 1158,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "ace082f6-5c29-4eb5-a9e4-7f39054f41d2",
+    "username_reviews": "Widiyanti Rahayu",
+    "initialName": "WR",
+    "image_reviews": null,
+    "created_time": "2022-01-09T13:29:34.558376+07:00",
+    "created_time_epoch": 1641734974,
+    "reviews_rating": 5,
+    "orders": {
+      "orderedAt": "2022-01-09T05:31:24.316249Z",
+      "items": [
+        {
+          "id": "79036ab5-913d-44f8-879a-c1deac7df627",
+          "name": "Disc.50% off for 2 Medium Pizza with Tasty Pocket & 1 Breadsticks"
+        }
+      ]
+    },
+    "tags_review": [
+      "CANNED_RESPONSE_VALUE",
+      "gofood.co.id"
+    ],
+    "content_reviews": "promo nya gilagilaan ",
+    "date_of_experience": ""
+  }
+}

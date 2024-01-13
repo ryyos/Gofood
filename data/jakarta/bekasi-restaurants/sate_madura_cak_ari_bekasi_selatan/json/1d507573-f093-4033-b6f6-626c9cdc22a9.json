@@ -1,0 +1,73 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/sate-madura-cak-ari-bekasi-selatan-65c0efa7-65ff-4868-95e5-a4ec690c6c14",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Sate",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:19:50.904999",
+  "crawling_time_epoch": 1705155590,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Sate_Madura_Cak_Ari_Bekasi_Selatan/json/1d507573-f093-4033-b6f6-626c9cdc22a9.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Sate_Madura_Cak_Ari_Bekasi_Selatan/json/1d507573-f093-4033-b6f6-626c9cdc22a9.json",
+  "reviews_name": "Sate Madura Cak Ari, Bekasi Selatan",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.69
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "65c0efa7-65ff-4868-95e5-a4ec690c6c14",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.7,
+      "total": 6478
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 827,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 589,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 535,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "1d507573-f093-4033-b6f6-626c9cdc22a9",
+    "username_reviews": "S***** N******",
+    "initialName": "SN",
+    "image_reviews": null,
+    "created_time": "2022-06-29T11:23:47.326117+07:00",
+    "created_time_epoch": 1656501827,
+    "reviews_rating": 5,
+    "orders": {
+      "orderedAt": "2022-06-28T14:12:06.063084Z",
+      "items": [
+        {
+          "id": "f2aea19b-05e9-4774-9a04-b798e3879604",
+          "name": "Sate Ayam"
+        },
+        {
+          "id": "d75caa08-3692-4d43-bda5-dfb94a3a92d0",
+          "name": "Sop"
+        },
+        {
+          "id": "802ed2eb-c7fa-460d-987d-a8565df379bb",
+          "name": "Es Jeruk"
+        }
+      ]
+    },
+    "tags_review": [
+      "gofood.co.id"
+    ],
+    "content_reviews": "Mantapp rasanya enak",
+    "date_of_experience": ""
+  }
+}

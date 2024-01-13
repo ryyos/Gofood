@@ -1,0 +1,67 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/meatbray-ricebowl-hotplate-100-us-beef-grand-galaxy-city-eecfae26-b0cc-4063-b0ef-c260539281f7",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Aneka nasi",
+    "Cepat saji",
+    "Jepang",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:20:09.646388",
+  "crawling_time_epoch": 1705155609,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Meatbray_Ricebowl__Hotplate_100_US_Beef_Grand_Galaxy_City/json/de4e6a93-8125-4c8d-ad10-85e8bdf11d05.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Meatbray_Ricebowl__Hotplate_100_US_Beef_Grand_Galaxy_City/json/de4e6a93-8125-4c8d-ad10-85e8bdf11d05.json",
+  "reviews_name": "Meatbray Ricebowl & Hotplate 100% US Beef, Grand Galaxy City",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.77
+  },
+  "range_prices": "16k-40k",
+  "restaurant_id": "eecfae26-b0cc-4063-b0ef-c260539281f7",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.7,
+      "total": 526
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 67,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 51,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 45,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "de4e6a93-8125-4c8d-ad10-85e8bdf11d05",
+    "username_reviews": "A***********",
+    "initialName": "A",
+    "image_reviews": null,
+    "created_time": "2022-09-12T19:44:58.216313+07:00",
+    "created_time_epoch": 1663011898,
+    "reviews_rating": 1,
+    "orders": {
+      "orderedAt": "2022-09-12T11:58:34.657251Z",
+      "items": [
+        {
+          "id": "c240f56c-3a56-491c-9652-f9d6e5cab3f7",
+          "name": "Ricebowl Teriyaki Jumbo"
+        }
+      ]
+    },
+    "tags_review": [
+      "gofood.co.id"
+    ],
+    "content_reviews": "Gak sesuai katanya ada bayam kering nya tapi gk ada sama sekali",
+    "date_of_experience": ""
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/bubur-ayam-kampung-nyemplung-pekayon-decd86af-75d6-466d-9d74-c66a45850297",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Aneka nasi",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:20:19.392522",
+  "crawling_time_epoch": 1705155619,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Bubur_Ayam_Kampung_Nyemplung_Pekayon/json/daa91c22-64fc-49b4-84d5-ac1499aa78f4.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Bubur_Ayam_Kampung_Nyemplung_Pekayon/json/daa91c22-64fc-49b4-84d5-ac1499aa78f4.json",
+  "reviews_name": "Bubur Ayam Kampung Nyemplung, Pekayon",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.96
+  },
+  "range_prices": "<16k",
+  "restaurant_id": "decd86af-75d6-466d-9d74-c66a45850297",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.7,
+      "total": 2066
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 191,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 138,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 137,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "daa91c22-64fc-49b4-84d5-ac1499aa78f4",
+    "username_reviews": "D**** A*****",
+    "initialName": "DA",
+    "image_reviews": null,
+    "created_time": "2023-08-19T07:14:57.284789+07:00",
+    "created_time_epoch": 1692429297,
+    "reviews_rating": 1,
+    "orders": {
+      "orderedAt": "2023-08-18T23:40:07.983287Z",
+      "items": [
+        {
+          "id": "acd27756-2354-4749-bb23-b894457444fd",
+          "name": "Bubur Ayam Kampung + Telor"
+        },
+        {
+          "id": "d8519448-d0cd-43f4-a597-1e25b7cb83a3",
+          "name": "Bubur Ayam Kampung 1 Porsi"
+        },
+        {
+          "id": "11b30d80-ed78-4efe-9277-7e588b308d26",
+          "name": "Soto Ayam Nyemplung"
+        },
+        {
+          "id": "a9bf1225-8687-445b-b401-46fc11210d8b",
+          "name": "Sate Ati"
+        },
+        {
+          "id": "ca29f25f-ab56-423f-9d65-f01ed4feff56",
+          "name": "Sate Usus"
+        },
+        {
+          "id": "d42d4b3a-3b8e-4b6f-9c42-cbd06cd377aa",
+          "name": "Sate Telor Puyuh"
+        },
+        {
+          "id": "c638c0ca-934c-43a0-8205-2c5b6690a5d6",
+          "name": "Sate Jantung"
+        },
+        {
+          "id": "01a7f97c-d3cd-41f5-84dd-c3c6401f1f36",
+          "name": "Cakwe Dan Sauce"
+        }
+      ]
+    },
+    "tags_review": [
+      "gofood.co.id"
+    ],
+    "content_reviews": "saya pesan soto ayam dan cakwe tapi koq ngga ada? hanya bubur aja di kasihnya??? ",
+    "date_of_experience": ""
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/kfc-kemang-pratama-ef8c2c3e-61d6-4bd4-b9fa-10cfd6358dcf",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Cepat saji",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:19:21.062803",
+  "crawling_time_epoch": 1705155561,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/KFC_Kemang_Pratama/json/6b211152-6e11-4d8e-aa71-3d57d7f3054d.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/KFC_Kemang_Pratama/json/6b211152-6e11-4d8e-aa71-3d57d7f3054d.json",
+  "reviews_name": "KFC, Kemang Pratama",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.53
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "ef8c2c3e-61d6-4bd4-b9fa-10cfd6358dcf",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.8,
+      "total": 24067
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 2021,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 1696,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 1631,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "6b211152-6e11-4d8e-aa71-3d57d7f3054d",
+    "username_reviews": "A** D*******",
+    "initialName": "AD",
+    "image_reviews": null,
+    "created_time": "2021-08-25T15:26:39.818116+07:00",
+    "created_time_epoch": 1629905199,
+    "reviews_rating": 5,
+    "orders": {
+      "orderedAt": "2021-08-25T05:33:21.74928Z",
+      "items": [
+        {
+          "id": "d3f26219-ed52-4461-9e3c-25c5f9e28f64",
+          "name": "5 PLUS 3"
+        },
+        {
+          "id": "0111801b-47bc-40e7-a1ee-de9b48b712fc",
+          "name": "Cream Puff 1Pc"
+        },
+        {
+          "id": "ff01038c-ca43-4263-a741-fea040ed2bcc",
+          "name": "Chicken Skin"
+        },
+        {
+          "id": "c17667f6-c69e-45be-9f28-9bd4d06f35eb",
+          "name": "Hot and Crispy Chicken"
+        }
+      ]
+    },
+    "tags_review": [
+      "gofood.co.id"
+    ],
+    "content_reviews": "Selalu enak untuk ayam dan nasinya. Pesen kulitnya juga, tp ternyata makan kulitnya aja beda rasanya dgn kulit ayam kfc yg nemoel di daging. Terlalu asin klo order kulitnya aja. Utk puff pastrynya sayang bgt creamnya dikit bgttt.",
+    "date_of_experience": ""
+  }
+}

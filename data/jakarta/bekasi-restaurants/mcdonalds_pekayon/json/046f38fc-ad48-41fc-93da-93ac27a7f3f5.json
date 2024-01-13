@@ -1,0 +1,72 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/mcdonald-s-pekayon-50150204-8f6d-4372-8458-668f1be126e8",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Cepat saji",
+    "Sweets",
+    "Jajanan",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:17:21.424093",
+  "crawling_time_epoch": 1705155441,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/McDonalds_Pekayon/json/046f38fc-ad48-41fc-93da-93ac27a7f3f5.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/McDonalds_Pekayon/json/046f38fc-ad48-41fc-93da-93ac27a7f3f5.json",
+  "reviews_name": "McDonald's, Pekayon",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.46
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "50150204-8f6d-4372-8458-668f1be126e8",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.8,
+      "total": 70397
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 4555,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 3695,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 3669,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "046f38fc-ad48-41fc-93da-93ac27a7f3f5",
+    "username_reviews": "H**** S***",
+    "initialName": "HS",
+    "image_reviews": null,
+    "created_time": "2021-11-13T22:04:36.016166+07:00",
+    "created_time_epoch": 1636841076,
+    "reviews_rating": 1,
+    "orders": {
+      "orderedAt": "2021-11-13T14:18:32.60461Z",
+      "items": [
+        {
+          "id": "f255ed63-b63c-4fa2-8341-7a898839ea2b",
+          "name": "1pc Spicy Chicken"
+        },
+        {
+          "id": "031e2f03-9959-4ae3-851c-6bc0efbbf500",
+          "name": "Fruit Tea Lemon Large"
+        }
+      ]
+    },
+    "tags_review": [
+      "CANNED_RESPONSE_ORDER",
+      "gofood.co.id"
+    ],
+    "content_reviews": "saya sudah tulis di note kalo pesannya ayam paha atas atas tapi malah dikasih sayap",
+    "date_of_experience": ""
+  }
+}

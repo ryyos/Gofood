@@ -1,0 +1,76 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/mcdonald-s-pekayon-50150204-8f6d-4372-8458-668f1be126e8",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Cepat saji",
+    "Sweets",
+    "Jajanan",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:17:21.424093",
+  "crawling_time_epoch": 1705155441,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/McDonalds_Pekayon/json/f801f5b5-bb10-4bfb-a366-96e74f0489c1.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/McDonalds_Pekayon/json/f801f5b5-bb10-4bfb-a366-96e74f0489c1.json",
+  "reviews_name": "McDonald's, Pekayon",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.46
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "50150204-8f6d-4372-8458-668f1be126e8",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.8,
+      "total": 70397
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 4555,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 3695,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 3669,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "f801f5b5-bb10-4bfb-a366-96e74f0489c1",
+    "username_reviews": "N***",
+    "initialName": "N",
+    "image_reviews": null,
+    "created_time": "2020-05-09T17:15:08.791+07:00",
+    "created_time_epoch": 1589044508,
+    "reviews_rating": 4,
+    "orders": {
+      "orderedAt": "2020-05-09T07:34:35.102043Z",
+      "items": [
+        {
+          "id": "a067db1c-7000-4045-a93e-b727f1cfa477",
+          "name": "Double Cheeseburger Meal Large"
+        },
+        {
+          "id": "90a239c9-b91c-4355-aeb2-d789f6940131",
+          "name": "PaMer 5 Krispy"
+        },
+        {
+          "id": "6ce1f755-ecbb-467c-887d-8315ebec459e",
+          "name": "Double Cheese Burger"
+        }
+      ]
+    },
+    "tags_review": [
+      "",
+      "gofood.co.id"
+    ],
+    "content_reviews": "not same as my order",
+    "date_of_experience": ""
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/kfc-kemang-pratama-ef8c2c3e-61d6-4bd4-b9fa-10cfd6358dcf",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Cepat saji",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:19:21.062803",
+  "crawling_time_epoch": 1705155561,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/KFC_Kemang_Pratama/json/33f12c59-7a76-4fe6-b290-e62508bf22c1.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/KFC_Kemang_Pratama/json/33f12c59-7a76-4fe6-b290-e62508bf22c1.json",
+  "reviews_name": "KFC, Kemang Pratama",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.53
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "ef8c2c3e-61d6-4bd4-b9fa-10cfd6358dcf",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.8,
+      "total": 24067
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 2021,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 1696,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 1631,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "33f12c59-7a76-4fe6-b290-e62508bf22c1",
+    "username_reviews": "P**** J********",
+    "initialName": "PJ",
+    "image_reviews": null,
+    "created_time": "2022-02-15T12:49:27.412327+07:00",
+    "created_time_epoch": 1644929367,
+    "reviews_rating": 5,
+    "orders": {
+      "orderedAt": "2022-02-14T13:46:11.253443Z",
+      "items": [
+        {
+          "id": "6e4528af-1ceb-457c-8d20-2be4ecee1915",
+          "name": "Cream Soup"
+        },
+        {
+          "id": "ff01038c-ca43-4263-a741-fea040ed2bcc",
+          "name": "Chicken Skin"
+        },
+        {
+          "id": "86a9195f-d977-47c5-a9d4-16ee4f038800",
+          "name": "Chaki Kids Meal A"
+        }
+      ]
+    },
+    "tags_review": [
+      "gofood.co.id"
+    ],
+    "content_reviews": "Bapaknya Ramah !👍🏻",
+    "date_of_experience": ""
+  }
+}

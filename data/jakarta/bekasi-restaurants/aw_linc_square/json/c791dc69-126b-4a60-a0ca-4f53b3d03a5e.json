@@ -1,0 +1,65 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/a-w-linc-square-d4fe7a94-86cd-4883-b279-07bdd7002ad9",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Cepat saji",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:20:11.107220",
+  "crawling_time_epoch": 1705155611,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/AW_Linc_Square/json/c791dc69-126b-4a60-a0ca-4f53b3d03a5e.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/AW_Linc_Square/json/c791dc69-126b-4a60-a0ca-4f53b3d03a5e.json",
+  "reviews_name": "A&W, Linc Square",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.94
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "d4fe7a94-86cd-4883-b279-07bdd7002ad9",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.8,
+      "total": 7181
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 499,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 403,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 365,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "c791dc69-126b-4a60-a0ca-4f53b3d03a5e",
+    "username_reviews": "M**** A****",
+    "initialName": "MA",
+    "image_reviews": null,
+    "created_time": "2023-03-19T17:46:45.811322+07:00",
+    "created_time_epoch": 1679248005,
+    "reviews_rating": 5,
+    "orders": {
+      "orderedAt": "2023-03-19T06:28:37.241006Z",
+      "items": [
+        {
+          "id": "fe52d849-7b51-47c8-a416-c2421d730108",
+          "name": "AWESOME - 5 Aroma Chicken & FREE! Cheese Burger + Chic Chunks"
+        }
+      ]
+    },
+    "tags_review": [
+      "gofood.co.id"
+    ],
+    "content_reviews": "kuah sotonya asin banget. Sampe ga bisa dimakan soalnya kebangetan asinnya kayak air garam. ",
+    "date_of_experience": ""
+  }
+}

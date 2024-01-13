@@ -1,0 +1,85 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/domino-s-pizza-kemang-pratama-00fb7fae-fbe1-4b63-ad17-dc7094c64f9c",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Pizza & pasta",
+    "Cepat saji",
+    "Jajanan",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:18:48.067806",
+  "crawling_time_epoch": 1705155528,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Dominos_Pizza_Kemang_Pratama/json/b3d82498-a16e-49d0-9cc3-58f90102a430.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Dominos_Pizza_Kemang_Pratama/json/b3d82498-a16e-49d0-9cc3-58f90102a430.json",
+  "reviews_name": "Domino's Pizza, Kemang Pratama",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.47
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "00fb7fae-fbe1-4b63-ad17-dc7094c64f9c",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.7,
+      "total": 11582
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 1426,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 1210,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 1158,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "b3d82498-a16e-49d0-9cc3-58f90102a430",
+    "username_reviews": "S**** P**** U****",
+    "initialName": "SU",
+    "image_reviews": null,
+    "created_time": "2021-09-23T21:10:20.001929+07:00",
+    "created_time_epoch": 1632431420,
+    "reviews_rating": 5,
+    "orders": {
+      "orderedAt": "2021-09-21T15:57:58.711006Z",
+      "items": [
+        {
+          "id": "b6500de5-62ea-4244-89b2-6d6424071f45",
+          "name": "Domino’s Pizza Eco Bag"
+        },
+        {
+          "id": "93c162d7-6d3b-455b-a57a-6ff07bfc2153",
+          "name": "Coca Cola, Fanta, Sprite (1L)"
+        },
+        {
+          "id": "a3a2c162-a658-46d5-8c17-fa86235e1f28",
+          "name": "Disc. 45% For Cheesy Delight"
+        },
+        {
+          "id": "01373cd2-9a35-4bb6-bb74-3bb978a4e45f",
+          "name": "Tasty Stuffed Pocket (Spicy Chicken Sausage)"
+        }
+      ]
+    },
+    "tags_review": [
+      "CANNED_RESPONSE_FRESHNESS",
+      "CANNED_RESPONSE_TASTE",
+      "CANNED_RESPONSE_PORTION",
+      "CANNED_RESPONSE_HYGIENE",
+      "CANNED_RESPONSE_PACKAGING",
+      "CANNED_RESPONSE_VALUE",
+      "gofood.co.id"
+    ],
+    "content_reviews": "enak banget mantab",
+    "date_of_experience": ""
+  }
+}

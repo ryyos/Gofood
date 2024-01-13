@@ -1,0 +1,72 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/richeese-factory-pekayon-fb7c3452-2cba-464a-9e24-23840a40a179",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Cepat saji",
+    "Ayam & bebek",
+    "Aneka nasi",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:20:23.240256",
+  "crawling_time_epoch": 1705155623,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Richeese_Factory_Pekayon/json/01866894-5772-4bfb-b637-f1691d57ca69.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Richeese_Factory_Pekayon/json/01866894-5772-4bfb-b637-f1691d57ca69.json",
+  "reviews_name": "Richeese Factory, Pekayon",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.97
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "fb7c3452-2cba-464a-9e24-23840a40a179",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.7,
+      "total": 32095
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 2029,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 1477,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 1469,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "01866894-5772-4bfb-b637-f1691d57ca69",
+    "username_reviews": "syifa",
+    "initialName": "S",
+    "image_reviews": null,
+    "created_time": "2023-07-05T00:16:12.440999+07:00",
+    "created_time_epoch": 1688516172,
+    "reviews_rating": 2,
+    "orders": {
+      "orderedAt": "2023-06-30T13:25:05.436911Z",
+      "items": [
+        {
+          "id": "f1a8d56a-da77-4c81-bae6-4b7b1f20d4f1",
+          "name": "Combo Fire Flying Chicken Ghostpepper - Personal"
+        },
+        {
+          "id": "1861ab3b-24d6-4494-b7ce-10376b3d4c16",
+          "name": "Friend Fries Ghostpepper"
+        }
+      ]
+    },
+    "tags_review": [
+      "CANNED_RESPONSE_TASTE",
+      "gofood.co.id"
+    ],
+    "content_reviews": "sumpa ghost pappernya bumbunya gaenakkkkkk ",
+    "date_of_experience": ""
+  }
+}

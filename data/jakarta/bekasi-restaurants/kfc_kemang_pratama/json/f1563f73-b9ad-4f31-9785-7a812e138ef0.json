@@ -1,0 +1,70 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/kfc-kemang-pratama-ef8c2c3e-61d6-4bd4-b9fa-10cfd6358dcf",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Cepat saji",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:19:21.062803",
+  "crawling_time_epoch": 1705155561,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/KFC_Kemang_Pratama/json/f1563f73-b9ad-4f31-9785-7a812e138ef0.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/KFC_Kemang_Pratama/json/f1563f73-b9ad-4f31-9785-7a812e138ef0.json",
+  "reviews_name": "KFC, Kemang Pratama",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.53
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "ef8c2c3e-61d6-4bd4-b9fa-10cfd6358dcf",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.8,
+      "total": 24067
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 2021,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 1696,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 1631,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "f1563f73-b9ad-4f31-9785-7a812e138ef0",
+    "username_reviews": "Esti Agusnaeni",
+    "initialName": "EA",
+    "image_reviews": null,
+    "created_time": "2022-05-22T15:45:46.50953+07:00",
+    "created_time_epoch": 1653234346,
+    "reviews_rating": 4,
+    "orders": {
+      "orderedAt": "2022-05-21T09:26:45.098781Z",
+      "items": [
+        {
+          "id": "344fb616-a74b-4817-8bb9-fb3bde62e805",
+          "name": "Crispy Chicken"
+        },
+        {
+          "id": "0cd1adbe-0b99-4d88-b3e0-4fb15f9a9665",
+          "name": "Spaghetti Supreme"
+        }
+      ]
+    },
+    "tags_review": [
+      "CANNED_RESPONSE_PACKAGING",
+      "gofood.co.id"
+    ],
+    "content_reviews": "kalo pesen ayam banyak tolong gunakan tempat yang gede sehingga g benyek ayamnya yaaa",
+    "date_of_experience": ""
+  }
+}

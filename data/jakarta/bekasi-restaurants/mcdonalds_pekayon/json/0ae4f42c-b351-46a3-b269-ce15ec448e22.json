@@ -1,0 +1,71 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/mcdonald-s-pekayon-50150204-8f6d-4372-8458-668f1be126e8",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Cepat saji",
+    "Sweets",
+    "Jajanan",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:17:21.424093",
+  "crawling_time_epoch": 1705155441,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/McDonalds_Pekayon/json/0ae4f42c-b351-46a3-b269-ce15ec448e22.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/McDonalds_Pekayon/json/0ae4f42c-b351-46a3-b269-ce15ec448e22.json",
+  "reviews_name": "McDonald's, Pekayon",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.46
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "50150204-8f6d-4372-8458-668f1be126e8",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.8,
+      "total": 70397
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 4555,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 3695,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 3669,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "0ae4f42c-b351-46a3-b269-ce15ec448e22",
+    "username_reviews": "dendi",
+    "initialName": "D",
+    "image_reviews": null,
+    "created_time": "2022-02-28T23:11:05.476326+07:00",
+    "created_time_epoch": 1646089865,
+    "reviews_rating": 1,
+    "orders": {
+      "orderedAt": "2022-02-28T15:26:48.047381Z",
+      "items": [
+        {
+          "id": "5c8e6b1b-ee21-434c-96aa-9a8da781e4a2",
+          "name": "Share Box with Spicy Seaweed Cruncy Bubbles + Mentai Sauce"
+        },
+        {
+          "id": "5e5b6a81-8fb2-42af-b93c-abe4d26fbe4f",
+          "name": "PaNas 2  Krispy with Fries, Medium"
+        }
+      ]
+    },
+    "tags_review": [
+      "gofood.co.id"
+    ],
+    "content_reviews": "ga di kasih saus sambel",
+    "date_of_experience": ""
+  }
+}

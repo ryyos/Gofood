@@ -1,0 +1,76 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/mcdonald-s-pekayon-50150204-8f6d-4372-8458-668f1be126e8",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Cepat saji",
+    "Sweets",
+    "Jajanan",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:17:21.424093",
+  "crawling_time_epoch": 1705155441,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/McDonalds_Pekayon/json/bcbbaa46-8348-494b-b8e1-db00a00f84b3.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/McDonalds_Pekayon/json/bcbbaa46-8348-494b-b8e1-db00a00f84b3.json",
+  "reviews_name": "McDonald's, Pekayon",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.46
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "50150204-8f6d-4372-8458-668f1be126e8",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.8,
+      "total": 70397
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 4555,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 3695,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 3669,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "bcbbaa46-8348-494b-b8e1-db00a00f84b3",
+    "username_reviews": "E*****",
+    "initialName": "E",
+    "image_reviews": null,
+    "created_time": "2021-01-22T17:31:43.463+07:00",
+    "created_time_epoch": 1611336703,
+    "reviews_rating": 3,
+    "orders": {
+      "orderedAt": "2021-01-21T05:05:50.182145Z",
+      "items": [
+        {
+          "id": "d0a665c3-557a-44fe-a0a1-9602e74a2b45",
+          "name": "McD Chicken Porridge"
+        },
+        {
+          "id": "4cc3eaaf-a806-46bf-94c2-0b0d62ffb58c",
+          "name": "PaNas Spesial Large"
+        },
+        {
+          "id": "db50bda3-8a47-495a-a4d6-31f0a8e3e208",
+          "name": "McNuggets  4pcs"
+        }
+      ]
+    },
+    "tags_review": [
+      "CANNED_RESPONSE_PACKAGING",
+      "gofood.co.id"
+    ],
+    "content_reviews": "saya tdk menerima minuman dari paket",
+    "date_of_experience": ""
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/domino-s-pizza-kemang-pratama-00fb7fae-fbe1-4b63-ad17-dc7094c64f9c",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Pizza & pasta",
+    "Cepat saji",
+    "Jajanan",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:18:48.067806",
+  "crawling_time_epoch": 1705155528,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Dominos_Pizza_Kemang_Pratama/json/f8106b4b-7417-4d97-9ba8-2d27f6e58e54.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Dominos_Pizza_Kemang_Pratama/json/f8106b4b-7417-4d97-9ba8-2d27f6e58e54.json",
+  "reviews_name": "Domino's Pizza, Kemang Pratama",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.47
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "00fb7fae-fbe1-4b63-ad17-dc7094c64f9c",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.7,
+      "total": 11582
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 1426,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 1210,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 1158,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "f8106b4b-7417-4d97-9ba8-2d27f6e58e54",
+    "username_reviews": "Iksan Ipandi",
+    "initialName": "II",
+    "image_reviews": null,
+    "created_time": "2022-11-30T22:23:00.372249+07:00",
+    "created_time_epoch": 1669846980,
+    "reviews_rating": 1,
+    "orders": {
+      "orderedAt": "2022-11-20T09:06:13.202607Z",
+      "items": [
+        {
+          "id": "c2eb2a0d-7a7a-4352-816e-6957a3c244df",
+          "name": "Buy 4 Pizza Mania for 59K"
+        }
+      ]
+    },
+    "tags_review": [
+      "gofood.co.id"
+    ],
+    "content_reviews": "karyawan nya kurang ramah smua",
+    "date_of_experience": ""
+  }
+}

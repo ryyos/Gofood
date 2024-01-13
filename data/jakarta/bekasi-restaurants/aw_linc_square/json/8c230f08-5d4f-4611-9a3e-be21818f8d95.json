@@ -1,0 +1,77 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/a-w-linc-square-d4fe7a94-86cd-4883-b279-07bdd7002ad9",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Cepat saji",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:20:11.107220",
+  "crawling_time_epoch": 1705155611,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/AW_Linc_Square/json/8c230f08-5d4f-4611-9a3e-be21818f8d95.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/AW_Linc_Square/json/8c230f08-5d4f-4611-9a3e-be21818f8d95.json",
+  "reviews_name": "A&W, Linc Square",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.94
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "d4fe7a94-86cd-4883-b279-07bdd7002ad9",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.8,
+      "total": 7181
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 499,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 403,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 365,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "8c230f08-5d4f-4611-9a3e-be21818f8d95",
+    "username_reviews": "shinta",
+    "initialName": "S",
+    "image_reviews": null,
+    "created_time": "2022-12-17T14:48:40.614836+07:00",
+    "created_time_epoch": 1671288520,
+    "reviews_rating": 2,
+    "orders": {
+      "orderedAt": "2022-12-17T07:03:45.952131Z",
+      "items": [
+        {
+          "id": "4dc1b08c-6571-4d9a-ad8c-327d9bd98922",
+          "name": "MUSHROOM - Chicken & Steak"
+        },
+        {
+          "id": "a5756167-a259-4289-9d12-e57072cceb63",
+          "name": "SUPER - RB Floats"
+        },
+        {
+          "id": "54b4c9af-6842-4e65-ac5b-38298b7ef3ff",
+          "name": "MUSHROOM - Chicken & Scrambled Eggs"
+        },
+        {
+          "id": "84621056-ad42-4d74-a4ed-014d159a2222",
+          "name": "Paket Kentang D - Duo Aroma Chicken"
+        }
+      ]
+    },
+    "tags_review": [
+      "gofood.co.id"
+    ],
+    "content_reviews": "Item ga sesuai rootbeer cuman satu harusnya dua",
+    "date_of_experience": ""
+  }
+}

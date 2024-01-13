@@ -1,0 +1,80 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/bang-raden-gerobak-kopi-grand-galaxy-city-11ac8186-f8f3-4965-9a75-13c2dfc2581d",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Minuman",
+    "Kopi",
+    "Sweets",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:21:18.616977",
+  "crawling_time_epoch": 1705155678,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Bang_Raden_Gerobak_Kopi_Grand_Galaxy_City/json/3bbcdd73-8526-4443-a58b-10af0e1ce1d6.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Bang_Raden_Gerobak_Kopi_Grand_Galaxy_City/json/3bbcdd73-8526-4443-a58b-10af0e1ce1d6.json",
+  "reviews_name": "Bang Raden Gerobak Kopi, Grand Galaxy City",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 1
+  },
+  "range_prices": "16k-40k",
+  "restaurant_id": "11ac8186-f8f3-4965-9a75-13c2dfc2581d",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.8,
+      "total": 3944
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 461,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 337,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 315,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "3bbcdd73-8526-4443-a58b-10af0e1ce1d6",
+    "username_reviews": "A** L******",
+    "initialName": "AL",
+    "image_reviews": null,
+    "created_time": "2021-08-17T14:16:58.362912+07:00",
+    "created_time_epoch": 1629209818,
+    "reviews_rating": 5,
+    "orders": {
+      "orderedAt": "2021-08-17T06:27:54.415122Z",
+      "items": [
+        {
+          "id": "9c32019c-d4b4-4461-ab4b-498f01c51deb",
+          "name": "Ice Caramel Macchiato (HUT RI)"
+        },
+        {
+          "id": "e5b98b89-6ba3-46dd-ae82-913c3fd11d2f",
+          "name": "Cookies N Cream (HUT RI)"
+        },
+        {
+          "id": "aecef3e1-16bb-4842-98f6-77aa187b6cf5",
+          "name": "Kopi Rakyat (HUT RI)"
+        }
+      ]
+    },
+    "tags_review": [
+      "CANNED_RESPONSE_FRESHNESS",
+      "CANNED_RESPONSE_TASTE",
+      "CANNED_RESPONSE_HYGIENE",
+      "CANNED_RESPONSE_PACKAGING",
+      "CANNED_RESPONSE_VALUE",
+      "gofood.co.id"
+    ],
+    "content_reviews": "YaAllah caramel machiatonya enak banget, secinta itu sama bang raden.😍😍😍",
+    "date_of_experience": ""
+  }
+}

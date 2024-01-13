@@ -1,0 +1,67 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/mcdonald-s-pekayon-50150204-8f6d-4372-8458-668f1be126e8",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Cepat saji",
+    "Sweets",
+    "Jajanan",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:17:21.424093",
+  "crawling_time_epoch": 1705155441,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/McDonalds_Pekayon/json/7c15811a-7dd7-4790-8cfe-4f4f309bb51d.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/McDonalds_Pekayon/json/7c15811a-7dd7-4790-8cfe-4f4f309bb51d.json",
+  "reviews_name": "McDonald's, Pekayon",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.46
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "50150204-8f6d-4372-8458-668f1be126e8",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.8,
+      "total": 70397
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 4555,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 3695,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 3669,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "7c15811a-7dd7-4790-8cfe-4f4f309bb51d",
+    "username_reviews": "V*******",
+    "initialName": "V",
+    "image_reviews": null,
+    "created_time": "2022-03-12T23:36:10.380511+07:00",
+    "created_time_epoch": 1647128170,
+    "reviews_rating": 4,
+    "orders": {
+      "orderedAt": "2022-03-12T15:54:25.387982Z",
+      "items": [
+        {
+          "id": "e78069ea-0472-4102-8721-9623abe31284",
+          "name": "PaHeBat Mini Cuts Spicy Chicken"
+        }
+      ]
+    },
+    "tags_review": [
+      "gofood.co.id"
+    ],
+    "content_reviews": "mba kalo paket yg ayam kecil 2 dgn paket yg 1 ayam potong, porsi nasinya beda ya? kecil bgt kurang kenyang😭",
+    "date_of_experience": ""
+  }
+}

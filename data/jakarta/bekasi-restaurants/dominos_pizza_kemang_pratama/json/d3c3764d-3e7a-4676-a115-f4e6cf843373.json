@@ -1,0 +1,71 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/domino-s-pizza-kemang-pratama-00fb7fae-fbe1-4b63-ad17-dc7094c64f9c",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Pizza & pasta",
+    "Cepat saji",
+    "Jajanan",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:18:48.067806",
+  "crawling_time_epoch": 1705155528,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Dominos_Pizza_Kemang_Pratama/json/d3c3764d-3e7a-4676-a115-f4e6cf843373.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Dominos_Pizza_Kemang_Pratama/json/d3c3764d-3e7a-4676-a115-f4e6cf843373.json",
+  "reviews_name": "Domino's Pizza, Kemang Pratama",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.47
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "00fb7fae-fbe1-4b63-ad17-dc7094c64f9c",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.7,
+      "total": 11582
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 1426,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 1210,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 1158,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "d3c3764d-3e7a-4676-a115-f4e6cf843373",
+    "username_reviews": "A***** D***",
+    "initialName": "AD",
+    "image_reviews": null,
+    "created_time": "2021-08-10T14:39:34.24123+07:00",
+    "created_time_epoch": 1628606374,
+    "reviews_rating": 5,
+    "orders": {
+      "orderedAt": "2021-07-12T09:03:32.403343Z",
+      "items": [
+        {
+          "id": "1c31e122-b756-4e7b-9519-3bf33b8683a6",
+          "name": "My Paket"
+        },
+        {
+          "id": "8d3bc27d-e994-4383-aeb4-aed86938aefa",
+          "name": "Best Ever Value Deal Bread Sticks"
+        }
+      ]
+    },
+    "tags_review": [
+      "gofood.co.id"
+    ],
+    "content_reviews": "enakkk dan terjangkauuuuu jadiii bikinn nagihhhh jugaaaa, terimakasiiihhhh, packaging jugaaa okaaaaayyyyyyy luar biasaaaa, fantastikkkkk, kaaaaaan2 sayaaaaaaa orderrrrrrr lagiiiiii",
+    "date_of_experience": ""
+  }
+}

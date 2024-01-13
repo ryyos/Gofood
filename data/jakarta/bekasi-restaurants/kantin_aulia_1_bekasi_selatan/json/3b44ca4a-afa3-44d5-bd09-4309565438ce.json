@@ -1,0 +1,75 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/kantin-aulia-1-bekasi-selatan-976b3452-1361-44b7-8f1a-c144e43cca54",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Ayam & bebek",
+    "Aneka nasi",
+    "Cepat saji",
+    "Sweets",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:17:15.302870",
+  "crawling_time_epoch": 1705155435,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Kantin_Aulia_1_Bekasi_Selatan/json/3b44ca4a-afa3-44d5-bd09-4309565438ce.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Kantin_Aulia_1_Bekasi_Selatan/json/3b44ca4a-afa3-44d5-bd09-4309565438ce.json",
+  "reviews_name": "Kantin Aulia 1, Bekasi Selatan",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.36
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "976b3452-1361-44b7-8f1a-c144e43cca54",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.8,
+      "total": 811
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 56,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 52,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 51,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "3b44ca4a-afa3-44d5-bd09-4309565438ce",
+    "username_reviews": "aura",
+    "initialName": "A",
+    "image_reviews": null,
+    "created_time": "2022-11-14T13:41:42.028178+07:00",
+    "created_time_epoch": 1668433302,
+    "reviews_rating": 5,
+    "orders": {
+      "orderedAt": "2022-11-14T06:07:33.709758Z",
+      "items": [
+        {
+          "id": "75231e98-79b9-4c45-9ad9-6608076aeca2",
+          "name": "Gordor Bleu + Nasi + Chesee"
+        }
+      ]
+    },
+    "tags_review": [
+      "CANNED_RESPONSE_FRESHNESS",
+      "CANNED_RESPONSE_TASTE",
+      "CANNED_RESPONSE_PORTION",
+      "CANNED_RESPONSE_PACKAGING",
+      "CANNED_RESPONSE_CUTLERY",
+      "CANNED_RESPONSE_VALUE",
+      "CANNED_RESPONSE_HYGIENE",
+      "gofood.co.id"
+    ],
+    "content_reviews": "ENAAAK BANGET!!!! porsinya besar gaiss rasa cordon bleunya mantep banget 🤩🤩 tebeel dagingnya mozarellanya juga banyak+lumer pasti sering reorderr🙌🙌",
+    "date_of_experience": ""
+  }
+}

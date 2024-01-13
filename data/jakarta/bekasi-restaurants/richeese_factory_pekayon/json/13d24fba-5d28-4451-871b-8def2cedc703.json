@@ -1,0 +1,73 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/richeese-factory-pekayon-fb7c3452-2cba-464a-9e24-23840a40a179",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Cepat saji",
+    "Ayam & bebek",
+    "Aneka nasi",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:20:23.240256",
+  "crawling_time_epoch": 1705155623,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Richeese_Factory_Pekayon/json/13d24fba-5d28-4451-871b-8def2cedc703.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Richeese_Factory_Pekayon/json/13d24fba-5d28-4451-871b-8def2cedc703.json",
+  "reviews_name": "Richeese Factory, Pekayon",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.97
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "fb7c3452-2cba-464a-9e24-23840a40a179",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.7,
+      "total": 32095
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 2029,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 1477,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 1469,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "13d24fba-5d28-4451-871b-8def2cedc703",
+    "username_reviews": "alia",
+    "initialName": "A",
+    "image_reviews": null,
+    "created_time": "2022-03-06T11:53:24.835771+07:00",
+    "created_time_epoch": 1646567604,
+    "reviews_rating": 1,
+    "orders": {
+      "orderedAt": "2022-03-06T03:04:40.935785Z",
+      "items": [
+        {
+          "id": "8c52e0d3-1361-4d90-a6e1-39428eb56315",
+          "name": "Fire Flying Chicken 8 pcs"
+        },
+        {
+          "id": "b173bcb0-80d7-41ba-abf1-b11755c76684",
+          "name": "BBQ Sauce Lev 0 - Lev 5"
+        }
+      ]
+    },
+    "tags_review": [
+      "CANNED_RESPONSE_VALUE",
+      "CANNED_RESPONSE_ORDER",
+      "gofood.co.id"
+    ],
+    "content_reviews": "ga bisa pilih bagian ayam. ",
+    "date_of_experience": ""
+  }
+}

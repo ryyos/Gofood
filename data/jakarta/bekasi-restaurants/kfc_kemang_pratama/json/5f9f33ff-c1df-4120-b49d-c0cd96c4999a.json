@@ -1,0 +1,71 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/kfc-kemang-pratama-ef8c2c3e-61d6-4bd4-b9fa-10cfd6358dcf",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Cepat saji",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:19:21.062803",
+  "crawling_time_epoch": 1705155561,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/KFC_Kemang_Pratama/json/5f9f33ff-c1df-4120-b49d-c0cd96c4999a.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/KFC_Kemang_Pratama/json/5f9f33ff-c1df-4120-b49d-c0cd96c4999a.json",
+  "reviews_name": "KFC, Kemang Pratama",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.53
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "ef8c2c3e-61d6-4bd4-b9fa-10cfd6358dcf",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.8,
+      "total": 24067
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 2021,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 1696,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 1631,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "5f9f33ff-c1df-4120-b49d-c0cd96c4999a",
+    "username_reviews": "J*** C****",
+    "initialName": "JC",
+    "image_reviews": null,
+    "created_time": "2021-02-12T19:36:46.485+07:00",
+    "created_time_epoch": 1613158606,
+    "reviews_rating": 1,
+    "orders": {
+      "orderedAt": "2021-02-12T04:50:00.372011Z",
+      "items": [
+        {
+          "id": "e53bc702-ec0d-4b4b-81d9-8d6ce8b98265",
+          "name": "KFC Soup"
+        },
+        {
+          "id": "488c2000-9808-4e7b-9ecf-d4292c669a01",
+          "name": "5 PLUS 3 HC"
+        }
+      ]
+    },
+    "tags_review": [
+      "CANNED_RESPONSE_FRESHNESS",
+      "CANNED_RESPONSE_TASTE",
+      "gofood.co.id"
+    ],
+    "content_reviews": "Parah bgt masaknya buru\" .. seumur\" makan ayam kfc ini paling ga enak rasanya",
+    "date_of_experience": ""
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/kfc-kemang-pratama-ef8c2c3e-61d6-4bd4-b9fa-10cfd6358dcf",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Cepat saji",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:19:21.062803",
+  "crawling_time_epoch": 1705155561,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/KFC_Kemang_Pratama/json/93ddc952-af24-4c67-a7d7-1a6fe137a048.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/KFC_Kemang_Pratama/json/93ddc952-af24-4c67-a7d7-1a6fe137a048.json",
+  "reviews_name": "KFC, Kemang Pratama",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.53
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "ef8c2c3e-61d6-4bd4-b9fa-10cfd6358dcf",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.8,
+      "total": 24067
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 2021,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 1696,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 1631,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "93ddc952-af24-4c67-a7d7-1a6fe137a048",
+    "username_reviews": "T***",
+    "initialName": "T",
+    "image_reviews": null,
+    "created_time": "2023-08-28T20:15:14.437308+07:00",
+    "created_time_epoch": 1693253714,
+    "reviews_rating": 1,
+    "orders": {
+      "orderedAt": "2023-08-28T12:03:12.304333Z",
+      "items": [
+        {
+          "id": "933f0a9e-5c69-437f-9dfc-6e2a1d68e1a2",
+          "name": "2 Pcs Chicken"
+        },
+        {
+          "id": "e5420e17-84f4-4549-93d2-49c9ef72a055",
+          "name": "KFC Soup"
+        }
+      ]
+    },
+    "tags_review": [
+      "gofood.co.id"
+    ],
+    "content_reviews": "ayamnya ga fresh, sup ayamnya udah basi... sekelas kfc kok ngasih makanan seperti ini... maaf ga akan lagi pesen disini.",
+    "date_of_experience": ""
+  }
+}

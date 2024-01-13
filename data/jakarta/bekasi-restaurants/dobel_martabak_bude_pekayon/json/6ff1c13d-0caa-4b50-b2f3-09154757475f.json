@@ -1,0 +1,66 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/dobel-martabak-bude-pekayon-c516bbfe-5583-4fbc-9605-9cd02cd220b0",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Martabak",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:18:42.021929",
+  "crawling_time_epoch": 1705155522,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Dobel_Martabak_Bude_Pekayon/json/6ff1c13d-0caa-4b50-b2f3-09154757475f.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Dobel_Martabak_Bude_Pekayon/json/6ff1c13d-0caa-4b50-b2f3-09154757475f.json",
+  "reviews_name": "Dobel Martabak Bude, Pekayon",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.46
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "c516bbfe-5583-4fbc-9605-9cd02cd220b0",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.6,
+      "total": 2907
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 366,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 264,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 253,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "6ff1c13d-0caa-4b50-b2f3-09154757475f",
+    "username_reviews": "A***",
+    "initialName": "A",
+    "image_reviews": null,
+    "created_time": "2019-09-08T19:32:40.838+07:00",
+    "created_time_epoch": 1567971160,
+    "reviews_rating": 3,
+    "orders": {
+      "orderedAt": "2019-09-08T11:40:49.890308Z",
+      "items": [
+        {
+          "id": "ce5c3797-c3df-483d-bf4d-c060144d0608",
+          "name": "Ketan Kelapa ( Biasa. )"
+        }
+      ]
+    },
+    "tags_review": [
+      "CANNED_RESPONSE_TASTE",
+      "gofood.co.id"
+    ],
+    "content_reviews": "Kelapa bisa ditambahkan sedikit",
+    "date_of_experience": ""
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/kfc-kemang-pratama-ef8c2c3e-61d6-4bd4-b9fa-10cfd6358dcf",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Cepat saji",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:19:21.062803",
+  "crawling_time_epoch": 1705155561,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/KFC_Kemang_Pratama/json/df5d10fe-055d-4a58-89d9-bfdb1645cedf.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/KFC_Kemang_Pratama/json/df5d10fe-055d-4a58-89d9-bfdb1645cedf.json",
+  "reviews_name": "KFC, Kemang Pratama",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.53
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "ef8c2c3e-61d6-4bd4-b9fa-10cfd6358dcf",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.8,
+      "total": 24067
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 2021,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 1696,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 1631,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "df5d10fe-055d-4a58-89d9-bfdb1645cedf",
+    "username_reviews": "D*** R********",
+    "initialName": "DR",
+    "image_reviews": null,
+    "created_time": "2022-05-01T21:12:23.092239+07:00",
+    "created_time_epoch": 1651439543,
+    "reviews_rating": 3,
+    "orders": {
+      "orderedAt": "2022-05-01T12:52:14.395172Z",
+      "items": [
+        {
+          "id": "4ab7d3c0-91c7-49c6-8c6d-f38b87e235f5",
+          "name": "Twisty"
+        },
+        {
+          "id": "0cd1adbe-0b99-4d88-b3e0-4fb15f9a9665",
+          "name": "Spaghetti Supreme"
+        },
+        {
+          "id": "41803739-0b75-46bb-8f49-1ad4c60d757b",
+          "name": "Mocha Float"
+        }
+      ]
+    },
+    "tags_review": [
+      "gofood.co.id"
+    ],
+    "content_reviews": "spaghetti nya, rasanya udh kaya mau basi sedikit hehe tapi gapapa",
+    "date_of_experience": ""
+  }
+}

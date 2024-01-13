@@ -1,0 +1,75 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/sari-rasa-pekayon-ruko-bukit-safira-1457b34a-58b8-4ac5-b2b1-f64b5c9c967f",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Sate",
+    "Ayam & bebek",
+    "Aneka nasi",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:19:47.200172",
+  "crawling_time_epoch": 1705155587,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Sari_Rasa_Pekayon_Ruko_Bukit_Safira/json/32a83851-c9f6-4d62-9dff-0ebe0fd1781b.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Sari_Rasa_Pekayon_Ruko_Bukit_Safira/json/32a83851-c9f6-4d62-9dff-0ebe0fd1781b.json",
+  "reviews_name": "Sari Rasa Pekayon, Ruko Bukit Safira",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.6
+  },
+  "range_prices": "16k-40k",
+  "restaurant_id": "1457b34a-58b8-4ac5-b2b1-f64b5c9c967f",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.8,
+      "total": 1979
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 216,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 169,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 164,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "32a83851-c9f6-4d62-9dff-0ebe0fd1781b",
+    "username_reviews": "Vera Nathalia",
+    "initialName": "VN",
+    "image_reviews": null,
+    "created_time": "2022-01-19T08:01:19.469656+07:00",
+    "created_time_epoch": 1642579279,
+    "reviews_rating": 4,
+    "orders": {
+      "orderedAt": "2022-01-16T03:53:13.568486Z",
+      "items": [
+        {
+          "id": "f2564c06-2d10-45aa-96b9-29db74fe3753",
+          "name": "Nasi Bakar Cumi"
+        },
+        {
+          "id": "13969eb0-36df-48e6-852b-9e6b2ee987b8",
+          "name": "Karedok"
+        },
+        {
+          "id": "d722a3f5-e7ab-4140-abe0-25f41b9751ac",
+          "name": "Pastel Goreng"
+        }
+      ]
+    },
+    "tags_review": [
+      "gofood.co.id"
+    ],
+    "content_reviews": "Nasi bakar cumi sih bintang 5, pastel bintang 4, karedok bintang 3 atau 2 karena rasanya tidak fresh. Seperti dari kulkas, dingin.",
+    "date_of_experience": ""
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/richeese-factory-pekayon-fb7c3452-2cba-464a-9e24-23840a40a179",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Cepat saji",
+    "Ayam & bebek",
+    "Aneka nasi",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:20:23.240256",
+  "crawling_time_epoch": 1705155623,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Richeese_Factory_Pekayon/json/30f4c082-2f77-40ac-8434-ce6aa0b54e91.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Richeese_Factory_Pekayon/json/30f4c082-2f77-40ac-8434-ce6aa0b54e91.json",
+  "reviews_name": "Richeese Factory, Pekayon",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.97
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "fb7c3452-2cba-464a-9e24-23840a40a179",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.7,
+      "total": 32095
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 2029,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 1477,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 1469,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "30f4c082-2f77-40ac-8434-ce6aa0b54e91",
+    "username_reviews": "A***** R******",
+    "initialName": "AR",
+    "image_reviews": null,
+    "created_time": "2020-04-30T17:52:54.283+07:00",
+    "created_time_epoch": 1588269174,
+    "reviews_rating": 3,
+    "orders": {
+      "orderedAt": "2020-04-30T07:00:29.911791Z",
+      "items": [
+        {
+          "id": "065f7025-db38-4b86-ba99-d074d2c9e521",
+          "name": "2 Prospericheese Friend Fries"
+        },
+        {
+          "id": "2da5c9d9-feee-45a6-bc89-d88df77846e7",
+          "name": "Raspberry Jelly Cake in A Cup"
+        },
+        {
+          "id": "356bbd1d-7d8e-477d-9016-dede10f25241",
+          "name": "Cake in A Cup"
+        },
+        {
+          "id": "a99269ec-eec1-44a5-ba34-1e9e1132d428",
+          "name": "2 Pcs Richicken"
+        }
+      ]
+    },
+    "tags_review": [
+      "",
+      "gofood.co.id"
+    ],
+    "content_reviews": "beli karna ada promo eh pas kesana katanya abis kan gak mungkin dicancel kasian abangnya. mohon utk selalu update data",
+    "date_of_experience": ""
+  }
+}

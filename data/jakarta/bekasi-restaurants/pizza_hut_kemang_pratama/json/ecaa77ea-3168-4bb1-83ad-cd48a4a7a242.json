@@ -1,0 +1,70 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/pizza-hut-kemang-pratama-619b40c5-b111-4004-a05e-2cf6526de384",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Barat",
+    "Jajanan",
+    "Ayam & bebek",
+    "Pizza & pasta",
+    "Cepat saji",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:20:55.807619",
+  "crawling_time_epoch": 1705155655,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Pizza_Hut_Kemang_Pratama/json/ecaa77ea-3168-4bb1-83ad-cd48a4a7a242.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Pizza_Hut_Kemang_Pratama/json/ecaa77ea-3168-4bb1-83ad-cd48a4a7a242.json",
+  "reviews_name": "Pizza Hut, Kemang Pratama",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.99
+  },
+  "range_prices": ">100k",
+  "restaurant_id": "619b40c5-b111-4004-a05e-2cf6526de384",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.8,
+      "total": 12460
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 997,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 804,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 735,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "ecaa77ea-3168-4bb1-83ad-cd48a4a7a242",
+    "username_reviews": "Aldrin Manaf",
+    "initialName": "AM",
+    "image_reviews": null,
+    "created_time": "2022-10-01T13:30:58.512287+07:00",
+    "created_time_epoch": 1664631058,
+    "reviews_rating": 5,
+    "orders": {
+      "orderedAt": "2022-09-30T12:49:26.252956Z",
+      "items": [
+        {
+          "id": "4fea19f5-b176-4fa1-981b-16164341fa35",
+          "name": "Paket September Happy"
+        }
+      ]
+    },
+    "tags_review": [
+      "CANNED_RESPONSE_HYGIENE",
+      "gofood.co.id"
+    ],
+    "content_reviews": "pelayanan baik bagus ",
+    "date_of_experience": ""
+  }
+}

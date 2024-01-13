@@ -1,0 +1,72 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/richeese-factory-pekayon-fb7c3452-2cba-464a-9e24-23840a40a179",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Cepat saji",
+    "Ayam & bebek",
+    "Aneka nasi",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:20:23.240256",
+  "crawling_time_epoch": 1705155623,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Richeese_Factory_Pekayon/json/5625c2e2-d789-4560-8725-12e18d048e6a.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Richeese_Factory_Pekayon/json/5625c2e2-d789-4560-8725-12e18d048e6a.json",
+  "reviews_name": "Richeese Factory, Pekayon",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.97
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "fb7c3452-2cba-464a-9e24-23840a40a179",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.7,
+      "total": 32095
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 2029,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 1477,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 1469,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "5625c2e2-d789-4560-8725-12e18d048e6a",
+    "username_reviews": "A***** F****",
+    "initialName": "AF",
+    "image_reviews": null,
+    "created_time": "2020-11-05T20:03:27.052+07:00",
+    "created_time_epoch": 1604606607,
+    "reviews_rating": 2,
+    "orders": {
+      "orderedAt": "2020-11-05T12:18:14.741297Z",
+      "items": [
+        {
+          "id": "c520ca7c-edf7-4085-91b6-5f4a7b0bbf15",
+          "name": "Richeese Fire Wings 6 Pcs"
+        },
+        {
+          "id": "c2b9f7c2-1b89-4190-936d-e854cd594919",
+          "name": "Richicken 1 Pcs"
+        }
+      ]
+    },
+    "tags_review": [
+      "CANNED_RESPONSE_PORTION",
+      "gofood.co.id"
+    ],
+    "content_reviews": "Baru kali ini pesen Richeess ayamnya seuprit, gedean sabana sama de basta 3x lipat dari ini, harga sama porsi gak masuk akal. mungkin karena pesen gofood bukan Dine in atau take away sendiri, cuma ya jgn dibedain bgtu lah, buat makan pake nasi aja kurang kenyang. pertama kalinya seumur hidup kasih bintang di bawah 5, separah itu. semoga lebih baik ya",
+    "date_of_experience": ""
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/richeese-factory-pekayon-fb7c3452-2cba-464a-9e24-23840a40a179",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Cepat saji",
+    "Ayam & bebek",
+    "Aneka nasi",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:20:23.240256",
+  "crawling_time_epoch": 1705155623,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Richeese_Factory_Pekayon/json/2ef9da0a-657f-4904-9a60-abf9794408de.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Richeese_Factory_Pekayon/json/2ef9da0a-657f-4904-9a60-abf9794408de.json",
+  "reviews_name": "Richeese Factory, Pekayon",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.97
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "fb7c3452-2cba-464a-9e24-23840a40a179",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.7,
+      "total": 32095
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 2029,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 1477,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 1469,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "2ef9da0a-657f-4904-9a60-abf9794408de",
+    "username_reviews": "nabila",
+    "initialName": "N",
+    "image_reviews": null,
+    "created_time": "2023-10-06T19:27:38.806596+07:00",
+    "created_time_epoch": 1696620458,
+    "reviews_rating": 1,
+    "orders": {
+      "orderedAt": "2023-10-06T11:39:31.458163Z",
+      "items": [
+        {
+          "id": "595c4244-6799-4299-82b4-12b5ad609fb3",
+          "name": "CheeseMate Box"
+        },
+        {
+          "id": "6c57e06c-db70-45fd-9c35-cdb4ccf02874",
+          "name": "Drum Stick Fire Chicken 2 Pcs"
+        }
+      ]
+    },
+    "tags_review": [
+      "gofood.co.id"
+    ],
+    "content_reviews": "porsinya kurang 1 paket drum stok Fire chiken ",
+    "date_of_experience": ""
+  }
+}

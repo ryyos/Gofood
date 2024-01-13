@@ -1,0 +1,67 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/richeese-factory-pekayon-fb7c3452-2cba-464a-9e24-23840a40a179",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Cepat saji",
+    "Ayam & bebek",
+    "Aneka nasi",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:20:23.240256",
+  "crawling_time_epoch": 1705155623,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Richeese_Factory_Pekayon/json/b2b85ddc-942b-4280-83e8-1a74e1d10fe7.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Richeese_Factory_Pekayon/json/b2b85ddc-942b-4280-83e8-1a74e1d10fe7.json",
+  "reviews_name": "Richeese Factory, Pekayon",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.97
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "fb7c3452-2cba-464a-9e24-23840a40a179",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.7,
+      "total": 32095
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 2029,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 1477,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 1469,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "b2b85ddc-942b-4280-83e8-1a74e1d10fe7",
+    "username_reviews": "D****",
+    "initialName": "D",
+    "image_reviews": null,
+    "created_time": "2022-07-21T20:05:22.832271+07:00",
+    "created_time_epoch": 1658433922,
+    "reviews_rating": 3,
+    "orders": {
+      "orderedAt": "2022-07-21T12:11:16.901747Z",
+      "items": [
+        {
+          "id": "7503ea84-6c5d-4e4c-91da-2cb0e4b56c39",
+          "name": "Combo Fire Burger Beef (Atomic/Nuclear)"
+        }
+      ]
+    },
+    "tags_review": [
+      "gofood.co.id"
+    ],
+    "content_reviews": "Beli yg burgernuclear ko g ada pedes ny sama sekali y",
+    "date_of_experience": ""
+  }
+}

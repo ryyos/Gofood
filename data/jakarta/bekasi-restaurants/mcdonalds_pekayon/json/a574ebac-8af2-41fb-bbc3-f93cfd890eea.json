@@ -1,0 +1,68 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/mcdonald-s-pekayon-50150204-8f6d-4372-8458-668f1be126e8",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Cepat saji",
+    "Sweets",
+    "Jajanan",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:17:21.424093",
+  "crawling_time_epoch": 1705155441,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/McDonalds_Pekayon/json/a574ebac-8af2-41fb-bbc3-f93cfd890eea.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/McDonalds_Pekayon/json/a574ebac-8af2-41fb-bbc3-f93cfd890eea.json",
+  "reviews_name": "McDonald's, Pekayon",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.46
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "50150204-8f6d-4372-8458-668f1be126e8",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.8,
+      "total": 70397
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 4555,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 3695,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 3669,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "a574ebac-8af2-41fb-bbc3-f93cfd890eea",
+    "username_reviews": "C******* W***",
+    "initialName": "CW",
+    "image_reviews": null,
+    "created_time": "2021-01-19T15:16:43.19+07:00",
+    "created_time_epoch": 1611069403,
+    "reviews_rating": 4,
+    "orders": {
+      "orderedAt": "2021-01-16T09:34:01.961847Z",
+      "items": [
+        {
+          "id": "13101a77-0b03-46b5-b376-d62847fea68c",
+          "name": "Beef Burger"
+        }
+      ]
+    },
+    "tags_review": [
+      "",
+      "gofood.co.id"
+    ],
+    "content_reviews": "Di NOTE sudah dibilang burgernya PLAIN tp ternyata yg datang burgernya ada bawang2 dan timun jd agak kecewa",
+    "date_of_experience": ""
+  }
+}

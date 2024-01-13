@@ -1,0 +1,72 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/a-w-linc-square-d4fe7a94-86cd-4883-b279-07bdd7002ad9",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Cepat saji",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:20:11.107220",
+  "crawling_time_epoch": 1705155611,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/AW_Linc_Square/json/1d1188ee-62c1-46ef-975f-8a2bddc16063.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/AW_Linc_Square/json/1d1188ee-62c1-46ef-975f-8a2bddc16063.json",
+  "reviews_name": "A&W, Linc Square",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.94
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "d4fe7a94-86cd-4883-b279-07bdd7002ad9",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.8,
+      "total": 7181
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 499,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 403,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 365,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "1d1188ee-62c1-46ef-975f-8a2bddc16063",
+    "username_reviews": "Bp Tardi",
+    "initialName": "BT",
+    "image_reviews": null,
+    "created_time": "2022-11-13T11:37:11.156027+07:00",
+    "created_time_epoch": 1668339431,
+    "reviews_rating": 5,
+    "orders": {
+      "orderedAt": "2022-11-12T04:18:11.263072Z",
+      "items": [
+        {
+          "id": "a67ef369-7bcb-45de-86a8-5323f16e78c3",
+          "name": "A&W Tote Bag"
+        },
+        {
+          "id": "4a0d71fd-db8e-4665-8cdd-7296428ee368",
+          "name": "SUPER - 3 Aroma Chicken, Chic Chunks, Chic Soup & Rice"
+        }
+      ]
+    },
+    "tags_review": [
+      "CANNED_RESPONSE_HYGIENE",
+      "CANNED_RESPONSE_VALUE",
+      "CANNED_RESPONSE_TASTE",
+      "gofood.co.id"
+    ],
+    "content_reviews": "knapa tas belanja tdk diikat",
+    "date_of_experience": ""
+  }
+}

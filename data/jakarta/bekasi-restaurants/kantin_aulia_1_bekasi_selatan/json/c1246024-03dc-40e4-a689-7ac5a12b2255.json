@@ -1,0 +1,73 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/kantin-aulia-1-bekasi-selatan-976b3452-1361-44b7-8f1a-c144e43cca54",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Ayam & bebek",
+    "Aneka nasi",
+    "Cepat saji",
+    "Sweets",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:17:15.302870",
+  "crawling_time_epoch": 1705155435,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Kantin_Aulia_1_Bekasi_Selatan/json/c1246024-03dc-40e4-a689-7ac5a12b2255.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Kantin_Aulia_1_Bekasi_Selatan/json/c1246024-03dc-40e4-a689-7ac5a12b2255.json",
+  "reviews_name": "Kantin Aulia 1, Bekasi Selatan",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 0.36
+  },
+  "range_prices": "40k-100k",
+  "restaurant_id": "976b3452-1361-44b7-8f1a-c144e43cca54",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.8,
+      "total": 811
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 56,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 52,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 51,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "c1246024-03dc-40e4-a689-7ac5a12b2255",
+    "username_reviews": "Ratna Kurniati",
+    "initialName": "RK",
+    "image_reviews": null,
+    "created_time": "2023-09-24T14:28:29.60035+07:00",
+    "created_time_epoch": 1695565709,
+    "reviews_rating": 3,
+    "orders": {
+      "orderedAt": "2023-09-24T06:18:07.18547Z",
+      "items": [
+        {
+          "id": "37b391c9-767e-4f64-b150-0e5f60b06647",
+          "name": "Chicken Codon Bleu"
+        },
+        {
+          "id": "84eed484-cf18-4f2f-bda1-2479106fd13f",
+          "name": "Kentang crispy BBQ + Chesee"
+        }
+      ]
+    },
+    "tags_review": [
+      "CANNED_RESPONSE_ORDER",
+      "gofood.co.id"
+    ],
+    "content_reviews": "Maaf bgt umi, kentang yg di pesan with cheese tp yg dtg hanya saos bbq aja aku gatau cheese nya sebelah mana 🥺 mudah2an ke depannya bisa lebih teliti lagi🙏🏻",
+    "date_of_experience": ""
+  }
+}

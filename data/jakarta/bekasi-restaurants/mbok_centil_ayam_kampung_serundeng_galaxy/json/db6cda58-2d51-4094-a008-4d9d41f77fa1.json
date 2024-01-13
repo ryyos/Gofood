@@ -1,0 +1,69 @@
+{
+  "link": "https://gofood.co.id/jakarta/restaurant/mbok-centil-ayam-kampung-serundeng-galaxy-6d00f1a4-66b1-41c9-aec4-b7d49a404c6c",
+  "domain": "gofood.co.id",
+  "tags": [
+    "Ayam & bebek",
+    "gofood.co.id"
+  ],
+  "crawling_time": "2024-01-13 21:21:12.432830",
+  "crawling_time_epoch": 1705155672,
+  "path_data_raw": "data/jakarta/bekasi-restaurants/Mbok_Centil_Ayam_Kampung_Serundeng_Galaxy/json/db6cda58-2d51-4094-a008-4d9d41f77fa1.json",
+  "path_data_clean": "data/jakarta/bekasi-restaurants/Mbok_Centil_Ayam_Kampung_Serundeng_Galaxy/json/db6cda58-2d51-4094-a008-4d9d41f77fa1.json",
+  "reviews_name": "Mbok Centil Ayam Kampung Serundeng, Galaxy",
+  "location_review": "jakarta",
+  "location_restaurant": {
+    "city": "jakarta",
+    "area": "bekasi-restaurants",
+    "distance_km": 1
+  },
+  "range_prices": "16k-40k",
+  "restaurant_id": "6d00f1a4-66b1-41c9-aec4-b7d49a404c6c",
+  "category_reviews": "food & baverage",
+  "reviews_rating": {
+    "total_ratings": {
+      "average": 4.8,
+      "total": 2864
+    },
+    "detail_total_rating": [
+      {
+        "score_rating": 317,
+        "category_rating": "taste"
+      },
+      {
+        "score_rating": 199,
+        "category_rating": "portion"
+      },
+      {
+        "score_rating": 198,
+        "category_rating": "packaging"
+      }
+    ]
+  },
+  "detail_reviews": {
+    "username_id": "db6cda58-2d51-4094-a008-4d9d41f77fa1",
+    "username_reviews": "Frans Bertrandus",
+    "initialName": "FB",
+    "image_reviews": null,
+    "created_time": "2023-03-17T13:25:40.666244+07:00",
+    "created_time_epoch": 1679059540,
+    "reviews_rating": 1,
+    "orders": {
+      "orderedAt": "2023-03-17T05:55:48.77506Z",
+      "items": [
+        {
+          "id": "b25ca6eb-c3fd-48ec-8733-2a10c3afc716",
+          "name": "Iga Sapi Penyet"
+        },
+        {
+          "id": "e39447a8-2304-4481-b71f-500c5848a713",
+          "name": "Nasi Putih"
+        }
+      ]
+    },
+    "tags_review": [
+      "gofood.co.id"
+    ],
+    "content_reviews": "Masa beli iga penyet pake nasi, nasinya ga ada, dikomplain malah kembaliin dana, terus gw disuruh makan iga pedes doang gt? Ga lagi lagi pesen disini.",
+    "date_of_experience": ""
+  }
+}
