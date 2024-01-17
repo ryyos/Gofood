@@ -1,5 +1,7 @@
 import os
 import datetime as date
+import requests
+import json
 
 from requests import Session
 from time import time, sleep, strftime
@@ -27,15 +29,20 @@ class Gofood:
         self.__char: str = []
         self.__city: dict = {}
 
+        self.VERSION = '8.10.1'
+
         self.DOMAIN = 'gofood.co.id'
         self.MAIN_URL = 'https://gofood.co.id'
         self.MAIN_PATH = 'data'
+        self.PIC = 'Rio Dwi Saputra'
 
-        self.API_CITY = 'https://gofood.co.id/_next/data/8.10.0/id/cities.json' # 89
-        self.RESTAURANT = 'https://gofood.co.id/_next/data/8.10.0/id/jakarta/restaurants.json' # 94
-        self.NEAR_ME_API = 'https://gofood.co.id/_next/data/8.10.0/id/jakarta/bekasi-restaurants/near_me.json' 
-        self.FOODS_API = 'https://gofood.co.id/api/outlets'
-        self.API_REVIEW = 'https://gofood.co.id/_next/data/8.10.0/id/jakarta/restaurant/mcdonald-s-pekayon-50150204-8f6d-4372-8458-668f1be126e8/reviews.json?id=mcdonald-s-pekayon-50150204-8f6d-4372-8458-668f1be126e8'
+        self.logs: List[dict] = []
+
+        self.API_CITY = f'https://gofood.co.id/_next/data/{self.VERSION}/id/cities.json' # 89
+        self.RESTAURANT = f'https://gofood.co.id/_next/data/{self.VERSION}/id/jakarta/restaurants.json' # 94
+        self.NEAR_ME_API = f'https://gofood.co.id/_next/data/{self.VERSION}/id/jakarta/bekasi-restaurants/near_me.json' 
+        self.FOODS_API = f'https://gofood.co.id/api/outlets'
+        self.API_REVIEW = f'https://gofood.co.id/_next/data/{self.VERSION}/id/jakarta/restaurant/mcdonald-s-pekayon-50150204-8f6d-4372-8458-668f1be126e8/reviews.json?id=mcdonald-s-pekayon-50150204-8f6d-4372-8458-668f1be126e8'
         self.API_REVIEW_PAGE = 'https://gofood.co.id/api/outlets/'
 
         self.__url_food_review = ''
@@ -59,6 +66,21 @@ class Gofood:
         }
         ...
 
+    def __logging(self, path: str, name_source: str, url: str, total: int, failed: int = 0, success: int = 0) -> None:
+        ic('masuk logs')
+        self.logs.append({
+            name_source : {
+              "source": url,
+              "total_data": total,
+              "total_data_berhasil_diproses": success,
+              "total_data_gagal_diproses": failed,
+              "PIC": self.PIC,
+            }
+        })
+        with open(path, 'w', encoding= "utf-8") as file:
+            json.dump(self.logs, file, ensure_ascii=False, indent=2, default=str)
+        ...
+
     def __convert_time(self, times: str) -> int:
         dt = date.datetime.fromisoformat(times)
         dt = dt.replace(tzinfo=timezone.utc) 
@@ -69,8 +91,7 @@ class Gofood:
     def __retry(self, url: str, 
                 action: str = 'get', 
                 payload: dict = None, 
-                retry_interval: int = 10,
-                url_review: str = None
+                retry_interval: int = 1,
                 ):
 
 
@@ -80,17 +101,21 @@ class Gofood:
                 retry = 0
                 while True:
                     try:
-                        response = self.__sessions.get(url=url, headers={"User-Agent": self.__faker.random})
+                        response = requests.get(url=url, headers={"User-Agent": self.__faker.random})
 
+
+                        logger.info(f'user agent: {self.__faker.random}')
                         logger.info(f'response status: {response.status_code}')
                         logger.info(f'try request in url: {url}')
                         logger.info(f'request action: {action}')
-                        logger.info(f'url review: {url_review}')
                         print()
 
                         if response.status_code == 200: break
                         if response.status_code == 500: return False
-                        if response.status_code == 403: self.__sessions = Session()
+                        if response.status_code == 403:
+                            ic(response.text)
+                            self.__sessions.get(url=self.MAIN_URL, headers={"User-Agent": self.__faker.random})
+
 
                         sleep(retry_interval)
 
@@ -125,12 +150,13 @@ class Gofood:
                         logger.info(f'response status: {response.status_code}')
                         logger.info(f'try request in url: {url}')
                         logger.info(f'request action: {action}')
-                        logger.info(f'url review: {url_review}')
                         print()
 
                         if response.status_code == 200: return response
                         if response.status_code == 400: return False
-                        if response.status_code == 403: self.__sessions = Session()
+                        if response.status_code == 403: 
+                            ic(response.text)
+                            self.__sessions.get(url=self.MAIN_URL, headers={"User-Agent": self.__faker.random})
 
                         logger.warning(f'retry interval: {retry_interval}')
                         logger.warning(f'retry to: {retry}')
@@ -152,18 +178,20 @@ class Gofood:
             
             case 'review':
                 retry = 0
-                while True:
+                for _ in range(10):
                     try:
                         response = self.__sessions.get(url=url, headers={"User-Agent": self.__faker.random})
 
                         logger.info(f'response status: {response.status_code}')
                         logger.info(f'try request in url: {url}')
                         logger.info(f'request action: {action}')
-                        logger.info(f'url review: {url_review}')
                         print()
 
                         if response.status_code == 200: return response
                         if response.status_code == 500: return False
+                        if response.status_code == 403: 
+                            ic(response.text)
+                            self.__sessions.get(url=self.MAIN_URL, headers={"User-Agent": self.__faker.random})
 
                         logger.warning(f'retry interval: {retry_interval}')
                         logger.warning(f'retry to: {retry}')
@@ -172,9 +200,6 @@ class Gofood:
                         sleep(retry_interval)
                         retry_interval+=5
                         retry+=1
-
-                        if response.status_code == 403: self.__sessions = Session()
-                        response = self.__sessions.get(url=url_review, headers={"User-Agent": self.__faker.random})
 
                     except Exception as err:
                         logger.error(err)
@@ -185,6 +210,8 @@ class Gofood:
 
                         sleep(retry_interval)
                         retry_interval+=5
+
+                return False
 
         ...
 
@@ -224,31 +251,45 @@ class Gofood:
         logger.info('extract review from restaurant')
         uid = raw_json["restaurant_id"]
 
-        page = ''
-        response = self.__retry(url=f'{self.API_REVIEW_PAGE}{uid}/reviews{page}')
+        page = '?page=1&page_size=20'
+        
+        response = self.__retry(url=f'{self.API_REVIEW_PAGE}{uid}/reviews{page}',action='review')
 
-        page_review = 0
         all_reviews = []
-        while True:
+        if response:
+            page_review = 0
+            while True:
 
-            reviews = response.json()["data"]
-            for review in reviews: all_reviews.append(review)
-                
-            logger.info(f'page review: {page_review}')
-            logger.info(f'api review page: {self.API_REVIEW_PAGE}{uid}/reviews{page}')
-            print()
+                reviews = response.json()["data"]
+                for review in reviews: all_reviews.append(review)
 
-            page = response.json().get("next_page", None)
-            if page:
-                response = self.__retry(url=f'{self.API_REVIEW_PAGE}{uid}/reviews{page}', action='review', url_review=self.__url_food_review)
-                if not response: break
-                page_review+=1
+                logger.info(f'page review: {page_review}')
+                logger.info(f'api review page: {self.API_REVIEW_PAGE}{uid}/reviews{page}')
+                print()
 
-            else: 
-                logger.warning(f'review finished')
-                break
+                page = response.json().get("next_page", None)
+                if page:
+                    response = self.__retry(url=f'{self.API_REVIEW_PAGE}{uid}/reviews{page}', action='review')
+
+                    if not response: 
+                        self.__logging(path='logs.txt', name_source=file_name(raw_json["reviews_name"]), url=raw_json["link"], total=len(all_reviews), success=len(all_reviews), failed=int(page.split('=')[-1]))
+                        break
+                    page_review+=1
+
+                else: 
+                    logger.warning(f'review finished')
+                    break
+
+        if not response: 
+            self.__logging(path='logs/logs.txt', name_source=file_name(raw_json["reviews_name"]), url=raw_json["link"], total=len(all_reviews), success=len(all_reviews), failed=int(page.split('=')[-1]))
+        else:
+            self.__logging(path='logs/logs.txt', name_source=file_name(raw_json["reviews_name"]), url=raw_json["link"], total=len(all_reviews), success=len(all_reviews))
+
+        
+        
 
         raw_json["total_reviews"] = len(all_reviews)
+        self.__sessions = Session()
         for comment in tqdm(all_reviews, ascii=True, smoothing=0.1, total=len(all_reviews)):
             detail_reviews = {
                 "username_id": comment["id"],
@@ -295,7 +336,9 @@ class Gofood:
         ...
 
     def __fetch_card_food(self, city: str, restaurant: str) -> List[str]:
-        response = self.__retry(url=f'https://gofood.co.id/_next/data/8.10.0/id{restaurant}/near_me.json?service_area={city}&locality={restaurant.split("/")[-1]}&category=near_me')
+
+        response = self.__retry(url=f'https://gofood.co.id/_next/data/{self.VERSION}/id{restaurant}/near_me.json?service_area={city}&locality={restaurant.split("/")[-1]}&category=near_me')
+            
         logger.info('fetch card food')
 
 
@@ -338,7 +381,7 @@ class Gofood:
 
             for index, card in enumerate(cards):
 
-                api_review = f'https://gofood.co.id/_next/data/8.10.0/id{card}/reviews.json?id={card.split("/")[-1]}'
+                api_review = f'https://gofood.co.id/_next/data/{self.VERSION}/id{card}/reviews.json?id={card.split("/")[-1]}'
                 
                 try: 
                     self.__url_food_review = api_review.replace('--', '-')
@@ -410,17 +453,12 @@ class Gofood:
         cities = response.json()
         for city in cities["pageProps"]["contents"][0]["data"]: # Mengambil Kota
             self.__city = city
-            response = self.__retry(url=f'https://gofood.co.id/_next/data/8.10.0/id/{self.__city["name"].lower()}/restaurants.json')
+            response = self.__retry(url=f'https://gofood.co.id/_next/data/{self.VERSION}/id/{self.__city["name"].lower()}/restaurants.json')
 
-            # task_executor = []
             for restaurant in response.json()["pageProps"]["contents"][0]["data"]: # Mengambil restaurant dari kota
 
-                # task_executor.append(self.__executor.submit(self.__extract_restaurant, restaurant))
                 self.__extract_restaurant(restaurant)
 
-            # wait(task_executor)
-            # self.__executor.shutdown(wait=True)
             self.__file.write_json('private/invalid.json', self.__char)
 
-            break
         ...
