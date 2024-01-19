@@ -65,6 +65,31 @@ class Gofood:
         }
 
         self.RESPONSE_CODE = [200, 400, 404, 500]
+        
+        self.COOKIES = {
+            'gf_chosen_loc': '%7B%22locality%22%3A%22%22%2C%22name%22%3A%22Manado%22%2C%22serviceArea%22%3A%22manado%22%2C%22serviceAreaId%22%3A%2211%22%2C%22latitude%22%3A1.4748305%2C%22longitude%22%3A124.8420794%2C%22category%22%3A%22%22%2C%22timezone%22%3A%22Asia%2FMakassar%22%2C%22found%22%3Atrue%7D',
+            'csrfSecret': 'ImJs_PjuR61SUk8odfdaE8Ov',
+            'XSRF-TOKEN': 'G86TyjUT-11-lexUylClYjpwMTC2dhRhDTEc.BFyUcyCsgCkzoZZ%2FcAvmwkq6Rd2SDuQ7E6f3BBiaoW0',
+        }
+
+        self.HEADERS = {
+            'authority': 'gofood.co.id',
+            'accept': '*/*',
+            'accept-language': 'en-US,en;q=0.9,id;q=0.8',
+            # 'cookie': 'gf_chosen_loc=%7B%22locality%22%3A%22%22%2C%22name%22%3A%22Manado%22%2C%22serviceArea%22%3A%22manado%22%2C%22serviceAreaId%22%3A%2211%22%2C%22latitude%22%3A1.4748305%2C%22longitude%22%3A124.8420794%2C%22category%22%3A%22%22%2C%22timezone%22%3A%22Asia%2FMakassar%22%2C%22found%22%3Atrue%7D; csrfSecret=ImJs_PjuR61SUk8odfdaE8Ov; XSRF-TOKEN=G86TyjUT-11-lexUylClYjpwMTC2dhRhDTEc.BFyUcyCsgCkzoZZ%2FcAvmwkq6Rd2SDuQ7E6f3BBiaoW0',
+            'newrelic': 'eyJ2IjpbMCwxXSwiZCI6eyJ0eSI6IkJyb3dzZXIiLCJhYyI6IjIwNjcyMzgiLCJhcCI6IjE4MzQ4NzYwOTEiLCJpZCI6Ijk0ZWE3MjIyY2UyMTBmOTUiLCJ0ciI6Ijk5OTA5YTVmYzFmYzcxNTRmN2IwMGUxMjFiNDljODk4IiwidGkiOjE3MDU2NjkyODI4MDgsInRrIjoiMjE5MDI2MiJ9fQ==',
+            'sec-ch-ua': '"Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"',
+            'sec-ch-ua-mobile': '?0',
+            'sec-ch-ua-platform': '"Windows"',
+            'sec-fetch-dest': 'empty',
+            'sec-fetch-mode': 'cors',
+            'sec-fetch-site': 'same-origin',
+            'traceparent': '00-99909a5fc1fc7154f7b00e121b49c898-94ea7222ce210f95-01',
+            'tracestate': '2190262@nr=0-1-2067238-1834876091-94ea7222ce210f95----1705669282808',
+            'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+            'x-nextjs-data': '1',
+        }
+
         ...
 
 
@@ -100,7 +125,7 @@ class Gofood:
                         if response.status_code in self.RESPONSE_CODE: return response
                         if response.status_code == 403:
                             ic(response.text)
-                            self.__sessions.get(url=self.MAIN_URL, headers={"User-Agent": self.__faker.random})
+                            self.__sessions.get(url=self.MAIN_URL, headers=self.HEADERS.update({"user-agent": self.__faker.random}), cookies=self.COOKIES)
 
 
                         sleep(retry_interval)
@@ -141,7 +166,7 @@ class Gofood:
                         if response.status_code in self.RESPONSE_CODE: return response
                         if response.status_code == 403: 
                             ic(response.text)
-                            self.__sessions.get(url=self.MAIN_URL, headers={"User-Agent": self.__faker.random})
+                            self.__sessions.get(url=self.MAIN_URL, headers=self.HEADERS.update({"user-agent": self.__faker.random}), cookies=self.COOKIES)
 
                         logger.warning(f'retry interval: {retry_interval}')
                         logger.warning(f'retry to: {retry}')
@@ -175,7 +200,7 @@ class Gofood:
                         if response.status_code in self.RESPONSE_CODE: return response
                         if response.status_code == 403: 
                             ic(response.text)
-                            self.__sessions.get(url=self.MAIN_URL, headers={"User-Agent": self.__faker.random})
+                            self.__sessions.get(url=self.MAIN_URL, headers=self.HEADERS.update({"user-agent": self.__faker.random}), cookies=self.COOKIES)
 
                         logger.warning(f'retry interval: {retry_interval}')
                         logger.warning(f'retry to: {retry}')
@@ -236,6 +261,8 @@ class Gofood:
         if ' ' in card_path: return "/".join(card_path.split("/")[1].split(" ")[0])
         else: return card_path
 
+
+    ...
     def __get_review(self, raw_json: dict):
         logger.info('extract review from restaurant')
         uid = raw_json["restaurant_id"]
@@ -346,7 +373,6 @@ class Gofood:
         response = self.__retry(url=f'https://gofood.co.id/_next/data/{self.VERSION}/id{restaurant}/near_me.json?service_area={restaurant.split("/")[1]}&locality={restaurant.split("/")[-1]}&category=near_me')
             
         logger.info('fetch card food')
-
 
         latitude = response.json()["pageProps"]["userLocation"]["chosenLocation"]["latitude"]
         longitude = response.json()["pageProps"]["userLocation"]["chosenLocation"]["longitude"]
@@ -485,7 +511,7 @@ class Gofood:
     def __extract_city(self, city) -> None:
         response = self.__retry(url=f'https://gofood.co.id/_next/data/{self.VERSION}/id/{city["name"].lower()}/restaurants.json')
 
-        task_executor = []
+        # task_executor = []
         for restaurant in response.json()["pageProps"]["contents"][0]["data"]: # Mengambil restaurant dari kota
 
             ingredient = {
@@ -493,10 +519,10 @@ class Gofood:
                 "city": city
             }
 
-            # self.__extract_restaurant(restaurant)
-            task_executor.append(self.__executor.submit(self.__extract_restaurant, ingredient))
+            self.__extract_restaurant(ingredient)
+            # task_executor.append(self.__executor.submit(self.__extract_restaurant, ingredient))
 
-        wait(task_executor)
+        # wait(task_executor)
 
 
     def main(self) -> None:
@@ -505,11 +531,11 @@ class Gofood:
 
         cities = response.json()
 
-        ic(cities)
-
         task_city_executor = []
-        # for city in cities["pageProps"]["contents"][0]["data"]: # Mengambil Kota
-        #     task_city_executor.append(self.__city_executor.submit(self.__extract_city, city))
+        for city in cities["pageProps"]["contents"][0]["data"]: # Mengambil Kota
+            self.__extract_city(city)
+
+            # task_city_executor.append(self.__city_executor.submit(self.__extract_city, city))
 
         # wait(task_city_executor)
 
