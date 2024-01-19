@@ -3,6 +3,7 @@ import datetime as date
 import requests
 import json
 
+from zlib import crc32
 from requests import Session
 from time import time, sleep, strftime
 from datetime import datetime, timezone
@@ -74,7 +75,8 @@ class Gofood:
         
         content = {
               "Crawlling_time": strftime('%Y-%m-%d %H:%M:%S'),
-              "id_project": "gofood",
+              "id_project": crc32('gofood'.encode('utf-8')),
+              "id": crc32(source.encode('utf-8')),
               "project":"gofood",
               "source_name": source,
               "total_data": total,
@@ -88,7 +90,27 @@ class Gofood:
             file.write(f'{str(content)}\n')
         ...
 
-    def __logging_err(self) -> None
+    def __logging_err(self,
+                  status: str, 
+                  total: int, 
+                  failed: int, 
+                  success: int,
+                  source: str,
+                  message: str
+                  ) -> None:
+        
+        content =   {
+                "Crawlling_time": strftime('%Y-%m-%d %H:%M:%S'),
+                "id_project": crc32('gofood'.encode('utf-8')),
+                "project":"gofood",
+                "source_name": source,
+                "id": crc32(source.encode('utf-8')),
+                "process_name": "Crawling",
+                "status": "error",
+                "type_error": status,
+                "detail_error": message,
+                "assign": self.PIC
+            }
 
 
 
