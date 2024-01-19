@@ -66,52 +66,6 @@ class Gofood:
         self.RESPONSE_CODE = [200, 400, 404, 500]
         ...
 
-    def __logging_suc(self, 
-                  status: str, 
-                  total: int, 
-                  failed: int, 
-                  success: int,
-                  source: str
-                  ) -> None:
-        
-        content = {
-              "Crawlling_time": strftime('%Y-%m-%d %H:%M:%S'),
-              "id_project": crc32('gofood'.encode('utf-8')),
-              "id": crc32(source.encode('utf-8')),
-              "project":"gofood",
-              "source_name": source,
-              "total_data": total,
-              "total_success": success,
-              "total_failed": failed,
-              "status": status,
-              "assign": self.PIC
-            }
-        
-        with open(self.LOG_PATH_SUC, 'a+', encoding= "utf-8") as file:
-            file.write(f'{str(content)}\n')
-        ...
-
-    def __logging_err(self,
-                  status: str, 
-                  source: str,
-                  message: str
-                  ) -> None:
-        
-        content =   {
-                "Crawlling_time": strftime('%Y-%m-%d %H:%M:%S'),
-                "id_project": crc32('gofood'.encode('utf-8')),
-                "project":"gofood",
-                "source_name": source,
-                "id": crc32(source.encode('utf-8')),
-                "process_name": "Crawling",
-                "status": "error",
-                "type_error": status,
-                "detail_error": message,
-                "assign": self.PIC
-            }
-
-        with open(self.LOG_PATH_ERR, 'a+', encoding= "utf-8") as file:
-            file.write(f'{str(content)}\n')
 
     def __convert_time(self, times: str) -> int:
         dt = date.datetime.fromisoformat(times)
