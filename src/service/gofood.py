@@ -15,7 +15,7 @@ from concurrent.futures import ThreadPoolExecutor
 from concurrent.futures import wait
 
 from src.utils.fileIO import File
-from src.utils.logs import logger
+from src.utils.loggers import logger
 from src.utils.corrector import vname
 from src.utils.corrector import file_name
 
@@ -112,8 +112,6 @@ class Gofood:
 
         with open(self.LOG_PATH_ERR, 'a+', encoding= "utf-8") as file:
             file.write(f'{str(content)}\n')
-
-
 
     def __convert_time(self, times: str) -> int:
         dt = date.datetime.fromisoformat(times)
@@ -310,12 +308,9 @@ class Gofood:
 
                     ...
                     if response.status_code != 200: 
-                        self.__logging(url=raw_json["link"],
-                                       total=len(all_reviews) + int(page.split('=')[-1]),
-                                       success=len(all_reviews),
-                                       failed=int(page.split('=')[-1]),
-                                       name_error=response,
-                                       message=response.text)
+                        self.__logging_err(status=response,
+                                           message=response.text,
+                                           source=raw_json["reviews_name"])
                         break
 
                     ...
@@ -323,21 +318,13 @@ class Gofood:
 
                 else: 
                     logger.warning(f'review finished')
-                    self.__logging(url=raw_json["link"],
-                                   total=len(all_reviews),
-                                   success=len(all_reviews),
-                                   failed=0,
-                                   name_error=None,
-                                   message='success')
+                    self.__logging_suc(status=)
                     break
 
         else:
-            self.__logging(url=raw_json["link"],
-                           total=int(page.split('=')[-1]),
-                           success=len(all_reviews),
-                           failed=int(page.split('=')[-1]),
-                           name_error=response,
-                           message=response.text)
+            self.__logging_err(status=response,
+                                message=response.text,
+                                source=raw_json["reviews_name"])
 
         
         raw_json["total_reviews"] = len(all_reviews)
