@@ -16,6 +16,7 @@ from concurrent.futures import wait
 
 from src.utils.fileIO import File
 from src.utils.loggers import logger
+from src.utils.Logs import Logs
 from src.utils.corrector import vname
 from src.utils.corrector import file_name
 
@@ -262,9 +263,9 @@ class Gofood:
 
                     ...
                     if response.status_code != 200: 
-                        self.__logging_err(status=response,
-                                           message=response.text,
-                                           source=raw_json["reviews_name"])
+                        Logs.error(status=response,
+                                    message=response.text,
+                                    source=raw_json["reviews_name"])
                         break
 
                     ...
@@ -272,13 +273,16 @@ class Gofood:
 
                 else: 
                     logger.warning(f'review finished')
-                    self.__logging_suc(status=)
+                    Logs.succes(status="done",
+                                total=len(all_reviews),
+                                source=raw_json["reviews_name"],
+                                success=len(all_reviews))
                     break
 
         else:
-            self.__logging_err(status=response,
-                                message=response.text,
-                                source=raw_json["reviews_name"])
+            Logs.error(status=response,
+                        message=response.text,
+                        source=raw_json["reviews_name"])
 
         
         raw_json["total_reviews"] = len(all_reviews)
