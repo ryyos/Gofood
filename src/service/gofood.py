@@ -64,27 +64,33 @@ class Gofood:
         self.RESPONSE_CODE = [200, 400, 404, 500]
         ...
 
-    def __logging(self, 
-                  url: str, 
+    def __logging_suc(self, 
+                  status: str, 
                   total: int, 
                   failed: int, 
                   success: int,
-                  name_error: str,
-                  message: str) -> None:
+                  source: str
+                  ) -> None:
         
         content = {
-              "source": url,
+              "Crawlling_time": strftime('%Y-%m-%d %H:%M:%S'),
+              "id_project": "gofood",
+              "project":"gofood",
+              "source_name": source,
               "total_data": total,
-              "total_data_berhasil_diproses": success,
-              "total_data_gagal_diproses": failed,
-              "PIC": self.PIC,
-              "name_error": name_error,
-              "message": message
+              "total_success": success,
+              "total_failed": failed,
+              "status": status,
+              "assign": self.PIC
             }
         
         with open(self.LOG_PATH, 'a+', encoding= "utf-8") as file:
             file.write(f'{str(content)}\n')
         ...
+
+    def __logging_err(self) -> None
+
+
 
     def __convert_time(self, times: str) -> int:
         dt = date.datetime.fromisoformat(times)
