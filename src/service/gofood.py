@@ -261,10 +261,13 @@ class Gofood:
                 if page:
                     response = self.__retry(url=f'{self.API_REVIEW_PAGE}{uid}/reviews{page}', action='review')
 
-                    ...
+                    ... # Jika gagal request ke  review page selanjutnya
                     if response.status_code != 200: 
                         Logs.error(status=response,
                                     message=response.text,
+                                    total=len(all_reviews) + int(page.split('=')[-1]),
+                                    success=len(all_reviews),
+                                    failed=int(page.split('=')[-1]),
                                     source=raw_json["reviews_name"])
                         break
 
@@ -272,16 +275,22 @@ class Gofood:
                     page_review+=1
 
                 else: 
+                    ... # Jika berhasil mengambil semua review
                     logger.warning(f'review finished')
                     Logs.succes(status="done",
                                 total=len(all_reviews),
                                 source=raw_json["reviews_name"],
-                                success=len(all_reviews))
+                                success=len(all_reviews),
+                                failed=0)
                     break
 
         else:
+            ... # Jika gagal request di review pertama
             Logs.error(status=response,
                         message=response.text,
+                        total=len(all_reviews) + int(page.split('=')[-1]),
+                        success=len(all_reviews),
+                        failed=int(page.split('=')[-1]),
                         source=raw_json["reviews_name"])
 
         
