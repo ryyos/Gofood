@@ -35,7 +35,8 @@ class Gofood:
         self.DOMAIN = 'gofood.co.id'
         self.MAIN_URL = 'https://gofood.co.id'
         self.MAIN_PATH = 'data'
-        self.LOG_PATH = 'logs/logs.txt'
+        self.LOG_PATH_SUC = 'logs/results.txt'
+        self.LOG_PATH_ERR = 'logs/detail.txt'
         self.PIC = 'Rio Dwi Saputra'
 
         self.API_CITY = f'https://gofood.co.id/_next/data/{self.VERSION}/id/cities.json' # 89
@@ -86,15 +87,12 @@ class Gofood:
               "assign": self.PIC
             }
         
-        with open(self.LOG_PATH, 'a+', encoding= "utf-8") as file:
+        with open(self.LOG_PATH_SUC, 'a+', encoding= "utf-8") as file:
             file.write(f'{str(content)}\n')
         ...
 
     def __logging_err(self,
                   status: str, 
-                  total: int, 
-                  failed: int, 
-                  success: int,
                   source: str,
                   message: str
                   ) -> None:
@@ -111,6 +109,9 @@ class Gofood:
                 "detail_error": message,
                 "assign": self.PIC
             }
+
+        with open(self.LOG_PATH_ERR, 'a+', encoding= "utf-8") as file:
+            file.write(f'{str(content)}\n')
 
 
 
