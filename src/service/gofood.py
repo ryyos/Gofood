@@ -412,23 +412,31 @@ class Gofood:
         ...
 
     def __extract_restaurant(self, ingredient: dict):
-            cards = self.__fetch_card_restaurant(city=ingredient["city"]["name"].lower(), restaurant=ingredient["restaurant"]["path"]) # Mengambil card makanan dari restaurant
+            cards = self.__fetch_card_restaurant(restaurant=ingredient["restaurant"]["path"]) # Mengambil card restaurant dari area
 
             for index, card in enumerate(cards):
                 ic(card)
 
-                api_review = f'https://gofood.co.id/_next/data/{self.VERSION}/id{self.__convert_card(card)}/reviews.json?id={card.split("/")[-1]}'
+
+                """ api_review
+
+                Param:
+                    card | /ketapang/restaurant/pempek-bang-awie-wenang-a906c98d-2d31-48bc-8408-82dc1350cdca
+                
+                """
+                api_review = f'https://gofood.co.id/_next/data/{self.VERSION}/id{card}/reviews.json?id={card.split("/")[-1]}'
                 
                 try: 
-                    # self.__url_food_review = api_review.replace('--', '-')
                     
-                    food_review = self.__retry(api_review.replace('--', '-').replace('--', '-'))
+                    food_review = self.__retry(api_review)
                     logger.info(card)
 
+                    # Jika di redirect maka ambil destination dan request ke path yang di berikan
                     if food_review.json()["pageProps"].get("__N_REDIRECT", None):
                         ic('masuk redirect')
                         ic(food_review.json()["pageProps"]["__N_REDIRECT"])
                         food_review = self.__retry(f'https://gofood.co.id/_next/data/{self.VERSION}/id{food_review.json()["pageProps"]["__N_REDIRECT"]}/reviews.json?id={card.split("/")[-1]}')
+
 
                     header_required = {
                         "link": self.MAIN_URL+food_review.json()["pageProps"].get("outletUrl"),

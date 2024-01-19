@@ -6,7 +6,7 @@ def vname(name: str) -> str:
 
   valid = ''.join(char if char in alphabet else '-' for char in name)
 
-  return valid.lower().replace(" ", "-").replace("--", "-").replace("---", "-")
+  return valid.lower().replace(" ", "-").replace("--", "-").replace("---", "-").replace("--", "-")
 
 def file_name(name: str) -> str:
     invalid_chars = [')','(','/', '\\', ':', '*', '?', '"', '-', '<', '>', '|', '+', '=', '&', '%', '@', '#', '$', '^', '[', ']', '{', '}', '`', '~', '<', '>', '#', '%', '{', '}', '|', '\\', '^', '~', '[', ']', '`', ';', '/', '?', ':', '@', '=', '&', "'", ",", "."]
