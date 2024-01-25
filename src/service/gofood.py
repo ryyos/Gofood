@@ -30,6 +30,9 @@ class Gofood:
 
         self.__char: str = []
 
+        self.__datas: List[dict] = []
+        self.__monitorings: List[dict] = []
+
         self.VERSION = '8.10.2'
 
         self.DOMAIN = 'gofood.co.id'
@@ -228,9 +231,9 @@ class Gofood:
         ...
 
     def __create_dir(self, raw_data: dict) -> str:
-        try: os.makedirs(f'{self.MAIN_PATH}/data_raw/data_review_gofood/{raw_data["location_review"]}/{raw_data["location_restaurant"]["area"]}/{file_name(raw_data["reviews_name"].lower())}/json')
+        try: os.makedirs(f'{self.MAIN_PATH}/data_raw/gofood/{raw_data["location_review"]}/{raw_data["location_restaurant"]["area"]}/{file_name(raw_data["reviews_name"].lower())}/json')
         except Exception: ...
-        finally: return f'{self.MAIN_PATH}/data_raw/data_review_gofood/{raw_data["location_review"]}/{raw_data["location_restaurant"]["area"]}/{file_name(raw_data["reviews_name"].lower())}/json'
+        finally: return f'{self.MAIN_PATH}/data_raw/gofood/{raw_data["location_review"]}/{raw_data["location_restaurant"]["area"]}/{file_name(raw_data["reviews_name"].lower())}/json'
         ...
 
     def __buld_payload(self, page: str, latitude: float, longitude: float) -> dict:
@@ -263,9 +266,72 @@ class Gofood:
         ic(card_path)
         if ' ' in card_path: return "/".join(card_path.split("/")[1].split(" ")[0])
         else: return card_path
+        ...
+    
+    def __logging(self,
+                total: int, 
+                failed: int, 
+                success: int,
+                uid: str,
+                sub_source: str,
+                id_data: int,
+                status_runtime: str,
+                status_conditions: str,
+                type_error: str,
+                message: str):
 
+        uid_found = False
+        MONITORING_DATA = 'logs/monitoring_gofood.json'
+        MONITORING_LOG = 'logs/monitoring_logs.json'
 
-    ...
+        content = {
+            "Crawlling_time": strftime('%Y-%m-%d %H:%M:%S'),
+            "id_project": None,
+            "project": "Data Intelligence",
+            "sub_project": "data review",
+            "source_name": "gofood.co.id",
+            "sub_source_name": sub_source,
+            "id_sub_source": uid,
+            "total_data": total,
+            "total_success": success,
+            "total_failed": failed,
+            "status": status_conditions,
+            "assign": "Rio"
+        }
+
+        monitoring = {
+            "Crawlling_time": strftime('%Y-%m-%d %H:%M:%S'),
+            "id_project": None,
+            "project": "Data Intelligence",
+            "sub_project": "data review",
+            "source_name": "gofood.co.id",
+            "sub_source_name": sub_source,
+            "id_sub_source": uid,
+            "id_data": id_data,
+            "process_name": "Crawling",
+            "status": status_runtime,
+            "type_error": type_error,
+            "message": message,
+            "assign": "Rio"
+        }
+
+        for index, data in enumerate(self.__datas):
+            if uid in data["id_sub_source"]:
+                self.__datas[index]["total_data"] = total
+                self.__datas[index]["total_success"] = success
+                self.__datas[index]["total_failed"] = failed
+                self.__datas[index]["status"] = status_conditions
+                uid_found = True
+                break
+
+        if not uid_found:
+            self.__datas.append(content)
+
+        self.__monitorings.append(monitoring)
+        Logs.write(MONITORING_DATA, self.__datas)
+        Logs.write(MONITORING_LOG, self.__monitorings)
+        ...
+
     def __get_review(self, raw_json: dict):
         logger.info('extract review from restaurant')
         uid = raw_json["restaurant_id"]
@@ -276,8 +342,9 @@ class Gofood:
 
         ...
         all_reviews = []
+        total_error = 0
         if response.status_code == 200:
-            page_review = 0
+            page_review = 1
             while True:
 
                 reviews = response.json()["data"]
@@ -289,47 +356,29 @@ class Gofood:
 
                 page = response.json().get("next_page", None)
                 if page:
+                    ic(page)
                     response = self.__retry(url=f'{self.API_REVIEW_PAGE}{uid}/reviews{page}', action='review')
 
                     ... # Jika gagal request ke  review page selanjutnya
                     if response.status_code != 200: 
-                        Logs.error(status=response,
-                                    message=response.text,
-                                    uid=uid,
-                                    total=len(all_reviews) + int(page.split('=')[-1]),
-                                    success=len(all_reviews),
-                                    failed=int(page.split('=')[-1]),
-                                    source=self.DOMAIN)
+                        total_error+=1
                         break
 
                     ...
                     page_review+=1
 
-                else: 
-                    ... # Jika berhasil mengambil semua review
-                    logger.warning(f'review finished')
-                    Logs.succes(status="done",
-                                uid=uid,
-                                total=len(all_reviews),
-                                source=self.DOMAIN,
-                                success=len(all_reviews),
-                                failed=0)
+                else:
                     break
+
 
         else:
             ... # Jika gagal request di review pertama
-            Logs.error(status=response,
-                        message=response.text,
-                        uid=uid,
-                        total=len(all_reviews) + int(page.split('=')[-1]),
-                        success=len(all_reviews),
-                        failed=int(page.split('=')[-1]),
-                        source=self.DOMAIN)
+            total_error+=1
 
         
         raw_json["total_reviews"] = len(all_reviews)
         
-        for comment in tqdm(all_reviews, ascii=True, smoothing=0.1, total=len(all_reviews)):
+        for index, comment in tqdm(enumerate(all_reviews), ascii=True, smoothing=0.1, total=len(all_reviews)):
             detail_reviews = {
                 "username_id": comment["id"],
                 "username_reviews": comment["author"]["fullName"],
@@ -368,10 +417,40 @@ class Gofood:
                 "detail_reviews": detail_reviews,
                 "path_data_raw": f'{path_data}/{detail_reviews["username_id"]}.json',
                 "path_data_clean": f'{self.__convert_path(path_data)}/{detail_reviews["username_id"]}.json'
-            })                
+            })
+
+
+            self.__logging(total=len(all_reviews),
+                         status_conditions='on progres',
+                         uid=uid,
+                         id_data=comment["id"],
+                         sub_source=raw_json["reviews_name"],
+                         success=index+1,
+                         failed=0,
+                         status_runtime='success',
+                         message=None,
+                         type_error=None)
 
             self.__file.write_json(path=f'{path_data}/{detail_reviews["username_id"]}.json',
-                                    content=raw_json)   
+                                    content=raw_json)
+
+        if total_error:    
+            message='access to the requested resource is forbidden'
+            type_error='forbiden'
+        else:
+            message = None
+            type_error = None
+
+        self.__logging(total=len(all_reviews),
+                        status_conditions='done',
+                        uid=uid,
+                        id_data=None,
+                        sub_source=raw_json["reviews_name"],
+                        success=len(all_reviews),
+                        failed=total_error,
+                        status_runtime='error',
+                        message=message,
+                        type_error=type_error)
         ...
 
     def __fetch_card_restaurant(self, restaurant: str) -> List[str]:
@@ -533,8 +612,6 @@ class Gofood:
                 "restaurant": restaurant,
                 "city": city
             }
-
-            
 
             # self.__extract_restaurant(ingredient)
             task_executor.append(self.__executor.submit(self.__extract_restaurant, ingredient))
